@@ -7,9 +7,28 @@
 * Garrioch, Clarke
 * Martchenko, Katie
 
+## Setup and Run
+
+This project requires [Python](https://www.python.org/downloads/) to run.
+
+```
+# Installation:
+$ pip install jupyterlab
+$ pip install pandas
+
+# Run:
+$ jupyter notebook
+```
+
+
 ## Links
 
-### Potential Data Source
+### Language Data Sources
+
+* [Evolution of language populations in Canada](https://www150.statcan.gc.ca/n1/pub/11-630-x/11-630-x2018001-eng.htm)
+* [Census Datasets](https://www12.statcan.gc.ca/datasets/index-eng.cfm?Temporal=2016)
+
+### Other Potential Data Sources
 
 * [Twitter data analytics](https://login.uml.idm.oclc.org/login?qurl=http%3a%2f%2fdx.doi.org%2f10.1007%2f978-1-4614-9372-3)
 * [Winnipeg - open data portal](https://data.winnipeg.ca/)
