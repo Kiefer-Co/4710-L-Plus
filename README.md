@@ -22,6 +22,9 @@ $ jupyter notebook
 
 
 ## Links
+### Interpreting Canada Census Datasets
+
+* [Geocodes for Provinces, Territories in Canada Census](https://en.wikipedia.org/wiki/Standard_Geographical_Classification_code_(Canada))
 
 ### Language Data Sources
 
