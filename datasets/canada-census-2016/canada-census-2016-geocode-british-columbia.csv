@@ -1,0 +1,808 @@
+,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+41834880,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Total - Mother tongue,1,1.0,4598410,4127770,1810,314925,153910
+41834881,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Single responses,2,,4494995,4040640,1675,299390,153295
+41834882,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Official languages,3,,3227530,2972700,1090,252205,1535
+41834883,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,English,4,,3170110,2966835,110,201640,1520
+41834884,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,French,5,,57420,5865,980,50565,15
+41834885,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Non-official languages,6,,1267460,1067935,585,47180,151760
+41834886,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Aboriginal languages,7,,8435,8270,0,130,35
+41834887,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Algonquian languages,8,,1045,990,0,45,10
+41834888,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Blackfoot,9,,35,35,0,5,0
+41834889,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Cree-Montagnais languages,10,,835,800,0,40,5
+41834890,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Atikamekw,11,,0,0,0,0,0
+41834891,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Montagnais (Innu),12,,0,0,0,0,0
+41834892,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Moose Cree,13,,5,5,0,0,0
+41834893,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Naskapi,14,,0,0,0,0,0
+41834894,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Northern East Cree,15,,10,10,0,5,0
+41834895,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Plains Cree,16,,150,140,0,5,0
+41834896,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Southern East Cree,17,,0,0,0,0,0
+41834897,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Swampy Cree,18,,25,25,0,5,0
+41834898,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Woods Cree,19,,60,50,0,5,0
+41834899,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Cree, n.o.s.",20,,585,560,0,25,0
+41834900,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Eastern Algonquian languages,21,,15,10,0,0,0
+41834901,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Malecite,22,,0,0,0,0,0
+41834902,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Mi'kmaq,23,,10,10,0,0,0
+41834903,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Ojibway-Potawatomi languages,24,,155,145,0,5,5
+41834904,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Algonquin,25,,5,5,0,5,0
+41834905,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Ojibway,26,,140,130,0,5,5
+41834906,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Oji-Cree,27,,10,10,0,0,0
+41834907,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Ottawa (Odawa),28,,0,0,0,0,0
+41834908,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
+41834909,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Athabaskan languages,30,,2305,2270,0,15,15
+41834910,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Northern Athabaskan languages,31,,2295,2260,0,20,15
+41834911,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Babine (Wetsuwet'en),32,,110,110,0,0,0
+41834912,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Beaver,33,,160,160,0,0,0
+41834913,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Carrier,34,,1010,995,0,10,0
+41834914,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Chilcotin,35,,650,635,0,5,10
+41834915,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Dene,36,,85,85,0,0,0
+41834916,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Dogrib (Tlicho),37,,5,5,0,0,0
+41834917,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Gwich'in,38,,15,10,0,0,0
+41834918,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Sarsi (Sarcee),39,,0,5,0,0,0
+41834919,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Sekani,40,,85,85,0,0,0
+41834920,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Slavey-Hare languages,41,,75,75,0,5,0
+41834921,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,North Slavey (Hare),42,,5,5,0,0,0
+41834922,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,South Slavey,43,,20,20,0,0,0
+41834923,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Slavey, n.o.s.",44,,50,50,0,0,0
+41834924,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tahltan languages,45,,105,100,0,0,0
+41834925,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Kaska (Nahani),46,,15,10,0,0,0
+41834926,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tahltan,47,,90,90,0,0,0
+41834927,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tutchone languages,48,,5,5,0,0,0
+41834928,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Northern Tutchone,49,,0,0,0,0,0
+41834929,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Southern Tutchone,50,,5,0,0,0,0
+41834930,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,10,10,0,0,0
+41834931,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Haida,52,,70,70,0,0,0
+41834932,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Inuit languages,53,,80,80,0,0,0
+41834933,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,10,10,0,0,0
+41834934,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Inuktitut,55,,50,45,0,0,0
+41834935,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Inuit languages, n.i.e.",56,,20,20,0,0,0
+41834936,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Iroquoian languages,57,,10,10,0,0,0
+41834937,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Cayuga,58,,0,5,0,0,0
+41834938,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Mohawk,59,,10,10,0,0,0
+41834939,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Oneida,60,,0,0,0,0,0
+41834940,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,0,5,0,0,0
+41834941,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Kutenai,62,,105,100,0,0,0
+41834942,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Michif,63,,30,25,0,10,0
+41834943,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Salish languages,64,,2270,2240,0,20,0
+41834944,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Comox,65,,85,80,0,0,0
+41834945,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Halkomelem,66,,475,465,0,5,0
+41834946,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Lillooet,67,,315,310,0,5,0
+41834947,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Okanagan,68,,265,260,0,5,0
+41834948,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Shuswap (Secwepemctsin),69,,435,430,0,5,0
+41834949,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Squamish,70,,35,35,0,5,0
+41834950,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Straits,71,,80,80,0,0,0
+41834951,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Thompson (Ntlakapamux),72,,330,325,0,5,0
+41834952,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Salish languages, n.i.e.",73,,250,250,0,0,0
+41834953,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Siouan languages,74,,45,45,0,0,0
+41834954,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Dakota,75,,30,30,0,0,0
+41834955,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Stoney,76,,5,5,0,0,0
+41834956,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Siouan languages, n.i.e.",77,,5,5,0,0,0
+41834957,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tlingit,78,,30,30,0,0,0
+41834958,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tsimshian languages,79,,1455,1445,0,10,0
+41834959,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Gitxsan (Gitksan),80,,880,870,0,10,0
+41834960,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Nisga'a,81,,385,380,0,5,0
+41834961,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tsimshian,82,,195,195,0,5,0
+41834962,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Wakashan languages,83,,795,785,0,15,0
+41834963,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Haisla,84,,90,90,0,0,0
+41834964,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Heiltsuk,85,,95,95,0,5,0
+41834965,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,320,315,0,5,0
+41834966,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,275,270,0,5,0
+41834967,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,5,10,0,0,0
+41834968,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,190,180,0,5,0
+41834969,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Non-Aboriginal languages,90,,1259025,1059665,585,47050,151725
+41834970,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Afro-Asiatic languages,91,,24875,19000,55,2395,3430
+41834971,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Berber languages,92,,115,20,5,80,15
+41834972,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Kabyle,93,,45,10,5,25,5
+41834973,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Berber languages, n.i.e.",94,,75,15,5,55,5
+41834974,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Cushitic languages,95,,1505,1310,5,35,160
+41834975,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Bilen,96,,5,0,0,0,0
+41834976,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Oromo,97,,205,195,0,0,5
+41834977,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Somali,98,,1275,1100,5,30,140
+41834978,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,20,10,0,5,0
+41834979,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Semitic languages,100,,23190,17615,45,2275,3255
+41834980,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Amharic,101,,1365,1270,5,40,55
+41834981,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Arabic,102,,17480,12680,40,2010,2755
+41834982,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Assyrian Neo-Aramaic,103,,645,485,0,10,150
+41834983,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Chaldean Neo-Aramaic,104,,440,280,0,5,155
+41834984,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Harari,105,,20,20,0,5,0
+41834985,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Hebrew,106,,2065,1855,0,180,35
+41834986,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Maltese,107,,215,205,0,10,0
+41834987,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tigrigna,108,,805,705,0,25,75
+41834988,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Semitic languages, n.i.e.",109,,150,120,0,5,30
+41834989,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,55,45,0,5,0
+41834990,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Austro-Asiatic languages,111,,28745,23545,30,815,4350
+41834991,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Khmer (Cambodian),112,,1560,1275,5,70,205
+41834992,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Vietnamese,113,,27150,22240,30,745,4140
+41834993,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,35,30,0,0,5
+41834994,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Austronesian languages,115,,96540,94675,20,935,900
+41834995,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Bikol,116,,375,365,0,0,5
+41834996,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Cebuano,117,,4065,3995,0,45,30
+41834997,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Fijian,118,,470,455,0,0,10
+41834998,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Hiligaynon,119,,1465,1440,0,15,5
+41834999,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Ilocano,120,,5240,5120,5,30,85
+41835000,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Malagasy,121,,25,5,0,20,0
+41835001,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Malay,122,,3900,3715,0,95,85
+41835002,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,700,690,0,5,10
+41835003,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Pangasinan,124,,295,290,0,5,0
+41835004,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,78770,77430,15,715,615
+41835005,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Waray-Waray,126,,215,210,0,0,5
+41835006,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,1015,955,0,10,55
+41835007,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Creole languages,128,,840,355,10,465,15
+41835008,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Haitian Creole,129,,35,20,0,20,0
+41835009,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Creole, n.o.s.",130,,500,105,10,375,10
+41835010,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Creole languages, n.i.e.",131,,305,230,0,70,0
+41835011,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Dravidian languages,132,,7500,7040,0,175,280
+41835012,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Kannada,133,,280,265,0,15,0
+41835013,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Malayalam,134,,2390,2280,0,35,70
+41835014,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tamil,135,,3615,3325,0,105,180
+41835015,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Telugu,136,,1170,1125,0,20,30
+41835016,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,45,45,0,0,0
+41835017,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Hmong-Mien languages,138,,140,120,0,0,20
+41835018,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Indo-European languages,139,,588170,508650,305,31015,48200
+41835019,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Albanian,140,,1465,1330,0,50,85
+41835020,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Armenian,141,,1200,900,5,230,65
+41835021,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Balto-Slavic languages,142,,83110,75205,35,5220,2660
+41835022,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Baltic languages,143,,1065,945,0,120,5
+41835023,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Latvian,144,,565,500,0,65,0
+41835024,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Lithuanian,145,,505,445,0,55,0
+41835025,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Slavic languages,146,,82040,74260,30,5100,2650
+41835026,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Belarusan,147,,95,75,0,10,5
+41835027,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Bosnian,148,,1360,1255,5,65,45
+41835028,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Bulgarian,149,,2020,1665,5,285,65
+41835029,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Croatian,150,,7475,7060,0,300,120
+41835030,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Czech,151,,5920,5485,0,375,55
+41835031,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Macedonian,152,,325,290,0,25,10
+41835032,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Polish,153,,16910,15400,5,1170,330
+41835033,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Russian,154,,25955,22840,10,1595,1510
+41835034,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Serbian,155,,7045,6260,0,520,265
+41835035,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Serbo-Croatian,156,,1395,1255,0,105,35
+41835036,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Slovak,157,,3395,3170,0,190,40
+41835037,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Slovene (Slovenian),158,,1160,1090,0,65,5
+41835038,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Ukrainian,159,,8635,8090,0,380,170
+41835039,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Slavic languages, n.i.e.",160,,340,325,0,15,0
+41835040,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Celtic languages,161,,615,540,0,75,5
+41835041,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Scottish Gaelic,162,,240,205,0,30,5
+41835042,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Welsh,163,,280,250,0,30,0
+41835043,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Celtic languages, n.i.e.",164,,90,80,0,15,0
+41835044,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Germanic languages,165,,101730,93405,20,7745,560
+41835045,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Afrikaans,166,,3260,3095,5,140,25
+41835046,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Danish,167,,4665,4445,0,210,5
+41835047,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Dutch,168,,21025,19145,0,1835,40
+41835048,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Frisian,169,,290,275,0,15,0
+41835049,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,German,170,,66885,61460,10,4955,460
+41835050,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Icelandic,171,,280,265,0,10,5
+41835051,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Norwegian,172,,2005,1910,0,95,5
+41835052,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Swedish,173,,2520,2320,0,185,10
+41835053,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Vlaams (Flemish),174,,445,240,5,200,0
+41835054,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Yiddish,175,,285,210,0,70,5
+41835055,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Germanic languages, n.i.e.",176,,65,30,0,30,0
+41835056,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Greek,177,,6115,5495,5,455,160
+41835057,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Indo-Iranian languages,178,,297800,249510,110,7195,40985
+41835058,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Indo-Aryan languages,179,,251000,208505,80,4620,37790
+41835059,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Bengali,180,,3180,2935,0,125,120
+41835060,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Gujarati,181,,6895,6360,0,220,310
+41835061,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Hindi,182,,26720,25065,5,520,1130
+41835062,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Kashmiri,183,,65,60,0,0,0
+41835063,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Konkani,184,,255,240,0,10,0
+41835064,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Marathi,185,,620,595,0,20,5
+41835065,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Nepali,186,,1155,1060,0,30,70
+41835066,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Oriya (Odia),187,,70,65,0,0,0
+41835067,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Punjabi (Panjabi),188,,198810,159820,70,3305,35610
+41835068,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Sindhi,189,,1680,1545,0,95,35
+41835069,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Sinhala (Sinhalese),190,,1675,1590,0,50,35
+41835070,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Urdu,191,,9880,9180,0,235,465
+41835071,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Iranian languages,192,,46390,40635,30,2565,3160
+41835072,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Kurdish,193,,1770,1545,0,30,185
+41835073,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Pashto,194,,1150,1015,0,20,110
+41835074,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Persian (Farsi),195,,43470,38075,25,2510,2860
+41835075,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,410,365,0,10,35
+41835076,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Italic (Romance) languages,197,,96135,82270,140,10040,3690
+41835077,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Catalan,198,,160,110,0,50,5
+41835078,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Italian,199,,22675,20015,15,2110,540
+41835079,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Portuguese,200,,17450,15490,15,1250,695
+41835080,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Romanian,201,,8730,6530,25,1840,335
+41835081,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Spanish,202,,47015,40035,90,4770,2110
+41835082,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,105,85,0,20,0
+41835083,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Japanese,204,,21350,19505,5,590,1250
+41835084,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Kartvelian languages,205,,85,80,0,5,5
+41835085,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Georgian,206,,85,80,0,5,5
+41835086,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Korean,207,,52155,44700,15,1255,6195
+41835087,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Mongolic languages,208,,360,315,0,10,35
+41835088,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Mongolian,209,,360,315,0,10,35
+41835089,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Niger-Congo languages,210,,3725,2985,30,615,95
+41835090,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Akan (Twi),211,,495,465,0,30,0
+41835091,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Bamanankan,212,,15,5,0,5,0
+41835092,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Edo,213,,85,80,0,5,0
+41835093,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Ewe,214,,85,55,0,30,5
+41835094,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,45,15,0,30,0
+41835095,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Ga,216,,45,35,0,0,0
+41835096,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Ganda,217,,90,80,0,5,0
+41835097,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Igbo,218,,245,240,0,5,5
+41835098,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Lingala,219,,75,20,0,45,5
+41835099,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Rundi (Kirundi),220,,115,20,5,70,15
+41835100,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Kinyarwanda (Rwanda),221,,150,75,5,70,10
+41835101,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Shona,222,,215,200,0,10,5
+41835102,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Swahili,223,,805,640,10,140,15
+41835103,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Wolof,224,,50,15,0,40,5
+41835104,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Yoruba,225,,330,315,0,10,5
+41835105,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,890,740,5,115,25
+41835106,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Nilo-Saharan languages,227,,345,325,0,10,15
+41835107,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Dinka,228,,105,95,0,5,5
+41835108,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,240,225,0,10,10
+41835109,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Sign languages,230,,1155,625,0,35,500
+41835110,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,American Sign Language,231,,470,325,0,15,130
+41835111,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Quebec Sign Language,232,,5,0,0,0,0
+41835112,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Sign languages, n.i.e",233,,685,295,0,10,380
+41835113,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Sino-Tibetan languages,234,,410915,317550,90,7460,85815
+41835114,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Chinese languages,235,,408415,315470,90,7435,85425
+41835115,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Cantonese,236,,193530,146645,30,3085,43775
+41835116,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Hakka,237,,2320,1865,5,75,375
+41835117,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Mandarin,238,,186325,146250,50,3845,36180
+41835118,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Min Dong,239,,230,175,0,5,50
+41835119,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,11210,9030,5,160,2015
+41835120,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Wu (Shanghainese),241,,4540,3185,0,90,1265
+41835121,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Chinese, n.o.s.",242,,10050,8160,5,165,1715
+41835122,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Chinese languages, n.i.e.",243,,205,160,0,5,45
+41835123,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tibeto-Burman languages,244,,2500,2080,0,30,390
+41835124,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Burmese,245,,1120,1015,0,20,90
+41835125,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Karenic languages,246,,820,585,0,5,230
+41835126,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tibetan,247,,330,295,0,5,35
+41835127,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,230,195,0,5,35
+41835128,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Tai-Kadai languages,249,,3985,3715,0,110,160
+41835129,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Lao,250,,1100,970,0,55,75
+41835130,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Thai,251,,2865,2730,0,60,80
+41835131,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,25,15,0,0,5
+41835132,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Turkic languages,253,,4140,3590,0,285,260
+41835133,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Azerbaijani,254,,530,450,0,30,50
+41835134,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Turkish,255,,3145,2735,0,235,180
+41835135,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Uyghur,256,,165,140,0,5,20
+41835136,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Uzbek,257,,105,95,0,5,5
+41835137,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Turkic languages, n.i.e.",258,,190,170,0,15,10
+41835138,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Uralic languages,259,,13490,12470,5,845,170
+41835139,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Estonian,260,,705,615,0,80,5
+41835140,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Finnish,261,,3760,3565,0,170,20
+41835141,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Hungarian,262,,9025,8280,5,590,150
+41835142,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
+41835143,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"Other languages, n.i.e.",264,,500,430,0,35,35
+41835144,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,Multiple responses,265,,103420,87135,135,15540,615
+41835145,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,English and French,266,,10065,2380,25,7650,0
+41835146,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,English and non-official language,267,,89135,83790,35,4730,580
+41835147,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,French and non-official language,268,,2105,505,70,1505,25
+41835148,2016,59,1,British Columbia,4.9,20000, ,59,Total - Sex,1,,"English, French and non-official language",269,,2115,450,5,1645,10
+41835149,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Total - Mother tongue,1,1.0,2255400,2050130,825,140650,63790
+41835150,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Single responses,2,,2205775,2007960,760,133585,63475
+41835151,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Official languages,3,,1614370,1500375,510,112740,755
+41835152,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,English,4,,1585755,1497620,60,87330,745
+41835153,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,French,5,,28615,2755,445,25410,5
+41835154,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Non-official languages,6,,591400,507585,250,20845,62720
+41835155,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Aboriginal languages,7,,3945,3865,0,65,10
+41835156,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Algonquian languages,8,,445,415,0,25,5
+41835157,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Blackfoot,9,,10,10,0,0,0
+41835158,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Cree-Montagnais languages,10,,375,350,0,20,0
+41835159,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Atikamekw,11,,0,0,0,0,0
+41835160,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Montagnais (Innu),12,,0,0,0,0,0
+41835161,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Moose Cree,13,,0,0,0,0,0
+41835162,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Naskapi,14,,0,0,0,0,0
+41835163,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Northern East Cree,15,,5,0,0,0,0
+41835164,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Plains Cree,16,,60,60,0,5,0
+41835165,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Southern East Cree,17,,0,0,0,0,0
+41835166,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Swampy Cree,18,,15,15,0,0,0
+41835167,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Woods Cree,19,,25,25,0,0,0
+41835168,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Cree, n.o.s.",20,,270,255,0,15,5
+41835169,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Eastern Algonquian languages,21,,10,5,0,0,0
+41835170,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Malecite,22,,0,5,0,0,0
+41835171,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Mi'kmaq,23,,5,5,0,0,0
+41835172,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Ojibway-Potawatomi languages,24,,55,50,0,5,5
+41835173,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Algonquin,25,,5,5,0,5,0
+41835174,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Ojibway,26,,50,45,0,0,0
+41835175,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Oji-Cree,27,,0,0,0,0,0
+41835176,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Ottawa (Odawa),28,,0,0,0,0,0
+41835177,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
+41835178,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Athabaskan languages,30,,1045,1030,0,10,5
+41835179,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Northern Athabaskan languages,31,,1040,1030,0,5,0
+41835180,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Babine (Wetsuwet'en),32,,50,55,0,0,0
+41835181,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Beaver,33,,75,75,0,0,0
+41835182,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Carrier,34,,460,455,0,5,0
+41835183,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Chilcotin,35,,295,295,0,0,0
+41835184,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Dene,36,,30,30,0,5,0
+41835185,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Dogrib (Tlicho),37,,0,5,0,0,0
+41835186,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Gwich'in,38,,5,5,0,0,0
+41835187,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Sarsi (Sarcee),39,,0,0,0,0,0
+41835188,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Sekani,40,,40,40,0,0,0
+41835189,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Slavey-Hare languages,41,,30,30,0,0,0
+41835190,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,North Slavey (Hare),42,,0,0,0,0,0
+41835191,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,South Slavey,43,,5,5,0,0,0
+41835192,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Slavey, n.o.s.",44,,25,20,0,0,0
+41835193,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tahltan languages,45,,50,45,0,0,0
+41835194,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Kaska (Nahani),46,,5,10,0,0,0
+41835195,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tahltan,47,,40,40,0,0,0
+41835196,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tutchone languages,48,,0,0,0,0,0
+41835197,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Northern Tutchone,49,,5,0,0,0,0
+41835198,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Southern Tutchone,50,,0,0,0,0,0
+41835199,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
+41835200,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Haida,52,,30,30,0,0,0
+41835201,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Inuit languages,53,,25,30,0,0,0
+41835202,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
+41835203,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Inuktitut,55,,20,20,0,0,0
+41835204,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Inuit languages, n.i.e.",56,,5,10,0,0,0
+41835205,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Iroquoian languages,57,,10,5,0,0,0
+41835206,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Cayuga,58,,0,0,0,0,0
+41835207,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Mohawk,59,,5,0,0,0,0
+41835208,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Oneida,60,,0,0,0,0,0
+41835209,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
+41835210,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Kutenai,62,,55,50,0,0,0
+41835211,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Michif,63,,20,15,0,5,0
+41835212,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Salish languages,64,,1115,1095,0,15,0
+41835213,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Comox,65,,45,45,0,0,0
+41835214,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Halkomelem,66,,230,230,0,5,0
+41835215,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Lillooet,67,,155,150,0,5,0
+41835216,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Okanagan,68,,130,130,0,0,0
+41835217,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Shuswap (Secwepemctsin),69,,220,215,0,5,0
+41835218,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Squamish,70,,20,20,0,0,0
+41835219,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Straits,71,,40,40,0,0,0
+41835220,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Thompson (Ntlakapamux),72,,150,145,0,5,0
+41835221,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Salish languages, n.i.e.",73,,130,130,0,0,0
+41835222,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Siouan languages,74,,20,25,0,0,0
+41835223,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Dakota,75,,15,15,0,0,0
+41835224,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Stoney,76,,0,5,0,0,0
+41835225,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Siouan languages, n.i.e.",77,,5,5,0,0,0
+41835226,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tlingit,78,,15,15,0,0,0
+41835227,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tsimshian languages,79,,715,710,0,0,0
+41835228,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Gitxsan (Gitksan),80,,435,435,0,5,0
+41835229,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Nisga'a,81,,190,195,0,0,0
+41835230,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tsimshian,82,,85,90,0,0,0
+41835231,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Wakashan languages,83,,365,360,0,5,0
+41835232,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Haisla,84,,40,40,0,0,0
+41835233,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Heiltsuk,85,,45,40,0,0,0
+41835234,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Kwakiutl (Kwak'wala),86,,140,140,0,0,0
+41835235,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Nuu-chah-nulth (Nootka),87,,135,130,0,0,0
+41835236,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Wakashan languages, n.i.e.",88,,10,5,0,0,0
+41835237,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Aboriginal languages, n.o.s.",89,,80,75,0,0,0
+41835238,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Non-Aboriginal languages,90,,587455,503720,250,20785,62705
+41835239,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Afro-Asiatic languages,91,,13405,10480,25,1325,1580
+41835240,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Berber languages,92,,75,15,5,50,5
+41835241,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Kabyle,93,,25,5,5,20,0
+41835242,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Berber languages, n.i.e.",94,,45,5,0,35,5
+41835243,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Cushitic languages,95,,760,690,0,15,55
+41835244,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Bilen,96,,0,0,0,0,0
+41835245,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Oromo,97,,115,110,0,0,5
+41835246,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Somali,98,,635,575,0,15,45
+41835247,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Cushitic languages, n.i.e.",99,,10,5,0,0,5
+41835248,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Semitic languages,100,,12540,9750,20,1250,1520
+41835249,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Amharic,101,,670,630,5,20,15
+41835250,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Arabic,102,,9595,7150,15,1115,1315
+41835251,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Assyrian Neo-Aramaic,103,,315,245,0,5,65
+41835252,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Chaldean Neo-Aramaic,104,,245,175,0,0,70
+41835253,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Harari,105,,10,5,0,0,0
+41835254,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Hebrew,106,,1130,1025,0,85,15
+41835255,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Maltese,107,,105,95,0,10,0
+41835256,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tigrigna,108,,395,355,0,15,30
+41835257,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Semitic languages, n.i.e.",109,,85,65,0,5,10
+41835258,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,30,30,0,5,0
+41835259,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Austro-Asiatic languages,111,,13170,11200,15,395,1560
+41835260,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Khmer (Cambodian),112,,715,595,0,35,75
+41835261,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Vietnamese,113,,12440,10590,10,355,1485
+41835262,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Austro-Asiatic languages, n.i.e",114,,20,15,0,0,0
+41835263,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Austronesian languages,115,,38765,38020,10,365,370
+41835264,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Bikol,116,,160,155,0,0,0
+41835265,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Cebuano,117,,1565,1540,0,15,10
+41835266,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Fijian,118,,240,235,0,0,5
+41835267,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Hiligaynon,119,,550,540,0,5,5
+41835268,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Ilocano,120,,2055,1995,0,10,40
+41835269,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Malagasy,121,,10,5,0,5,0
+41835270,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Malay,122,,1675,1600,0,40,30
+41835271,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,315,310,0,5,0
+41835272,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Pangasinan,124,,125,125,0,0,5
+41835273,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Tagalog (Pilipino, Filipino)",125,,31550,31015,10,275,250
+41835274,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Waray-Waray,126,,80,80,0,0,0
+41835275,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Austronesian languages, n.i.e.",127,,430,400,0,0,30
+41835276,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Creole languages,128,,440,180,5,250,5
+41835277,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Haitian Creole,129,,25,10,0,10,5
+41835278,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Creole, n.o.s.",130,,255,50,0,200,0
+41835279,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Creole languages, n.i.e.",131,,155,120,0,35,0
+41835280,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Dravidian languages,132,,3995,3795,5,95,105
+41835281,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Kannada,133,,145,140,0,5,0
+41835282,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Malayalam,134,,1260,1205,0,20,35
+41835283,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tamil,135,,1875,1750,5,60,55
+41835284,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Telugu,136,,695,675,0,5,10
+41835285,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Dravidian languages, n.i.e.",137,,20,25,0,0,0
+41835286,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Hmong-Mien languages,138,,75,65,0,0,5
+41835287,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Indo-European languages,139,,286135,253175,125,13690,19140
+41835288,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Albanian,140,,765,705,5,25,25
+41835289,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Armenian,141,,600,450,0,125,25
+41835290,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Balto-Slavic languages,142,,38595,35410,10,2155,1020
+41835291,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Baltic languages,143,,485,425,0,50,0
+41835292,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Latvian,144,,260,230,0,25,0
+41835293,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Lithuanian,145,,225,195,0,25,0
+41835294,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Slavic languages,146,,38110,34985,10,2100,1015
+41835295,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Belarusan,147,,45,35,0,5,5
+41835296,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Bosnian,148,,675,630,0,30,15
+41835297,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Bulgarian,149,,955,815,5,115,25
+41835298,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Croatian,150,,3655,3500,0,110,45
+41835299,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Czech,151,,2855,2670,0,160,25
+41835300,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Macedonian,152,,165,150,0,10,5
+41835301,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Polish,153,,7875,7280,5,475,115
+41835302,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Russian,154,,11645,10405,5,640,590
+41835303,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Serbian,155,,3595,3250,5,240,105
+41835304,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Serbo-Croatian,156,,670,620,0,45,10
+41835305,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Slovak,157,,1525,1440,0,70,15
+41835306,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Slovene (Slovenian),158,,545,520,0,30,0
+41835307,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Ukrainian,159,,3730,3500,0,165,65
+41835308,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Slavic languages, n.i.e.",160,,180,170,0,5,0
+41835309,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Celtic languages,161,,320,285,0,40,0
+41835310,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Scottish Gaelic,162,,130,110,0,20,0
+41835311,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Welsh,163,,145,130,0,10,0
+41835312,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Celtic languages, n.i.e.",164,,50,45,0,10,0
+41835313,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Germanic languages,165,,48350,44765,5,3305,280
+41835314,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Afrikaans,166,,1655,1570,0,70,15
+41835315,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Danish,167,,2280,2185,0,90,5
+41835316,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Dutch,168,,10130,9245,0,865,15
+41835317,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Frisian,169,,145,140,0,5,5
+41835318,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,German,170,,31525,29295,5,1995,230
+41835319,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Icelandic,171,,135,125,0,10,5
+41835320,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Norwegian,172,,970,935,0,35,0
+41835321,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Swedish,173,,1100,1030,0,65,5
+41835322,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Vlaams (Flemish),174,,220,115,0,100,0
+41835323,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Yiddish,175,,150,110,0,35,0
+41835324,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Germanic languages, n.i.e.",176,,45,15,0,25,0
+41835325,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Greek,177,,3245,2980,0,205,55
+41835326,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Indo-Iranian languages,178,,147830,128440,55,3155,16185
+41835327,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Indo-Aryan languages,179,,124255,107260,45,2085,14870
+41835328,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Bengali,180,,1665,1565,0,60,30
+41835329,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Gujarati,181,,3290,3120,0,80,85
+41835330,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Hindi,182,,12915,12365,0,245,305
+41835331,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Kashmiri,183,,35,35,0,5,0
+41835332,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Konkani,184,,130,120,0,5,5
+41835333,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Marathi,185,,330,315,0,10,5
+41835334,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Nepali,186,,620,580,0,20,20
+41835335,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Oriya (Odia),187,,40,35,5,0,5
+41835336,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Punjabi (Panjabi),188,,98525,82765,35,1455,14265
+41835337,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Sindhi,189,,785,735,0,40,10
+41835338,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Sinhala (Sinhalese),190,,845,810,0,20,15
+41835339,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Urdu,191,,5090,4825,0,135,130
+41835340,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Iranian languages,192,,23355,20975,10,1065,1300
+41835341,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Kurdish,193,,940,845,0,20,80
+41835342,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Pashto,194,,615,570,0,10,35
+41835343,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Persian (Farsi),195,,21800,19565,10,1040,1185
+41835344,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Indo-Iranian languages, n.i.e.",196,,215,200,0,0,15
+41835345,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Italic (Romance) languages,197,,46425,40135,50,4685,1555
+41835346,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Catalan,198,,90,60,0,25,0
+41835347,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Italian,199,,11445,10260,5,1030,160
+41835348,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Portuguese,200,,8245,7400,5,585,255
+41835349,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Romanian,201,,4250,3245,5,875,120
+41835350,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Spanish,202,,22335,19125,45,2155,1020
+41835351,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Italic (Romance) languages, n.i.e.",203,,60,45,0,15,0
+41835352,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Japanese,204,,7200,6530,0,185,480
+41835353,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Kartvelian languages,205,,50,45,0,5,5
+41835354,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Georgian,206,,50,45,0,0,5
+41835355,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Korean,207,,23490,20545,5,485,2460
+41835356,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Mongolic languages,208,,155,140,0,0,10
+41835357,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Mongolian,209,,150,140,0,0,10
+41835358,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Niger-Congo languages,210,,1880,1505,15,330,25
+41835359,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Akan (Twi),211,,275,255,0,20,0
+41835360,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Bamanankan,212,,5,0,0,5,0
+41835361,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Edo,213,,45,45,0,5,0
+41835362,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Ewe,214,,45,30,0,20,0
+41835363,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,25,5,0,15,0
+41835364,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Ga,216,,20,15,0,0,0
+41835365,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Ganda,217,,45,45,0,0,0
+41835366,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Igbo,218,,145,140,0,0,0
+41835367,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Lingala,219,,30,5,0,25,0
+41835368,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Rundi (Kirundi),220,,50,10,0,40,0
+41835369,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Kinyarwanda (Rwanda),221,,70,30,5,35,0
+41835370,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Shona,222,,100,95,0,0,0
+41835371,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Swahili,223,,405,310,5,75,5
+41835372,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Wolof,224,,25,5,0,20,0
+41835373,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Yoruba,225,,185,175,0,5,0
+41835374,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Niger-Congo languages, n.i.e.",226,,410,340,5,60,10
+41835375,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Nilo-Saharan languages,227,,180,170,0,5,5
+41835376,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Dinka,228,,60,60,0,0,0
+41835377,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,115,110,0,5,5
+41835378,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Sign languages,230,,615,315,0,15,280
+41835379,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,American Sign Language,231,,230,155,0,10,70
+41835380,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Quebec Sign Language,232,,0,0,0,0,0
+41835381,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Sign languages, n.i.e",233,,380,160,0,10,215
+41835382,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Sino-Tibetan languages,234,,187725,148235,40,3030,36420
+41835383,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Chinese languages,235,,186455,147155,35,3020,36250
+41835384,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Cantonese,236,,89325,70140,10,1185,17985
+41835385,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Hakka,237,,1010,835,5,35,140
+41835386,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Mandarin,238,,84370,66610,25,1605,16125
+41835387,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Min Dong,239,,110,85,0,0,20
+41835388,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,4990,4110,0,60,825
+41835389,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Wu (Shanghainese),241,,2000,1445,0,40,510
+41835390,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Chinese, n.o.s.",242,,4570,3855,5,85,625
+41835391,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Chinese languages, n.i.e.",243,,85,60,0,5,20
+41835392,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tibeto-Burman languages,244,,1265,1080,0,15,170
+41835393,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Burmese,245,,580,535,0,10,35
+41835394,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Karenic languages,246,,400,290,0,5,105
+41835395,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tibetan,247,,175,155,0,0,15
+41835396,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,120,100,0,0,15
+41835397,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Tai-Kadai languages,249,,1335,1225,0,60,55
+41835398,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Lao,250,,550,485,0,35,30
+41835399,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Thai,251,,775,735,0,20,20
+41835400,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Tai-Kadai languages, n.i.e",252,,10,5,0,0,5
+41835401,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Turkic languages,253,,2295,2030,0,155,115
+41835402,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Azerbaijani,254,,295,260,0,10,25
+41835403,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Turkish,255,,1790,1580,0,135,75
+41835404,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Uyghur,256,,85,70,0,5,10
+41835405,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Uzbek,257,,50,45,0,0,5
+41835406,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Turkic languages, n.i.e.",258,,80,70,0,5,5
+41835407,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Uralic languages,259,,6285,5840,5,375,70
+41835408,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Estonian,260,,295,255,0,35,5
+41835409,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Finnish,261,,1560,1495,0,55,10
+41835410,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Hungarian,262,,4435,4095,5,280,55
+41835411,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Uralic languages, n.i.e.",263,,0,5,0,0,0
+41835412,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"Other languages, n.i.e.",264,,280,240,0,25,15
+41835413,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,Multiple responses,265,,49620,42175,65,7065,320
+41835414,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,English and French,266,,4820,1195,10,3605,0
+41835415,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,English and non-official language,267,,42820,40525,15,1975,305
+41835416,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,French and non-official language,268,,1040,240,35,750,10
+41835417,2016,59,1,British Columbia,4.9,20000, ,59,Male,2,,"English, French and non-official language",269,,945,205,5,730,5
+41835418,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Total - Mother tongue,1,1.0,2343015,2077645,985,174275,90115
+41835419,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Single responses,2,,2289220,2032680,915,165805,89825
+41835420,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Official languages,3,,1613160,1472330,580,139470,780
+41835421,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,English,4,,1584350,1469215,50,114310,775
+41835422,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,French,5,,28810,3115,530,25155,5
+41835423,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Non-official languages,6,,676060,560355,335,26335,89040
+41835424,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Aboriginal languages,7,,4490,4400,0,65,25
+41835425,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Algonquian languages,8,,605,570,0,25,5
+41835426,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Blackfoot,9,,35,30,0,0,0
+41835427,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Cree-Montagnais languages,10,,460,440,0,20,5
+41835428,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Atikamekw,11,,0,0,0,0,0
+41835429,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Montagnais (Innu),12,,0,0,0,5,0
+41835430,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Moose Cree,13,,0,0,0,0,0
+41835431,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Naskapi,14,,0,0,0,0,0
+41835432,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Northern East Cree,15,,5,5,0,5,0
+41835433,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Plains Cree,16,,85,80,0,0,0
+41835434,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Southern East Cree,17,,5,0,0,0,0
+41835435,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Swampy Cree,18,,10,10,0,0,0
+41835436,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Woods Cree,19,,30,30,0,5,0
+41835437,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Cree, n.o.s.",20,,320,305,0,10,5
+41835438,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Eastern Algonquian languages,21,,5,5,0,5,0
+41835439,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Malecite,22,,0,0,0,0,0
+41835440,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Mi'kmaq,23,,10,5,0,0,0
+41835441,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Ojibway-Potawatomi languages,24,,105,95,0,5,0
+41835442,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Algonquin,25,,0,0,0,0,0
+41835443,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Ojibway,26,,90,85,0,5,0
+41835444,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Oji-Cree,27,,10,10,0,0,0
+41835445,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Ottawa (Odawa),28,,0,0,0,0,0
+41835446,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
+41835447,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Athabaskan languages,30,,1260,1235,0,10,15
+41835448,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Northern Athabaskan languages,31,,1250,1230,0,10,10
+41835449,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Babine (Wetsuwet'en),32,,55,60,0,0,0
+41835450,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Beaver,33,,85,85,0,0,0
+41835451,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Carrier,34,,550,540,0,0,0
+41835452,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Chilcotin,35,,355,340,0,5,10
+41835453,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Dene,36,,55,55,0,0,0
+41835454,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Dogrib (Tlicho),37,,0,0,0,0,0
+41835455,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Gwich'in,38,,5,10,0,0,0
+41835456,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Sarsi (Sarcee),39,,5,5,0,0,0
+41835457,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Sekani,40,,45,45,0,0,0
+41835458,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Slavey-Hare languages,41,,45,45,0,0,0
+41835459,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,North Slavey (Hare),42,,5,5,0,0,0
+41835460,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,South Slavey,43,,10,15,0,0,0
+41835461,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Slavey, n.o.s.",44,,25,30,0,0,0
+41835462,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tahltan languages,45,,50,55,0,0,0
+41835463,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Kaska (Nahani),46,,5,10,0,0,0
+41835464,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tahltan,47,,45,45,0,0,0
+41835465,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tutchone languages,48,,5,5,0,0,0
+41835466,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Northern Tutchone,49,,5,0,0,0,0
+41835467,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Southern Tutchone,50,,0,5,0,0,0
+41835468,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Athabaskan languages, n.i.e.",51,,5,5,0,0,0
+41835469,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Haida,52,,40,40,0,0,0
+41835470,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Inuit languages,53,,50,50,0,0,0
+41835471,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Inuinnaqtun (Inuvialuktun),54,,10,10,0,0,0
+41835472,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Inuktitut,55,,30,30,0,0,0
+41835473,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Inuit languages, n.i.e.",56,,10,10,0,0,0
+41835474,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Iroquoian languages,57,,5,5,0,0,0
+41835475,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Cayuga,58,,0,0,0,0,0
+41835476,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Mohawk,59,,0,5,0,0,0
+41835477,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Oneida,60,,0,0,0,0,0
+41835478,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Iroquoian languages, n.i.e.",61,,5,0,0,0,0
+41835479,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Kutenai,62,,50,45,0,0,0
+41835480,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Michif,63,,15,10,0,0,0
+41835481,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Salish languages,64,,1155,1150,0,10,0
+41835482,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Comox,65,,40,40,0,0,0
+41835483,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Halkomelem,66,,245,240,0,0,0
+41835484,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Lillooet,67,,160,160,0,0,0
+41835485,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Okanagan,68,,135,135,0,0,0
+41835486,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Shuswap (Secwepemctsin),69,,220,215,0,0,0
+41835487,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Squamish,70,,15,20,0,0,0
+41835488,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Straits,71,,40,40,0,0,0
+41835489,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Thompson (Ntlakapamux),72,,180,180,0,0,0
+41835490,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Salish languages, n.i.e.",73,,120,120,0,0,0
+41835491,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Siouan languages,74,,20,20,0,0,0
+41835492,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Dakota,75,,15,15,0,0,0
+41835493,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Stoney,76,,0,0,0,0,0
+41835494,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Siouan languages, n.i.e.",77,,5,0,0,0,0
+41835495,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tlingit,78,,15,15,0,0,0
+41835496,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tsimshian languages,79,,740,730,0,10,0
+41835497,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Gitxsan (Gitksan),80,,445,435,0,5,5
+41835498,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Nisga'a,81,,190,190,0,5,0
+41835499,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tsimshian,82,,110,110,0,0,0
+41835500,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Wakashan languages,83,,430,425,0,10,0
+41835501,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Haisla,84,,55,50,0,0,0
+41835502,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Heiltsuk,85,,55,50,0,0,0
+41835503,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Kwakiutl (Kwak'wala),86,,180,175,0,0,0
+41835504,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Nuu-chah-nulth (Nootka),87,,145,140,0,0,0
+41835505,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Wakashan languages, n.i.e.",88,,5,5,0,0,0
+41835506,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Aboriginal languages, n.o.s.",89,,110,100,0,5,5
+41835507,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Non-Aboriginal languages,90,,671570,555950,335,26270,89015
+41835508,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Afro-Asiatic languages,91,,11465,8520,30,1070,1850
+41835509,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Berber languages,92,,45,10,0,30,5
+41835510,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Kabyle,93,,15,5,0,5,5
+41835511,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Berber languages, n.i.e.",94,,30,5,5,20,0
+41835512,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Cushitic languages,95,,740,625,0,15,105
+41835513,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Bilen,96,,5,0,0,0,0
+41835514,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Oromo,97,,95,90,0,0,0
+41835515,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Somali,98,,635,525,0,15,95
+41835516,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Cushitic languages, n.i.e.",99,,10,10,0,0,0
+41835517,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Semitic languages,100,,10655,7865,30,1020,1735
+41835518,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Amharic,101,,700,645,0,15,40
+41835519,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Arabic,102,,7885,5525,25,895,1440
+41835520,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Assyrian Neo-Aramaic,103,,330,240,0,5,85
+41835521,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Chaldean Neo-Aramaic,104,,200,105,0,5,90
+41835522,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Harari,105,,10,15,0,0,0
+41835523,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Hebrew,106,,935,830,0,90,15
+41835524,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Maltese,107,,110,105,0,10,0
+41835525,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tigrigna,108,,405,350,0,10,45
+41835526,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Semitic languages, n.i.e.",109,,70,55,0,0,15
+41835527,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,20,20,0,0,5
+41835528,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Austro-Asiatic languages,111,,15575,12345,15,420,2790
+41835529,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Khmer (Cambodian),112,,845,680,0,35,130
+41835530,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Vietnamese,113,,14710,11650,15,385,2655
+41835531,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Austro-Asiatic languages, n.i.e",114,,15,15,0,5,5
+41835532,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Austronesian languages,115,,57770,56660,10,570,535
+41835533,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Bikol,116,,210,210,0,0,0
+41835534,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Cebuano,117,,2505,2455,0,30,20
+41835535,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Fijian,118,,225,225,0,0,5
+41835536,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Hiligaynon,119,,920,895,0,10,5
+41835537,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Ilocano,120,,3185,3120,0,20,50
+41835538,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Malagasy,121,,10,0,0,10,0
+41835539,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Malay,122,,2220,2115,0,50,55
+41835540,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,385,380,0,0,5
+41835541,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Pangasinan,124,,165,165,0,0,5
+41835542,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Tagalog (Pilipino, Filipino)",125,,47215,46410,5,435,360
+41835543,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Waray-Waray,126,,130,130,0,0,0
+41835544,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Austronesian languages, n.i.e.",127,,585,555,0,5,25
+41835545,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Creole languages,128,,405,175,5,215,10
+41835546,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Haitian Creole,129,,15,10,0,5,0
+41835547,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Creole, n.o.s.",130,,245,55,5,175,5
+41835548,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Creole languages, n.i.e.",131,,150,110,0,35,5
+41835549,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Dravidian languages,132,,3510,3245,0,85,175
+41835550,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Kannada,133,,135,125,0,10,0
+41835551,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Malayalam,134,,1125,1070,0,20,35
+41835552,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tamil,135,,1740,1575,0,50,115
+41835553,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Telugu,136,,475,450,0,10,20
+41835554,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Dravidian languages, n.i.e.",137,,25,25,0,0,0
+41835555,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Hmong-Mien languages,138,,65,55,0,0,10
+41835556,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Indo-European languages,139,,302040,255475,180,17325,29060
+41835557,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Albanian,140,,705,620,0,25,55
+41835558,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Armenian,141,,595,450,0,110,35
+41835559,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Balto-Slavic languages,142,,44520,39790,25,3065,1640
+41835560,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Baltic languages,143,,585,520,0,65,0
+41835561,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Latvian,144,,305,270,0,35,0
+41835562,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Lithuanian,145,,280,255,0,30,0
+41835563,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Slavic languages,146,,43935,39275,25,3000,1640
+41835564,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Belarusan,147,,45,35,0,10,5
+41835565,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Bosnian,148,,685,625,0,35,25
+41835566,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Bulgarian,149,,1065,855,5,170,40
+41835567,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Croatian,150,,3825,3560,0,190,75
+41835568,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Czech,151,,3070,2820,0,220,30
+41835569,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Macedonian,152,,165,145,0,15,5
+41835570,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Polish,153,,9035,8120,5,700,210
+41835571,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Russian,154,,14315,12435,10,950,925
+41835572,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Serbian,155,,3450,3010,0,280,155
+41835573,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Serbo-Croatian,156,,725,640,0,60,20
+41835574,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Slovak,157,,1870,1730,0,120,25
+41835575,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Slovene (Slovenian),158,,615,570,0,35,10
+41835576,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Ukrainian,159,,4905,4585,0,215,105
+41835577,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Slavic languages, n.i.e.",160,,165,155,0,10,5
+41835578,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Celtic languages,161,,295,250,0,35,0
+41835579,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Scottish Gaelic,162,,110,95,0,15,0
+41835580,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Welsh,163,,135,120,0,15,0
+41835581,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Celtic languages, n.i.e.",164,,45,35,0,10,0
+41835582,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Germanic languages,165,,53380,48645,10,4440,280
+41835583,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Afrikaans,166,,1610,1530,0,70,15
+41835584,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Danish,167,,2385,2260,0,125,0
+41835585,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Dutch,168,,10895,9905,5,965,25
+41835586,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Frisian,169,,145,135,0,10,0
+41835587,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,German,170,,35360,32165,5,2960,235
+41835588,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Icelandic,171,,145,135,0,5,0
+41835589,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Norwegian,172,,1040,980,0,55,0
+41835590,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Swedish,173,,1420,1295,5,120,0
+41835591,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Vlaams (Flemish),174,,225,120,5,95,0
+41835592,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Yiddish,175,,135,100,0,35,0
+41835593,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Germanic languages, n.i.e.",176,,20,20,0,5,0
+41835594,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Greek,177,,2870,2510,5,250,105
+41835595,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Indo-Iranian languages,178,,149970,121070,55,4045,24805
+41835596,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Indo-Aryan languages,179,,126740,101240,40,2535,22920
+41835597,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Bengali,180,,1510,1370,0,55,85
+41835598,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Gujarati,181,,3605,3240,5,135,230
+41835599,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Hindi,182,,13805,12700,5,275,830
+41835600,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Kashmiri,183,,25,25,0,0,0
+41835601,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Konkani,184,,120,120,0,5,0
+41835602,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Marathi,185,,295,275,0,10,5
+41835603,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Nepali,186,,540,475,0,15,45
+41835604,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Oriya (Odia),187,,30,30,0,5,0
+41835605,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Punjabi (Panjabi),188,,100280,77060,30,1845,21345
+41835606,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Sindhi,189,,890,810,0,55,25
+41835607,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Sinhala (Sinhalese),190,,830,780,0,30,20
+41835608,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Urdu,191,,4795,4355,0,100,335
+41835609,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Iranian languages,192,,23035,19665,15,1500,1860
+41835610,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Kurdish,193,,830,705,0,15,105
+41835611,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Pashto,194,,535,445,0,10,80
+41835612,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Persian (Farsi),195,,21675,18510,15,1470,1680
+41835613,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Indo-Iranian languages, n.i.e.",196,,195,165,0,10,20
+41835614,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Italic (Romance) languages,197,,49710,42135,90,5355,2130
+41835615,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Catalan,198,,75,50,0,20,5
+41835616,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Italian,199,,11230,9760,10,1080,380
+41835617,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Portuguese,200,,9205,8095,5,670,440
+41835618,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Romanian,201,,4480,3285,15,965,210
+41835619,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Spanish,202,,24675,20915,50,2615,1095
+41835620,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Italic (Romance) languages, n.i.e.",203,,40,40,0,5,0
+41835621,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Japanese,204,,14150,12980,5,400,765
+41835622,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Kartvelian languages,205,,35,30,0,0,0
+41835623,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Georgian,206,,35,35,0,0,0
+41835624,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Korean,207,,28665,24155,10,770,3735
+41835625,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Mongolic languages,208,,210,180,0,5,25
+41835626,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Mongolian,209,,210,180,0,5,25
+41835627,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Niger-Congo languages,210,,1850,1485,15,280,70
+41835628,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Akan (Twi),211,,220,210,0,10,0
+41835629,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Bamanankan,212,,5,0,0,0,0
+41835630,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Edo,213,,35,35,0,0,0
+41835631,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Ewe,214,,35,25,0,15,0
+41835632,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,20,5,0,15,0
+41835633,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Ga,216,,25,20,0,0,0
+41835634,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Ganda,217,,45,35,0,5,0
+41835635,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Igbo,218,,105,95,0,0,0
+41835636,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Lingala,219,,45,20,0,25,5
+41835637,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Rundi (Kirundi),220,,60,10,5,35,15
+41835638,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Kinyarwanda (Rwanda),221,,80,40,0,30,5
+41835639,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Shona,222,,120,105,0,5,5
+41835640,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Swahili,223,,405,330,0,60,10
+41835641,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Wolof,224,,25,5,0,15,0
+41835642,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Yoruba,225,,145,140,0,5,5
+41835643,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Niger-Congo languages, n.i.e.",226,,480,400,0,55,25
+41835644,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Nilo-Saharan languages,227,,165,155,0,5,10
+41835645,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Dinka,228,,45,40,0,5,0
+41835646,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,125,115,0,0,10
+41835647,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Sign languages,230,,545,310,0,15,220
+41835648,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,American Sign Language,231,,240,175,0,10,55
+41835649,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Quebec Sign Language,232,,5,0,0,5,0
+41835650,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Sign languages, n.i.e",233,,305,135,0,5,165
+41835651,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Sino-Tibetan languages,234,,223190,169315,55,4430,49395
+41835652,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Chinese languages,235,,221960,168310,55,4415,49180
+41835653,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Cantonese,236,,104210,76505,20,1895,25785
+41835654,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Hakka,237,,1310,1030,0,40,240
+41835655,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Mandarin,238,,101955,79635,25,2240,20060
+41835656,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Min Dong,239,,120,85,0,0,35
+41835657,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,6220,4920,0,100,1195
+41835658,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Wu (Shanghainese),241,,2545,1735,0,50,755
+41835659,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Chinese, n.o.s.",242,,5480,4305,5,80,1090
+41835660,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Chinese languages, n.i.e.",243,,120,95,0,0,25
+41835661,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tibeto-Burman languages,244,,1235,1005,0,15,220
+41835662,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Burmese,245,,545,480,0,10,55
+41835663,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Karenic languages,246,,420,295,0,0,125
+41835664,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tibetan,247,,155,135,0,0,20
+41835665,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,110,90,0,5,15
+41835666,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Tai-Kadai languages,249,,2655,2490,0,55,100
+41835667,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Lao,250,,550,485,0,20,50
+41835668,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Thai,251,,2090,1995,0,40,55
+41835669,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Tai-Kadai languages, n.i.e",252,,15,10,0,0,0
+41835670,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Turkic languages,253,,1845,1560,0,135,150
+41835671,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Azerbaijani,254,,240,195,0,15,25
+41835672,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Turkish,255,,1355,1155,5,105,105
+41835673,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Uyghur,256,,85,70,0,5,10
+41835674,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Uzbek,257,,55,50,0,0,5
+41835675,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Turkic languages, n.i.e.",258,,110,95,0,10,0
+41835676,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Uralic languages,259,,7205,6630,5,470,105
+41835677,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Estonian,260,,415,360,0,45,5
+41835678,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Finnish,261,,2200,2075,0,110,10
+41835679,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Hungarian,262,,4590,4190,0,310,90
+41835680,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
+41835681,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"Other languages, n.i.e.",264,,225,190,0,15,20
+41835682,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,Multiple responses,265,,53795,44960,65,8475,290
+41835683,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,English and French,266,,5250,1185,15,4045,0
+41835684,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,English and non-official language,267,,46315,43265,20,2755,275
+41835685,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,French and non-official language,268,,1065,270,30,755,10
+41835686,2016,59,1,British Columbia,4.9,20000, ,59,Female,3,,"English, French and non-official language",269,,1160,240,5,915,0

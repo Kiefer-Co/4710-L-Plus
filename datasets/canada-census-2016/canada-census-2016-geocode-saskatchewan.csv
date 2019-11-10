@@ -1,0 +1,808 @@
+,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+34483917,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Total - Mother tongue,1,1.0,1083235,1023400,530,51355,7940
+34483918,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Single responses,2,,1064680,1007240,480,49080,7880
+34483919,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Official languages,3,,907715,861830,370,45325,190
+34483920,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,English,4,,892620,859605,20,32800,190
+34483921,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,French,5,,15100,2220,350,12520,0
+34483922,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Non-official languages,6,,156965,145410,110,3755,7685
+34483923,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Aboriginal languages,7,,28345,27950,10,115,270
+34483924,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Algonquian languages,8,,19965,19785,5,85,90
+34483925,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Blackfoot,9,,10,10,0,0,0
+34483926,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Cree-Montagnais languages,10,,19015,18840,5,80,90
+34483927,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Atikamekw,11,,0,0,0,0,0
+34483928,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Montagnais (Innu),12,,0,0,0,0,0
+34483929,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Moose Cree,13,,5,0,0,0,0
+34483930,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Naskapi,14,,0,0,0,0,0
+34483931,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Northern East Cree,15,,30,30,0,0,0
+34483932,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Plains Cree,16,,2080,2055,0,10,15
+34483933,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Southern East Cree,17,,5,0,0,0,0
+34483934,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Swampy Cree,18,,250,245,0,5,5
+34483935,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Woods Cree,19,,785,780,0,5,0
+34483936,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Cree, n.o.s.",20,,15865,15725,5,60,75
+34483937,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Eastern Algonquian languages,21,,5,5,0,0,0
+34483938,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Malecite,22,,0,0,0,0,0
+34483939,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Mi'kmaq,23,,5,5,0,0,0
+34483940,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Ojibway-Potawatomi languages,24,,930,925,0,5,0
+34483941,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Algonquin,25,,0,0,0,0,0
+34483942,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Ojibway,26,,925,920,0,5,0
+34483943,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Oji-Cree,27,,5,5,0,0,0
+34483944,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Ottawa (Odawa),28,,0,0,0,0,0
+34483945,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
+34483946,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Athabaskan languages,30,,7860,7675,5,10,170
+34483947,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Northern Athabaskan languages,31,,7855,7670,5,10,175
+34483948,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Babine (Wetsuwet'en),32,,0,0,0,0,0
+34483949,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Beaver,33,,0,0,0,0,0
+34483950,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Carrier,34,,0,0,0,0,0
+34483951,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Chilcotin,35,,0,0,0,0,0
+34483952,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Dene,36,,7860,7675,5,5,175
+34483953,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Dogrib (Tlicho),37,,0,0,0,0,0
+34483954,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Gwich'in,38,,5,0,0,0,0
+34483955,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Sarsi (Sarcee),39,,0,0,0,0,0
+34483956,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Sekani,40,,0,0,0,0,0
+34483957,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Slavey-Hare languages,41,,5,0,0,0,0
+34483958,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,North Slavey (Hare),42,,0,0,0,0,0
+34483959,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,South Slavey,43,,0,0,0,0,0
+34483960,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Slavey, n.o.s.",44,,0,0,0,0,0
+34483961,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tahltan languages,45,,0,0,0,0,0
+34483962,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Kaska (Nahani),46,,0,0,0,0,0
+34483963,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tahltan,47,,0,0,0,0,0
+34483964,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tutchone languages,48,,0,0,0,0,0
+34483965,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Northern Tutchone,49,,0,0,0,0,0
+34483966,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Southern Tutchone,50,,0,0,0,0,0
+34483967,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,5,5,0,0,0
+34483968,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Haida,52,,0,5,0,0,0
+34483969,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Inuit languages,53,,30,30,0,0,0
+34483970,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,5,5,0,0,0
+34483971,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Inuktitut,55,,20,15,0,0,5
+34483972,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Inuit languages, n.i.e.",56,,5,5,0,0,0
+34483973,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Iroquoian languages,57,,5,0,0,0,0
+34483974,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Cayuga,58,,0,0,0,0,0
+34483975,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Mohawk,59,,0,0,0,0,0
+34483976,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Oneida,60,,0,0,0,0,0
+34483977,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
+34483978,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Kutenai,62,,0,0,0,0,0
+34483979,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Michif,63,,235,210,0,15,5
+34483980,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Salish languages,64,,5,5,0,0,0
+34483981,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Comox,65,,0,0,0,0,0
+34483982,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Halkomelem,66,,0,0,0,0,0
+34483983,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Lillooet,67,,0,0,0,0,0
+34483984,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Okanagan,68,,0,0,0,0,0
+34483985,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Shuswap (Secwepemctsin),69,,5,5,0,0,0
+34483986,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Squamish,70,,0,0,0,0,0
+34483987,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Straits,71,,0,0,0,0,0
+34483988,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Thompson (Ntlakapamux),72,,0,5,0,0,0
+34483989,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Salish languages, n.i.e.",73,,0,0,0,0,0
+34483990,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Siouan languages,74,,230,230,0,0,0
+34483991,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Dakota,75,,190,195,0,0,0
+34483992,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Stoney,76,,0,0,0,0,0
+34483993,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Siouan languages, n.i.e.",77,,35,35,0,0,0
+34483994,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tlingit,78,,0,0,0,0,0
+34483995,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tsimshian languages,79,,5,5,0,0,0
+34483996,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Gitxsan (Gitksan),80,,0,0,0,0,0
+34483997,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Nisga'a,81,,0,0,0,0,0
+34483998,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tsimshian,82,,0,0,0,0,0
+34483999,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Wakashan languages,83,,0,0,0,0,0
+34484000,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Haisla,84,,0,0,0,0,0
+34484001,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Heiltsuk,85,,0,0,0,0,0
+34484002,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
+34484003,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
+34484004,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
+34484005,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,5,10,0,0,0
+34484006,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Non-Aboriginal languages,90,,128620,117465,95,3645,7415
+34484007,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Afro-Asiatic languages,91,,6770,4980,10,355,1425
+34484008,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Berber languages,92,,5,0,0,10,0
+34484009,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Kabyle,93,,5,0,0,5,0
+34484010,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Berber languages, n.i.e.",94,,10,0,0,5,0
+34484011,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Cushitic languages,95,,1050,920,0,15,115
+34484012,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Bilen,96,,55,45,0,0,5
+34484013,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Oromo,97,,195,175,0,5,15
+34484014,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Somali,98,,775,675,0,15,85
+34484015,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,30,20,0,0,5
+34484016,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Semitic languages,100,,5690,4040,15,325,1305
+34484017,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Amharic,101,,290,280,0,5,10
+34484018,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Arabic,102,,4040,2620,10,285,1135
+34484019,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Assyrian Neo-Aramaic,103,,305,245,0,10,45
+34484020,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Chaldean Neo-Aramaic,104,,155,115,5,5,30
+34484021,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Harari,105,,0,0,0,0,0
+34484022,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Hebrew,106,,75,70,0,5,0
+34484023,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Maltese,107,,10,5,0,5,0
+34484024,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tigrigna,108,,685,600,0,0,75
+34484025,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Semitic languages, n.i.e.",109,,130,100,0,15,10
+34484026,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,25,25,0,5,0
+34484027,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Austro-Asiatic languages,111,,2555,2090,0,90,380
+34484028,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Khmer (Cambodian),112,,135,125,0,0,15
+34484029,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Vietnamese,113,,2415,1965,5,85,365
+34484030,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
+34484031,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Austronesian languages,115,,23415,22955,0,275,180
+34484032,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Bikol,116,,80,80,0,0,0
+34484033,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Cebuano,117,,1540,1525,0,10,15
+34484034,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Fijian,118,,25,25,0,0,0
+34484035,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Hiligaynon,119,,260,255,0,5,0
+34484036,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Ilocano,120,,790,775,0,5,10
+34484037,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Malagasy,121,,0,0,0,0,0
+34484038,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Malay,122,,125,110,0,5,10
+34484039,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,180,180,0,0,0
+34484040,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Pangasinan,124,,45,40,0,0,0
+34484041,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,20045,19645,0,255,145
+34484042,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Waray-Waray,126,,65,65,0,0,0
+34484043,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,265,255,0,0,10
+34484044,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Creole languages,128,,220,60,5,150,5
+34484045,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Haitian Creole,129,,5,0,0,5,0
+34484046,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Creole, n.o.s.",130,,150,15,5,125,5
+34484047,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Creole languages, n.i.e.",131,,65,45,0,20,0
+34484048,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Dravidian languages,132,,1560,1495,0,15,55
+34484049,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Kannada,133,,60,60,0,0,0
+34484050,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Malayalam,134,,855,815,0,5,40
+34484051,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tamil,135,,350,335,0,10,5
+34484052,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Telugu,136,,290,280,0,5,5
+34484053,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,15,10,0,0,0
+34484054,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Hmong-Mien languages,138,,0,5,0,0,0
+34484055,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Indo-European languages,139,,73165,68510,30,2015,2620
+34484056,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Albanian,140,,380,340,0,10,30
+34484057,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Armenian,141,,75,60,0,0,10
+34484058,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Balto-Slavic languages,142,,18460,17600,10,420,435
+34484059,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Baltic languages,143,,175,165,0,10,5
+34484060,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Latvian,144,,100,85,0,10,5
+34484061,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Lithuanian,145,,75,75,0,0,0
+34484062,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Slavic languages,146,,18280,17435,5,415,430
+34484063,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Belarusan,147,,5,0,0,0,0
+34484064,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Bosnian,148,,225,225,0,0,5
+34484065,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Bulgarian,149,,65,60,0,5,0
+34484066,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Croatian,150,,460,430,0,15,10
+34484067,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Czech,151,,235,225,0,10,0
+34484068,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Macedonian,152,,55,50,0,5,0
+34484069,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Polish,153,,1865,1760,0,75,25
+34484070,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Russian,154,,3040,2720,0,125,200
+34484071,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Serbian,155,,465,440,0,15,10
+34484072,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Serbo-Croatian,156,,120,115,0,5,0
+34484073,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Slovak,157,,110,110,0,5,0
+34484074,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Slovene (Slovenian),158,,80,75,0,0,5
+34484075,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Ukrainian,159,,11265,10950,0,145,170
+34484076,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Slavic languages, n.i.e.",160,,285,270,0,5,10
+34484077,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Celtic languages,161,,60,50,0,5,0
+34484078,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Scottish Gaelic,162,,15,10,0,0,0
+34484079,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Welsh,163,,25,25,0,0,0
+34484080,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Celtic languages, n.i.e.",164,,20,15,0,5,0
+34484081,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Germanic languages,165,,24455,23610,5,420,420
+34484082,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Afrikaans,166,,880,855,0,15,5
+34484083,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Danish,167,,260,250,0,0,0
+34484084,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Dutch,168,,1380,1295,0,75,10
+34484085,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Frisian,169,,30,30,0,5,0
+34484086,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,German,170,,21320,20625,5,290,400
+34484087,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Icelandic,171,,50,55,0,0,0
+34484088,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Norwegian,172,,310,305,0,5,0
+34484089,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Swedish,173,,145,135,0,10,0
+34484090,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Vlaams (Flemish),174,,60,40,0,20,0
+34484091,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Yiddish,175,,20,15,0,0,0
+34484092,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Germanic languages, n.i.e.",176,,5,0,0,0,0
+34484093,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Greek,177,,935,880,0,35,25
+34484094,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Indo-Iranian languages,178,,22330,20365,10,545,1415
+34484095,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Indo-Aryan languages,179,,19995,18265,0,485,1240
+34484096,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Bengali,180,,2795,2545,0,130,120
+34484097,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Gujarati,181,,2510,2350,0,20,140
+34484098,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Hindi,182,,1550,1475,0,25,40
+34484099,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Kashmiri,183,,20,15,0,0,0
+34484100,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Konkani,184,,30,25,0,0,5
+34484101,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Marathi,185,,140,130,0,5,0
+34484102,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Nepali,186,,770,570,0,15,185
+34484103,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Oriya (Odia),187,,25,25,0,0,0
+34484104,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Punjabi (Panjabi),188,,5250,4790,0,65,400
+34484105,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Sindhi,189,,120,115,0,5,5
+34484106,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Sinhala (Sinhalese),190,,270,260,0,5,5
+34484107,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Urdu,191,,6515,5960,5,220,340
+34484108,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Iranian languages,192,,2070,1860,5,55,150
+34484109,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Kurdish,193,,140,120,0,5,20
+34484110,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Pashto,194,,555,500,0,5,45
+34484111,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Persian (Farsi),195,,1370,1240,0,45,80
+34484112,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,275,235,5,5,30
+34484113,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Italic (Romance) languages,197,,6475,5605,5,565,295
+34484114,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Catalan,198,,5,0,0,5,0
+34484115,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Italian,199,,705,625,0,75,5
+34484116,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Portuguese,200,,610,535,0,60,10
+34484117,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Romanian,201,,850,725,5,95,30
+34484118,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Spanish,202,,4290,3710,0,330,250
+34484119,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,15,10,0,0,0
+34484120,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Japanese,204,,325,300,0,10,15
+34484121,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Kartvelian languages,205,,5,5,0,5,0
+34484122,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Georgian,206,,5,5,0,5,0
+34484123,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Korean,207,,1670,1490,0,45,135
+34484124,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Mongolic languages,208,,40,35,0,0,5
+34484125,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Mongolian,209,,40,35,0,0,0
+34484126,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Niger-Congo languages,210,,2310,1830,40,350,90
+34484127,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Akan (Twi),211,,185,180,0,5,5
+34484128,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Bamanankan,212,,5,0,0,5,0
+34484129,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Edo,213,,40,35,0,0,0
+34484130,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Ewe,214,,50,40,0,10,0
+34484131,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,25,10,0,10,0
+34484132,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Ga,216,,20,20,0,0,0
+34484133,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Ganda,217,,40,40,0,0,0
+34484134,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Igbo,218,,215,210,0,10,0
+34484135,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Lingala,219,,30,10,0,20,0
+34484136,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Rundi (Kirundi),220,,145,25,10,80,35
+34484137,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Kinyarwanda (Rwanda),221,,115,60,5,50,0
+34484138,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Shona,222,,95,90,0,0,0
+34484139,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Swahili,223,,430,295,15,65,45
+34484140,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Wolof,224,,20,0,0,15,0
+34484141,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Yoruba,225,,465,450,0,10,0
+34484142,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,430,365,5,55,5
+34484143,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Nilo-Saharan languages,227,,335,320,0,0,15
+34484144,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Dinka,228,,110,110,0,0,5
+34484145,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,220,210,0,0,10
+34484146,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Sign languages,230,,200,105,0,0,95
+34484147,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,American Sign Language,231,,65,45,0,0,25
+34484148,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Quebec Sign Language,232,,0,0,0,0,0
+34484149,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Sign languages, n.i.e",233,,135,65,0,0,70
+34484150,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Sino-Tibetan languages,234,,13495,10905,5,255,2335
+34484151,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Chinese languages,235,,12460,10090,5,250,2120
+34484152,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Cantonese,236,,3780,2965,0,80,735
+34484153,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Hakka,237,,35,20,0,0,10
+34484154,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Mandarin,238,,7235,5940,0,135,1155
+34484155,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Min Dong,239,,5,5,0,0,5
+34484156,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,210,175,0,10,25
+34484157,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Wu (Shanghainese),241,,60,40,0,0,20
+34484158,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Chinese, n.o.s.",242,,1135,945,0,25,165
+34484159,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Chinese languages, n.i.e.",243,,0,5,0,0,0
+34484160,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tibeto-Burman languages,244,,1040,815,0,10,215
+34484161,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Burmese,245,,180,155,0,0,20
+34484162,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Karenic languages,246,,805,610,0,0,190
+34484163,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tibetan,247,,15,10,0,0,5
+34484164,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,40,30,0,0,5
+34484165,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Tai-Kadai languages,249,,525,485,0,15,20
+34484166,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Lao,250,,345,320,0,10,15
+34484167,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Thai,251,,185,170,0,0,10
+34484168,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
+34484169,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Turkic languages,253,,360,320,5,20,20
+34484170,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Azerbaijani,254,,25,20,0,0,5
+34484171,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Turkish,255,,290,250,0,15,15
+34484172,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Uyghur,256,,5,5,0,0,0
+34484173,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Uzbek,257,,30,25,0,0,0
+34484174,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Turkic languages, n.i.e.",258,,15,15,0,0,0
+34484175,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Uralic languages,259,,1555,1500,0,35,25
+34484176,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Estonian,260,,20,20,0,0,0
+34484177,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Finnish,261,,205,200,0,5,0
+34484178,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Hungarian,262,,1330,1280,0,30,20
+34484179,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
+34484180,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"Other languages, n.i.e.",264,,100,85,0,10,10
+34484181,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,Multiple responses,265,,18560,16160,55,2280,65
+34484182,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,English and French,266,,2045,595,10,1440,0
+34484183,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,English and non-official language,267,,15920,15415,5,440,65
+34484184,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,French and non-official language,268,,315,85,40,185,5
+34484185,2016,47,1,Saskatchewan,4.8,0, ,47,Total - Sex,1,,"English, French and non-official language",269,,280,65,0,210,0
+34484186,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Total - Mother tongue,1,1.0,539105,511935,255,23295,3620
+34484187,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Single responses,2,,530145,504125,235,22205,3585
+34484188,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Official languages,3,,452955,432300,185,20360,110
+34484189,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,English,4,,445635,431225,10,14290,110
+34484190,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,French,5,,7320,1070,175,6070,0
+34484191,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Non-official languages,6,,77190,71830,50,1840,3470
+34484192,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Aboriginal languages,7,,13685,13480,5,55,145
+34484193,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Algonquian languages,8,,9645,9550,0,40,50
+34484194,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Blackfoot,9,,5,5,0,0,0
+34484195,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Cree-Montagnais languages,10,,9190,9105,0,40,45
+34484196,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Atikamekw,11,,0,0,0,0,0
+34484197,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Montagnais (Innu),12,,0,0,0,0,0
+34484198,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Moose Cree,13,,0,0,0,0,0
+34484199,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Naskapi,14,,5,0,0,0,0
+34484200,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Northern East Cree,15,,15,15,0,0,0
+34484201,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Plains Cree,16,,975,960,0,5,10
+34484202,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Southern East Cree,17,,5,0,0,0,0
+34484203,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Swampy Cree,18,,110,110,0,0,5
+34484204,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Woods Cree,19,,375,370,0,5,0
+34484205,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Cree, n.o.s.",20,,7710,7645,5,30,35
+34484206,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Eastern Algonquian languages,21,,0,0,0,0,0
+34484207,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Malecite,22,,0,0,0,0,0
+34484208,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Mi'kmaq,23,,5,5,0,0,0
+34484209,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Ojibway-Potawatomi languages,24,,440,440,0,5,0
+34484210,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Algonquin,25,,0,0,0,0,0
+34484211,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Ojibway,26,,435,435,0,0,5
+34484212,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Oji-Cree,27,,5,5,0,0,0
+34484213,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Ottawa (Odawa),28,,0,0,0,0,0
+34484214,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Algonquian languages, n.i.e.",29,,5,0,0,0,0
+34484215,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Athabaskan languages,30,,3800,3700,5,5,100
+34484216,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Northern Athabaskan languages,31,,3805,3700,5,5,100
+34484217,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Babine (Wetsuwet'en),32,,0,0,0,0,0
+34484218,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Beaver,33,,0,0,0,0,0
+34484219,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Carrier,34,,0,0,0,0,0
+34484220,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Chilcotin,35,,0,0,0,0,0
+34484221,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Dene,36,,3805,3700,0,5,100
+34484222,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Dogrib (Tlicho),37,,0,0,0,0,0
+34484223,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Gwich'in,38,,0,0,0,0,0
+34484224,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Sarsi (Sarcee),39,,0,0,0,0,0
+34484225,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Sekani,40,,0,0,0,0,0
+34484226,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Slavey-Hare languages,41,,0,0,0,0,0
+34484227,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,North Slavey (Hare),42,,0,0,0,0,0
+34484228,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,South Slavey,43,,0,0,0,0,0
+34484229,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Slavey, n.o.s.",44,,0,0,0,0,0
+34484230,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tahltan languages,45,,0,0,0,0,0
+34484231,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Kaska (Nahani),46,,0,0,0,0,0
+34484232,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tahltan,47,,0,0,0,0,0
+34484233,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tutchone languages,48,,0,0,0,0,0
+34484234,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Northern Tutchone,49,,0,0,0,0,0
+34484235,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Southern Tutchone,50,,0,0,0,0,0
+34484236,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Athabaskan languages, n.i.e.",51,,5,0,0,0,0
+34484237,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Haida,52,,0,0,0,0,0
+34484238,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Inuit languages,53,,10,10,0,0,0
+34484239,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
+34484240,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Inuktitut,55,,5,5,0,0,0
+34484241,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Inuit languages, n.i.e.",56,,0,0,0,0,0
+34484242,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Iroquoian languages,57,,0,0,0,0,0
+34484243,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Cayuga,58,,0,0,0,0,0
+34484244,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Mohawk,59,,0,0,0,0,0
+34484245,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Oneida,60,,0,0,0,0,0
+34484246,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
+34484247,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Kutenai,62,,0,0,0,0,0
+34484248,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Michif,63,,110,105,0,5,0
+34484249,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Salish languages,64,,5,5,0,0,0
+34484250,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Comox,65,,0,0,0,0,0
+34484251,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Halkomelem,66,,0,0,0,0,0
+34484252,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Lillooet,67,,0,0,0,0,0
+34484253,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Okanagan,68,,0,0,0,0,0
+34484254,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Shuswap (Secwepemctsin),69,,5,5,0,0,0
+34484255,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Squamish,70,,0,0,0,0,0
+34484256,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Straits,71,,0,0,0,0,0
+34484257,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Thompson (Ntlakapamux),72,,0,0,0,0,0
+34484258,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Salish languages, n.i.e.",73,,0,0,0,0,0
+34484259,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Siouan languages,74,,110,105,0,0,0
+34484260,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Dakota,75,,90,85,0,5,0
+34484261,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Stoney,76,,5,5,0,0,0
+34484262,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Siouan languages, n.i.e.",77,,20,20,0,0,0
+34484263,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tlingit,78,,0,0,0,0,0
+34484264,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tsimshian languages,79,,0,0,0,0,0
+34484265,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Gitxsan (Gitksan),80,,0,0,0,0,0
+34484266,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Nisga'a,81,,0,0,0,0,0
+34484267,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tsimshian,82,,0,5,0,0,0
+34484268,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Wakashan languages,83,,0,0,0,0,0
+34484269,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Haisla,84,,0,0,0,0,0
+34484270,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Heiltsuk,85,,0,0,0,0,0
+34484271,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
+34484272,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
+34484273,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
+34484274,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Aboriginal languages, n.o.s.",89,,5,5,0,0,0
+34484275,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Non-Aboriginal languages,90,,63505,58345,45,1795,3325
+34484276,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Afro-Asiatic languages,91,,3560,2685,5,205,660
+34484277,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Berber languages,92,,10,0,0,5,0
+34484278,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Kabyle,93,,0,0,0,0,0
+34484279,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Berber languages, n.i.e.",94,,5,0,0,5,0
+34484280,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Cushitic languages,95,,505,465,0,5,35
+34484281,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Bilen,96,,25,20,0,0,5
+34484282,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Oromo,97,,105,100,0,0,5
+34484283,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Somali,98,,360,335,0,5,20
+34484284,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Cushitic languages, n.i.e.",99,,15,10,0,0,5
+34484285,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Semitic languages,100,,3035,2205,0,195,630
+34484286,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Amharic,101,,135,140,0,0,5
+34484287,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Arabic,102,,2200,1460,0,175,570
+34484288,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Assyrian Neo-Aramaic,103,,155,135,0,5,20
+34484289,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Chaldean Neo-Aramaic,104,,75,65,0,5,10
+34484290,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Harari,105,,5,0,0,0,0
+34484291,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Hebrew,106,,45,40,0,0,0
+34484292,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Maltese,107,,5,0,0,0,0
+34484293,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tigrigna,108,,340,310,0,0,25
+34484294,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Semitic languages, n.i.e.",109,,65,50,0,10,5
+34484295,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,15,10,0,0,5
+34484296,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Austro-Asiatic languages,111,,1250,1050,0,40,155
+34484297,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Khmer (Cambodian),112,,70,60,0,5,0
+34484298,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Vietnamese,113,,1180,985,0,40,160
+34484299,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
+34484300,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Austronesian languages,115,,11130,10925,0,125,85
+34484301,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Bikol,116,,40,40,0,0,0
+34484302,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Cebuano,117,,685,675,0,5,5
+34484303,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Fijian,118,,20,20,0,0,0
+34484304,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Hiligaynon,119,,120,120,0,5,0
+34484305,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Ilocano,120,,375,365,0,5,5
+34484306,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Malagasy,121,,0,0,0,0,0
+34484307,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Malay,122,,55,50,0,0,5
+34484308,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,80,80,0,0,0
+34484309,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Pangasinan,124,,20,15,0,0,0
+34484310,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Tagalog (Pilipino, Filipino)",125,,9590,9410,0,115,70
+34484311,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Waray-Waray,126,,25,30,0,0,0
+34484312,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Austronesian languages, n.i.e.",127,,125,125,0,0,5
+34484313,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Creole languages,128,,100,25,5,70,5
+34484314,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Haitian Creole,129,,5,0,5,0,0
+34484315,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Creole, n.o.s.",130,,70,5,0,65,0
+34484316,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Creole languages, n.i.e.",131,,30,20,0,10,0
+34484317,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Dravidian languages,132,,865,835,0,15,20
+34484318,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Kannada,133,,30,30,0,0,0
+34484319,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Malayalam,134,,460,440,0,5,15
+34484320,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tamil,135,,200,195,0,10,5
+34484321,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Telugu,136,,165,160,0,5,0
+34484322,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Dravidian languages, n.i.e.",137,,10,10,0,0,0
+34484323,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Hmong-Mien languages,138,,0,0,0,0,0
+34484324,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Indo-European languages,139,,36235,34160,10,950,1115
+34484325,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Albanian,140,,190,175,0,5,5
+34484326,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Armenian,141,,40,35,0,5,5
+34484327,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Balto-Slavic languages,142,,8490,8115,0,175,190
+34484328,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Baltic languages,143,,85,75,0,5,5
+34484329,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Latvian,144,,50,45,0,0,0
+34484330,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Lithuanian,145,,40,40,0,0,0
+34484331,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Slavic languages,146,,8405,8040,0,175,185
+34484332,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Belarusan,147,,0,0,0,0,0
+34484333,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Bosnian,148,,105,105,0,0,0
+34484334,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Bulgarian,149,,35,35,0,0,0
+34484335,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Croatian,150,,235,220,0,15,5
+34484336,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Czech,151,,115,105,0,5,0
+34484337,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Macedonian,152,,25,25,0,0,5
+34484338,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Polish,153,,850,805,0,40,5
+34484339,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Russian,154,,1465,1335,0,45,85
+34484340,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Serbian,155,,235,225,0,5,5
+34484341,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Serbo-Croatian,156,,60,55,0,5,0
+34484342,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Slovak,157,,55,50,0,5,0
+34484343,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Slovene (Slovenian),158,,40,35,0,5,0
+34484344,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Ukrainian,159,,5035,4905,5,55,75
+34484345,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Slavic languages, n.i.e.",160,,140,140,0,0,0
+34484346,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Celtic languages,161,,35,30,0,5,0
+34484347,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Scottish Gaelic,162,,5,5,0,0,0
+34484348,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Welsh,163,,10,10,0,0,0
+34484349,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Celtic languages, n.i.e.",164,,15,10,0,0,0
+34484350,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Germanic languages,165,,11710,11295,0,200,215
+34484351,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Afrikaans,166,,450,440,0,10,0
+34484352,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Danish,167,,145,145,0,5,0
+34484353,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Dutch,168,,685,635,0,40,5
+34484354,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Frisian,169,,20,15,0,0,0
+34484355,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,German,170,,10150,9815,0,130,205
+34484356,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Icelandic,171,,25,25,0,0,0
+34484357,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Norwegian,172,,145,140,0,5,0
+34484358,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Swedish,173,,60,55,0,5,0
+34484359,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Vlaams (Flemish),174,,30,15,0,10,0
+34484360,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Yiddish,175,,10,10,0,0,0
+34484361,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Germanic languages, n.i.e.",176,,0,5,0,5,0
+34484362,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Greek,177,,490,465,0,10,15
+34484363,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Indo-Iranian languages,178,,12065,11210,5,295,555
+34484364,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Indo-Aryan languages,179,,10780,10035,0,255,490
+34484365,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Bengali,180,,1490,1380,0,65,45
+34484366,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Gujarati,181,,1420,1355,0,10,50
+34484367,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Hindi,182,,880,850,0,20,20
+34484368,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Kashmiri,183,,10,10,0,0,0
+34484369,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Konkani,184,,20,20,0,0,0
+34484370,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Marathi,185,,80,75,0,5,0
+34484371,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Nepali,186,,395,305,0,5,80
+34484372,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Oriya (Odia),187,,15,15,0,0,0
+34484373,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Punjabi (Panjabi),188,,2890,2705,0,35,150
+34484374,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Sindhi,189,,65,65,0,0,5
+34484375,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Sinhala (Sinhalese),190,,130,130,0,0,5
+34484376,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Urdu,191,,3380,3130,0,115,135
+34484377,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Iranian languages,192,,1125,1035,0,35,60
+34484378,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Kurdish,193,,80,70,0,0,10
+34484379,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Pashto,194,,315,295,0,0,15
+34484380,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Persian (Farsi),195,,735,670,5,30,35
+34484381,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Indo-Iranian languages, n.i.e.",196,,155,140,5,0,10
+34484382,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Italic (Romance) languages,197,,3225,2840,0,255,120
+34484383,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Catalan,198,,0,0,0,0,0
+34484384,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Italian,199,,370,335,0,30,0
+34484385,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Portuguese,200,,265,240,0,20,0
+34484386,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Romanian,201,,425,365,5,40,15
+34484387,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Spanish,202,,2165,1895,0,165,105
+34484388,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Italic (Romance) languages, n.i.e.",203,,5,5,0,0,0
+34484389,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Japanese,204,,100,90,0,5,5
+34484390,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Kartvelian languages,205,,5,0,0,0,0
+34484391,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Georgian,206,,0,5,0,0,0
+34484392,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Korean,207,,805,720,0,20,60
+34484393,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Mongolic languages,208,,15,15,0,0,0
+34484394,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Mongolian,209,,15,15,0,0,0
+34484395,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Niger-Congo languages,210,,1235,990,20,195,35
+34484396,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Akan (Twi),211,,110,110,0,0,5
+34484397,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Bamanankan,212,,0,0,0,5,0
+34484398,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Edo,213,,20,15,0,5,0
+34484399,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Ewe,214,,30,20,0,10,0
+34484400,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,15,10,0,5,0
+34484401,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Ga,216,,15,10,0,0,0
+34484402,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Ganda,217,,20,20,0,0,0
+34484403,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Igbo,218,,125,120,0,5,0
+34484404,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Lingala,219,,20,5,0,10,5
+34484405,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Rundi (Kirundi),220,,80,15,5,50,15
+34484406,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Kinyarwanda (Rwanda),221,,55,30,0,25,0
+34484407,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Shona,222,,55,55,0,0,0
+34484408,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Swahili,223,,220,160,10,40,15
+34484409,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Wolof,224,,10,0,0,5,0
+34484410,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Yoruba,225,,245,240,0,5,0
+34484411,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Niger-Congo languages, n.i.e.",226,,220,185,0,30,5
+34484412,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Nilo-Saharan languages,227,,190,185,0,0,5
+34484413,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Dinka,228,,70,65,0,0,0
+34484414,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,125,120,5,0,5
+34484415,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Sign languages,230,,105,50,0,0,55
+34484416,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,American Sign Language,231,,35,15,0,0,15
+34484417,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Quebec Sign Language,232,,0,0,0,0,0
+34484418,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Sign languages, n.i.e",233,,70,30,0,0,40
+34484419,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Sino-Tibetan languages,234,,6700,5480,5,120,1100
+34484420,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Chinese languages,235,,6170,5045,5,115,1005
+34484421,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Cantonese,236,,1835,1470,0,40,325
+34484422,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Hakka,237,,15,15,0,0,5
+34484423,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Mandarin,238,,3600,2980,0,60,565
+34484424,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Min Dong,239,,0,0,0,0,5
+34484425,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,105,90,0,5,10
+34484426,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Wu (Shanghainese),241,,35,20,0,0,10
+34484427,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Chinese, n.o.s.",242,,565,470,5,15,85
+34484428,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Chinese languages, n.i.e.",243,,0,5,0,0,0
+34484429,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tibeto-Burman languages,244,,535,435,0,0,100
+34484430,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Burmese,245,,115,100,0,0,10
+34484431,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Karenic languages,246,,395,315,0,0,80
+34484432,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tibetan,247,,5,5,0,0,0
+34484433,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,20,15,0,0,0
+34484434,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Tai-Kadai languages,249,,230,220,0,10,5
+34484435,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Lao,250,,180,160,0,10,5
+34484436,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Thai,251,,60,55,0,5,0
+34484437,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
+34484438,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Turkic languages,253,,185,165,0,15,5
+34484439,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Azerbaijani,254,,15,10,0,0,0
+34484440,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Turkish,255,,155,135,0,15,5
+34484441,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Uyghur,256,,0,0,0,0,0
+34484442,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Uzbek,257,,10,10,0,0,0
+34484443,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Turkic languages, n.i.e.",258,,10,5,0,0,0
+34484444,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Uralic languages,259,,740,715,0,15,5
+34484445,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Estonian,260,,5,5,0,0,0
+34484446,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Finnish,261,,80,85,0,0,0
+34484447,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Hungarian,262,,645,630,0,10,10
+34484448,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
+34484449,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"Other languages, n.i.e.",264,,60,50,0,5,5
+34484450,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,Multiple responses,265,,8955,7815,20,1090,35
+34484451,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,English and French,266,,985,300,5,675,0
+34484452,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,English and non-official language,267,,7675,7445,0,195,35
+34484453,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,French and non-official language,268,,145,30,10,105,0
+34484454,2016,47,1,Saskatchewan,4.8,0, ,47,Male,2,,"English, French and non-official language",269,,145,35,0,110,0
+34484455,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Total - Mother tongue,1,1.0,544135,511465,280,28065,4325
+34484456,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Single responses,2,,534530,503115,245,26875,4295
+34484457,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Official languages,3,,454760,429530,190,24965,80
+34484458,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,English,4,,446985,428380,10,18515,75
+34484459,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,French,5,,7780,1150,175,6450,0
+34484460,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Non-official languages,6,,79770,73580,60,1910,4215
+34484461,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Aboriginal languages,7,,14655,14465,10,60,130
+34484462,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Algonquian languages,8,,10325,10230,5,45,45
+34484463,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Blackfoot,9,,5,5,0,0,0
+34484464,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Cree-Montagnais languages,10,,9825,9735,0,45,50
+34484465,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Atikamekw,11,,0,0,0,0,0
+34484466,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Montagnais (Innu),12,,0,0,0,0,0
+34484467,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Moose Cree,13,,0,0,0,0,0
+34484468,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Naskapi,14,,0,0,0,0,0
+34484469,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Northern East Cree,15,,15,10,0,0,0
+34484470,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Plains Cree,16,,1105,1095,0,5,0
+34484471,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Southern East Cree,17,,5,5,0,0,0
+34484472,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Swampy Cree,18,,135,135,0,0,0
+34484473,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Woods Cree,19,,410,410,0,5,0
+34484474,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Cree, n.o.s.",20,,8155,8080,0,25,40
+34484475,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Eastern Algonquian languages,21,,5,5,0,5,0
+34484476,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Malecite,22,,0,0,0,0,0
+34484477,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Mi'kmaq,23,,5,0,0,5,0
+34484478,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Ojibway-Potawatomi languages,24,,490,490,0,5,0
+34484479,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Algonquin,25,,0,0,0,0,0
+34484480,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Ojibway,26,,485,485,0,0,0
+34484481,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Oji-Cree,27,,0,5,0,0,0
+34484482,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Ottawa (Odawa),28,,0,0,0,0,0
+34484483,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
+34484484,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Athabaskan languages,30,,4060,3975,5,5,80
+34484485,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Northern Athabaskan languages,31,,4055,3975,5,5,75
+34484486,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Babine (Wetsuwet'en),32,,0,0,0,0,0
+34484487,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Beaver,33,,0,0,0,0,0
+34484488,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Carrier,34,,0,0,0,0,0
+34484489,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Chilcotin,35,,0,0,0,0,0
+34484490,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Dene,36,,4055,3975,0,0,75
+34484491,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Dogrib (Tlicho),37,,0,0,0,0,0
+34484492,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Gwich'in,38,,0,0,0,0,0
+34484493,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Sarsi (Sarcee),39,,0,0,0,0,0
+34484494,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Sekani,40,,0,0,0,0,0
+34484495,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Slavey-Hare languages,41,,0,0,0,0,0
+34484496,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,North Slavey (Hare),42,,0,0,0,0,0
+34484497,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,South Slavey,43,,0,0,0,0,0
+34484498,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Slavey, n.o.s.",44,,0,0,0,0,0
+34484499,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tahltan languages,45,,0,0,0,0,0
+34484500,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Kaska (Nahani),46,,0,0,0,0,0
+34484501,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tahltan,47,,0,0,0,0,0
+34484502,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tutchone languages,48,,0,0,0,0,0
+34484503,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Northern Tutchone,49,,0,0,0,0,0
+34484504,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Southern Tutchone,50,,0,0,0,0,0
+34484505,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
+34484506,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Haida,52,,5,0,0,0,0
+34484507,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Inuit languages,53,,20,20,0,0,0
+34484508,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Inuinnaqtun (Inuvialuktun),54,,5,5,0,0,0
+34484509,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Inuktitut,55,,15,15,0,0,0
+34484510,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Inuit languages, n.i.e.",56,,0,0,0,0,0
+34484511,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Iroquoian languages,57,,5,0,0,0,0
+34484512,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Cayuga,58,,0,0,0,0,0
+34484513,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Mohawk,59,,0,5,0,0,0
+34484514,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Oneida,60,,0,0,0,0,0
+34484515,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
+34484516,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Kutenai,62,,0,0,0,0,0
+34484517,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Michif,63,,125,110,0,10,5
+34484518,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Salish languages,64,,5,0,0,0,0
+34484519,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Comox,65,,0,0,0,0,0
+34484520,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Halkomelem,66,,0,0,0,0,0
+34484521,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Lillooet,67,,0,0,0,0,0
+34484522,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Okanagan,68,,0,0,0,0,0
+34484523,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Shuswap (Secwepemctsin),69,,0,5,0,0,0
+34484524,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Squamish,70,,0,0,0,0,0
+34484525,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Straits,71,,0,0,0,0,0
+34484526,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Thompson (Ntlakapamux),72,,0,0,0,0,0
+34484527,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Salish languages, n.i.e.",73,,0,0,0,0,0
+34484528,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Siouan languages,74,,120,120,0,0,0
+34484529,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Dakota,75,,105,105,0,0,0
+34484530,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Stoney,76,,0,0,0,0,0
+34484531,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Siouan languages, n.i.e.",77,,15,15,0,0,0
+34484532,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tlingit,78,,0,0,0,0,0
+34484533,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tsimshian languages,79,,0,0,0,0,0
+34484534,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Gitxsan (Gitksan),80,,0,0,0,0,0
+34484535,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Nisga'a,81,,0,0,0,0,0
+34484536,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tsimshian,82,,0,0,0,0,0
+34484537,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Wakashan languages,83,,0,0,0,0,0
+34484538,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Haisla,84,,0,0,0,0,0
+34484539,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Heiltsuk,85,,0,0,0,0,0
+34484540,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
+34484541,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
+34484542,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
+34484543,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Aboriginal languages, n.o.s.",89,,0,5,0,0,0
+34484544,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Non-Aboriginal languages,90,,65110,59120,50,1855,4085
+34484545,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Afro-Asiatic languages,91,,3210,2295,10,145,760
+34484546,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Berber languages,92,,5,0,0,5,0
+34484547,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Kabyle,93,,0,0,0,0,0
+34484548,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Berber languages, n.i.e.",94,,0,0,0,5,0
+34484549,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Cushitic languages,95,,550,455,0,5,85
+34484550,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Bilen,96,,25,25,0,0,5
+34484551,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Oromo,97,,90,75,0,0,10
+34484552,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Somali,98,,415,345,0,5,65
+34484553,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Cushitic languages, n.i.e.",99,,15,10,0,0,5
+34484554,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Semitic languages,100,,2655,1835,10,135,675
+34484555,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Amharic,101,,155,145,0,5,5
+34484556,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Arabic,102,,1840,1155,10,110,565
+34484557,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Assyrian Neo-Aramaic,103,,150,110,0,5,25
+34484558,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Chaldean Neo-Aramaic,104,,75,55,0,5,15
+34484559,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Harari,105,,0,0,0,0,0
+34484560,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Hebrew,106,,30,30,0,5,5
+34484561,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Maltese,107,,5,5,0,0,0
+34484562,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tigrigna,108,,340,285,0,0,55
+34484563,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Semitic languages, n.i.e.",109,,60,45,0,10,5
+34484564,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,5,5,0,0,0
+34484565,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Austro-Asiatic languages,111,,1305,1045,0,45,220
+34484566,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Khmer (Cambodian),112,,70,60,0,0,5
+34484567,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Vietnamese,113,,1240,985,0,45,210
+34484568,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
+34484569,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Austronesian languages,115,,12285,12035,0,155,95
+34484570,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Bikol,116,,40,45,0,0,0
+34484571,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Cebuano,117,,860,845,0,5,10
+34484572,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Fijian,118,,10,5,0,0,0
+34484573,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Hiligaynon,119,,140,135,0,0,0
+34484574,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Ilocano,120,,420,410,0,5,5
+34484575,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Malagasy,121,,0,0,0,0,0
+34484576,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Malay,122,,70,65,0,5,5
+34484577,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,100,100,0,0,0
+34484578,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Pangasinan,124,,25,25,0,0,0
+34484579,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Tagalog (Pilipino, Filipino)",125,,10455,10240,0,140,80
+34484580,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Waray-Waray,126,,35,35,0,0,0
+34484581,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Austronesian languages, n.i.e.",127,,135,135,0,0,5
+34484582,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Creole languages,128,,115,30,5,75,5
+34484583,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Haitian Creole,129,,5,5,0,5,0
+34484584,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Creole, n.o.s.",130,,80,10,5,65,5
+34484585,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Creole languages, n.i.e.",131,,35,20,0,10,0
+34484586,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Dravidian languages,132,,695,665,0,5,35
+34484587,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Kannada,133,,30,30,0,0,0
+34484588,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Malayalam,134,,400,375,0,0,20
+34484589,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tamil,135,,150,140,0,0,5
+34484590,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Telugu,136,,120,115,0,0,5
+34484591,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Dravidian languages, n.i.e.",137,,5,0,0,0,0
+34484592,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Hmong-Mien languages,138,,0,0,0,0,0
+34484593,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Indo-European languages,139,,36935,34350,15,1060,1505
+34484594,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Albanian,140,,190,170,0,5,20
+34484595,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Armenian,141,,35,30,0,0,5
+34484596,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Balto-Slavic languages,142,,9970,9480,5,245,240
+34484597,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Baltic languages,143,,90,85,0,5,0
+34484598,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Latvian,144,,55,50,0,5,0
+34484599,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Lithuanian,145,,40,35,0,0,0
+34484600,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Slavic languages,146,,9885,9395,5,240,240
+34484601,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Belarusan,147,,0,5,0,0,0
+34484602,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Bosnian,148,,115,115,0,0,5
+34484603,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Bulgarian,149,,30,25,0,5,0
+34484604,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Croatian,150,,215,205,0,5,5
+34484605,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Czech,151,,120,115,0,5,0
+34484606,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Macedonian,152,,25,25,0,0,5
+34484607,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Polish,153,,1015,960,0,40,15
+34484608,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Russian,154,,1580,1385,5,80,105
+34484609,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Serbian,155,,230,215,0,5,10
+34484610,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Serbo-Croatian,156,,60,60,0,0,0
+34484611,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Slovak,157,,55,50,0,0,0
+34484612,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Slovene (Slovenian),158,,45,45,0,0,0
+34484613,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Ukrainian,159,,6235,6050,5,90,95
+34484614,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Slavic languages, n.i.e.",160,,145,135,0,5,5
+34484615,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Celtic languages,161,,30,20,0,5,0
+34484616,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Scottish Gaelic,162,,5,5,0,0,0
+34484617,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Welsh,163,,10,15,0,0,0
+34484618,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Celtic languages, n.i.e.",164,,10,5,0,0,0
+34484619,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Germanic languages,165,,12750,12325,0,220,200
+34484620,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Afrikaans,166,,425,420,0,10,0
+34484621,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Danish,167,,110,110,0,0,0
+34484622,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Dutch,168,,700,660,0,35,5
+34484623,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Frisian,169,,15,10,0,0,0
+34484624,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,German,170,,11170,10810,0,160,195
+34484625,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Icelandic,171,,25,30,0,0,0
+34484626,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Norwegian,172,,165,165,0,0,0
+34484627,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Swedish,173,,85,85,0,5,0
+34484628,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Vlaams (Flemish),174,,35,25,0,10,0
+34484629,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Yiddish,175,,10,10,0,0,0
+34484630,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Germanic languages, n.i.e.",176,,0,5,0,0,0
+34484631,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Greek,177,,445,410,0,25,10
+34484632,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Indo-Iranian languages,178,,10275,9155,0,255,860
+34484633,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Indo-Aryan languages,179,,9210,8235,0,235,745
+34484634,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Bengali,180,,1305,1160,0,65,75
+34484635,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Gujarati,181,,1095,995,0,10,90
+34484636,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Hindi,182,,665,625,0,15,25
+34484637,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Kashmiri,183,,10,5,0,0,0
+34484638,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Konkani,184,,15,15,0,0,0
+34484639,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Marathi,185,,60,55,0,0,0
+34484640,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Nepali,186,,375,265,0,10,105
+34484641,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Oriya (Odia),187,,15,10,0,0,0
+34484642,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Punjabi (Panjabi),188,,2355,2085,0,25,245
+34484643,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Sindhi,189,,60,50,0,5,0
+34484644,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Sinhala (Sinhalese),190,,140,130,0,5,5
+34484645,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Urdu,191,,3135,2830,5,105,205
+34484646,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Iranian languages,192,,940,825,5,20,90
+34484647,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Kurdish,193,,65,50,0,0,15
+34484648,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Pashto,194,,235,210,0,0,25
+34484649,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Persian (Farsi),195,,635,570,0,20,50
+34484650,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Indo-Iranian languages, n.i.e.",196,,125,100,5,5,20
+34484651,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Italic (Romance) languages,197,,3250,2765,5,310,175
+34484652,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Catalan,198,,0,0,0,0,0
+34484653,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Italian,199,,340,285,0,45,5
+34484654,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Portuguese,200,,345,300,0,35,10
+34484655,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Romanian,201,,430,355,0,55,15
+34484656,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Spanish,202,,2125,1820,0,170,140
+34484657,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Italic (Romance) languages, n.i.e.",203,,10,5,0,0,0
+34484658,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Japanese,204,,220,210,0,0,10
+34484659,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Kartvelian languages,205,,0,5,0,0,0
+34484660,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Georgian,206,,0,0,0,0,0
+34484661,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Korean,207,,865,770,0,25,70
+34484662,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Mongolic languages,208,,25,20,0,0,0
+34484663,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Mongolian,209,,25,20,0,0,0
+34484664,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Niger-Congo languages,210,,1075,840,20,160,55
+34484665,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Akan (Twi),211,,70,70,0,5,5
+34484666,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Bamanankan,212,,0,0,0,0,0
+34484667,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Edo,213,,20,20,0,0,0
+34484668,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Ewe,214,,20,20,0,0,0
+34484669,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,10,5,0,5,0
+34484670,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Ga,216,,5,10,0,0,0
+34484671,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Ganda,217,,20,20,0,0,0
+34484672,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Igbo,218,,95,90,0,5,0
+34484673,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Lingala,219,,10,5,0,5,0
+34484674,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Rundi (Kirundi),220,,65,10,5,30,20
+34484675,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Kinyarwanda (Rwanda),221,,60,25,0,35,5
+34484676,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Shona,222,,40,40,0,0,0
+34484677,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Swahili,223,,210,140,10,30,30
+34484678,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Wolof,224,,10,0,0,10,0
+34484679,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Yoruba,225,,220,215,0,5,0
+34484680,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Niger-Congo languages, n.i.e.",226,,210,180,0,25,5
+34484681,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Nilo-Saharan languages,227,,145,135,0,0,5
+34484682,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Dinka,228,,45,45,0,0,0
+34484683,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,100,95,0,0,5
+34484684,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Sign languages,230,,100,60,0,0,40
+34484685,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,American Sign Language,231,,35,25,0,0,10
+34484686,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Quebec Sign Language,232,,0,0,0,0,0
+34484687,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Sign languages, n.i.e",233,,65,40,0,0,30
+34484688,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Sino-Tibetan languages,234,,6795,5425,5,135,1230
+34484689,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Chinese languages,235,,6290,5045,0,130,1115
+34484690,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Cantonese,236,,1945,1495,0,40,410
+34484691,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Hakka,237,,20,10,0,0,5
+34484692,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Mandarin,238,,3635,2965,5,75,590
+34484693,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Min Dong,239,,5,5,0,0,0
+34484694,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,100,85,0,5,15
+34484695,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Wu (Shanghainese),241,,25,15,0,0,10
+34484696,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Chinese, n.o.s.",242,,570,475,0,10,80
+34484697,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Chinese languages, n.i.e.",243,,0,0,0,0,0
+34484698,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tibeto-Burman languages,244,,505,380,0,5,120
+34484699,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Burmese,245,,70,60,0,0,5
+34484700,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Karenic languages,246,,415,305,0,0,110
+34484701,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tibetan,247,,5,5,0,0,0
+34484702,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,20,15,0,0,0
+34484703,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Tai-Kadai languages,249,,295,275,0,10,15
+34484704,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Lao,250,,170,155,0,5,10
+34484705,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Thai,251,,125,115,0,5,5
+34484706,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
+34484707,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Turkic languages,253,,175,155,5,5,15
+34484708,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Azerbaijani,254,,15,10,0,0,0
+34484709,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Turkish,255,,130,110,5,5,15
+34484710,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Uyghur,256,,0,5,0,0,0
+34484711,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Uzbek,257,,20,20,0,0,0
+34484712,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Turkic languages, n.i.e.",258,,10,10,0,0,0
+34484713,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Uralic languages,259,,815,785,0,20,10
+34484714,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Estonian,260,,10,10,0,0,0
+34484715,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Finnish,261,,125,120,0,5,0
+34484716,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Hungarian,262,,685,655,0,20,15
+34484717,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
+34484718,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"Other languages, n.i.e.",264,,45,35,0,10,5
+34484719,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,Multiple responses,265,,9605,8350,30,1195,30
+34484720,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,English and French,266,,1055,295,5,765,0
+34484721,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,English and non-official language,267,,8245,7970,5,245,25
+34484722,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,French and non-official language,268,,170,55,25,85,0
+34484723,2016,47,1,Saskatchewan,4.8,0, ,47,Female,3,,"English, French and non-official language",269,,135,30,0,105,0

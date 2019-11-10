@@ -1,0 +1,808 @@
+,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+48105270,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Total - Mother tongue,1,1.0,35560,30425,85,4900,140
+48105271,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Single responses,2,,34885,29995,80,4665,140
+48105272,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Official languages,3,,30675,26245,80,4350,0
+48105273,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,English,4,,29110,26175,0,2930,0
+48105274,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,French,5,,1565,70,80,1420,0
+48105275,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Non-official languages,6,,4210,3755,0,315,135
+48105276,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Aboriginal languages,7,,675,655,0,20,0
+48105277,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Algonquian languages,8,,25,25,0,5,0
+48105278,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Blackfoot,9,,0,0,0,0,0
+48105279,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Cree-Montagnais languages,10,,25,20,0,0,0
+48105280,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Atikamekw,11,,0,0,0,0,0
+48105281,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Montagnais (Innu),12,,0,0,0,0,0
+48105282,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Moose Cree,13,,0,0,0,0,0
+48105283,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Naskapi,14,,0,0,0,0,0
+48105284,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Northern East Cree,15,,0,0,0,0,0
+48105285,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Plains Cree,16,,0,0,0,0,0
+48105286,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Southern East Cree,17,,0,0,0,0,0
+48105287,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Swampy Cree,18,,0,0,0,0,0
+48105288,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Woods Cree,19,,0,0,0,0,0
+48105289,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Cree, n.o.s.",20,,20,20,0,5,0
+48105290,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Eastern Algonquian languages,21,,0,0,0,0,0
+48105291,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Malecite,22,,0,0,0,0,0
+48105292,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Mi'kmaq,23,,0,0,0,0,0
+48105293,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Ojibway-Potawatomi languages,24,,5,5,0,0,0
+48105294,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Algonquin,25,,0,0,0,0,0
+48105295,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Ojibway,26,,5,0,0,0,0
+48105296,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Oji-Cree,27,,0,0,0,0,0
+48105297,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Ottawa (Odawa),28,,0,0,0,0,0
+48105298,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
+48105299,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Athabaskan languages,30,,560,550,0,10,0
+48105300,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Northern Athabaskan languages,31,,545,535,0,10,0
+48105301,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Babine (Wetsuwet'en),32,,0,0,0,0,0
+48105302,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Beaver,33,,0,0,0,0,0
+48105303,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Carrier,34,,0,0,0,0,0
+48105304,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Chilcotin,35,,0,0,0,0,0
+48105305,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Dene,36,,5,5,0,0,0
+48105306,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Dogrib (Tlicho),37,,0,0,0,0,0
+48105307,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Gwich'in,38,,80,80,0,5,0
+48105308,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Sarsi (Sarcee),39,,0,0,0,0,0
+48105309,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Sekani,40,,0,0,0,0,0
+48105310,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Slavey-Hare languages,41,,0,5,0,0,0
+48105311,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,North Slavey (Hare),42,,0,5,0,0,0
+48105312,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,South Slavey,43,,0,0,0,0,0
+48105313,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Slavey, n.o.s.",44,,5,5,0,0,0
+48105314,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tahltan languages,45,,170,170,0,0,0
+48105315,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Kaska (Nahani),46,,160,165,0,0,0
+48105316,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tahltan,47,,5,5,0,0,0
+48105317,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tutchone languages,48,,280,280,0,5,0
+48105318,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Northern Tutchone,49,,210,210,0,5,0
+48105319,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Southern Tutchone,50,,70,65,0,0,0
+48105320,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,15,10,0,5,0
+48105321,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Haida,52,,0,0,0,0,0
+48105322,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Inuit languages,53,,15,20,0,0,0
+48105323,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,10,5,0,0,0
+48105324,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Inuktitut,55,,10,5,0,0,0
+48105325,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Inuit languages, n.i.e.",56,,0,5,0,0,0
+48105326,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Iroquoian languages,57,,0,0,0,0,0
+48105327,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Cayuga,58,,0,0,0,0,0
+48105328,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Mohawk,59,,0,0,0,0,0
+48105329,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Oneida,60,,0,0,0,0,0
+48105330,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
+48105331,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Kutenai,62,,0,0,0,0,0
+48105332,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Michif,63,,5,0,0,0,0
+48105333,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Salish languages,64,,5,5,0,0,0
+48105334,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Comox,65,,0,0,0,0,0
+48105335,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Halkomelem,66,,0,0,0,0,0
+48105336,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Lillooet,67,,0,0,0,0,0
+48105337,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Okanagan,68,,0,0,0,0,0
+48105338,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
+48105339,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Squamish,70,,0,0,0,0,0
+48105340,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Straits,71,,0,0,0,0,0
+48105341,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Thompson (Ntlakapamux),72,,0,0,0,0,0
+48105342,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Salish languages, n.i.e.",73,,0,0,0,0,0
+48105343,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Siouan languages,74,,0,0,0,0,0
+48105344,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Dakota,75,,0,0,0,0,0
+48105345,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Stoney,76,,0,0,0,0,0
+48105346,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
+48105347,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tlingit,78,,65,60,0,5,0
+48105348,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tsimshian languages,79,,0,0,0,0,0
+48105349,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Gitxsan (Gitksan),80,,0,0,0,0,0
+48105350,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Nisga'a,81,,0,0,0,0,0
+48105351,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tsimshian,82,,0,0,0,0,0
+48105352,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Wakashan languages,83,,0,0,0,0,0
+48105353,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Haisla,84,,0,0,0,0,0
+48105354,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Heiltsuk,85,,0,0,0,0,0
+48105355,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
+48105356,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
+48105357,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
+48105358,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,5,10,0,0,0
+48105359,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Non-Aboriginal languages,90,,3530,3095,5,295,135
+48105360,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Afro-Asiatic languages,91,,50,30,0,5,10
+48105361,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Berber languages,92,,0,0,0,0,0
+48105362,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Kabyle,93,,0,0,0,0,0
+48105363,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Berber languages, n.i.e.",94,,0,0,0,0,0
+48105364,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Cushitic languages,95,,5,10,0,0,0
+48105365,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Bilen,96,,0,0,0,0,0
+48105366,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Oromo,97,,0,0,0,0,0
+48105367,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Somali,98,,5,5,0,0,0
+48105368,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
+48105369,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Semitic languages,100,,45,25,0,5,10
+48105370,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Amharic,101,,0,0,0,0,0
+48105371,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Arabic,102,,30,15,0,5,10
+48105372,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
+48105373,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
+48105374,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Harari,105,,0,0,0,0,0
+48105375,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Hebrew,106,,5,5,0,0,0
+48105376,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Maltese,107,,0,0,0,0,0
+48105377,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tigrigna,108,,5,5,0,0,0
+48105378,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
+48105379,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
+48105380,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Austro-Asiatic languages,111,,50,45,0,0,0
+48105381,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Khmer (Cambodian),112,,0,0,0,0,0
+48105382,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Vietnamese,113,,50,45,0,5,0
+48105383,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
+48105384,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Austronesian languages,115,,995,955,0,25,10
+48105385,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Bikol,116,,0,0,0,0,0
+48105386,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Cebuano,117,,75,70,0,5,0
+48105387,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Fijian,118,,10,10,0,0,0
+48105388,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Hiligaynon,119,,40,35,0,0,0
+48105389,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Ilocano,120,,35,35,0,0,0
+48105390,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Malagasy,121,,0,0,0,0,0
+48105391,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Malay,122,,15,10,0,0,0
+48105392,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,5,5,0,0,0
+48105393,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Pangasinan,124,,5,5,0,0,0
+48105394,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,805,770,0,20,10
+48105395,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Waray-Waray,126,,5,5,0,0,0
+48105396,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,5,10,0,0,0
+48105397,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Creole languages,128,,30,10,0,15,0
+48105398,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Haitian Creole,129,,0,0,0,0,0
+48105399,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Creole, n.o.s.",130,,15,0,0,15,0
+48105400,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Creole languages, n.i.e.",131,,10,10,0,0,0
+48105401,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Dravidian languages,132,,55,55,0,5,0
+48105402,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Kannada,133,,0,0,0,0,0
+48105403,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Malayalam,134,,25,25,0,0,0
+48105404,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tamil,135,,20,25,0,0,0
+48105405,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Telugu,136,,0,5,0,0,0
+48105406,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
+48105407,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Hmong-Mien languages,138,,0,0,0,0,0
+48105408,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Indo-European languages,139,,1715,1485,5,205,15
+48105409,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Albanian,140,,5,10,0,0,0
+48105410,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Armenian,141,,0,0,0,0,0
+48105411,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Balto-Slavic languages,142,,300,260,0,30,5
+48105412,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Baltic languages,143,,5,5,0,0,0
+48105413,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Latvian,144,,5,0,0,0,0
+48105414,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Lithuanian,145,,0,0,0,0,0
+48105415,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Slavic languages,146,,290,255,0,30,5
+48105416,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Belarusan,147,,0,0,0,0,0
+48105417,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Bosnian,148,,0,0,0,0,0
+48105418,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Bulgarian,149,,0,0,0,0,0
+48105419,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Croatian,150,,5,10,0,0,0
+48105420,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Czech,151,,55,50,0,0,0
+48105421,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Macedonian,152,,5,0,0,0,0
+48105422,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Polish,153,,65,55,0,10,0
+48105423,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Russian,154,,75,65,5,10,5
+48105424,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Serbian,155,,5,5,0,5,0
+48105425,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Serbo-Croatian,156,,5,5,0,0,0
+48105426,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Slovak,157,,5,5,0,0,0
+48105427,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Slovene (Slovenian),158,,15,15,0,5,0
+48105428,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Ukrainian,159,,45,40,0,10,0
+48105429,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
+48105430,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Celtic languages,161,,10,10,0,0,0
+48105431,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Scottish Gaelic,162,,0,5,0,5,0
+48105432,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Welsh,163,,5,5,0,0,0
+48105433,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Celtic languages, n.i.e.",164,,0,0,0,0,0
+48105434,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Germanic languages,165,,945,810,0,130,5
+48105435,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Afrikaans,166,,10,5,0,0,0
+48105436,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Danish,167,,20,15,0,0,0
+48105437,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Dutch,168,,115,100,0,15,0
+48105438,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Frisian,169,,0,0,0,0,0
+48105439,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,German,170,,770,655,0,110,5
+48105440,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Icelandic,171,,0,5,0,0,0
+48105441,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Norwegian,172,,15,10,0,0,0
+48105442,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Swedish,173,,15,15,0,0,0
+48105443,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Vlaams (Flemish),174,,5,0,0,0,0
+48105444,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Yiddish,175,,0,0,0,0,0
+48105445,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Germanic languages, n.i.e.",176,,0,0,0,5,0
+48105446,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Greek,177,,10,10,0,5,0
+48105447,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Indo-Iranian languages,178,,220,210,0,5,0
+48105448,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Indo-Aryan languages,179,,190,185,0,0,5
+48105449,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Bengali,180,,20,20,0,5,0
+48105450,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Gujarati,181,,20,20,0,0,0
+48105451,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Hindi,182,,35,35,0,0,0
+48105452,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Kashmiri,183,,0,0,0,0,0
+48105453,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Konkani,184,,0,0,0,0,0
+48105454,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Marathi,185,,0,0,0,0,0
+48105455,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Nepali,186,,5,5,0,0,0
+48105456,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Oriya (Odia),187,,0,0,0,0,0
+48105457,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Punjabi (Panjabi),188,,90,80,0,0,0
+48105458,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Sindhi,189,,0,5,0,0,0
+48105459,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Sinhala (Sinhalese),190,,5,5,0,0,0
+48105460,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Urdu,191,,25,20,0,0,0
+48105461,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Iranian languages,192,,25,25,0,0,0
+48105462,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Kurdish,193,,0,0,0,0,0
+48105463,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Pashto,194,,0,5,0,0,0
+48105464,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Persian (Farsi),195,,25,20,0,0,0
+48105465,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,0,0,0,0,0
+48105466,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Italic (Romance) languages,197,,220,185,0,35,5
+48105467,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Catalan,198,,0,0,0,0,0
+48105468,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Italian,199,,20,20,0,5,0
+48105469,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Portuguese,200,,15,10,0,0,0
+48105470,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Romanian,201,,10,10,0,0,0
+48105471,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Spanish,202,,170,140,0,20,5
+48105472,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
+48105473,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Japanese,204,,95,80,0,5,5
+48105474,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Kartvelian languages,205,,0,0,0,0,0
+48105475,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Georgian,206,,0,0,0,0,0
+48105476,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Korean,207,,45,45,0,5,0
+48105477,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Mongolic languages,208,,0,5,0,0,0
+48105478,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Mongolian,209,,0,0,0,0,0
+48105479,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Niger-Congo languages,210,,20,20,0,10,0
+48105480,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Akan (Twi),211,,0,0,0,0,0
+48105481,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Bamanankan,212,,0,0,0,0,0
+48105482,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Edo,213,,0,0,0,0,0
+48105483,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Ewe,214,,0,0,0,0,0
+48105484,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
+48105485,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Ga,216,,0,0,0,0,0
+48105486,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Ganda,217,,0,0,0,0,0
+48105487,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Igbo,218,,5,5,0,5,0
+48105488,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Lingala,219,,0,0,0,0,0
+48105489,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Rundi (Kirundi),220,,0,0,0,0,0
+48105490,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Kinyarwanda (Rwanda),221,,0,0,0,5,0
+48105491,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Shona,222,,5,5,0,0,0
+48105492,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Swahili,223,,0,5,0,0,0
+48105493,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Wolof,224,,5,0,0,0,0
+48105494,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Yoruba,225,,0,5,0,0,0
+48105495,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,10,10,0,5,0
+48105496,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Nilo-Saharan languages,227,,0,0,0,0,0
+48105497,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Dinka,228,,0,0,0,0,0
+48105498,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
+48105499,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Sign languages,230,,15,10,0,0,5
+48105500,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,American Sign Language,231,,10,10,0,0,0
+48105501,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Quebec Sign Language,232,,0,0,0,0,0
+48105502,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Sign languages, n.i.e",233,,5,0,0,0,0
+48105503,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Sino-Tibetan languages,234,,350,250,0,20,85
+48105504,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Chinese languages,235,,345,245,0,15,80
+48105505,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Cantonese,236,,220,145,0,10,70
+48105506,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Hakka,237,,5,5,0,0,0
+48105507,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Mandarin,238,,95,75,0,10,15
+48105508,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Min Dong,239,,0,0,0,0,0
+48105509,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,15,15,0,0,0
+48105510,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Wu (Shanghainese),241,,0,5,0,0,0
+48105511,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Chinese, n.o.s.",242,,15,10,0,0,0
+48105512,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Chinese languages, n.i.e.",243,,0,0,0,0,0
+48105513,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tibeto-Burman languages,244,,0,0,0,0,0
+48105514,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Burmese,245,,0,0,0,0,0
+48105515,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Karenic languages,246,,0,0,0,0,0
+48105516,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tibetan,247,,0,0,0,0,0
+48105517,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,0,0,0,0,0
+48105518,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Tai-Kadai languages,249,,30,30,0,0,0
+48105519,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Lao,250,,0,0,0,0,0
+48105520,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Thai,251,,25,25,0,0,0
+48105521,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
+48105522,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Turkic languages,253,,5,5,0,0,0
+48105523,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Azerbaijani,254,,0,0,0,0,0
+48105524,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Turkish,255,,0,0,0,0,0
+48105525,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Uyghur,256,,0,0,0,0,0
+48105526,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Uzbek,257,,0,0,0,0,0
+48105527,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Turkic languages, n.i.e.",258,,0,0,0,0,0
+48105528,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Uralic languages,259,,75,65,0,10,0
+48105529,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Estonian,260,,5,5,0,5,0
+48105530,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Finnish,261,,25,30,0,0,0
+48105531,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Hungarian,262,,50,40,0,5,0
+48105532,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
+48105533,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"Other languages, n.i.e.",264,,0,5,0,5,0
+48105534,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,Multiple responses,265,,675,430,5,235,0
+48105535,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,English and French,266,,220,25,0,190,0
+48105536,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,English and non-official language,267,,425,395,0,25,5
+48105537,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,French and non-official language,268,,15,0,0,10,0
+48105538,2016,60,1,Yukon,6.7,100, ,60,Total - Sex,1,,"English, French and non-official language",269,,15,5,0,10,0
+48105539,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Total - Mother tongue,1,1.0,17900,15530,40,2260,65
+48105540,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Single responses,2,,17555,15315,35,2140,65
+48105541,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Official languages,3,,15580,13545,35,2000,0
+48105542,2016,60,1,Yukon,6.7,100, ,60,Male,2,,English,4,,14775,13505,0,1270,0
+48105543,2016,60,1,Yukon,6.7,100, ,60,Male,2,,French,5,,810,40,35,735,0
+48105544,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Non-official languages,6,,1970,1770,5,140,65
+48105545,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Aboriginal languages,7,,295,290,0,5,0
+48105546,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Algonquian languages,8,,5,5,0,0,0
+48105547,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Blackfoot,9,,0,0,0,0,0
+48105548,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Cree-Montagnais languages,10,,5,5,0,5,0
+48105549,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Atikamekw,11,,0,0,0,0,0
+48105550,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Montagnais (Innu),12,,0,0,0,0,0
+48105551,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Moose Cree,13,,0,0,0,0,0
+48105552,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Naskapi,14,,0,0,0,0,0
+48105553,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Northern East Cree,15,,0,0,0,0,0
+48105554,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Plains Cree,16,,0,0,0,0,0
+48105555,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Southern East Cree,17,,0,0,0,0,0
+48105556,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Swampy Cree,18,,0,0,0,0,0
+48105557,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Woods Cree,19,,0,0,0,0,0
+48105558,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Cree, n.o.s.",20,,5,0,0,0,0
+48105559,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Eastern Algonquian languages,21,,0,0,0,0,0
+48105560,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Malecite,22,,0,0,0,0,0
+48105561,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Mi'kmaq,23,,0,0,0,0,0
+48105562,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Ojibway-Potawatomi languages,24,,5,5,0,0,0
+48105563,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Algonquin,25,,0,0,0,0,0
+48105564,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Ojibway,26,,5,5,0,0,0
+48105565,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Oji-Cree,27,,0,0,0,0,0
+48105566,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Ottawa (Odawa),28,,0,0,0,0,0
+48105567,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
+48105568,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Athabaskan languages,30,,250,245,0,0,0
+48105569,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Northern Athabaskan languages,31,,245,240,0,5,0
+48105570,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Babine (Wetsuwet'en),32,,0,0,0,0,0
+48105571,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Beaver,33,,0,0,0,0,0
+48105572,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Carrier,34,,0,0,0,0,0
+48105573,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Chilcotin,35,,0,0,0,0,0
+48105574,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Dene,36,,5,5,0,0,0
+48105575,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Dogrib (Tlicho),37,,0,0,0,0,0
+48105576,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Gwich'in,38,,35,35,0,5,0
+48105577,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Sarsi (Sarcee),39,,0,0,0,0,0
+48105578,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Sekani,40,,0,0,0,0,0
+48105579,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Slavey-Hare languages,41,,0,5,0,0,0
+48105580,2016,60,1,Yukon,6.7,100, ,60,Male,2,,North Slavey (Hare),42,,0,0,0,0,0
+48105581,2016,60,1,Yukon,6.7,100, ,60,Male,2,,South Slavey,43,,0,0,0,0,0
+48105582,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Slavey, n.o.s.",44,,0,0,0,0,0
+48105583,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tahltan languages,45,,85,85,0,0,0
+48105584,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Kaska (Nahani),46,,80,80,0,0,0
+48105585,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tahltan,47,,0,5,0,0,0
+48105586,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tutchone languages,48,,120,115,0,0,0
+48105587,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Northern Tutchone,49,,90,85,0,0,0
+48105588,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Southern Tutchone,50,,30,30,0,0,0
+48105589,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Athabaskan languages, n.i.e.",51,,5,5,0,0,0
+48105590,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Haida,52,,0,0,0,0,0
+48105591,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Inuit languages,53,,10,10,0,5,0
+48105592,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Inuinnaqtun (Inuvialuktun),54,,5,5,0,0,0
+48105593,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Inuktitut,55,,0,5,0,5,0
+48105594,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Inuit languages, n.i.e.",56,,5,0,0,0,0
+48105595,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Iroquoian languages,57,,0,0,0,0,0
+48105596,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Cayuga,58,,0,0,0,0,0
+48105597,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Mohawk,59,,0,0,0,0,0
+48105598,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Oneida,60,,0,0,0,0,0
+48105599,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
+48105600,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Kutenai,62,,0,0,0,0,0
+48105601,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Michif,63,,0,0,0,0,0
+48105602,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Salish languages,64,,0,0,0,0,0
+48105603,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Comox,65,,0,0,0,0,0
+48105604,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Halkomelem,66,,0,0,0,0,0
+48105605,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Lillooet,67,,0,0,0,0,0
+48105606,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Okanagan,68,,0,0,0,0,0
+48105607,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Shuswap (Secwepemctsin),69,,0,5,0,0,0
+48105608,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Squamish,70,,0,0,0,0,0
+48105609,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Straits,71,,0,0,0,0,0
+48105610,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Thompson (Ntlakapamux),72,,0,0,0,0,0
+48105611,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Salish languages, n.i.e.",73,,0,0,0,0,0
+48105612,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Siouan languages,74,,0,0,0,0,0
+48105613,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Dakota,75,,0,0,0,0,0
+48105614,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Stoney,76,,0,0,0,0,0
+48105615,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
+48105616,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tlingit,78,,25,20,0,0,0
+48105617,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tsimshian languages,79,,0,0,0,0,0
+48105618,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Gitxsan (Gitksan),80,,0,0,0,0,0
+48105619,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Nisga'a,81,,0,0,0,0,0
+48105620,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tsimshian,82,,0,0,0,0,0
+48105621,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Wakashan languages,83,,0,0,0,0,0
+48105622,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Haisla,84,,0,0,0,0,0
+48105623,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Heiltsuk,85,,0,0,0,0,0
+48105624,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
+48105625,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
+48105626,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
+48105627,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Aboriginal languages, n.o.s.",89,,5,5,0,0,0
+48105628,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Non-Aboriginal languages,90,,1680,1480,5,130,60
+48105629,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Afro-Asiatic languages,91,,30,15,0,10,5
+48105630,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Berber languages,92,,0,0,0,0,0
+48105631,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Kabyle,93,,0,0,0,0,0
+48105632,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Berber languages, n.i.e.",94,,0,0,0,0,0
+48105633,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Cushitic languages,95,,5,10,0,0,0
+48105634,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Bilen,96,,0,0,0,0,0
+48105635,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Oromo,97,,5,5,0,0,0
+48105636,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Somali,98,,0,5,0,0,0
+48105637,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
+48105638,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Semitic languages,100,,20,15,0,5,5
+48105639,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Amharic,101,,0,0,0,0,0
+48105640,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Arabic,102,,20,10,0,5,5
+48105641,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
+48105642,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
+48105643,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Harari,105,,0,0,0,0,0
+48105644,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Hebrew,106,,5,5,0,0,0
+48105645,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Maltese,107,,0,0,0,0,0
+48105646,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tigrigna,108,,0,0,0,0,0
+48105647,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
+48105648,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
+48105649,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Austro-Asiatic languages,111,,25,25,0,0,0
+48105650,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Khmer (Cambodian),112,,0,0,0,0,0
+48105651,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Vietnamese,113,,30,25,0,0,0
+48105652,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
+48105653,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Austronesian languages,115,,420,400,0,10,5
+48105654,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Bikol,116,,0,0,0,0,0
+48105655,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Cebuano,117,,35,30,0,0,0
+48105656,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Fijian,118,,5,5,0,0,0
+48105657,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Hiligaynon,119,,15,15,0,0,0
+48105658,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Ilocano,120,,15,15,0,0,0
+48105659,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Malagasy,121,,0,0,0,0,0
+48105660,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Malay,122,,5,5,0,0,0
+48105661,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,0,5,0,0,0
+48105662,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Pangasinan,124,,0,0,0,0,0
+48105663,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Tagalog (Pilipino, Filipino)",125,,340,325,0,10,5
+48105664,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Waray-Waray,126,,0,0,0,0,0
+48105665,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Austronesian languages, n.i.e.",127,,5,5,0,0,0
+48105666,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Creole languages,128,,10,5,0,5,0
+48105667,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Haitian Creole,129,,0,0,0,0,0
+48105668,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Creole, n.o.s.",130,,10,5,0,10,0
+48105669,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Creole languages, n.i.e.",131,,5,5,0,0,0
+48105670,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Dravidian languages,132,,30,30,0,0,0
+48105671,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Kannada,133,,0,0,0,0,0
+48105672,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Malayalam,134,,15,10,0,0,0
+48105673,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tamil,135,,10,15,0,0,0
+48105674,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Telugu,136,,5,0,0,0,0
+48105675,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
+48105676,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Hmong-Mien languages,138,,0,0,0,0,0
+48105677,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Indo-European languages,139,,890,785,5,90,10
+48105678,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Albanian,140,,0,5,0,0,0
+48105679,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Armenian,141,,0,0,0,0,0
+48105680,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Balto-Slavic languages,142,,150,130,0,20,5
+48105681,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Baltic languages,143,,5,5,0,0,0
+48105682,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Latvian,144,,5,0,0,0,0
+48105683,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Lithuanian,145,,0,5,0,0,0
+48105684,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Slavic languages,146,,145,125,0,15,0
+48105685,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Belarusan,147,,0,0,0,0,0
+48105686,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Bosnian,148,,0,0,0,0,0
+48105687,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Bulgarian,149,,0,0,0,5,0
+48105688,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Croatian,150,,5,5,0,0,0
+48105689,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Czech,151,,35,30,0,5,0
+48105690,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Macedonian,152,,0,0,0,0,0
+48105691,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Polish,153,,35,30,0,5,0
+48105692,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Russian,154,,30,25,0,5,0
+48105693,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Serbian,155,,5,0,0,5,0
+48105694,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Serbo-Croatian,156,,0,0,0,0,0
+48105695,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Slovak,157,,5,5,0,0,0
+48105696,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Slovene (Slovenian),158,,5,5,0,0,0
+48105697,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Ukrainian,159,,30,25,0,5,0
+48105698,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
+48105699,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Celtic languages,161,,0,5,0,0,0
+48105700,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Scottish Gaelic,162,,5,5,0,0,0
+48105701,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Welsh,163,,0,5,0,0,0
+48105702,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Celtic languages, n.i.e.",164,,0,0,0,0,0
+48105703,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Germanic languages,165,,500,440,0,55,5
+48105704,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Afrikaans,166,,5,5,0,0,0
+48105705,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Danish,167,,15,15,0,0,0
+48105706,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Dutch,168,,55,45,0,10,0
+48105707,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Frisian,169,,5,5,0,0,0
+48105708,2016,60,1,Yukon,6.7,100, ,60,Male,2,,German,170,,415,365,0,45,5
+48105709,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Icelandic,171,,5,0,0,0,0
+48105710,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Norwegian,172,,10,10,0,0,0
+48105711,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Swedish,173,,10,10,0,5,0
+48105712,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Vlaams (Flemish),174,,0,0,0,5,0
+48105713,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Yiddish,175,,0,0,0,0,0
+48105714,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Germanic languages, n.i.e.",176,,0,0,0,0,0
+48105715,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Greek,177,,10,10,0,0,0
+48105716,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Indo-Iranian languages,178,,115,115,0,5,0
+48105717,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Indo-Aryan languages,179,,100,95,0,0,0
+48105718,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Bengali,180,,5,5,0,0,0
+48105719,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Gujarati,181,,15,15,0,0,0
+48105720,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Hindi,182,,20,20,0,0,0
+48105721,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Kashmiri,183,,0,0,0,0,0
+48105722,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Konkani,184,,0,0,0,0,0
+48105723,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Marathi,185,,0,0,0,0,0
+48105724,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Nepali,186,,5,0,0,0,0
+48105725,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Oriya (Odia),187,,0,0,0,0,0
+48105726,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Punjabi (Panjabi),188,,40,40,0,0,0
+48105727,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Sindhi,189,,0,0,0,0,0
+48105728,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Sinhala (Sinhalese),190,,5,0,0,0,0
+48105729,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Urdu,191,,15,15,0,5,0
+48105730,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Iranian languages,192,,20,15,0,0,0
+48105731,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Kurdish,193,,0,0,0,0,0
+48105732,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Pashto,194,,5,0,0,0,0
+48105733,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Persian (Farsi),195,,15,15,0,0,0
+48105734,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Indo-Iranian languages, n.i.e.",196,,0,0,0,0,0
+48105735,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Italic (Romance) languages,197,,100,90,0,15,0
+48105736,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Catalan,198,,0,0,0,0,0
+48105737,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Italian,199,,15,15,0,5,0
+48105738,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Portuguese,200,,5,5,0,0,0
+48105739,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Romanian,201,,5,5,0,0,0
+48105740,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Spanish,202,,75,65,0,10,5
+48105741,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
+48105742,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Japanese,204,,35,35,0,5,5
+48105743,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Kartvelian languages,205,,0,0,0,0,0
+48105744,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Georgian,206,,0,0,0,0,0
+48105745,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Korean,207,,15,15,0,0,0
+48105746,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Mongolic languages,208,,0,0,0,0,0
+48105747,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Mongolian,209,,0,0,0,0,0
+48105748,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Niger-Congo languages,210,,15,5,0,0,0
+48105749,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Akan (Twi),211,,0,0,0,0,0
+48105750,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Bamanankan,212,,0,0,0,0,0
+48105751,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Edo,213,,0,0,0,0,0
+48105752,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Ewe,214,,0,0,0,0,0
+48105753,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
+48105754,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Ga,216,,0,0,0,0,0
+48105755,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Ganda,217,,0,0,0,0,0
+48105756,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Igbo,218,,0,0,0,0,0
+48105757,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Lingala,219,,0,0,0,0,0
+48105758,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Rundi (Kirundi),220,,0,0,0,0,0
+48105759,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Kinyarwanda (Rwanda),221,,0,0,0,0,0
+48105760,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Shona,222,,5,5,0,0,0
+48105761,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Swahili,223,,5,5,0,0,0
+48105762,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Wolof,224,,0,0,0,0,0
+48105763,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Yoruba,225,,0,0,0,0,0
+48105764,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Niger-Congo languages, n.i.e.",226,,0,0,0,0,0
+48105765,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Nilo-Saharan languages,227,,0,0,0,0,0
+48105766,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Dinka,228,,0,0,0,0,0
+48105767,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
+48105768,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Sign languages,230,,10,5,0,0,5
+48105769,2016,60,1,Yukon,6.7,100, ,60,Male,2,,American Sign Language,231,,5,5,0,0,0
+48105770,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Quebec Sign Language,232,,0,0,0,0,0
+48105771,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Sign languages, n.i.e",233,,5,0,0,0,0
+48105772,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Sino-Tibetan languages,234,,155,110,0,5,40
+48105773,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Chinese languages,235,,150,105,0,5,35
+48105774,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Cantonese,236,,100,65,0,0,30
+48105775,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Hakka,237,,0,0,0,0,0
+48105776,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Mandarin,238,,40,30,0,0,10
+48105777,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Min Dong,239,,0,0,0,0,0
+48105778,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,5,10,0,0,0
+48105779,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Wu (Shanghainese),241,,0,0,0,0,0
+48105780,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Chinese, n.o.s.",242,,5,5,0,0,0
+48105781,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Chinese languages, n.i.e.",243,,0,0,0,0,0
+48105782,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tibeto-Burman languages,244,,0,0,0,0,0
+48105783,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Burmese,245,,0,0,0,0,0
+48105784,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Karenic languages,246,,0,0,0,0,0
+48105785,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tibetan,247,,0,0,0,0,0
+48105786,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,0,0,0,0,0
+48105787,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Tai-Kadai languages,249,,5,5,0,0,0
+48105788,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Lao,250,,0,0,0,0,0
+48105789,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Thai,251,,0,0,0,0,0
+48105790,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
+48105791,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Turkic languages,253,,5,0,0,0,0
+48105792,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Azerbaijani,254,,0,0,0,0,0
+48105793,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Turkish,255,,5,0,0,0,0
+48105794,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Uyghur,256,,0,0,0,0,0
+48105795,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Uzbek,257,,0,0,0,0,0
+48105796,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Turkic languages, n.i.e.",258,,0,0,0,0,0
+48105797,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Uralic languages,259,,45,40,0,5,0
+48105798,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Estonian,260,,0,0,0,5,0
+48105799,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Finnish,261,,10,15,0,0,0
+48105800,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Hungarian,262,,25,25,0,0,0
+48105801,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
+48105802,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"Other languages, n.i.e.",264,,5,0,0,0,0
+48105803,2016,60,1,Yukon,6.7,100, ,60,Male,2,,Multiple responses,265,,345,220,0,120,0
+48105804,2016,60,1,Yukon,6.7,100, ,60,Male,2,,English and French,266,,110,15,0,95,0
+48105805,2016,60,1,Yukon,6.7,100, ,60,Male,2,,English and non-official language,267,,210,200,0,10,5
+48105806,2016,60,1,Yukon,6.7,100, ,60,Male,2,,French and non-official language,268,,10,0,0,10,0
+48105807,2016,60,1,Yukon,6.7,100, ,60,Male,2,,"English, French and non-official language",269,,10,5,0,5,0
+48105808,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Total - Mother tongue,1,1.0,17660,14895,50,2640,75
+48105809,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Single responses,2,,17335,14685,50,2525,75
+48105810,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Official languages,3,,15095,12700,45,2345,0
+48105811,2016,60,1,Yukon,6.7,100, ,60,Female,3,,English,4,,14335,12670,0,1665,0
+48105812,2016,60,1,Yukon,6.7,100, ,60,Female,3,,French,5,,760,30,45,685,0
+48105813,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Non-official languages,6,,2240,1985,0,180,75
+48105814,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Aboriginal languages,7,,385,370,0,10,0
+48105815,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Algonquian languages,8,,15,15,0,0,0
+48105816,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Blackfoot,9,,0,0,0,0,0
+48105817,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Cree-Montagnais languages,10,,20,20,0,5,0
+48105818,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Atikamekw,11,,0,0,0,0,0
+48105819,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Montagnais (Innu),12,,0,0,0,0,0
+48105820,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Moose Cree,13,,0,0,0,0,0
+48105821,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Naskapi,14,,0,0,0,0,0
+48105822,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Northern East Cree,15,,0,0,0,0,0
+48105823,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Plains Cree,16,,0,5,0,0,0
+48105824,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Southern East Cree,17,,0,0,0,0,0
+48105825,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Swampy Cree,18,,0,0,0,0,0
+48105826,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Woods Cree,19,,0,0,0,0,0
+48105827,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Cree, n.o.s.",20,,15,20,0,0,0
+48105828,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Eastern Algonquian languages,21,,0,0,0,0,0
+48105829,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Malecite,22,,0,0,0,0,0
+48105830,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Mi'kmaq,23,,0,0,0,0,0
+48105831,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Ojibway-Potawatomi languages,24,,5,0,0,0,0
+48105832,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Algonquin,25,,5,0,0,0,0
+48105833,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Ojibway,26,,0,0,0,0,0
+48105834,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Oji-Cree,27,,0,0,0,0,0
+48105835,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Ottawa (Odawa),28,,0,0,0,0,0
+48105836,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
+48105837,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Athabaskan languages,30,,310,300,0,5,0
+48105838,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Northern Athabaskan languages,31,,295,295,0,5,0
+48105839,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Babine (Wetsuwet'en),32,,0,0,0,0,0
+48105840,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Beaver,33,,0,0,0,0,0
+48105841,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Carrier,34,,0,0,0,0,0
+48105842,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Chilcotin,35,,0,0,0,0,0
+48105843,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Dene,36,,5,5,0,0,0
+48105844,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Dogrib (Tlicho),37,,0,0,0,0,0
+48105845,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Gwich'in,38,,45,40,0,0,0
+48105846,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Sarsi (Sarcee),39,,0,0,0,0,0
+48105847,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Sekani,40,,0,0,0,0,0
+48105848,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Slavey-Hare languages,41,,5,0,0,0,0
+48105849,2016,60,1,Yukon,6.7,100, ,60,Female,3,,North Slavey (Hare),42,,5,0,0,0,0
+48105850,2016,60,1,Yukon,6.7,100, ,60,Female,3,,South Slavey,43,,0,0,0,0,0
+48105851,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Slavey, n.o.s.",44,,5,5,0,0,0
+48105852,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tahltan languages,45,,85,85,0,0,0
+48105853,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Kaska (Nahani),46,,85,85,0,0,0
+48105854,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tahltan,47,,0,0,0,0,0
+48105855,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tutchone languages,48,,160,160,0,0,0
+48105856,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Northern Tutchone,49,,125,125,0,0,0
+48105857,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Southern Tutchone,50,,40,35,0,0,0
+48105858,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Athabaskan languages, n.i.e.",51,,5,5,0,0,0
+48105859,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Haida,52,,0,0,0,0,0
+48105860,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Inuit languages,53,,15,10,0,0,0
+48105861,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Inuinnaqtun (Inuvialuktun),54,,5,5,0,0,0
+48105862,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Inuktitut,55,,0,5,0,0,0
+48105863,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Inuit languages, n.i.e.",56,,5,5,0,0,0
+48105864,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Iroquoian languages,57,,0,0,0,0,0
+48105865,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Cayuga,58,,0,0,0,0,0
+48105866,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Mohawk,59,,0,0,0,0,0
+48105867,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Oneida,60,,0,0,0,0,0
+48105868,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
+48105869,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Kutenai,62,,0,0,0,0,0
+48105870,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Michif,63,,0,0,0,0,0
+48105871,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Salish languages,64,,5,0,0,0,0
+48105872,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Comox,65,,0,0,0,0,0
+48105873,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Halkomelem,66,,0,0,0,0,0
+48105874,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Lillooet,67,,0,0,0,0,0
+48105875,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Okanagan,68,,0,0,0,0,0
+48105876,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
+48105877,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Squamish,70,,0,0,0,0,0
+48105878,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Straits,71,,0,0,0,0,0
+48105879,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Thompson (Ntlakapamux),72,,0,0,0,0,0
+48105880,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Salish languages, n.i.e.",73,,0,0,0,0,0
+48105881,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Siouan languages,74,,0,0,0,0,0
+48105882,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Dakota,75,,0,0,0,0,0
+48105883,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Stoney,76,,0,0,0,0,0
+48105884,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
+48105885,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tlingit,78,,40,35,0,5,0
+48105886,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tsimshian languages,79,,0,0,0,0,0
+48105887,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Gitxsan (Gitksan),80,,0,0,0,0,0
+48105888,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Nisga'a,81,,0,0,0,0,0
+48105889,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tsimshian,82,,0,0,0,0,0
+48105890,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Wakashan languages,83,,0,0,0,0,0
+48105891,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Haisla,84,,0,0,0,0,0
+48105892,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Heiltsuk,85,,0,0,0,0,0
+48105893,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
+48105894,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
+48105895,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
+48105896,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Aboriginal languages, n.o.s.",89,,5,5,0,0,0
+48105897,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Non-Aboriginal languages,90,,1860,1615,0,165,75
+48105898,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Afro-Asiatic languages,91,,25,15,0,0,10
+48105899,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Berber languages,92,,0,0,0,0,0
+48105900,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Kabyle,93,,0,0,0,0,0
+48105901,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Berber languages, n.i.e.",94,,0,0,0,0,0
+48105902,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Cushitic languages,95,,0,5,0,0,0
+48105903,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Bilen,96,,0,0,0,0,0
+48105904,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Oromo,97,,0,0,0,0,0
+48105905,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Somali,98,,0,0,0,0,0
+48105906,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
+48105907,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Semitic languages,100,,20,15,0,0,5
+48105908,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Amharic,101,,0,0,0,0,0
+48105909,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Arabic,102,,15,5,0,0,10
+48105910,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
+48105911,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
+48105912,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Harari,105,,0,0,0,0,0
+48105913,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Hebrew,106,,0,5,0,0,0
+48105914,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Maltese,107,,0,0,0,0,0
+48105915,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tigrigna,108,,0,5,0,0,0
+48105916,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Semitic languages, n.i.e.",109,,5,0,0,0,0
+48105917,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
+48105918,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Austro-Asiatic languages,111,,25,20,0,0,5
+48105919,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Khmer (Cambodian),112,,0,0,0,0,0
+48105920,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Vietnamese,113,,25,20,0,0,0
+48105921,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
+48105922,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Austronesian languages,115,,575,555,0,15,5
+48105923,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Bikol,116,,0,0,0,0,0
+48105924,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Cebuano,117,,40,40,0,5,0
+48105925,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Fijian,118,,0,5,0,0,0
+48105926,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Hiligaynon,119,,25,25,0,0,0
+48105927,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Ilocano,120,,25,20,0,0,0
+48105928,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Malagasy,121,,0,0,0,0,0
+48105929,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Malay,122,,10,5,0,0,0
+48105930,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,5,5,0,0,0
+48105931,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Pangasinan,124,,0,0,0,0,0
+48105932,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Tagalog (Pilipino, Filipino)",125,,465,450,0,15,5
+48105933,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Waray-Waray,126,,5,0,0,0,0
+48105934,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Austronesian languages, n.i.e.",127,,5,5,0,0,0
+48105935,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Creole languages,128,,15,10,0,10,0
+48105936,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Haitian Creole,129,,0,0,0,0,0
+48105937,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Creole, n.o.s.",130,,5,0,0,10,0
+48105938,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Creole languages, n.i.e.",131,,10,10,0,0,0
+48105939,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Dravidian languages,132,,25,20,0,0,0
+48105940,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Kannada,133,,0,0,0,0,0
+48105941,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Malayalam,134,,10,15,0,5,0
+48105942,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tamil,135,,10,10,0,0,0
+48105943,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Telugu,136,,0,0,0,0,0
+48105944,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
+48105945,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Hmong-Mien languages,138,,0,0,0,0,0
+48105946,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Indo-European languages,139,,825,700,5,115,10
+48105947,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Albanian,140,,5,5,0,0,0
+48105948,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Armenian,141,,0,0,0,0,0
+48105949,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Balto-Slavic languages,142,,150,125,0,15,5
+48105950,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Baltic languages,143,,0,0,0,0,0
+48105951,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Latvian,144,,0,0,0,0,0
+48105952,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Lithuanian,145,,0,5,0,0,0
+48105953,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Slavic languages,146,,145,125,5,15,5
+48105954,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Belarusan,147,,0,0,0,0,0
+48105955,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Bosnian,148,,0,0,0,0,0
+48105956,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Bulgarian,149,,0,0,0,0,0
+48105957,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Croatian,150,,0,5,0,0,0
+48105958,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Czech,151,,25,25,0,0,0
+48105959,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Macedonian,152,,0,0,0,0,0
+48105960,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Polish,153,,30,25,0,5,0
+48105961,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Russian,154,,40,40,0,5,5
+48105962,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Serbian,155,,0,0,0,0,0
+48105963,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Serbo-Croatian,156,,5,5,0,0,0
+48105964,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Slovak,157,,5,5,0,0,0
+48105965,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Slovene (Slovenian),158,,10,5,0,0,0
+48105966,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Ukrainian,159,,20,10,0,5,5
+48105967,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
+48105968,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Celtic languages,161,,5,0,0,0,0
+48105969,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Scottish Gaelic,162,,0,0,0,0,0
+48105970,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Welsh,163,,0,0,0,0,0
+48105971,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Celtic languages, n.i.e.",164,,0,0,0,0,0
+48105972,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Germanic languages,165,,445,370,0,80,0
+48105973,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Afrikaans,166,,5,5,0,0,0
+48105974,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Danish,167,,5,0,0,0,0
+48105975,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Dutch,168,,60,50,0,10,0
+48105976,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Frisian,169,,0,0,0,0,0
+48105977,2016,60,1,Yukon,6.7,100, ,60,Female,3,,German,170,,360,290,0,65,0
+48105978,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Icelandic,171,,0,5,0,0,0
+48105979,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Norwegian,172,,5,5,0,0,0
+48105980,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Swedish,173,,5,5,0,0,0
+48105981,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Vlaams (Flemish),174,,0,0,0,0,0
+48105982,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Yiddish,175,,0,0,0,0,0
+48105983,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Germanic languages, n.i.e.",176,,0,0,0,5,0
+48105984,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Greek,177,,0,0,0,0,0
+48105985,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Indo-Iranian languages,178,,105,95,5,0,5
+48105986,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Indo-Aryan languages,179,,95,90,0,0,0
+48105987,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Bengali,180,,20,15,0,0,0
+48105988,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Gujarati,181,,5,0,0,0,0
+48105989,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Hindi,182,,15,15,0,0,0
+48105990,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Kashmiri,183,,0,0,0,0,0
+48105991,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Konkani,184,,0,0,0,0,0
+48105992,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Marathi,185,,0,0,0,0,0
+48105993,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Nepali,186,,0,0,0,0,0
+48105994,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Oriya (Odia),187,,0,0,0,0,0
+48105995,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Punjabi (Panjabi),188,,45,40,0,0,0
+48105996,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Sindhi,189,,0,0,0,0,0
+48105997,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Sinhala (Sinhalese),190,,0,0,0,0,0
+48105998,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Urdu,191,,10,5,0,0,0
+48105999,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Iranian languages,192,,5,5,0,0,0
+48106000,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Kurdish,193,,0,0,0,0,0
+48106001,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Pashto,194,,0,0,0,0,0
+48106002,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Persian (Farsi),195,,5,10,0,0,0
+48106003,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Indo-Iranian languages, n.i.e.",196,,0,0,0,0,0
+48106004,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Italic (Romance) languages,197,,120,100,0,20,0
+48106005,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Catalan,198,,5,0,0,5,0
+48106006,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Italian,199,,5,5,0,5,0
+48106007,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Portuguese,200,,10,10,0,0,0
+48106008,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Romanian,201,,5,5,0,0,0
+48106009,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Spanish,202,,95,75,0,10,5
+48106010,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
+48106011,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Japanese,204,,55,50,0,0,5
+48106012,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Kartvelian languages,205,,0,0,0,0,0
+48106013,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Georgian,206,,0,0,0,0,0
+48106014,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Korean,207,,35,35,0,0,0
+48106015,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Mongolic languages,208,,5,0,0,0,0
+48106016,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Mongolian,209,,0,5,0,0,0
+48106017,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Niger-Congo languages,210,,10,10,0,0,0
+48106018,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Akan (Twi),211,,0,0,0,0,0
+48106019,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Bamanankan,212,,0,0,0,0,0
+48106020,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Edo,213,,0,0,0,0,0
+48106021,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Ewe,214,,0,0,0,0,0
+48106022,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
+48106023,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Ga,216,,0,0,0,0,0
+48106024,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Ganda,217,,0,0,0,0,0
+48106025,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Igbo,218,,0,0,0,0,0
+48106026,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Lingala,219,,0,0,0,0,0
+48106027,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Rundi (Kirundi),220,,0,0,0,0,0
+48106028,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Kinyarwanda (Rwanda),221,,0,0,0,0,0
+48106029,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Shona,222,,0,0,0,0,0
+48106030,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Swahili,223,,0,0,0,0,0
+48106031,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Wolof,224,,0,0,0,0,0
+48106032,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Yoruba,225,,0,0,0,0,0
+48106033,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Niger-Congo languages, n.i.e.",226,,5,5,0,0,0
+48106034,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Nilo-Saharan languages,227,,0,0,0,0,0
+48106035,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Dinka,228,,0,0,0,0,0
+48106036,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
+48106037,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Sign languages,230,,10,5,0,0,5
+48106038,2016,60,1,Yukon,6.7,100, ,60,Female,3,,American Sign Language,231,,5,5,0,0,5
+48106039,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Quebec Sign Language,232,,0,0,0,0,0
+48106040,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Sign languages, n.i.e",233,,5,0,0,0,0
+48106041,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Sino-Tibetan languages,234,,195,140,0,10,45
+48106042,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Chinese languages,235,,195,140,0,10,45
+48106043,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Cantonese,236,,120,85,0,5,40
+48106044,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Hakka,237,,0,0,0,0,0
+48106045,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Mandarin,238,,60,45,0,5,5
+48106046,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Min Dong,239,,0,0,0,0,0
+48106047,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,5,5,0,0,0
+48106048,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Wu (Shanghainese),241,,0,0,0,0,0
+48106049,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Chinese, n.o.s.",242,,5,5,0,0,0
+48106050,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Chinese languages, n.i.e.",243,,0,0,0,0,0
+48106051,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tibeto-Burman languages,244,,0,0,0,0,0
+48106052,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Burmese,245,,0,0,0,0,0
+48106053,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Karenic languages,246,,0,0,0,0,0
+48106054,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tibetan,247,,0,0,0,0,0
+48106055,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,0,0,0,0,0
+48106056,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Tai-Kadai languages,249,,25,25,0,0,0
+48106057,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Lao,250,,5,0,0,0,0
+48106058,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Thai,251,,20,25,0,0,0
+48106059,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
+48106060,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Turkic languages,253,,0,0,0,0,0
+48106061,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Azerbaijani,254,,0,0,0,0,0
+48106062,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Turkish,255,,0,0,0,0,0
+48106063,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Uyghur,256,,0,0,0,0,0
+48106064,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Uzbek,257,,0,0,0,0,0
+48106065,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Turkic languages, n.i.e.",258,,5,0,0,0,0
+48106066,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Uralic languages,259,,35,30,0,5,0
+48106067,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Estonian,260,,0,5,0,0,0
+48106068,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Finnish,261,,10,10,0,0,0
+48106069,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Hungarian,262,,20,15,0,5,0
+48106070,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
+48106071,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"Other languages, n.i.e.",264,,5,0,0,0,0
+48106072,2016,60,1,Yukon,6.7,100, ,60,Female,3,,Multiple responses,265,,330,215,0,115,0
+48106073,2016,60,1,Yukon,6.7,100, ,60,Female,3,,English and French,266,,100,10,0,95,0
+48106074,2016,60,1,Yukon,6.7,100, ,60,Female,3,,English and non-official language,267,,215,200,0,20,0
+48106075,2016,60,1,Yukon,6.7,100, ,60,Female,3,,French and non-official language,268,,5,0,0,0,0
+48106076,2016,60,1,Yukon,6.7,100, ,60,Female,3,,"English, French and non-official language",269,,5,5,0,0,0
