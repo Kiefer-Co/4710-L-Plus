@@ -1,4 +1,4 @@
-GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+Geography,Geo Code,Sex (3),Detailed mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
 Newfoundland and Labrador,10,Total - Sex,Total - Mother tongue,515680,488800,115,25945,815
 Newfoundland and Labrador,10,Total - Sex,Single responses,513980,487710,115,25355,805
 Newfoundland and Labrador,10,Total - Sex,Official languages,502060,477245,95,24640,80
