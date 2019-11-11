@@ -1,4 +1,4 @@
-GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+Geography,Geo Code,Sex (3),Detailed mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
 Canada,1,Total - Sex,Total - Mother tongue,34767255,23757525,4144690,6216070,648970
 Canada,1,Total - Sex,Single responses,33948620,23250105,4101735,5951600,645175
 Canada,1,Total - Sex,Official languages,26627555,17704465,3818695,5095730,8660
