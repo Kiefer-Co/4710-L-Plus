@@ -1,4 +1,4 @@
-GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+Geography,Geo Code,Sex (3),Detailed mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
 Alberta,48,Total - Sex,Total - Mother tongue,4026655,3698765,3890,264715,59280
 Alberta,48,Total - Sex,Single responses,3934580,3621180,3685,250945,58770
 Alberta,48,Total - Sex,Official languages,3063635,2843840,2535,216320,940
