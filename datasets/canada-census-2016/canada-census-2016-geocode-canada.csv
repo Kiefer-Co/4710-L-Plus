@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Canada,1,Total - Sex,Total - Mother tongue,34767255,23757525,4144690,6216070,648970
+Canada,1,Total - Sex,Total - Detailed mother tongue,34767255,23757525,4144690,6216070,648970
 Canada,1,Total - Sex,Single responses,33948620,23250105,4101735,5951600,645175
 Canada,1,Total - Sex,Official languages,26627555,17704465,3818695,5095730,8660
 Canada,1,Total - Sex,English,19460855,17662110,4800,1786525,7415
@@ -268,7 +268,7 @@ Canada,1,Total - Sex,English and French,165325,17115,4360,143745,105
 Canada,1,Total - Sex,English and non-official language,533260,483325,435,46560,2950
 Canada,1,Total - Sex,French and non-official language,86150,3595,37250,44720,590
 Canada,1,Total - Sex,"English, French and non-official language",33900,3385,910,29450,155
-Canada,1,Male,Total - Mother tongue,17101170,11838075,1925845,3071325,265925
+Canada,1,Male,Total - Detailed mother tongue,17101170,11838075,1925845,3071325,265925
 Canada,1,Male,Single responses,16702840,11589825,1906015,2942935,264060
 Canada,1,Male,Official languages,13201615,8893210,1781985,2521960,4460
 Canada,1,Male,English,9680125,8873125,2220,800945,3830
@@ -537,7 +537,7 @@ Canada,1,Male,English and French,80460,8270,2045,70095,50
 Canada,1,Male,English and non-official language,259165,236695,195,20835,1440
 Canada,1,Male,French and non-official language,42165,1685,17165,23020,290
 Canada,1,Male,"English, French and non-official language",16535,1595,420,14440,80
-Canada,1,Female,Total - Mother tongue,17666085,11919455,2218840,3144745,383045
+Canada,1,Female,Total - Detailed mother tongue,17666085,11919455,2218840,3144745,383045
 Canada,1,Female,Single responses,17245775,11660285,2195720,3008665,381115
 Canada,1,Female,Official languages,13425935,8811260,2036710,2573770,4200
 Canada,1,Female,English,9780725,8788990,2575,985580,3585

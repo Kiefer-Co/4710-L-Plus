@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Saskatchewan,47,Total - Sex,Total - Mother tongue,1083235,1023400,530,51355,7940
+Saskatchewan,47,Total - Sex,Total - Detailed mother tongue,1083235,1023400,530,51355,7940
 Saskatchewan,47,Total - Sex,Single responses,1064680,1007240,480,49080,7880
 Saskatchewan,47,Total - Sex,Official languages,907715,861830,370,45325,190
 Saskatchewan,47,Total - Sex,English,892620,859605,20,32800,190
@@ -268,7 +268,7 @@ Saskatchewan,47,Total - Sex,English and French,2045,595,10,1440,0
 Saskatchewan,47,Total - Sex,English and non-official language,15920,15415,5,440,65
 Saskatchewan,47,Total - Sex,French and non-official language,315,85,40,185,5
 Saskatchewan,47,Total - Sex,"English, French and non-official language",280,65,0,210,0
-Saskatchewan,47,Male,Total - Mother tongue,539105,511935,255,23295,3620
+Saskatchewan,47,Male,Total - Detailed mother tongue,539105,511935,255,23295,3620
 Saskatchewan,47,Male,Single responses,530145,504125,235,22205,3585
 Saskatchewan,47,Male,Official languages,452955,432300,185,20360,110
 Saskatchewan,47,Male,English,445635,431225,10,14290,110
@@ -537,7 +537,7 @@ Saskatchewan,47,Male,English and French,985,300,5,675,0
 Saskatchewan,47,Male,English and non-official language,7675,7445,0,195,35
 Saskatchewan,47,Male,French and non-official language,145,30,10,105,0
 Saskatchewan,47,Male,"English, French and non-official language",145,35,0,110,0
-Saskatchewan,47,Female,Total - Mother tongue,544135,511465,280,28065,4325
+Saskatchewan,47,Female,Total - Detailed mother tongue,544135,511465,280,28065,4325
 Saskatchewan,47,Female,Single responses,534530,503115,245,26875,4295
 Saskatchewan,47,Female,Official languages,454760,429530,190,24965,80
 Saskatchewan,47,Female,English,446985,428380,10,18515,75

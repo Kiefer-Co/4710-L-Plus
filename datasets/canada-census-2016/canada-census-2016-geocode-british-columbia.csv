@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-British Columbia,59,Total - Sex,Total - Mother tongue,4598410,4127770,1810,314925,153910
+British Columbia,59,Total - Sex,Total - Detailed mother tongue,4598410,4127770,1810,314925,153910
 British Columbia,59,Total - Sex,Single responses,4494995,4040640,1675,299390,153295
 British Columbia,59,Total - Sex,Official languages,3227530,2972700,1090,252205,1535
 British Columbia,59,Total - Sex,English,3170110,2966835,110,201640,1520
@@ -268,7 +268,7 @@ British Columbia,59,Total - Sex,English and French,10065,2380,25,7650,0
 British Columbia,59,Total - Sex,English and non-official language,89135,83790,35,4730,580
 British Columbia,59,Total - Sex,French and non-official language,2105,505,70,1505,25
 British Columbia,59,Total - Sex,"English, French and non-official language",2115,450,5,1645,10
-British Columbia,59,Male,Total - Mother tongue,2255400,2050130,825,140650,63790
+British Columbia,59,Male,Total - Detailed mother tongue,2255400,2050130,825,140650,63790
 British Columbia,59,Male,Single responses,2205775,2007960,760,133585,63475
 British Columbia,59,Male,Official languages,1614370,1500375,510,112740,755
 British Columbia,59,Male,English,1585755,1497620,60,87330,745
@@ -537,7 +537,7 @@ British Columbia,59,Male,English and French,4820,1195,10,3605,0
 British Columbia,59,Male,English and non-official language,42820,40525,15,1975,305
 British Columbia,59,Male,French and non-official language,1040,240,35,750,10
 British Columbia,59,Male,"English, French and non-official language",945,205,5,730,5
-British Columbia,59,Female,Total - Mother tongue,2343015,2077645,985,174275,90115
+British Columbia,59,Female,Total - Detailed mother tongue,2343015,2077645,985,174275,90115
 British Columbia,59,Female,Single responses,2289220,2032680,915,165805,89825
 British Columbia,59,Female,Official languages,1613160,1472330,580,139470,780
 British Columbia,59,Female,English,1584350,1469215,50,114310,775

@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Northwest Territories,61,Total - Sex,Total - Mother tongue,41380,36840,65,4275,195
+Northwest Territories,61,Total - Sex,Total - Detailed mother tongue,41380,36840,65,4275,195
 Northwest Territories,61,Total - Sex,Single responses,40565,36205,55,4105,195
 Northwest Territories,61,Total - Sex,Official languages,32935,29090,55,3795,0
 Northwest Territories,61,Total - Sex,English,31765,29020,0,2740,5
@@ -268,7 +268,7 @@ Northwest Territories,61,Total - Sex,English and French,140,25,0,115,0
 Northwest Territories,61,Total - Sex,English and non-official language,630,595,0,30,0
 Northwest Territories,61,Total - Sex,French and non-official language,35,15,5,15,0
 Northwest Territories,61,Total - Sex,"English, French and non-official language",10,0,0,5,0
-Northwest Territories,61,Male,Total - Mother tongue,21055,18945,30,1985,90
+Northwest Territories,61,Male,Total - Detailed mother tongue,21055,18945,30,1985,90
 Northwest Territories,61,Male,Single responses,20675,18655,30,1900,90
 Northwest Territories,61,Male,Official languages,16920,15160,25,1735,0
 Northwest Territories,61,Male,English,16290,15120,0,1170,0
@@ -537,7 +537,7 @@ Northwest Territories,61,Male,English and French,65,10,0,55,0
 Northwest Territories,61,Male,English and non-official language,285,270,0,15,0
 Northwest Territories,61,Male,French and non-official language,20,5,0,15,0
 Northwest Territories,61,Male,"English, French and non-official language",5,0,0,0,0
-Northwest Territories,61,Female,Total - Mother tongue,20330,17900,30,2295,105
+Northwest Territories,61,Female,Total - Detailed mother tongue,20330,17900,30,2295,105
 Northwest Territories,61,Female,Single responses,19890,17555,25,2205,105
 Northwest Territories,61,Female,Official languages,16015,13930,25,2065,5
 Northwest Territories,61,Female,English,15470,13895,0,1570,5

@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Quebec,24,Total - Sex,Total - Mother tongue,8066560,372450,4032635,3586410,75060
+Quebec,24,Total - Sex,Total - Detailed mother tongue,8066560,372450,4032635,3586410,75060
 Quebec,24,Total - Sex,Single responses,7881650,359615,3991975,3455770,74290
 Quebec,24,Total - Sex,Official languages,6820815,185260,3717735,2916310,1515
 Quebec,24,Total - Sex,English,601155,183155,3965,413575,465
@@ -268,7 +268,7 @@ Quebec,24,Total - Sex,English and French,72395,1120,3910,67290,70
 Quebec,24,Total - Sex,English and non-official language,27490,11090,280,15950,170
 Quebec,24,Total - Sex,French and non-official language,67075,245,35645,30760,420
 Quebec,24,Total - Sex,"English, French and non-official language",17950,375,820,16640,110
-Quebec,24,Male,Total - Mother tongue,3977270,187595,1874545,1884135,31005
+Quebec,24,Male,Total - Detailed mother tongue,3977270,187595,1874545,1884135,31005
 Quebec,24,Male,Single responses,3884675,181245,1855645,1817175,30605
 Quebec,24,Male,Official languages,3366970,93375,1734965,1537875,755
 Quebec,24,Male,English,301855,92280,1800,207560,220
@@ -537,7 +537,7 @@ Quebec,24,Male,English and French,36700,570,1830,34255,35
 Quebec,24,Male,English and non-official language,13540,5470,125,7870,85
 Quebec,24,Male,French and non-official language,33110,120,16560,16205,220
 Quebec,24,Male,"English, French and non-official language",9245,180,380,8625,60
-Quebec,24,Female,Total - Mother tongue,4089280,184855,2158095,1702275,44060
+Quebec,24,Female,Total - Detailed mother tongue,4089280,184855,2158095,1702275,44060
 Quebec,24,Female,Single responses,3996975,178370,2136325,1638595,43680
 Quebec,24,Female,Official languages,3453845,91885,1982765,1378430,755
 Quebec,24,Female,English,299295,90875,2160,206020,240

@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Alberta,48,Total - Sex,Total - Mother tongue,4026655,3698765,3890,264715,59280
+Alberta,48,Total - Sex,Total - Detailed mother tongue,4026655,3698765,3890,264715,59280
 Alberta,48,Total - Sex,Single responses,3934580,3621180,3685,250945,58770
 Alberta,48,Total - Sex,Official languages,3063635,2843840,2535,216320,940
 Alberta,48,Total - Sex,English,2991485,2837435,100,153025,915
@@ -268,7 +268,7 @@ Alberta,48,Total - Sex,English and French,10230,2355,35,7840,5
 Alberta,48,Total - Sex,English and non-official language,77520,74335,25,2690,470
 Alberta,48,Total - Sex,French and non-official language,2685,525,135,1990,35
 Alberta,48,Total - Sex,"English, French and non-official language",1640,375,10,1250,5
-Alberta,48,Male,Total - Mother tongue,2020510,1869665,1730,124405,24715
+Alberta,48,Male,Total - Detailed mother tongue,2020510,1869665,1730,124405,24715
 Alberta,48,Male,Single responses,1975610,1831710,1645,117780,24475
 Alberta,48,Male,Official languages,1552475,1450055,1180,100745,505
 Alberta,48,Male,English,1515025,1446915,55,67565,490
@@ -537,7 +537,7 @@ Alberta,48,Male,English and French,4950,1150,15,3780,0
 Alberta,48,Male,English and non-official language,37815,36380,10,1200,225
 Alberta,48,Male,French and non-official language,1375,260,50,1055,10
 Alberta,48,Male,"English, French and non-official language",760,170,5,580,5
-Alberta,48,Female,Total - Mother tongue,2006140,1829095,2165,140315,34565
+Alberta,48,Female,Total - Detailed mother tongue,2006140,1829095,2165,140315,34565
 Alberta,48,Female,Single responses,1958970,1789470,2040,133165,34295
 Alberta,48,Female,Official languages,1511160,1393785,1360,115580,440
 Alberta,48,Female,English,1476460,1390515,50,85460,425

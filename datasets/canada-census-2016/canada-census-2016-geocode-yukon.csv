@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Yukon,60,Total - Sex,Total - Mother tongue,35560,30425,85,4900,140
+Yukon,60,Total - Sex,Total - Detailed mother tongue,35560,30425,85,4900,140
 Yukon,60,Total - Sex,Single responses,34885,29995,80,4665,140
 Yukon,60,Total - Sex,Official languages,30675,26245,80,4350,0
 Yukon,60,Total - Sex,English,29110,26175,0,2930,0
@@ -268,7 +268,7 @@ Yukon,60,Total - Sex,English and French,220,25,0,190,0
 Yukon,60,Total - Sex,English and non-official language,425,395,0,25,5
 Yukon,60,Total - Sex,French and non-official language,15,0,0,10,0
 Yukon,60,Total - Sex,"English, French and non-official language",15,5,0,10,0
-Yukon,60,Male,Total - Mother tongue,17900,15530,40,2260,65
+Yukon,60,Male,Total - Detailed mother tongue,17900,15530,40,2260,65
 Yukon,60,Male,Single responses,17555,15315,35,2140,65
 Yukon,60,Male,Official languages,15580,13545,35,2000,0
 Yukon,60,Male,English,14775,13505,0,1270,0
@@ -537,7 +537,7 @@ Yukon,60,Male,English and French,110,15,0,95,0
 Yukon,60,Male,English and non-official language,210,200,0,10,5
 Yukon,60,Male,French and non-official language,10,0,0,10,0
 Yukon,60,Male,"English, French and non-official language",10,5,0,5,0
-Yukon,60,Female,Total - Mother tongue,17660,14895,50,2640,75
+Yukon,60,Female,Total - Detailed mother tongue,17660,14895,50,2640,75
 Yukon,60,Female,Single responses,17335,14685,50,2525,75
 Yukon,60,Female,Official languages,15095,12700,45,2345,0
 Yukon,60,Female,English,14335,12670,0,1665,0

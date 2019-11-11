@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Nunavut,62,Total - Sex,Total - Mother tongue,35690,32065,55,1520,2050
+Nunavut,62,Total - Sex,Total - Detailed mother tongue,35690,32065,55,1520,2050
 Nunavut,62,Total - Sex,Single responses,34955,31380,55,1480,2045
 Nunavut,62,Total - Sex,Official languages,11615,10285,50,1265,15
 Nunavut,62,Total - Sex,English,11020,10255,0,755,15
@@ -268,7 +268,7 @@ Nunavut,62,Total - Sex,English and French,25,0,0,20,0
 Nunavut,62,Total - Sex,English and non-official language,690,675,0,10,5
 Nunavut,62,Total - Sex,French and non-official language,10,10,0,0,0
 Nunavut,62,Total - Sex,"English, French and non-official language",10,0,0,5,0
-Nunavut,62,Male,Total - Mother tongue,18200,16350,35,795,1025
+Nunavut,62,Male,Total - Detailed mother tongue,18200,16350,35,795,1025
 Nunavut,62,Male,Single responses,17830,15995,35,775,1020
 Nunavut,62,Male,Official languages,6090,5380,35,665,5
 Nunavut,62,Male,English,5740,5365,0,365,5
@@ -537,7 +537,7 @@ Nunavut,62,Male,English and French,5,0,0,10,0
 Nunavut,62,Male,English and non-official language,355,350,0,5,0
 Nunavut,62,Male,French and non-official language,0,0,0,0,0
 Nunavut,62,Male,"English, French and non-official language",5,5,0,5,0
-Nunavut,62,Female,Total - Mother tongue,17495,15715,20,730,1025
+Nunavut,62,Female,Total - Detailed mother tongue,17495,15715,20,730,1025
 Nunavut,62,Female,Single responses,17130,15380,20,705,1020
 Nunavut,62,Female,Official languages,5525,4905,20,595,5
 Nunavut,62,Female,English,5285,4890,0,385,10

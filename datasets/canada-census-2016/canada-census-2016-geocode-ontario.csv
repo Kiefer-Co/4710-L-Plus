@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Ontario,35,Total - Sex,Total - Mother tongue,13312870,11455500,40045,1490390,326935
+Ontario,35,Total - Sex,Total - Detailed mother tongue,13312870,11455500,40045,1490390,326935
 Ontario,35,Total - Sex,Single responses,12946960,11177790,38480,1405385,325310
 Ontario,35,Total - Sex,Official languages,9393040,8166185,32350,1190680,3830
 Ontario,35,Total - Sex,English,8902320,8147935,415,750275,3700
@@ -268,7 +268,7 @@ Ontario,35,Total - Sex,English and French,54045,8215,215,45585,25
 Ontario,35,Total - Sex,English and non-official language,288285,265580,80,21155,1475
 Ontario,35,Total - Sex,French and non-official language,12565,1990,1205,9265,110
 Ontario,35,Total - Sex,"English, French and non-official language",11010,1920,65,9000,25
-Ontario,35,Male,Total - Mother tongue,6503880,5689830,17340,665855,130850
+Ontario,35,Male,Total - Detailed mother tongue,6503880,5689830,17340,665855,130850
 Ontario,35,Male,Single responses,6327630,5553360,16740,627430,130100
 Ontario,35,Male,Official languages,4637520,4087860,14540,533150,1970
 Ontario,35,Male,English,4406210,4079270,205,324815,1915
@@ -537,7 +537,7 @@ Ontario,35,Male,English and French,25165,3900,100,21150,15
 Ontario,35,Male,English and non-official language,140345,130735,40,8880,690
 Ontario,35,Male,French and non-official language,5735,920,430,4340,45
 Ontario,35,Male,"English, French and non-official language",5000,915,25,4050,10
-Ontario,35,Female,Total - Mother tongue,6808995,5765665,22705,824540,196085
+Ontario,35,Female,Total - Detailed mother tongue,6808995,5765665,22705,824540,196085
 Ontario,35,Female,Single responses,6619330,5624430,21735,777955,195210
 Ontario,35,Female,Official languages,4755520,4078320,17810,657530,1860
 Ontario,35,Female,English,4496110,4068665,210,425455,1785

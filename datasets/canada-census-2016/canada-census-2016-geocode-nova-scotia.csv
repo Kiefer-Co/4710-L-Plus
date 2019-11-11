@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Nova Scotia,12,Total - Sex,Total - Mother tongue,912295,813480,705,95380,2730
+Nova Scotia,12,Total - Sex,Total - Detailed mother tongue,912295,813480,705,95380,2730
 Nova Scotia,12,Total - Sex,Single responses,904240,808950,685,91900,2705
 Nova Scotia,12,Total - Sex,Official languages,859690,770500,630,88440,125
 Nova Scotia,12,Total - Sex,English,830225,768860,20,61220,120
@@ -268,7 +268,7 @@ Nova Scotia,12,Total - Sex,English and French,3445,625,5,2815,0
 Nova Scotia,12,Total - Sex,English and non-official language,4180,3795,0,350,25
 Nova Scotia,12,Total - Sex,French and non-official language,225,50,15,155,0
 Nova Scotia,12,Total - Sex,"English, French and non-official language",210,50,0,160,0
-Nova Scotia,12,Male,Total - Mother tongue,442470,398950,305,41925,1295
+Nova Scotia,12,Male,Total - Detailed mother tongue,442470,398950,305,41925,1295
 Nova Scotia,12,Male,Single responses,438550,396655,295,40320,1280
 Nova Scotia,12,Male,Official languages,416245,377200,270,38710,60
 Nova Scotia,12,Male,English,401980,376495,5,25415,65
@@ -537,7 +537,7 @@ Nova Scotia,12,Male,English and French,1600,300,5,1290,0
 Nova Scotia,12,Male,English and non-official language,2110,1950,0,145,15
 Nova Scotia,12,Male,French and non-official language,120,25,10,85,0
 Nova Scotia,12,Male,"English, French and non-official language",90,15,5,75,0
-Nova Scotia,12,Female,Total - Mother tongue,469830,414530,400,53460,1440
+Nova Scotia,12,Female,Total - Detailed mother tongue,469830,414530,400,53460,1440
 Nova Scotia,12,Female,Single responses,465690,412295,395,51575,1430
 Nova Scotia,12,Female,Official languages,443445,393300,355,49725,60
 Nova Scotia,12,Female,English,428245,392360,15,35810,60

@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Manitoba,46,Total - Sex,Total - Mother tongue,1261620,1135395,1485,108455,16285
+Manitoba,46,Total - Sex,Total - Detailed mother tongue,1261620,1135395,1485,108455,16285
 Manitoba,46,Total - Sex,Single responses,1230120,1109185,1405,103375,16155
 Manitoba,46,Total - Sex,Official languages,941130,843790,1105,95920,310
 Manitoba,46,Total - Sex,English,900605,840765,30,59510,305
@@ -268,7 +268,7 @@ Manitoba,46,Total - Sex,English and French,4365,980,10,3365,5
 Manitoba,46,Total - Sex,English and non-official language,25965,24980,5,860,120
 Manitoba,46,Total - Sex,French and non-official language,695,125,55,510,5
 Manitoba,46,Total - Sex,"English, French and non-official language",475,120,5,345,0
-Manitoba,46,Male,Total - Mother tongue,624095,566980,675,49200,7235
+Manitoba,46,Male,Total - Detailed mother tongue,624095,566980,675,49200,7235
 Manitoba,46,Male,Single responses,608820,554340,645,46670,7165
 Manitoba,46,Male,Official languages,468425,424465,520,43265,175
 Manitoba,46,Male,English,448960,423015,10,25760,175
@@ -537,7 +537,7 @@ Manitoba,46,Male,English and French,2135,450,0,1685,5
 Manitoba,46,Male,English and non-official language,12530,12065,5,395,65
 Manitoba,46,Male,French and non-official language,380,70,25,285,5
 Manitoba,46,Male,"English, French and non-official language",230,60,5,165,5
-Manitoba,46,Female,Total - Mother tongue,637520,568410,800,59250,9055
+Manitoba,46,Female,Total - Detailed mother tongue,637520,568410,800,59250,9055
 Manitoba,46,Female,Single responses,621295,554845,760,56700,8990
 Manitoba,46,Female,Official languages,472700,419325,585,52655,135
 Manitoba,46,Female,English,451645,417750,15,33745,135

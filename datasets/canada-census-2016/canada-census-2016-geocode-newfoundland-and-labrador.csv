@@ -1,5 +1,5 @@
 Geography,Geo Code,Sex (3),Detailed Mother,Total - Knowledge of official languages,English only,French only,English and French,Neither English nor French
-Newfoundland and Labrador,10,Total - Sex,Total - Mother tongue,515680,488800,115,25945,815
+Newfoundland and Labrador,10,Total - Sex,Total - Detailed mother tongue,515680,488800,115,25945,815
 Newfoundland and Labrador,10,Total - Sex,Single responses,513980,487710,115,25355,805
 Newfoundland and Labrador,10,Total - Sex,Official languages,502060,477245,95,24640,80
 Newfoundland and Labrador,10,Total - Sex,English,499705,477010,10,22605,75
@@ -268,7 +268,7 @@ Newfoundland and Labrador,10,Total - Sex,English and French,580,135,0,445,0
 Newfoundland and Labrador,10,Total - Sex,English and non-official language,1025,945,0,70,15
 Newfoundland and Labrador,10,Total - Sex,French and non-official language,55,5,5,50,0
 Newfoundland and Labrador,10,Total - Sex,"English, French and non-official language",25,5,0,20,0
-Newfoundland and Labrador,10,Male,Total - Mother tongue,252310,241310,60,10580,365
+Newfoundland and Labrador,10,Male,Total - Detailed mother tongue,252310,241310,60,10580,365
 Newfoundland and Labrador,10,Male,Single responses,251490,240755,60,10325,355
 Newfoundland and Labrador,10,Male,Official languages,245300,235260,50,9955,40
 Newfoundland and Labrador,10,Male,English,244065,235155,5,8860,40
@@ -537,7 +537,7 @@ Newfoundland and Labrador,10,Male,English and French,250,65,0,185,0
 Newfoundland and Labrador,10,Male,English and non-official language,525,485,0,35,10
 Newfoundland and Labrador,10,Male,French and non-official language,30,0,0,25,0
 Newfoundland and Labrador,10,Male,"English, French and non-official language",10,0,0,10,0
-Newfoundland and Labrador,10,Female,Total - Mother tongue,263365,247490,55,15365,455
+Newfoundland and Labrador,10,Female,Total - Detailed mother tongue,263365,247490,55,15365,455
 Newfoundland and Labrador,10,Female,Single responses,262490,246955,55,15030,450
 Newfoundland and Labrador,10,Female,Official languages,256755,241985,50,14685,35
 Newfoundland and Labrador,10,Female,English,255640,241855,5,13745,35
