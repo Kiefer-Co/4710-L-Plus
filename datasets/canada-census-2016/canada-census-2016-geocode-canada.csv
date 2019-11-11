@@ -1,808 +1,808 @@
-,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
-0,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Total - Mother tongue,1,1.0,34767255,23757525,4144690,6216070,648970
-1,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Single responses,2,,33948620,23250105,4101735,5951600,645175
-2,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Official languages,3,,26627555,17704465,3818695,5095730,8660
-3,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,English,4,,19460855,17662110,4800,1786525,7415
-4,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,French,5,,7166705,42355,3813895,3309205,1245
-5,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Non-official languages,6,,7321060,5545640,283035,855870,636515
-6,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Aboriginal languages,7,,195700,164995,13870,9450,7385
-7,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Algonquian languages,8,,130450,107755,13400,6285,3005
-8,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Blackfoot,9,,2815,2795,0,15,5
-9,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Cree-Montagnais languages,10,,88450,67800,12875,5340,2435
-10,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Atikamekw,11,,6155,0,5390,310,455
-11,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Montagnais (Innu),12,,10235,1515,7395,880,440
-12,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Moose Cree,13,,100,100,0,5,0
-13,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Naskapi,14,,1210,965,10,135,100
-14,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Northern East Cree,15,,315,230,0,75,5
-15,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Plains Cree,16,,3070,3010,0,35,20
-16,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Southern East Cree,17,,45,30,0,15,0
-17,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Swampy Cree,18,,1440,1405,0,20,10
-18,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Woods Cree,19,,1840,1800,0,20,20
-19,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Cree, n.o.s.",20,,64045,58735,75,3850,1385
-20,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Eastern Algonquian languages,21,,6995,6715,5,245,20
-21,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Malecite,22,,305,295,0,5,0
-22,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Mi'kmaq,23,,6690,6420,10,240,20
-23,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Ojibway-Potawatomi languages,24,,32150,30415,515,675,545
-24,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Algonquin,25,,1265,280,480,480,20
-25,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Ojibway,26,,17885,17460,20,175,230
-26,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Oji-Cree,27,,12855,12525,20,20,285
-27,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Ottawa (Odawa),28,,150,140,0,0,5
-28,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,45,35,0,10,0
-29,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Athabaskan languages,30,,17370,16915,10,110,330
-30,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Northern Athabaskan languages,31,,17320,16865,10,105,335
-31,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Babine (Wetsuwet'en),32,,110,110,0,0,0
-32,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Beaver,33,,190,190,0,0,0
-33,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Carrier,34,,1030,1020,0,10,0
-34,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Chilcotin,35,,660,640,0,5,10
-35,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Dene,36,,10700,10430,10,45,210
-36,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Dogrib (Tlicho),37,,1645,1590,0,0,55
-37,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Gwich'in,38,,255,255,0,5,0
-38,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Sarsi (Sarcee),39,,80,75,0,5,5
-39,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Sekani,40,,85,85,0,0,0
-40,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Slavey-Hare languages,41,,1990,1910,5,25,50
-41,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,North Slavey (Hare),42,,765,735,0,10,20
-42,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,South Slavey,43,,945,915,0,10,20
-43,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Slavey, n.o.s.",44,,280,260,5,5,5
-44,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tahltan languages,45,,270,270,0,5,0
-45,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Kaska (Nahani),46,,180,180,0,0,0
-46,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tahltan,47,,95,95,0,0,0
-47,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tutchone languages,48,,290,290,0,5,0
-48,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Northern Tutchone,49,,220,215,0,0,0
-49,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Southern Tutchone,50,,70,70,0,0,0
-50,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,55,50,0,0,0
-51,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Haida,52,,75,75,0,5,0
-52,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Inuit languages,53,,36545,29345,400,2805,3990
-53,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,1020,1000,0,5,15
-54,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Inuktitut,55,,35215,28080,390,2775,3965
-55,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Inuit languages, n.i.e.",56,,315,265,10,30,10
-56,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Iroquoian languages,57,,1120,1010,20,85,5
-57,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Cayuga,58,,40,40,0,0,0
-58,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Mohawk,59,,985,890,15,70,5
-59,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Oneida,60,,55,55,0,0,0
-60,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,35,20,0,10,0
-61,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Kutenai,62,,110,100,0,5,5
-62,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Michif,63,,465,385,0,70,10
-63,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Salish languages,64,,2305,2280,0,30,5
-64,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Comox,65,,85,85,0,0,0
-65,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Halkomelem,66,,480,470,0,5,0
-66,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Lillooet,67,,315,310,0,0,0
-67,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Okanagan,68,,275,265,0,0,5
-68,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Shuswap (Secwepemctsin),69,,445,435,0,5,0
-69,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Squamish,70,,40,40,0,0,0
-70,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Straits,71,,85,80,0,0,0
-71,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Thompson (Ntlakapamux),72,,335,335,0,0,0
-72,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Salish languages, n.i.e.",73,,255,260,0,0,0
-73,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Siouan languages,74,,4285,4265,0,10,15
-74,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Dakota,75,,1215,1200,0,10,0
-75,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Stoney,76,,3025,3010,0,5,10
-76,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Siouan languages, n.i.e.",77,,55,50,0,5,0
-77,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tlingit,78,,95,90,0,5,0
-78,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tsimshian languages,79,,1480,1465,5,10,5
-79,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Gitxsan (Gitksan),80,,880,875,0,5,0
-80,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Nisga'a,81,,395,395,0,5,0
-81,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tsimshian,82,,200,195,0,5,0
-82,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Wakashan languages,83,,805,790,0,10,0
-83,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Haisla,84,,90,90,0,0,0
-84,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Heiltsuk,85,,100,100,0,5,0
-85,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,325,320,0,5,0
-86,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,285,275,0,5,0
-87,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,5,10,0,0,0
-88,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,590,525,30,25,15
-89,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Non-Aboriginal languages,90,,7125365,5380640,269170,846420,629130
-90,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Afro-Asiatic languages,91,,575365,311695,74845,140695,48130
-91,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Berber languages,92,,22135,335,12620,8560,620
-92,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Kabyle,93,,13150,200,7815,4735,395
-93,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Berber languages, n.i.e.",94,,8985,135,4805,3825,220
-94,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Cushitic languages,95,,42885,35225,710,3670,3280
-95,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Bilen,96,,805,650,0,20,125
-96,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Oromo,97,,4960,4500,5,95,360
-97,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Somali,98,,36760,29865,680,3490,2725
-98,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,365,210,20,65,65
-99,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Semitic languages,100,,509190,275415,61370,128225,44185
-100,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Amharic,101,,22465,20510,50,1130,775
-101,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Arabic,102,,419890,198950,61120,122125,37705
-102,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Assyrian Neo-Aramaic,103,,16070,13060,30,295,2690
-103,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Chaldean Neo-Aramaic,104,,5550,4425,10,130,985
-104,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Harari,105,,1320,1210,0,50,55
-105,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Hebrew,106,,19530,15375,110,3695,355
-106,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Maltese,107,,5565,5390,5,135,30
-107,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tigrigna,108,,16645,14755,35,525,1340
-108,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Semitic languages, n.i.e.",109,,2155,1740,15,135,260
-109,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,1155,720,145,245,40
-110,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Austro-Asiatic languages,111,,176725,118195,9660,23700,25170
-111,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Khmer (Cambodian),112,,20130,9935,3060,4495,2640
-112,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Vietnamese,113,,156425,108140,6585,19180,22520
-113,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,170,125,15,25,10
-114,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Austronesian languages,115,,511480,494205,810,11785,4680
-115,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Bikol,116,,1790,1725,0,45,15
-116,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Cebuano,117,,19895,19275,5,455,160
-117,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Fijian,118,,745,720,0,5,15
-118,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Hiligaynon,119,,6880,6640,5,175,60
-119,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Ilocano,120,,26345,25450,5,515,375
-120,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Malagasy,121,,1425,15,595,800,20
-121,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Malay,122,,12275,11220,20,740,295
-122,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,4045,3930,0,70,45
-123,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Pangasinan,124,,1390,1360,0,15,15
-124,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,431385,418905,115,8795,3570
-125,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Waray-Waray,126,,1110,1075,0,25,10
-126,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,4195,3890,50,150,100
-127,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Creole languages,128,,72130,5490,36385,28145,2100
-128,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Haitian Creole,129,,3035,185,1410,1355,80
-129,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Creole, n.o.s.",130,,64110,2020,34865,25250,1975
-130,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Creole languages, n.i.e.",131,,4985,3285,115,1545,45
-131,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Dravidian languages,132,,189405,165140,495,11225,12545
-132,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Kannada,133,,3970,3695,0,190,85
-133,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Malayalam,134,,28570,26905,10,700,960
-134,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tamil,135,,140715,119435,490,9800,10995
-135,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Telugu,136,,15655,14660,0,510,490
-136,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,490,455,0,25,15
-137,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Hmong-Mien languages,138,,795,705,5,25,65
-138,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Indo-European languages,139,,3877330,2981490,116750,520675,258420
-139,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Albanian,140,,26895,21125,870,2710,2190
-140,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Armenian,141,,33455,15045,1230,14650,2535
-141,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Balto-Slavic languages,142,,701980,577445,12735,80955,30845
-142,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Baltic languages,143,,12530,10555,20,1805,145
-143,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Latvian,144,,5455,4595,5,805,45
-144,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Lithuanian,145,,7075,5960,15,1000,100
-145,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Slavic languages,146,,689450,566885,12715,79150,30695
-146,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Belarusan,147,,805,615,15,125,60
-147,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Bosnian,148,,12215,9650,775,1180,600
-148,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Bulgarian,149,,20025,11460,1470,6395,695
-149,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Croatian,150,,48200,43190,295,3580,1140
-150,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Czech,151,,22295,19160,125,2650,355
-151,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Macedonian,152,,16770,15270,25,770,710
-152,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Polish,153,,181710,154065,1470,19470,6700
-153,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Russian,154,,188255,141715,6290,26680,13565
-154,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Serbian,155,,57350,47985,695,6010,2665
-155,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Serbo-Croatian,156,,9550,6965,600,1665,315
-156,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Slovak,157,,17585,15065,85,1690,740
-157,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Slovene (Slovenian),158,,9785,8765,20,930,70
-158,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Ukrainian,159,,102480,90845,820,7795,3030
-159,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Slavic languages, n.i.e.",160,,2420,2130,35,200,60
-160,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Celtic languages,161,,2690,2250,40,380,20
-161,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Scottish Gaelic,162,,1090,925,5,150,15
-162,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Welsh,163,,1075,955,5,110,5
-163,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Celtic languages, n.i.e.",164,,530,365,35,125,5
-164,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Germanic languages,165,,538765,479190,1335,44125,14110
-165,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Afrikaans,166,,10265,9760,10,430,70
-166,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Danish,167,,12635,11770,5,840,20
-167,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Dutch,168,,99015,89650,130,8870,375
-168,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Frisian,169,,2095,1985,0,110,5
-169,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,German,170,,384035,343850,1020,27310,11860
-170,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Icelandic,171,,1285,1180,0,100,10
-171,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Norwegian,172,,4615,4215,5,385,5
-172,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Swedish,173,,6840,5795,20,1005,20
-173,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Vlaams (Flemish),174,,3895,2555,95,1230,5
-174,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Yiddish,175,,13555,8215,25,3585,1730
-175,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Germanic languages, n.i.e.",176,,525,220,35,265,10
-176,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Greek,177,,106525,71965,540,27400,6620
-177,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Indo-Iranian languages,178,,1312750,1108315,6255,74030,124155
-178,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Indo-Aryan languages,179,,1064765,911330,1900,46585,104945
-179,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Bengali,180,,73125,62240,320,7640,2925
-180,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Gujarati,181,,108780,94150,185,5260,9180
-181,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Hindi,182,,110645,102265,55,4340,3985
-182,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Kashmiri,183,,570,540,0,20,10
-183,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Konkani,184,,3330,3130,25,140,35
-184,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Marathi,185,,8295,7670,0,430,195
-185,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Nepali,186,,18275,14080,485,1115,2595
-186,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Oriya (Odia),187,,1050,980,0,40,30
-187,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Punjabi (Panjabi),188,,501680,410825,400,14820,75630
-188,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Sindhi,189,,11860,10645,15,835,365
-189,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Sinhala (Sinhalese),190,,16335,15300,0,715,320
-190,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Urdu,191,,210820,189515,405,11220,9675
-191,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Iranian languages,192,,242805,192680,4270,27090,18765
-192,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Kurdish,193,,11700,9285,305,725,1380
-193,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Pashto,194,,16905,14100,130,965,1720
-194,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Persian (Farsi),195,,214195,169295,3835,25395,15665
-195,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,5185,4305,85,350,445
-196,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Italic (Romance) languages,197,,1154270,706160,93755,276420,77940
-197,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Catalan,198,,865,400,65,380,15
-198,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Italian,199,,375640,236025,15940,99975,23695
-199,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Portuguese,200,,221540,155420,10995,33530,21595
-200,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Romanian,201,,96665,45690,9365,37540,4065
-201,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Spanish,202,,458850,268175,57355,104775,28545
-202,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,720,455,35,210,20
-203,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Japanese,204,,43645,38290,205,2715,2435
-204,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Kartvelian languages,205,,1715,1330,20,150,215
-205,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Georgian,206,,1715,1330,20,150,215
-206,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Korean,207,,153425,130280,235,6495,16410
-207,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Mongolic languages,208,,1575,1285,35,155,100
-208,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Mongolian,209,,1575,1285,35,150,100
-209,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Niger-Congo languages,210,,91375,50050,15865,23330,2135
-210,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Akan (Twi),211,,13455,12255,20,990,190
-211,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Bamanankan,212,,1535,30,790,705,20
-212,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Edo,213,,1670,1590,5,65,10
-213,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Ewe,214,,1755,795,375,565,15
-214,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,2830,145,1260,1335,85
-215,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Ga,216,,920,830,0,85,10
-216,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Ganda,217,,1295,1210,0,70,5
-217,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Igbo,218,,4235,4000,0,200,30
-218,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Lingala,219,,3810,130,1900,1745,30
-219,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Rundi (Kirundi),220,,5845,310,1850,3355,335
-220,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Kinyarwanda (Rwanda),221,,5250,900,1005,3190,155
-221,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Shona,222,,3185,3035,5,125,25
-222,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Swahili,223,,13370,7560,1920,3285,600
-223,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Wolof,224,,3990,160,1660,2075,100
-224,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Yoruba,225,,9085,8630,50,355,50
-225,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,19135,8465,5025,5175,465
-226,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Nilo-Saharan languages,227,,5870,5130,205,305,230
-227,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Dinka,228,,2120,1985,0,45,90
-228,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,3750,3145,205,265,135
-229,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Sign languages,230,,7505,3290,565,375,3270
-230,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,American Sign Language,231,,2680,1815,5,105,760
-231,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Quebec Sign Language,232,,695,5,385,130,180
-232,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Sign languages, n.i.e",233,,4120,1475,180,135,2330
-233,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Sino-Tibetan languages,234,,1269215,957070,8165,58310,245670
-234,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Chinese languages,235,,1253360,943830,8115,57995,243420
-235,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Cantonese,236,,565270,419535,2115,22510,121105
-236,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Hakka,237,,10910,8630,70,575,1635
-237,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Mandarin,238,,592040,452490,4740,30230,104575
-238,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Min Dong,239,,1235,645,0,20,565
-239,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,31800,22740,595,2095,6370
-240,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Wu (Shanghainese),241,,12920,8925,80,630,3285
-241,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Chinese, n.o.s.",242,,38580,30430,500,1895,5755
-242,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Chinese languages, n.i.e.",243,,615,435,5,40,130
-243,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tibeto-Burman languages,244,,15855,13240,50,320,2250
-244,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Burmese,245,,3585,3205,5,70,300
-245,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Karenic languages,246,,4705,3555,20,20,1115
-246,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tibetan,247,,6165,5315,10,175,660
-247,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,1400,1165,15,50,170
-248,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Tai-Kadai languages,249,,22010,15495,1690,3125,1700
-249,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Lao,250,,12670,7525,1590,2545,1010
-250,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Thai,251,,9255,7905,100,580,675
-251,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,80,65,0,0,20
-252,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Turkic languages,253,,40140,28885,2425,5605,3220
-253,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Azerbaijani,254,,3255,2600,30,345,280
-254,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Turkish,255,,32815,23130,2275,4800,2610
-255,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Uyghur,256,,1040,775,35,125,95
-256,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Uzbek,257,,1715,1360,30,180,145
-257,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Turkic languages, n.i.e.",258,,1315,1020,50,150,95
-258,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Uralic languages,259,,81985,69985,500,9040,2460
-259,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Estonian,260,,5445,4630,0,775,40
-260,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Finnish,261,,15295,14115,15,1000,170
-261,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Hungarian,262,,61240,51235,485,7265,2250
-262,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Uralic languages, n.i.e.",263,,10,5,0,0,0
-263,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"Other languages, n.i.e.",264,,3690,2630,310,575,175
-264,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,Multiple responses,265,,818635,507415,42955,264470,3795
-265,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,English and French,266,,165325,17115,4360,143745,105
-266,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,English and non-official language,267,,533260,483325,435,46560,2950
-267,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,French and non-official language,268,,86150,3595,37250,44720,590
-268,2016,1,0,Canada,4.0,20000, ,1,Total - Sex,1,,"English, French and non-official language",269,,33900,3385,910,29450,155
-269,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Total - Mother tongue,1,1.0,17101170,11838075,1925845,3071325,265925
-270,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Single responses,2,,16702840,11589825,1906015,2942935,264060
-271,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Official languages,3,,13201615,8893210,1781985,2521960,4460
-272,2016,1,0,Canada,4.0,20000, ,1,Male,2,,English,4,,9680125,8873125,2220,800945,3830
-273,2016,1,0,Canada,4.0,20000, ,1,Male,2,,French,5,,3521490,20085,1779760,1721015,630
-274,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Non-official languages,6,,3501220,2696615,124035,420975,259600
-275,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Aboriginal languages,7,,94800,79800,6735,4650,3615
-276,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Algonquian languages,8,,62935,51795,6505,3205,1430
-277,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Blackfoot,9,,1325,1315,0,10,5
-278,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Cree-Montagnais languages,10,,42920,32720,6265,2740,1195
-279,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Atikamekw,11,,3135,0,2720,175,240
-280,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Montagnais (Innu),12,,4885,725,3500,450,210
-281,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Moose Cree,13,,50,50,0,0,0
-282,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Naskapi,14,,590,480,10,65,40
-283,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Northern East Cree,15,,125,95,0,25,10
-284,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Plains Cree,16,,1360,1325,0,20,15
-285,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Southern East Cree,17,,20,15,0,5,0
-286,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Swampy Cree,18,,590,575,0,5,0
-287,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Woods Cree,19,,865,845,0,10,15
-288,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Cree, n.o.s.",20,,31305,28625,35,1980,665
-289,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Eastern Algonquian languages,21,,3310,3165,5,130,15
-290,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Malecite,22,,140,135,0,0,0
-291,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Mi'kmaq,23,,3170,3025,0,125,20
-292,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Ojibway-Potawatomi languages,24,,15350,14580,240,325,210
-293,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Algonquin,25,,590,125,225,235,10
-294,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Ojibway,26,,8440,8265,5,80,90
-295,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Oji-Cree,27,,6260,6130,5,10,110
-296,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Ottawa (Odawa),28,,65,60,0,0,5
-297,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Algonquian languages, n.i.e.",29,,25,20,0,5,0
-298,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Athabaskan languages,30,,8325,8090,5,55,170
-299,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Northern Athabaskan languages,31,,8305,8075,5,60,170
-300,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Babine (Wetsuwet'en),32,,55,55,0,0,0
-301,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Beaver,33,,90,90,0,0,0
-302,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Carrier,34,,460,460,0,5,0
-303,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Chilcotin,35,,295,295,0,0,0
-304,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Dene,36,,5185,5035,0,30,120
-305,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Dogrib (Tlicho),37,,835,810,0,0,25
-306,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Gwich'in,38,,110,105,0,5,5
-307,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Sarsi (Sarcee),39,,30,25,0,0,0
-308,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Sekani,40,,45,45,0,5,0
-309,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Slavey-Hare languages,41,,950,905,0,20,25
-310,2016,1,0,Canada,4.0,20000, ,1,Male,2,,North Slavey (Hare),42,,365,350,0,5,10
-311,2016,1,0,Canada,4.0,20000, ,1,Male,2,,South Slavey,43,,455,440,0,5,10
-312,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Slavey, n.o.s.",44,,130,115,5,5,0
-313,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tahltan languages,45,,135,135,0,0,0
-314,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Kaska (Nahani),46,,90,85,0,0,0
-315,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tahltan,47,,40,45,0,0,0
-316,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tutchone languages,48,,120,120,0,0,0
-317,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Northern Tutchone,49,,90,90,0,0,0
-318,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Southern Tutchone,50,,30,35,0,0,0
-319,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Athabaskan languages, n.i.e.",51,,15,15,0,0,0
-320,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Haida,52,,35,35,0,5,0
-321,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Inuit languages,53,,18100,14655,200,1260,1990
-322,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Inuinnaqtun (Inuvialuktun),54,,445,435,0,5,5
-323,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Inuktitut,55,,17535,14115,195,1240,1980
-324,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Inuit languages, n.i.e.",56,,125,105,5,10,5
-325,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Iroquoian languages,57,,485,425,10,45,5
-326,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Cayuga,58,,20,20,0,0,0
-327,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Mohawk,59,,430,375,10,40,5
-328,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Oneida,60,,15,15,0,0,0
-329,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Iroquoian languages, n.i.e.",61,,15,5,0,5,0
-330,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Kutenai,62,,55,50,0,0,5
-331,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Michif,63,,230,195,0,35,5
-332,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Salish languages,64,,1130,1110,0,15,0
-333,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Comox,65,,40,45,0,0,0
-334,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Halkomelem,66,,230,230,0,0,0
-335,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Lillooet,67,,155,150,0,5,0
-336,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Okanagan,68,,135,135,0,0,0
-337,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Shuswap (Secwepemctsin),69,,225,215,0,5,0
-338,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Squamish,70,,15,20,0,0,0
-339,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Straits,71,,40,40,0,0,0
-340,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Thompson (Ntlakapamux),72,,145,145,0,0,0
-341,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Salish languages, n.i.e.",73,,135,130,0,0,0
-342,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Siouan languages,74,,2070,2055,0,5,10
-343,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Dakota,75,,570,565,0,0,5
-344,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Stoney,76,,1465,1460,0,5,5
-345,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Siouan languages, n.i.e.",77,,30,25,0,0,0
-346,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tlingit,78,,40,40,0,5,0
-347,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tsimshian languages,79,,725,725,0,0,0
-348,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Gitxsan (Gitksan),80,,435,435,0,0,0
-349,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Nisga'a,81,,200,200,0,5,0
-350,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tsimshian,82,,90,90,0,0,0
-351,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Wakashan languages,83,,370,365,0,5,5
-352,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Haisla,84,,40,40,0,0,0
-353,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Heiltsuk,85,,45,45,0,0,0
-354,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Kwakiutl (Kwak'wala),86,,145,140,0,0,0
-355,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Nuu-chah-nulth (Nootka),87,,135,135,0,0,0
-356,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Wakashan languages, n.i.e.",88,,10,5,0,0,0
-357,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Aboriginal languages, n.o.s.",89,,295,265,15,15,5
-358,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Non-Aboriginal languages,90,,3406425,2616810,117295,416325,255990
-359,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Afro-Asiatic languages,91,,298065,164875,34240,78150,20795
-360,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Berber languages,92,,11860,170,6155,5280,265
-361,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Kabyle,93,,6995,105,3875,2840,175
-362,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Berber languages, n.i.e.",94,,4870,65,2280,2440,85
-363,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Cushitic languages,95,,20100,17060,270,1765,995
-364,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Bilen,96,,450,380,0,10,55
-365,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Oromo,97,,2560,2400,0,45,110
-366,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Somali,98,,16895,14160,255,1670,810
-367,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Cushitic languages, n.i.e.",99,,190,120,15,35,30
-368,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Semitic languages,100,,265470,147250,27745,70950,19520
-369,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Amharic,101,,10725,9885,20,560,255
-370,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Arabic,102,,220780,108310,27640,67875,16960
-371,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Assyrian Neo-Aramaic,103,,7905,6670,10,140,1090
-372,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Chaldean Neo-Aramaic,104,,2780,2310,5,60,400
-373,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Harari,105,,640,595,0,25,15
-374,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Hebrew,106,,10485,8395,50,1860,180
-375,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Maltese,107,,2760,2675,0,70,15
-376,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tigrigna,108,,8305,7500,10,275,525
-377,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Semitic languages, n.i.e.",109,,1085,900,10,80,95
-378,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,635,395,65,160,15
-379,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Austro-Asiatic languages,111,,81810,56845,4305,12030,8630
-380,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Khmer (Cambodian),112,,9270,4715,1400,2350,800
-381,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Vietnamese,113,,72470,52075,2900,9670,7825
-382,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Austro-Asiatic languages, n.i.e",114,,70,50,5,5,0
-383,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Austronesian languages,115,,211580,204795,355,4515,1910
-384,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Bikol,116,,790,770,0,15,5
-385,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Cebuano,117,,7930,7705,5,155,65
-386,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Fijian,118,,400,385,0,5,10
-387,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Hiligaynon,119,,2675,2595,5,55,25
-388,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Ilocano,120,,10625,10260,5,200,160
-389,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Malagasy,121,,670,5,265,390,5
-390,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Malay,122,,5255,4855,10,290,105
-391,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,1865,1820,0,25,15
-392,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Pangasinan,124,,590,580,0,5,5
-393,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Tagalog (Pilipino, Filipino)",125,,178575,173755,45,3305,1460
-394,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Waray-Waray,126,,435,425,0,0,10
-395,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Austronesian languages, n.i.e.",127,,1775,1635,25,70,45
-396,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Creole languages,128,,32310,2650,14125,15110,425
-397,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Haitian Creole,129,,1440,90,575,760,15
-398,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Creole, n.o.s.",130,,28455,1005,13495,13570,385
-399,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Creole languages, n.i.e.",131,,2410,1555,50,785,20
-400,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Dravidian languages,132,,94765,85105,205,5300,4155
-401,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Kannada,133,,2040,1895,0,105,35
-402,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Malayalam,134,,14770,14005,5,340,430
-403,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tamil,135,,69080,60800,205,4600,3470
-404,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Telugu,136,,8640,8180,0,255,205
-405,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Dravidian languages, n.i.e.",137,,240,230,0,5,10
-406,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Hmong-Mien languages,138,,395,360,5,10,15
-407,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Indo-European languages,139,,1889400,1487540,50755,249945,101160
-408,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Albanian,140,,13610,11015,425,1295,870
-409,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Armenian,141,,16270,7590,475,7145,1055
-410,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Balto-Slavic languages,142,,323640,271505,5220,34865,12055
-411,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Baltic languages,143,,5310,4545,5,715,50
-412,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Latvian,144,,2350,2010,0,320,15
-413,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Lithuanian,145,,2960,2530,5,395,30
-414,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Slavic languages,146,,318330,266960,5215,34150,12005
-415,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Belarusan,147,,385,295,10,60,20
-416,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Bosnian,148,,6035,4850,355,570,260
-417,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Bulgarian,149,,9675,5810,665,2930,270
-418,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Croatian,150,,23540,21400,125,1590,430
-419,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Czech,151,,10530,9160,55,1140,170
-420,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Macedonian,152,,8050,7465,15,320,255
-421,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Polish,153,,82430,71260,515,8225,2440
-422,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Russian,154,,85400,66225,2510,11255,5410
-423,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Serbian,155,,28540,24480,320,2685,1050
-424,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Serbo-Croatian,156,,4570,3430,265,760,120
-425,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Slovak,157,,8075,6985,30,715,340
-426,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Slovene (Slovenian),158,,4410,3980,10,395,25
-427,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Ukrainian,159,,45440,40515,330,3390,1205
-428,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Slavic languages, n.i.e.",160,,1255,1115,15,110,15
-429,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Celtic languages,161,,1340,1095,20,210,10
-430,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Scottish Gaelic,162,,540,435,0,95,10
-431,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Welsh,163,,500,450,0,50,0
-432,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Celtic languages, n.i.e.",164,,295,210,20,70,0
-433,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Germanic languages,165,,258415,231485,620,19365,6940
-434,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Afrikaans,166,,5115,4875,0,200,35
-435,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Danish,167,,6245,5860,5,370,10
-436,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Dutch,168,,48195,43725,50,4230,190
-437,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Frisian,169,,1090,1025,0,60,5
-438,2016,1,0,Canada,4.0,20000, ,1,Male,2,,German,170,,183215,165155,485,11875,5705
-439,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Icelandic,171,,595,550,0,45,5
-440,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Norwegian,172,,2170,2000,0,170,5
-441,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Swedish,173,,3015,2615,5,380,15
-442,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Vlaams (Flemish),174,,1730,1115,40,570,5
-443,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Yiddish,175,,6755,4455,15,1315,970
-444,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Germanic languages, n.i.e.",176,,280,110,15,150,5
-445,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Greek,177,,53350,36420,285,14230,2415
-446,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Indo-Iranian languages,178,,664120,579575,2860,35490,46195
-447,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Indo-Aryan languages,179,,538530,476610,920,22280,38725
-448,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Bengali,180,,37410,32615,150,3725,915
-449,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Gujarati,181,,55105,49585,85,2430,3005
-450,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Hindi,182,,55880,52650,20,2015,1200
-451,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Kashmiri,183,,300,280,0,20,5
-452,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Konkani,184,,1620,1530,15,75,5
-453,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Marathi,185,,4300,4020,0,195,85
-454,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Nepali,186,,9225,7260,230,595,1145
-455,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Oriya (Odia),187,,560,535,0,15,10
-456,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Punjabi (Panjabi),188,,253515,217175,205,7035,29105
-457,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Sindhi,189,,5600,5135,5,385,80
-458,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Sinhala (Sinhalese),190,,8050,7625,0,310,115
-459,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Urdu,191,,106960,98200,210,5485,3070
-460,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Iranian languages,192,,122835,100585,1910,13015,7320
-461,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Kurdish,193,,6345,5165,150,415,625
-462,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Pashto,194,,8765,7690,50,495,530
-463,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Persian (Farsi),195,,107725,87740,1710,12110,6170
-464,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Indo-Iranian languages, n.i.e.",196,,2760,2380,35,195,155
-465,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Italic (Romance) languages,197,,558660,348855,40845,137335,31625
-466,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Catalan,198,,440,205,30,205,10
-467,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Italian,199,,184410,119235,7220,50080,7885
-468,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Portuguese,200,,106630,76260,4940,16390,9035
-469,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Romanian,201,,46195,22430,4200,18025,1545
-470,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Spanish,202,,220605,130495,24440,52530,13150
-471,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Italic (Romance) languages, n.i.e.",203,,380,235,15,115,10
-472,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Japanese,204,,14785,12865,90,870,970
-473,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Kartvelian languages,205,,910,715,5,70,120
-474,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Georgian,206,,910,715,5,70,120
-475,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Korean,207,,70305,61045,100,2670,6490
-476,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Mongolic languages,208,,690,580,10,55,40
-477,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Mongolian,209,,690,575,10,60,40
-478,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Niger-Congo languages,210,,45075,24565,6865,12890,760
-479,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Akan (Twi),211,,6490,5950,10,485,45
-480,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Bamanankan,212,,810,10,375,420,10
-481,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Edo,213,,770,735,0,35,5
-482,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Ewe,214,,950,400,165,380,5
-483,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,1495,70,550,825,45
-484,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Ga,216,,450,410,0,35,5
-485,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Ganda,217,,625,590,0,35,0
-486,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Igbo,218,,2260,2155,0,100,5
-487,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Lingala,219,,1780,65,780,925,15
-488,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Rundi (Kirundi),220,,2785,155,785,1720,120
-489,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Kinyarwanda (Rwanda),221,,2360,410,330,1575,45
-490,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Shona,222,,1515,1455,0,55,10
-491,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Swahili,223,,6380,3600,795,1760,230
-492,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Wolof,224,,2170,85,780,1260,40
-493,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Yoruba,225,,4780,4555,20,195,15
-494,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Niger-Congo languages, n.i.e.",226,,9440,3910,2265,3090,165
-495,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Nilo-Saharan languages,227,,3025,2685,85,185,70
-496,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Dinka,228,,1115,1065,0,20,30
-497,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,1910,1615,80,165,40
-498,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Sign languages,230,,3925,1610,295,165,1855
-499,2016,1,0,Canada,4.0,20000, ,1,Male,2,,American Sign Language,231,,1325,850,0,40,425
-500,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Quebec Sign Language,232,,335,0,185,55,95
-501,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Sign languages, n.i.e",233,,2265,755,115,65,1335
-502,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Sino-Tibetan languages,234,,589570,454820,3670,25505,105570
-503,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Chinese languages,235,,581645,448095,3650,25365,104540
-504,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Cantonese,236,,262865,201950,1010,10000,49905
-505,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Hakka,237,,4895,4020,25,260,590
-506,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Mandarin,238,,274635,211990,2055,12955,47635
-507,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Min Dong,239,,580,315,0,5,255
-508,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,14450,10615,290,970,2575
-509,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Wu (Shanghainese),241,,5780,4150,40,260,1330
-510,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Chinese, n.o.s.",242,,18170,14855,225,895,2200
-511,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Chinese languages, n.i.e.",243,,275,200,5,30,50
-512,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tibeto-Burman languages,244,,7920,6725,25,140,1030
-513,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Burmese,245,,1790,1630,5,25,130
-514,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Karenic languages,246,,2355,1810,5,10,530
-515,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tibetan,247,,3080,2695,10,80,305
-516,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,695,595,10,25,65
-517,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Tai-Kadai languages,249,,8865,5935,790,1505,640
-518,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Lao,250,,6145,3720,760,1340,325
-519,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Thai,251,,2695,2190,30,165,310
-520,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Tai-Kadai languages, n.i.e",252,,30,20,0,0,5
-521,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Turkic languages,253,,21120,15805,1035,2975,1305
-522,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Azerbaijani,254,,1785,1465,15,185,120
-523,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Turkish,255,,17375,12765,980,2585,1050
-524,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Uyghur,256,,510,400,10,65,40
-525,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Uzbek,257,,855,700,15,75,65
-526,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Turkic languages, n.i.e.",258,,595,465,15,65,40
-527,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Uralic languages,259,,37790,32565,225,4030,975
-528,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Estonian,260,,2330,2010,0,300,15
-529,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Finnish,261,,6395,5975,5,340,70
-530,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Hungarian,262,,29060,24570,220,3385,885
-531,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Uralic languages, n.i.e.",263,,0,5,0,0,0
-532,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"Other languages, n.i.e.",264,,2040,1465,140,345,90
-533,2016,1,0,Canada,4.0,20000, ,1,Male,2,,Multiple responses,265,,398325,248250,19825,128390,1860
-534,2016,1,0,Canada,4.0,20000, ,1,Male,2,,English and French,266,,80460,8270,2045,70095,50
-535,2016,1,0,Canada,4.0,20000, ,1,Male,2,,English and non-official language,267,,259165,236695,195,20835,1440
-536,2016,1,0,Canada,4.0,20000, ,1,Male,2,,French and non-official language,268,,42165,1685,17165,23020,290
-537,2016,1,0,Canada,4.0,20000, ,1,Male,2,,"English, French and non-official language",269,,16535,1595,420,14440,80
-538,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Total - Mother tongue,1,1.0,17666085,11919455,2218840,3144745,383045
-539,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Single responses,2,,17245775,11660285,2195720,3008665,381115
-540,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Official languages,3,,13425935,8811260,2036710,2573770,4200
-541,2016,1,0,Canada,4.0,20000, ,1,Female,3,,English,4,,9780725,8788990,2575,985580,3585
-542,2016,1,0,Canada,4.0,20000, ,1,Female,3,,French,5,,3645210,22270,2034135,1588190,615
-543,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Non-official languages,6,,3819840,2849025,159010,434895,376915
-544,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Aboriginal languages,7,,100900,85195,7140,4800,3770
-545,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Algonquian languages,8,,67520,55960,6900,3080,1580
-546,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Blackfoot,9,,1490,1480,0,10,0
-547,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Cree-Montagnais languages,10,,45530,35080,6615,2595,1240
-548,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Atikamekw,11,,3015,5,2670,135,210
-549,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Montagnais (Innu),12,,5350,795,3895,425,230
-550,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Moose Cree,13,,55,50,0,5,0
-551,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Naskapi,14,,620,485,10,65,60
-552,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Northern East Cree,15,,190,140,0,45,0
-553,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Plains Cree,16,,1705,1685,5,15,5
-554,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Southern East Cree,17,,25,15,0,10,0
-555,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Swampy Cree,18,,855,830,0,15,5
-556,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Woods Cree,19,,975,955,0,10,5
-557,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Cree, n.o.s.",20,,32745,30115,40,1870,720
-558,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Eastern Algonquian languages,21,,3680,3555,5,120,10
-559,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Malecite,22,,160,160,0,5,0
-560,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Mi'kmaq,23,,3520,3395,5,115,10
-561,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Ojibway-Potawatomi languages,24,,16795,15835,280,355,335
-562,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Algonquin,25,,670,155,260,245,15
-563,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Ojibway,26,,9450,9200,10,95,145
-564,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Oji-Cree,27,,6595,6395,10,5,180
-565,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Ottawa (Odawa),28,,80,80,0,0,0
-566,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Algonquian languages, n.i.e.",29,,20,15,0,10,0
-567,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Athabaskan languages,30,,9045,8830,5,55,160
-568,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Northern Athabaskan languages,31,,9010,8795,5,50,160
-569,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Babine (Wetsuwet'en),32,,60,60,0,0,0
-570,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Beaver,33,,105,100,0,0,0
-571,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Carrier,34,,565,560,0,5,5
-572,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Chilcotin,35,,360,350,0,5,5
-573,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Dene,36,,5515,5395,0,25,90
-574,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Dogrib (Tlicho),37,,815,780,0,0,30
-575,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Gwich'in,38,,150,145,0,0,0
-576,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Sarsi (Sarcee),39,,55,50,0,0,0
-577,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Sekani,40,,45,45,0,0,0
-578,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Slavey-Hare languages,41,,1040,1005,0,10,25
-579,2016,1,0,Canada,4.0,20000, ,1,Female,3,,North Slavey (Hare),42,,395,385,0,0,10
-580,2016,1,0,Canada,4.0,20000, ,1,Female,3,,South Slavey,43,,490,480,5,5,10
-581,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Slavey, n.o.s.",44,,155,140,0,0,5
-582,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tahltan languages,45,,140,140,0,5,0
-583,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Kaska (Nahani),46,,90,90,0,0,0
-584,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tahltan,47,,50,50,0,0,0
-585,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tutchone languages,48,,170,170,0,0,0
-586,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Northern Tutchone,49,,130,130,0,5,0
-587,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Southern Tutchone,50,,40,35,0,0,0
-588,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Athabaskan languages, n.i.e.",51,,35,35,0,0,0
-589,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Haida,52,,45,45,0,0,0
-590,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Inuit languages,53,,18445,14685,200,1550,2005
-591,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Inuinnaqtun (Inuvialuktun),54,,580,565,0,0,15
-592,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Inuktitut,55,,17680,13965,200,1530,1985
-593,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Inuit languages, n.i.e.",56,,185,160,5,15,5
-594,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Iroquoian languages,57,,635,585,5,35,0
-595,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Cayuga,58,,20,20,0,0,0
-596,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Mohawk,59,,555,515,5,30,0
-597,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Oneida,60,,40,40,0,0,0
-598,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Iroquoian languages, n.i.e.",61,,20,15,5,5,0
-599,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Kutenai,62,,50,50,0,0,0
-600,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Michif,63,,235,195,0,40,5
-601,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Salish languages,64,,1180,1165,0,10,5
-602,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Comox,65,,40,45,0,0,0
-603,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Halkomelem,66,,245,245,0,5,0
-604,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Lillooet,67,,160,160,0,0,0
-605,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Okanagan,68,,135,135,0,0,0
-606,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Shuswap (Secwepemctsin),69,,220,220,0,0,0
-607,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Squamish,70,,25,20,0,0,0
-608,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Straits,71,,40,40,0,5,0
-609,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Thompson (Ntlakapamux),72,,185,190,0,0,0
-610,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Salish languages, n.i.e.",73,,125,125,0,0,0
-611,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Siouan languages,74,,2215,2205,0,10,5
-612,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Dakota,75,,640,635,0,5,0
-613,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Stoney,76,,1555,1550,0,5,5
-614,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Siouan languages, n.i.e.",77,,25,20,0,0,0
-615,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tlingit,78,,55,50,0,0,0
-616,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tsimshian languages,79,,750,740,0,10,0
-617,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Gitxsan (Gitksan),80,,450,440,0,5,5
-618,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Nisga'a,81,,195,195,0,0,0
-619,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tsimshian,82,,110,105,0,5,0
-620,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Wakashan languages,83,,440,430,0,5,0
-621,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Haisla,84,,55,50,0,5,0
-622,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Heiltsuk,85,,55,55,0,0,0
-623,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Kwakiutl (Kwak'wala),86,,180,180,0,5,0
-624,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Nuu-chah-nulth (Nootka),87,,145,145,0,5,0
-625,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Wakashan languages, n.i.e.",88,,5,5,0,0,0
-626,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Aboriginal languages, n.o.s.",89,,290,255,20,5,10
-627,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Non-Aboriginal languages,90,,3718940,2763830,151870,430095,373140
-628,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Afro-Asiatic languages,91,,277305,146820,40605,62550,27330
-629,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Berber languages,92,,10270,165,6470,3280,355
-630,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Kabyle,93,,6155,95,3940,1895,225
-631,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Berber languages, n.i.e.",94,,4120,70,2525,1385,135
-632,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Cushitic languages,95,,22790,18165,435,1905,2285
-633,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Bilen,96,,350,265,0,10,75
-634,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Oromo,97,,2400,2105,0,45,255
-635,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Somali,98,,19865,15705,420,1815,1920
-636,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Cushitic languages, n.i.e.",99,,175,90,10,35,40
-637,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Semitic languages,100,,243725,128165,33625,57275,24665
-638,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Amharic,101,,11745,10620,30,575,520
-639,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Arabic,102,,199105,90635,33480,54245,20745
-640,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Assyrian Neo-Aramaic,103,,8160,6390,25,150,1600
-641,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Chaldean Neo-Aramaic,104,,2765,2115,5,70,585
-642,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Harari,105,,685,615,0,30,40
-643,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Hebrew,106,,9045,6980,60,1830,170
-644,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Maltese,107,,2800,2710,0,70,20
-645,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tigrigna,108,,8340,7255,20,250,815
-646,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Semitic languages, n.i.e.",109,,1070,840,10,60,160
-647,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,515,320,80,85,25
-648,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Austro-Asiatic languages,111,,94920,61355,5355,11670,16540
-649,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Khmer (Cambodian),112,,10860,5220,1655,2145,1840
-650,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Vietnamese,113,,83955,56065,3685,9510,14695
-651,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Austro-Asiatic languages, n.i.e",114,,100,70,10,15,5
-652,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Austronesian languages,115,,299895,289410,450,7270,2770
-653,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Bikol,116,,1000,960,0,30,10
-654,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Cebuano,117,,11965,11565,5,300,95
-655,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Fijian,118,,345,335,0,5,10
-656,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Hiligaynon,119,,4205,4045,5,120,35
-657,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Ilocano,120,,15725,15190,0,320,215
-658,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Malagasy,121,,765,10,335,410,10
-659,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Malay,122,,7015,6370,10,455,190
-660,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,2180,2105,0,45,25
-661,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Pangasinan,124,,800,775,0,10,15
-662,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Tagalog (Pilipino, Filipino)",125,,252810,245150,65,5485,2110
-663,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Waray-Waray,126,,675,650,0,20,10
-664,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Austronesian languages, n.i.e.",127,,2425,2260,30,85,55
-665,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Creole languages,128,,39825,2840,22260,13045,1675
-666,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Haitian Creole,129,,1585,95,835,595,65
-667,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Creole, n.o.s.",130,,35655,1015,21370,11680,1590
-668,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Creole languages, n.i.e.",131,,2580,1730,55,765,25
-669,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Dravidian languages,132,,94640,80035,290,5925,8390
-670,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Kannada,133,,1930,1795,0,85,45
-671,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Malayalam,134,,13795,12905,5,365,525
-672,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tamil,135,,71640,58635,285,5200,7525
-673,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Telugu,136,,7015,6475,0,255,285
-674,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Dravidian languages, n.i.e.",137,,250,225,0,20,5
-675,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Hmong-Mien languages,138,,400,345,0,10,45
-676,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Indo-European languages,139,,1987930,1493945,65995,270730,157260
-677,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Albanian,140,,13285,10105,445,1410,1320
-678,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Armenian,141,,17185,7455,750,7505,1480
-679,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Balto-Slavic languages,142,,378340,305940,7510,46095,18785
-680,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Baltic languages,143,,7220,6015,15,1090,100
-681,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Latvian,144,,3105,2585,5,485,30
-682,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Lithuanian,145,,4115,3430,10,610,65
-683,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Slavic languages,146,,371115,299925,7500,45000,18690
-684,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Belarusan,147,,430,325,5,60,40
-685,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Bosnian,148,,6180,4800,420,615,345
-686,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Bulgarian,149,,10350,5650,805,3465,430
-687,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Croatian,150,,24660,21790,170,1990,710
-688,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Czech,151,,11765,10005,65,1510,185
-689,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Macedonian,152,,8725,7805,15,455,455
-690,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Polish,153,,99275,82810,960,11245,4265
-691,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Russian,154,,102855,75490,3780,15430,8155
-692,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Serbian,155,,28815,23505,375,3325,1615
-693,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Serbo-Croatian,156,,4985,3545,335,905,195
-694,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Slovak,157,,9510,8080,55,975,400
-695,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Slovene (Slovenian),158,,5375,4780,10,535,45
-696,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Ukrainian,159,,57040,50330,490,4395,1825
-697,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Slavic languages, n.i.e.",160,,1170,1015,20,90,40
-698,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Celtic languages,161,,1360,1150,20,170,10
-699,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Scottish Gaelic,162,,550,490,5,55,10
-700,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Welsh,163,,575,505,0,65,5
-701,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Celtic languages, n.i.e.",164,,230,160,15,50,5
-702,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Germanic languages,165,,280350,247705,710,24760,7175
-703,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Afrikaans,166,,5150,4885,5,225,35
-704,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Danish,167,,6390,5905,0,465,10
-705,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Dutch,168,,50820,45915,80,4635,190
-706,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Frisian,169,,1005,955,0,50,0
-707,2016,1,0,Canada,4.0,20000, ,1,Female,3,,German,170,,200820,178695,535,15435,6160
-708,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Icelandic,171,,690,625,0,60,0
-709,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Norwegian,172,,2440,2220,5,220,5
-710,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Swedish,173,,3825,3185,10,625,5
-711,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Vlaams (Flemish),174,,2170,1440,60,660,5
-712,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Yiddish,175,,6800,3765,10,2265,765
-713,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Germanic languages, n.i.e.",176,,245,110,15,110,5
-714,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Greek,177,,53170,35545,255,13170,4205
-715,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Indo-Iranian languages,178,,648630,528735,3390,38540,77965
-716,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Indo-Aryan languages,179,,526235,434720,980,24305,66230
-717,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Bengali,180,,35715,29625,175,3910,2010
-718,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Gujarati,181,,53675,44560,100,2835,6180
-719,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Hindi,182,,54765,49620,35,2325,2785
-720,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Kashmiri,183,,270,255,0,5,10
-721,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Konkani,184,,1710,1605,5,70,30
-722,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Marathi,185,,4000,3650,5,235,110
-723,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Nepali,186,,9045,6815,255,520,1450
-724,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Oriya (Odia),187,,490,445,0,25,20
-725,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Punjabi (Panjabi),188,,248160,193645,195,7790,46525
-726,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Sindhi,189,,6255,5510,15,450,290
-727,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Sinhala (Sinhalese),190,,8285,7670,0,405,205
-728,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Urdu,191,,103855,91315,195,5740,6610
-729,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Iranian languages,192,,119970,92095,2365,14070,11445
-730,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Kurdish,193,,5355,4120,160,315,755
-731,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Pashto,194,,8145,6410,80,465,1185
-732,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Persian (Farsi),195,,106475,81560,2120,13295,9500
-733,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Indo-Iranian languages, n.i.e.",196,,2425,1925,55,160,290
-734,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Italic (Romance) languages,197,,595615,357305,52910,139080,46320
-735,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Catalan,198,,420,195,35,180,10
-736,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Italian,199,,191220,116790,8715,49900,15810
-737,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Portuguese,200,,114910,79160,6055,17135,12560
-738,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Romanian,201,,50470,23255,5170,19520,2520
-739,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Spanish,202,,238240,137685,32920,52250,15395
-740,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Italic (Romance) languages, n.i.e.",203,,345,220,20,95,10
-741,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Japanese,204,,28855,25420,120,1850,1465
-742,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Kartvelian languages,205,,800,615,15,80,95
-743,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Georgian,206,,805,615,15,75,95
-744,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Korean,207,,83115,69240,135,3825,9915
-745,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Mongolic languages,208,,885,705,25,90,55
-746,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Mongolian,209,,885,705,25,95,60
-747,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Niger-Congo languages,210,,46300,25485,9000,10435,1380
-748,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Akan (Twi),211,,6970,6305,15,505,150
-749,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Bamanankan,212,,720,15,410,290,10
-750,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Edo,213,,900,860,5,30,5
-751,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Ewe,214,,805,395,210,190,10
-752,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,1330,70,710,510,40
-753,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Ga,216,,475,420,0,45,5
-754,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Ganda,217,,670,625,0,40,5
-755,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Igbo,218,,1975,1845,0,105,20
-756,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Lingala,219,,2025,65,1120,820,20
-757,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Rundi (Kirundi),220,,3060,145,1065,1635,210
-758,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Kinyarwanda (Rwanda),221,,2895,485,675,1615,110
-759,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Shona,222,,1665,1575,0,75,10
-760,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Swahili,223,,6990,3965,1130,1525,370
-761,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Wolof,224,,1820,75,875,810,60
-762,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Yoruba,225,,4300,4075,30,160,35
-763,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Niger-Congo languages, n.i.e.",226,,9700,4555,2760,2085,295
-764,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Nilo-Saharan languages,227,,2845,2450,120,125,155
-765,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Dinka,228,,1000,920,0,20,65
-766,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,1845,1530,120,100,95
-767,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Sign languages,230,,3575,1685,270,205,1415
-768,2016,1,0,Canada,4.0,20000, ,1,Female,3,,American Sign Language,231,,1360,965,0,60,335
-769,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Quebec Sign Language,232,,360,0,200,75,85
-770,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Sign languages, n.i.e",233,,1860,725,65,75,995
-771,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Sino-Tibetan languages,234,,679650,502250,4490,32805,140100
-772,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Chinese languages,235,,671710,495740,4470,32630,138880
-773,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Cantonese,236,,302405,217585,1105,12510,71205
-774,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Hakka,237,,6015,4605,40,315,1040
-775,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Mandarin,238,,317405,240505,2690,17275,56940
-776,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Min Dong,239,,650,325,5,15,310
-777,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,17350,12125,305,1125,3790
-778,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Wu (Shanghainese),241,,7140,4775,40,365,1955
-779,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Chinese, n.o.s.",242,,20410,15580,275,1000,3555
-780,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Chinese languages, n.i.e.",243,,335,235,5,15,80
-781,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tibeto-Burman languages,244,,7930,6510,25,180,1220
-782,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Burmese,245,,1795,1570,0,45,175
-783,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Karenic languages,246,,2350,1745,10,10,585
-784,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tibetan,247,,3085,2620,5,105,360
-785,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,705,575,10,25,105
-786,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Tai-Kadai languages,249,,13140,9565,900,1615,1060
-787,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Lao,250,,6530,3805,830,1205,685
-788,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Thai,251,,6560,5715,65,415,365
-789,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Tai-Kadai languages, n.i.e",252,,55,45,0,5,5
-790,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Turkic languages,253,,19025,13090,1395,2630,1910
-791,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Azerbaijani,254,,1470,1130,20,160,165
-792,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Turkish,255,,15440,10365,1295,2215,1565
-793,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Uyghur,256,,520,380,25,60,55
-794,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Uzbek,257,,865,660,20,105,80
-795,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Turkic languages, n.i.e.",258,,720,550,35,85,50
-796,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Uralic languages,259,,44190,37425,275,5010,1485
-797,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Estonian,260,,3115,2615,0,470,30
-798,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Finnish,261,,8895,8140,5,655,95
-799,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Hungarian,262,,32180,26665,270,3880,1360
-800,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Uralic languages, n.i.e.",263,,5,0,0,0,0
-801,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"Other languages, n.i.e.",264,,1645,1165,165,225,85
-802,2016,1,0,Canada,4.0,20000, ,1,Female,3,,Multiple responses,265,,420305,259170,23125,136080,1935
-803,2016,1,0,Canada,4.0,20000, ,1,Female,3,,English and French,266,,84860,8845,2320,73650,50
-804,2016,1,0,Canada,4.0,20000, ,1,Female,3,,English and non-official language,267,,274100,246635,240,25725,1510
-805,2016,1,0,Canada,4.0,20000, ,1,Female,3,,French and non-official language,268,,43980,1905,20080,21695,300
-806,2016,1,0,Canada,4.0,20000, ,1,Female,3,,"English, French and non-official language",269,,17365,1790,490,15015,75
+GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+Canada,1,Total - Sex,Total - Mother tongue,34767255,23757525,4144690,6216070,648970
+Canada,1,Total - Sex,Single responses,33948620,23250105,4101735,5951600,645175
+Canada,1,Total - Sex,Official languages,26627555,17704465,3818695,5095730,8660
+Canada,1,Total - Sex,English,19460855,17662110,4800,1786525,7415
+Canada,1,Total - Sex,French,7166705,42355,3813895,3309205,1245
+Canada,1,Total - Sex,Non-official languages,7321060,5545640,283035,855870,636515
+Canada,1,Total - Sex,Aboriginal languages,195700,164995,13870,9450,7385
+Canada,1,Total - Sex,Algonquian languages,130450,107755,13400,6285,3005
+Canada,1,Total - Sex,Blackfoot,2815,2795,0,15,5
+Canada,1,Total - Sex,Cree-Montagnais languages,88450,67800,12875,5340,2435
+Canada,1,Total - Sex,Atikamekw,6155,0,5390,310,455
+Canada,1,Total - Sex,Montagnais (Innu),10235,1515,7395,880,440
+Canada,1,Total - Sex,Moose Cree,100,100,0,5,0
+Canada,1,Total - Sex,Naskapi,1210,965,10,135,100
+Canada,1,Total - Sex,Northern East Cree,315,230,0,75,5
+Canada,1,Total - Sex,Plains Cree,3070,3010,0,35,20
+Canada,1,Total - Sex,Southern East Cree,45,30,0,15,0
+Canada,1,Total - Sex,Swampy Cree,1440,1405,0,20,10
+Canada,1,Total - Sex,Woods Cree,1840,1800,0,20,20
+Canada,1,Total - Sex,"Cree, n.o.s.",64045,58735,75,3850,1385
+Canada,1,Total - Sex,Eastern Algonquian languages,6995,6715,5,245,20
+Canada,1,Total - Sex,Malecite,305,295,0,5,0
+Canada,1,Total - Sex,Mi'kmaq,6690,6420,10,240,20
+Canada,1,Total - Sex,Ojibway-Potawatomi languages,32150,30415,515,675,545
+Canada,1,Total - Sex,Algonquin,1265,280,480,480,20
+Canada,1,Total - Sex,Ojibway,17885,17460,20,175,230
+Canada,1,Total - Sex,Oji-Cree,12855,12525,20,20,285
+Canada,1,Total - Sex,Ottawa (Odawa),150,140,0,0,5
+Canada,1,Total - Sex,"Algonquian languages, n.i.e.",45,35,0,10,0
+Canada,1,Total - Sex,Athabaskan languages,17370,16915,10,110,330
+Canada,1,Total - Sex,Northern Athabaskan languages,17320,16865,10,105,335
+Canada,1,Total - Sex,Babine (Wetsuwet'en),110,110,0,0,0
+Canada,1,Total - Sex,Beaver,190,190,0,0,0
+Canada,1,Total - Sex,Carrier,1030,1020,0,10,0
+Canada,1,Total - Sex,Chilcotin,660,640,0,5,10
+Canada,1,Total - Sex,Dene,10700,10430,10,45,210
+Canada,1,Total - Sex,Dogrib (Tlicho),1645,1590,0,0,55
+Canada,1,Total - Sex,Gwich'in,255,255,0,5,0
+Canada,1,Total - Sex,Sarsi (Sarcee),80,75,0,5,5
+Canada,1,Total - Sex,Sekani,85,85,0,0,0
+Canada,1,Total - Sex,Slavey-Hare languages,1990,1910,5,25,50
+Canada,1,Total - Sex,North Slavey (Hare),765,735,0,10,20
+Canada,1,Total - Sex,South Slavey,945,915,0,10,20
+Canada,1,Total - Sex,"Slavey, n.o.s.",280,260,5,5,5
+Canada,1,Total - Sex,Tahltan languages,270,270,0,5,0
+Canada,1,Total - Sex,Kaska (Nahani),180,180,0,0,0
+Canada,1,Total - Sex,Tahltan,95,95,0,0,0
+Canada,1,Total - Sex,Tutchone languages,290,290,0,5,0
+Canada,1,Total - Sex,Northern Tutchone,220,215,0,0,0
+Canada,1,Total - Sex,Southern Tutchone,70,70,0,0,0
+Canada,1,Total - Sex,"Athabaskan languages, n.i.e.",55,50,0,0,0
+Canada,1,Total - Sex,Haida,75,75,0,5,0
+Canada,1,Total - Sex,Inuit languages,36545,29345,400,2805,3990
+Canada,1,Total - Sex,Inuinnaqtun (Inuvialuktun),1020,1000,0,5,15
+Canada,1,Total - Sex,Inuktitut,35215,28080,390,2775,3965
+Canada,1,Total - Sex,"Inuit languages, n.i.e.",315,265,10,30,10
+Canada,1,Total - Sex,Iroquoian languages,1120,1010,20,85,5
+Canada,1,Total - Sex,Cayuga,40,40,0,0,0
+Canada,1,Total - Sex,Mohawk,985,890,15,70,5
+Canada,1,Total - Sex,Oneida,55,55,0,0,0
+Canada,1,Total - Sex,"Iroquoian languages, n.i.e.",35,20,0,10,0
+Canada,1,Total - Sex,Kutenai,110,100,0,5,5
+Canada,1,Total - Sex,Michif,465,385,0,70,10
+Canada,1,Total - Sex,Salish languages,2305,2280,0,30,5
+Canada,1,Total - Sex,Comox,85,85,0,0,0
+Canada,1,Total - Sex,Halkomelem,480,470,0,5,0
+Canada,1,Total - Sex,Lillooet,315,310,0,0,0
+Canada,1,Total - Sex,Okanagan,275,265,0,0,5
+Canada,1,Total - Sex,Shuswap (Secwepemctsin),445,435,0,5,0
+Canada,1,Total - Sex,Squamish,40,40,0,0,0
+Canada,1,Total - Sex,Straits,85,80,0,0,0
+Canada,1,Total - Sex,Thompson (Ntlakapamux),335,335,0,0,0
+Canada,1,Total - Sex,"Salish languages, n.i.e.",255,260,0,0,0
+Canada,1,Total - Sex,Siouan languages,4285,4265,0,10,15
+Canada,1,Total - Sex,Dakota,1215,1200,0,10,0
+Canada,1,Total - Sex,Stoney,3025,3010,0,5,10
+Canada,1,Total - Sex,"Siouan languages, n.i.e.",55,50,0,5,0
+Canada,1,Total - Sex,Tlingit,95,90,0,5,0
+Canada,1,Total - Sex,Tsimshian languages,1480,1465,5,10,5
+Canada,1,Total - Sex,Gitxsan (Gitksan),880,875,0,5,0
+Canada,1,Total - Sex,Nisga'a,395,395,0,5,0
+Canada,1,Total - Sex,Tsimshian,200,195,0,5,0
+Canada,1,Total - Sex,Wakashan languages,805,790,0,10,0
+Canada,1,Total - Sex,Haisla,90,90,0,0,0
+Canada,1,Total - Sex,Heiltsuk,100,100,0,5,0
+Canada,1,Total - Sex,Kwakiutl (Kwak'wala),325,320,0,5,0
+Canada,1,Total - Sex,Nuu-chah-nulth (Nootka),285,275,0,5,0
+Canada,1,Total - Sex,"Wakashan languages, n.i.e.",5,10,0,0,0
+Canada,1,Total - Sex,"Aboriginal languages, n.o.s.",590,525,30,25,15
+Canada,1,Total - Sex,Non-Aboriginal languages,7125365,5380640,269170,846420,629130
+Canada,1,Total - Sex,Afro-Asiatic languages,575365,311695,74845,140695,48130
+Canada,1,Total - Sex,Berber languages,22135,335,12620,8560,620
+Canada,1,Total - Sex,Kabyle,13150,200,7815,4735,395
+Canada,1,Total - Sex,"Berber languages, n.i.e.",8985,135,4805,3825,220
+Canada,1,Total - Sex,Cushitic languages,42885,35225,710,3670,3280
+Canada,1,Total - Sex,Bilen,805,650,0,20,125
+Canada,1,Total - Sex,Oromo,4960,4500,5,95,360
+Canada,1,Total - Sex,Somali,36760,29865,680,3490,2725
+Canada,1,Total - Sex,"Cushitic languages, n.i.e.",365,210,20,65,65
+Canada,1,Total - Sex,Semitic languages,509190,275415,61370,128225,44185
+Canada,1,Total - Sex,Amharic,22465,20510,50,1130,775
+Canada,1,Total - Sex,Arabic,419890,198950,61120,122125,37705
+Canada,1,Total - Sex,Assyrian Neo-Aramaic,16070,13060,30,295,2690
+Canada,1,Total - Sex,Chaldean Neo-Aramaic,5550,4425,10,130,985
+Canada,1,Total - Sex,Harari,1320,1210,0,50,55
+Canada,1,Total - Sex,Hebrew,19530,15375,110,3695,355
+Canada,1,Total - Sex,Maltese,5565,5390,5,135,30
+Canada,1,Total - Sex,Tigrigna,16645,14755,35,525,1340
+Canada,1,Total - Sex,"Semitic languages, n.i.e.",2155,1740,15,135,260
+Canada,1,Total - Sex,"Afro-Asiatic languages, n.i.e.",1155,720,145,245,40
+Canada,1,Total - Sex,Austro-Asiatic languages,176725,118195,9660,23700,25170
+Canada,1,Total - Sex,Khmer (Cambodian),20130,9935,3060,4495,2640
+Canada,1,Total - Sex,Vietnamese,156425,108140,6585,19180,22520
+Canada,1,Total - Sex,"Austro-Asiatic languages, n.i.e",170,125,15,25,10
+Canada,1,Total - Sex,Austronesian languages,511480,494205,810,11785,4680
+Canada,1,Total - Sex,Bikol,1790,1725,0,45,15
+Canada,1,Total - Sex,Cebuano,19895,19275,5,455,160
+Canada,1,Total - Sex,Fijian,745,720,0,5,15
+Canada,1,Total - Sex,Hiligaynon,6880,6640,5,175,60
+Canada,1,Total - Sex,Ilocano,26345,25450,5,515,375
+Canada,1,Total - Sex,Malagasy,1425,15,595,800,20
+Canada,1,Total - Sex,Malay,12275,11220,20,740,295
+Canada,1,Total - Sex,"Pampangan (Kapampangan, Pampango)",4045,3930,0,70,45
+Canada,1,Total - Sex,Pangasinan,1390,1360,0,15,15
+Canada,1,Total - Sex,"Tagalog (Pilipino, Filipino)",431385,418905,115,8795,3570
+Canada,1,Total - Sex,Waray-Waray,1110,1075,0,25,10
+Canada,1,Total - Sex,"Austronesian languages, n.i.e.",4195,3890,50,150,100
+Canada,1,Total - Sex,Creole languages,72130,5490,36385,28145,2100
+Canada,1,Total - Sex,Haitian Creole,3035,185,1410,1355,80
+Canada,1,Total - Sex,"Creole, n.o.s.",64110,2020,34865,25250,1975
+Canada,1,Total - Sex,"Creole languages, n.i.e.",4985,3285,115,1545,45
+Canada,1,Total - Sex,Dravidian languages,189405,165140,495,11225,12545
+Canada,1,Total - Sex,Kannada,3970,3695,0,190,85
+Canada,1,Total - Sex,Malayalam,28570,26905,10,700,960
+Canada,1,Total - Sex,Tamil,140715,119435,490,9800,10995
+Canada,1,Total - Sex,Telugu,15655,14660,0,510,490
+Canada,1,Total - Sex,"Dravidian languages, n.i.e.",490,455,0,25,15
+Canada,1,Total - Sex,Hmong-Mien languages,795,705,5,25,65
+Canada,1,Total - Sex,Indo-European languages,3877330,2981490,116750,520675,258420
+Canada,1,Total - Sex,Albanian,26895,21125,870,2710,2190
+Canada,1,Total - Sex,Armenian,33455,15045,1230,14650,2535
+Canada,1,Total - Sex,Balto-Slavic languages,701980,577445,12735,80955,30845
+Canada,1,Total - Sex,Baltic languages,12530,10555,20,1805,145
+Canada,1,Total - Sex,Latvian,5455,4595,5,805,45
+Canada,1,Total - Sex,Lithuanian,7075,5960,15,1000,100
+Canada,1,Total - Sex,Slavic languages,689450,566885,12715,79150,30695
+Canada,1,Total - Sex,Belarusan,805,615,15,125,60
+Canada,1,Total - Sex,Bosnian,12215,9650,775,1180,600
+Canada,1,Total - Sex,Bulgarian,20025,11460,1470,6395,695
+Canada,1,Total - Sex,Croatian,48200,43190,295,3580,1140
+Canada,1,Total - Sex,Czech,22295,19160,125,2650,355
+Canada,1,Total - Sex,Macedonian,16770,15270,25,770,710
+Canada,1,Total - Sex,Polish,181710,154065,1470,19470,6700
+Canada,1,Total - Sex,Russian,188255,141715,6290,26680,13565
+Canada,1,Total - Sex,Serbian,57350,47985,695,6010,2665
+Canada,1,Total - Sex,Serbo-Croatian,9550,6965,600,1665,315
+Canada,1,Total - Sex,Slovak,17585,15065,85,1690,740
+Canada,1,Total - Sex,Slovene (Slovenian),9785,8765,20,930,70
+Canada,1,Total - Sex,Ukrainian,102480,90845,820,7795,3030
+Canada,1,Total - Sex,"Slavic languages, n.i.e.",2420,2130,35,200,60
+Canada,1,Total - Sex,Celtic languages,2690,2250,40,380,20
+Canada,1,Total - Sex,Scottish Gaelic,1090,925,5,150,15
+Canada,1,Total - Sex,Welsh,1075,955,5,110,5
+Canada,1,Total - Sex,"Celtic languages, n.i.e.",530,365,35,125,5
+Canada,1,Total - Sex,Germanic languages,538765,479190,1335,44125,14110
+Canada,1,Total - Sex,Afrikaans,10265,9760,10,430,70
+Canada,1,Total - Sex,Danish,12635,11770,5,840,20
+Canada,1,Total - Sex,Dutch,99015,89650,130,8870,375
+Canada,1,Total - Sex,Frisian,2095,1985,0,110,5
+Canada,1,Total - Sex,German,384035,343850,1020,27310,11860
+Canada,1,Total - Sex,Icelandic,1285,1180,0,100,10
+Canada,1,Total - Sex,Norwegian,4615,4215,5,385,5
+Canada,1,Total - Sex,Swedish,6840,5795,20,1005,20
+Canada,1,Total - Sex,Vlaams (Flemish),3895,2555,95,1230,5
+Canada,1,Total - Sex,Yiddish,13555,8215,25,3585,1730
+Canada,1,Total - Sex,"Germanic languages, n.i.e.",525,220,35,265,10
+Canada,1,Total - Sex,Greek,106525,71965,540,27400,6620
+Canada,1,Total - Sex,Indo-Iranian languages,1312750,1108315,6255,74030,124155
+Canada,1,Total - Sex,Indo-Aryan languages,1064765,911330,1900,46585,104945
+Canada,1,Total - Sex,Bengali,73125,62240,320,7640,2925
+Canada,1,Total - Sex,Gujarati,108780,94150,185,5260,9180
+Canada,1,Total - Sex,Hindi,110645,102265,55,4340,3985
+Canada,1,Total - Sex,Kashmiri,570,540,0,20,10
+Canada,1,Total - Sex,Konkani,3330,3130,25,140,35
+Canada,1,Total - Sex,Marathi,8295,7670,0,430,195
+Canada,1,Total - Sex,Nepali,18275,14080,485,1115,2595
+Canada,1,Total - Sex,Oriya (Odia),1050,980,0,40,30
+Canada,1,Total - Sex,Punjabi (Panjabi),501680,410825,400,14820,75630
+Canada,1,Total - Sex,Sindhi,11860,10645,15,835,365
+Canada,1,Total - Sex,Sinhala (Sinhalese),16335,15300,0,715,320
+Canada,1,Total - Sex,Urdu,210820,189515,405,11220,9675
+Canada,1,Total - Sex,Iranian languages,242805,192680,4270,27090,18765
+Canada,1,Total - Sex,Kurdish,11700,9285,305,725,1380
+Canada,1,Total - Sex,Pashto,16905,14100,130,965,1720
+Canada,1,Total - Sex,Persian (Farsi),214195,169295,3835,25395,15665
+Canada,1,Total - Sex,"Indo-Iranian languages, n.i.e.",5185,4305,85,350,445
+Canada,1,Total - Sex,Italic (Romance) languages,1154270,706160,93755,276420,77940
+Canada,1,Total - Sex,Catalan,865,400,65,380,15
+Canada,1,Total - Sex,Italian,375640,236025,15940,99975,23695
+Canada,1,Total - Sex,Portuguese,221540,155420,10995,33530,21595
+Canada,1,Total - Sex,Romanian,96665,45690,9365,37540,4065
+Canada,1,Total - Sex,Spanish,458850,268175,57355,104775,28545
+Canada,1,Total - Sex,"Italic (Romance) languages, n.i.e.",720,455,35,210,20
+Canada,1,Total - Sex,Japanese,43645,38290,205,2715,2435
+Canada,1,Total - Sex,Kartvelian languages,1715,1330,20,150,215
+Canada,1,Total - Sex,Georgian,1715,1330,20,150,215
+Canada,1,Total - Sex,Korean,153425,130280,235,6495,16410
+Canada,1,Total - Sex,Mongolic languages,1575,1285,35,155,100
+Canada,1,Total - Sex,Mongolian,1575,1285,35,150,100
+Canada,1,Total - Sex,Niger-Congo languages,91375,50050,15865,23330,2135
+Canada,1,Total - Sex,Akan (Twi),13455,12255,20,990,190
+Canada,1,Total - Sex,Bamanankan,1535,30,790,705,20
+Canada,1,Total - Sex,Edo,1670,1590,5,65,10
+Canada,1,Total - Sex,Ewe,1755,795,375,565,15
+Canada,1,Total - Sex,"Fulah (Pular, Pulaar, Fulfulde)",2830,145,1260,1335,85
+Canada,1,Total - Sex,Ga,920,830,0,85,10
+Canada,1,Total - Sex,Ganda,1295,1210,0,70,5
+Canada,1,Total - Sex,Igbo,4235,4000,0,200,30
+Canada,1,Total - Sex,Lingala,3810,130,1900,1745,30
+Canada,1,Total - Sex,Rundi (Kirundi),5845,310,1850,3355,335
+Canada,1,Total - Sex,Kinyarwanda (Rwanda),5250,900,1005,3190,155
+Canada,1,Total - Sex,Shona,3185,3035,5,125,25
+Canada,1,Total - Sex,Swahili,13370,7560,1920,3285,600
+Canada,1,Total - Sex,Wolof,3990,160,1660,2075,100
+Canada,1,Total - Sex,Yoruba,9085,8630,50,355,50
+Canada,1,Total - Sex,"Niger-Congo languages, n.i.e.",19135,8465,5025,5175,465
+Canada,1,Total - Sex,Nilo-Saharan languages,5870,5130,205,305,230
+Canada,1,Total - Sex,Dinka,2120,1985,0,45,90
+Canada,1,Total - Sex,"Nilo-Saharan languages, n.i.e.",3750,3145,205,265,135
+Canada,1,Total - Sex,Sign languages,7505,3290,565,375,3270
+Canada,1,Total - Sex,American Sign Language,2680,1815,5,105,760
+Canada,1,Total - Sex,Quebec Sign Language,695,5,385,130,180
+Canada,1,Total - Sex,"Sign languages, n.i.e",4120,1475,180,135,2330
+Canada,1,Total - Sex,Sino-Tibetan languages,1269215,957070,8165,58310,245670
+Canada,1,Total - Sex,Chinese languages,1253360,943830,8115,57995,243420
+Canada,1,Total - Sex,Cantonese,565270,419535,2115,22510,121105
+Canada,1,Total - Sex,Hakka,10910,8630,70,575,1635
+Canada,1,Total - Sex,Mandarin,592040,452490,4740,30230,104575
+Canada,1,Total - Sex,Min Dong,1235,645,0,20,565
+Canada,1,Total - Sex,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",31800,22740,595,2095,6370
+Canada,1,Total - Sex,Wu (Shanghainese),12920,8925,80,630,3285
+Canada,1,Total - Sex,"Chinese, n.o.s.",38580,30430,500,1895,5755
+Canada,1,Total - Sex,"Chinese languages, n.i.e.",615,435,5,40,130
+Canada,1,Total - Sex,Tibeto-Burman languages,15855,13240,50,320,2250
+Canada,1,Total - Sex,Burmese,3585,3205,5,70,300
+Canada,1,Total - Sex,Karenic languages,4705,3555,20,20,1115
+Canada,1,Total - Sex,Tibetan,6165,5315,10,175,660
+Canada,1,Total - Sex,"Tibeto-Burman languages, n.i.e.",1400,1165,15,50,170
+Canada,1,Total - Sex,Tai-Kadai languages,22010,15495,1690,3125,1700
+Canada,1,Total - Sex,Lao,12670,7525,1590,2545,1010
+Canada,1,Total - Sex,Thai,9255,7905,100,580,675
+Canada,1,Total - Sex,"Tai-Kadai languages, n.i.e",80,65,0,0,20
+Canada,1,Total - Sex,Turkic languages,40140,28885,2425,5605,3220
+Canada,1,Total - Sex,Azerbaijani,3255,2600,30,345,280
+Canada,1,Total - Sex,Turkish,32815,23130,2275,4800,2610
+Canada,1,Total - Sex,Uyghur,1040,775,35,125,95
+Canada,1,Total - Sex,Uzbek,1715,1360,30,180,145
+Canada,1,Total - Sex,"Turkic languages, n.i.e.",1315,1020,50,150,95
+Canada,1,Total - Sex,Uralic languages,81985,69985,500,9040,2460
+Canada,1,Total - Sex,Estonian,5445,4630,0,775,40
+Canada,1,Total - Sex,Finnish,15295,14115,15,1000,170
+Canada,1,Total - Sex,Hungarian,61240,51235,485,7265,2250
+Canada,1,Total - Sex,"Uralic languages, n.i.e.",10,5,0,0,0
+Canada,1,Total - Sex,"Other languages, n.i.e.",3690,2630,310,575,175
+Canada,1,Total - Sex,Multiple responses,818635,507415,42955,264470,3795
+Canada,1,Total - Sex,English and French,165325,17115,4360,143745,105
+Canada,1,Total - Sex,English and non-official language,533260,483325,435,46560,2950
+Canada,1,Total - Sex,French and non-official language,86150,3595,37250,44720,590
+Canada,1,Total - Sex,"English, French and non-official language",33900,3385,910,29450,155
+Canada,1,Male,Total - Mother tongue,17101170,11838075,1925845,3071325,265925
+Canada,1,Male,Single responses,16702840,11589825,1906015,2942935,264060
+Canada,1,Male,Official languages,13201615,8893210,1781985,2521960,4460
+Canada,1,Male,English,9680125,8873125,2220,800945,3830
+Canada,1,Male,French,3521490,20085,1779760,1721015,630
+Canada,1,Male,Non-official languages,3501220,2696615,124035,420975,259600
+Canada,1,Male,Aboriginal languages,94800,79800,6735,4650,3615
+Canada,1,Male,Algonquian languages,62935,51795,6505,3205,1430
+Canada,1,Male,Blackfoot,1325,1315,0,10,5
+Canada,1,Male,Cree-Montagnais languages,42920,32720,6265,2740,1195
+Canada,1,Male,Atikamekw,3135,0,2720,175,240
+Canada,1,Male,Montagnais (Innu),4885,725,3500,450,210
+Canada,1,Male,Moose Cree,50,50,0,0,0
+Canada,1,Male,Naskapi,590,480,10,65,40
+Canada,1,Male,Northern East Cree,125,95,0,25,10
+Canada,1,Male,Plains Cree,1360,1325,0,20,15
+Canada,1,Male,Southern East Cree,20,15,0,5,0
+Canada,1,Male,Swampy Cree,590,575,0,5,0
+Canada,1,Male,Woods Cree,865,845,0,10,15
+Canada,1,Male,"Cree, n.o.s.",31305,28625,35,1980,665
+Canada,1,Male,Eastern Algonquian languages,3310,3165,5,130,15
+Canada,1,Male,Malecite,140,135,0,0,0
+Canada,1,Male,Mi'kmaq,3170,3025,0,125,20
+Canada,1,Male,Ojibway-Potawatomi languages,15350,14580,240,325,210
+Canada,1,Male,Algonquin,590,125,225,235,10
+Canada,1,Male,Ojibway,8440,8265,5,80,90
+Canada,1,Male,Oji-Cree,6260,6130,5,10,110
+Canada,1,Male,Ottawa (Odawa),65,60,0,0,5
+Canada,1,Male,"Algonquian languages, n.i.e.",25,20,0,5,0
+Canada,1,Male,Athabaskan languages,8325,8090,5,55,170
+Canada,1,Male,Northern Athabaskan languages,8305,8075,5,60,170
+Canada,1,Male,Babine (Wetsuwet'en),55,55,0,0,0
+Canada,1,Male,Beaver,90,90,0,0,0
+Canada,1,Male,Carrier,460,460,0,5,0
+Canada,1,Male,Chilcotin,295,295,0,0,0
+Canada,1,Male,Dene,5185,5035,0,30,120
+Canada,1,Male,Dogrib (Tlicho),835,810,0,0,25
+Canada,1,Male,Gwich'in,110,105,0,5,5
+Canada,1,Male,Sarsi (Sarcee),30,25,0,0,0
+Canada,1,Male,Sekani,45,45,0,5,0
+Canada,1,Male,Slavey-Hare languages,950,905,0,20,25
+Canada,1,Male,North Slavey (Hare),365,350,0,5,10
+Canada,1,Male,South Slavey,455,440,0,5,10
+Canada,1,Male,"Slavey, n.o.s.",130,115,5,5,0
+Canada,1,Male,Tahltan languages,135,135,0,0,0
+Canada,1,Male,Kaska (Nahani),90,85,0,0,0
+Canada,1,Male,Tahltan,40,45,0,0,0
+Canada,1,Male,Tutchone languages,120,120,0,0,0
+Canada,1,Male,Northern Tutchone,90,90,0,0,0
+Canada,1,Male,Southern Tutchone,30,35,0,0,0
+Canada,1,Male,"Athabaskan languages, n.i.e.",15,15,0,0,0
+Canada,1,Male,Haida,35,35,0,5,0
+Canada,1,Male,Inuit languages,18100,14655,200,1260,1990
+Canada,1,Male,Inuinnaqtun (Inuvialuktun),445,435,0,5,5
+Canada,1,Male,Inuktitut,17535,14115,195,1240,1980
+Canada,1,Male,"Inuit languages, n.i.e.",125,105,5,10,5
+Canada,1,Male,Iroquoian languages,485,425,10,45,5
+Canada,1,Male,Cayuga,20,20,0,0,0
+Canada,1,Male,Mohawk,430,375,10,40,5
+Canada,1,Male,Oneida,15,15,0,0,0
+Canada,1,Male,"Iroquoian languages, n.i.e.",15,5,0,5,0
+Canada,1,Male,Kutenai,55,50,0,0,5
+Canada,1,Male,Michif,230,195,0,35,5
+Canada,1,Male,Salish languages,1130,1110,0,15,0
+Canada,1,Male,Comox,40,45,0,0,0
+Canada,1,Male,Halkomelem,230,230,0,0,0
+Canada,1,Male,Lillooet,155,150,0,5,0
+Canada,1,Male,Okanagan,135,135,0,0,0
+Canada,1,Male,Shuswap (Secwepemctsin),225,215,0,5,0
+Canada,1,Male,Squamish,15,20,0,0,0
+Canada,1,Male,Straits,40,40,0,0,0
+Canada,1,Male,Thompson (Ntlakapamux),145,145,0,0,0
+Canada,1,Male,"Salish languages, n.i.e.",135,130,0,0,0
+Canada,1,Male,Siouan languages,2070,2055,0,5,10
+Canada,1,Male,Dakota,570,565,0,0,5
+Canada,1,Male,Stoney,1465,1460,0,5,5
+Canada,1,Male,"Siouan languages, n.i.e.",30,25,0,0,0
+Canada,1,Male,Tlingit,40,40,0,5,0
+Canada,1,Male,Tsimshian languages,725,725,0,0,0
+Canada,1,Male,Gitxsan (Gitksan),435,435,0,0,0
+Canada,1,Male,Nisga'a,200,200,0,5,0
+Canada,1,Male,Tsimshian,90,90,0,0,0
+Canada,1,Male,Wakashan languages,370,365,0,5,5
+Canada,1,Male,Haisla,40,40,0,0,0
+Canada,1,Male,Heiltsuk,45,45,0,0,0
+Canada,1,Male,Kwakiutl (Kwak'wala),145,140,0,0,0
+Canada,1,Male,Nuu-chah-nulth (Nootka),135,135,0,0,0
+Canada,1,Male,"Wakashan languages, n.i.e.",10,5,0,0,0
+Canada,1,Male,"Aboriginal languages, n.o.s.",295,265,15,15,5
+Canada,1,Male,Non-Aboriginal languages,3406425,2616810,117295,416325,255990
+Canada,1,Male,Afro-Asiatic languages,298065,164875,34240,78150,20795
+Canada,1,Male,Berber languages,11860,170,6155,5280,265
+Canada,1,Male,Kabyle,6995,105,3875,2840,175
+Canada,1,Male,"Berber languages, n.i.e.",4870,65,2280,2440,85
+Canada,1,Male,Cushitic languages,20100,17060,270,1765,995
+Canada,1,Male,Bilen,450,380,0,10,55
+Canada,1,Male,Oromo,2560,2400,0,45,110
+Canada,1,Male,Somali,16895,14160,255,1670,810
+Canada,1,Male,"Cushitic languages, n.i.e.",190,120,15,35,30
+Canada,1,Male,Semitic languages,265470,147250,27745,70950,19520
+Canada,1,Male,Amharic,10725,9885,20,560,255
+Canada,1,Male,Arabic,220780,108310,27640,67875,16960
+Canada,1,Male,Assyrian Neo-Aramaic,7905,6670,10,140,1090
+Canada,1,Male,Chaldean Neo-Aramaic,2780,2310,5,60,400
+Canada,1,Male,Harari,640,595,0,25,15
+Canada,1,Male,Hebrew,10485,8395,50,1860,180
+Canada,1,Male,Maltese,2760,2675,0,70,15
+Canada,1,Male,Tigrigna,8305,7500,10,275,525
+Canada,1,Male,"Semitic languages, n.i.e.",1085,900,10,80,95
+Canada,1,Male,"Afro-Asiatic languages, n.i.e.",635,395,65,160,15
+Canada,1,Male,Austro-Asiatic languages,81810,56845,4305,12030,8630
+Canada,1,Male,Khmer (Cambodian),9270,4715,1400,2350,800
+Canada,1,Male,Vietnamese,72470,52075,2900,9670,7825
+Canada,1,Male,"Austro-Asiatic languages, n.i.e",70,50,5,5,0
+Canada,1,Male,Austronesian languages,211580,204795,355,4515,1910
+Canada,1,Male,Bikol,790,770,0,15,5
+Canada,1,Male,Cebuano,7930,7705,5,155,65
+Canada,1,Male,Fijian,400,385,0,5,10
+Canada,1,Male,Hiligaynon,2675,2595,5,55,25
+Canada,1,Male,Ilocano,10625,10260,5,200,160
+Canada,1,Male,Malagasy,670,5,265,390,5
+Canada,1,Male,Malay,5255,4855,10,290,105
+Canada,1,Male,"Pampangan (Kapampangan, Pampango)",1865,1820,0,25,15
+Canada,1,Male,Pangasinan,590,580,0,5,5
+Canada,1,Male,"Tagalog (Pilipino, Filipino)",178575,173755,45,3305,1460
+Canada,1,Male,Waray-Waray,435,425,0,0,10
+Canada,1,Male,"Austronesian languages, n.i.e.",1775,1635,25,70,45
+Canada,1,Male,Creole languages,32310,2650,14125,15110,425
+Canada,1,Male,Haitian Creole,1440,90,575,760,15
+Canada,1,Male,"Creole, n.o.s.",28455,1005,13495,13570,385
+Canada,1,Male,"Creole languages, n.i.e.",2410,1555,50,785,20
+Canada,1,Male,Dravidian languages,94765,85105,205,5300,4155
+Canada,1,Male,Kannada,2040,1895,0,105,35
+Canada,1,Male,Malayalam,14770,14005,5,340,430
+Canada,1,Male,Tamil,69080,60800,205,4600,3470
+Canada,1,Male,Telugu,8640,8180,0,255,205
+Canada,1,Male,"Dravidian languages, n.i.e.",240,230,0,5,10
+Canada,1,Male,Hmong-Mien languages,395,360,5,10,15
+Canada,1,Male,Indo-European languages,1889400,1487540,50755,249945,101160
+Canada,1,Male,Albanian,13610,11015,425,1295,870
+Canada,1,Male,Armenian,16270,7590,475,7145,1055
+Canada,1,Male,Balto-Slavic languages,323640,271505,5220,34865,12055
+Canada,1,Male,Baltic languages,5310,4545,5,715,50
+Canada,1,Male,Latvian,2350,2010,0,320,15
+Canada,1,Male,Lithuanian,2960,2530,5,395,30
+Canada,1,Male,Slavic languages,318330,266960,5215,34150,12005
+Canada,1,Male,Belarusan,385,295,10,60,20
+Canada,1,Male,Bosnian,6035,4850,355,570,260
+Canada,1,Male,Bulgarian,9675,5810,665,2930,270
+Canada,1,Male,Croatian,23540,21400,125,1590,430
+Canada,1,Male,Czech,10530,9160,55,1140,170
+Canada,1,Male,Macedonian,8050,7465,15,320,255
+Canada,1,Male,Polish,82430,71260,515,8225,2440
+Canada,1,Male,Russian,85400,66225,2510,11255,5410
+Canada,1,Male,Serbian,28540,24480,320,2685,1050
+Canada,1,Male,Serbo-Croatian,4570,3430,265,760,120
+Canada,1,Male,Slovak,8075,6985,30,715,340
+Canada,1,Male,Slovene (Slovenian),4410,3980,10,395,25
+Canada,1,Male,Ukrainian,45440,40515,330,3390,1205
+Canada,1,Male,"Slavic languages, n.i.e.",1255,1115,15,110,15
+Canada,1,Male,Celtic languages,1340,1095,20,210,10
+Canada,1,Male,Scottish Gaelic,540,435,0,95,10
+Canada,1,Male,Welsh,500,450,0,50,0
+Canada,1,Male,"Celtic languages, n.i.e.",295,210,20,70,0
+Canada,1,Male,Germanic languages,258415,231485,620,19365,6940
+Canada,1,Male,Afrikaans,5115,4875,0,200,35
+Canada,1,Male,Danish,6245,5860,5,370,10
+Canada,1,Male,Dutch,48195,43725,50,4230,190
+Canada,1,Male,Frisian,1090,1025,0,60,5
+Canada,1,Male,German,183215,165155,485,11875,5705
+Canada,1,Male,Icelandic,595,550,0,45,5
+Canada,1,Male,Norwegian,2170,2000,0,170,5
+Canada,1,Male,Swedish,3015,2615,5,380,15
+Canada,1,Male,Vlaams (Flemish),1730,1115,40,570,5
+Canada,1,Male,Yiddish,6755,4455,15,1315,970
+Canada,1,Male,"Germanic languages, n.i.e.",280,110,15,150,5
+Canada,1,Male,Greek,53350,36420,285,14230,2415
+Canada,1,Male,Indo-Iranian languages,664120,579575,2860,35490,46195
+Canada,1,Male,Indo-Aryan languages,538530,476610,920,22280,38725
+Canada,1,Male,Bengali,37410,32615,150,3725,915
+Canada,1,Male,Gujarati,55105,49585,85,2430,3005
+Canada,1,Male,Hindi,55880,52650,20,2015,1200
+Canada,1,Male,Kashmiri,300,280,0,20,5
+Canada,1,Male,Konkani,1620,1530,15,75,5
+Canada,1,Male,Marathi,4300,4020,0,195,85
+Canada,1,Male,Nepali,9225,7260,230,595,1145
+Canada,1,Male,Oriya (Odia),560,535,0,15,10
+Canada,1,Male,Punjabi (Panjabi),253515,217175,205,7035,29105
+Canada,1,Male,Sindhi,5600,5135,5,385,80
+Canada,1,Male,Sinhala (Sinhalese),8050,7625,0,310,115
+Canada,1,Male,Urdu,106960,98200,210,5485,3070
+Canada,1,Male,Iranian languages,122835,100585,1910,13015,7320
+Canada,1,Male,Kurdish,6345,5165,150,415,625
+Canada,1,Male,Pashto,8765,7690,50,495,530
+Canada,1,Male,Persian (Farsi),107725,87740,1710,12110,6170
+Canada,1,Male,"Indo-Iranian languages, n.i.e.",2760,2380,35,195,155
+Canada,1,Male,Italic (Romance) languages,558660,348855,40845,137335,31625
+Canada,1,Male,Catalan,440,205,30,205,10
+Canada,1,Male,Italian,184410,119235,7220,50080,7885
+Canada,1,Male,Portuguese,106630,76260,4940,16390,9035
+Canada,1,Male,Romanian,46195,22430,4200,18025,1545
+Canada,1,Male,Spanish,220605,130495,24440,52530,13150
+Canada,1,Male,"Italic (Romance) languages, n.i.e.",380,235,15,115,10
+Canada,1,Male,Japanese,14785,12865,90,870,970
+Canada,1,Male,Kartvelian languages,910,715,5,70,120
+Canada,1,Male,Georgian,910,715,5,70,120
+Canada,1,Male,Korean,70305,61045,100,2670,6490
+Canada,1,Male,Mongolic languages,690,580,10,55,40
+Canada,1,Male,Mongolian,690,575,10,60,40
+Canada,1,Male,Niger-Congo languages,45075,24565,6865,12890,760
+Canada,1,Male,Akan (Twi),6490,5950,10,485,45
+Canada,1,Male,Bamanankan,810,10,375,420,10
+Canada,1,Male,Edo,770,735,0,35,5
+Canada,1,Male,Ewe,950,400,165,380,5
+Canada,1,Male,"Fulah (Pular, Pulaar, Fulfulde)",1495,70,550,825,45
+Canada,1,Male,Ga,450,410,0,35,5
+Canada,1,Male,Ganda,625,590,0,35,0
+Canada,1,Male,Igbo,2260,2155,0,100,5
+Canada,1,Male,Lingala,1780,65,780,925,15
+Canada,1,Male,Rundi (Kirundi),2785,155,785,1720,120
+Canada,1,Male,Kinyarwanda (Rwanda),2360,410,330,1575,45
+Canada,1,Male,Shona,1515,1455,0,55,10
+Canada,1,Male,Swahili,6380,3600,795,1760,230
+Canada,1,Male,Wolof,2170,85,780,1260,40
+Canada,1,Male,Yoruba,4780,4555,20,195,15
+Canada,1,Male,"Niger-Congo languages, n.i.e.",9440,3910,2265,3090,165
+Canada,1,Male,Nilo-Saharan languages,3025,2685,85,185,70
+Canada,1,Male,Dinka,1115,1065,0,20,30
+Canada,1,Male,"Nilo-Saharan languages, n.i.e.",1910,1615,80,165,40
+Canada,1,Male,Sign languages,3925,1610,295,165,1855
+Canada,1,Male,American Sign Language,1325,850,0,40,425
+Canada,1,Male,Quebec Sign Language,335,0,185,55,95
+Canada,1,Male,"Sign languages, n.i.e",2265,755,115,65,1335
+Canada,1,Male,Sino-Tibetan languages,589570,454820,3670,25505,105570
+Canada,1,Male,Chinese languages,581645,448095,3650,25365,104540
+Canada,1,Male,Cantonese,262865,201950,1010,10000,49905
+Canada,1,Male,Hakka,4895,4020,25,260,590
+Canada,1,Male,Mandarin,274635,211990,2055,12955,47635
+Canada,1,Male,Min Dong,580,315,0,5,255
+Canada,1,Male,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",14450,10615,290,970,2575
+Canada,1,Male,Wu (Shanghainese),5780,4150,40,260,1330
+Canada,1,Male,"Chinese, n.o.s.",18170,14855,225,895,2200
+Canada,1,Male,"Chinese languages, n.i.e.",275,200,5,30,50
+Canada,1,Male,Tibeto-Burman languages,7920,6725,25,140,1030
+Canada,1,Male,Burmese,1790,1630,5,25,130
+Canada,1,Male,Karenic languages,2355,1810,5,10,530
+Canada,1,Male,Tibetan,3080,2695,10,80,305
+Canada,1,Male,"Tibeto-Burman languages, n.i.e.",695,595,10,25,65
+Canada,1,Male,Tai-Kadai languages,8865,5935,790,1505,640
+Canada,1,Male,Lao,6145,3720,760,1340,325
+Canada,1,Male,Thai,2695,2190,30,165,310
+Canada,1,Male,"Tai-Kadai languages, n.i.e",30,20,0,0,5
+Canada,1,Male,Turkic languages,21120,15805,1035,2975,1305
+Canada,1,Male,Azerbaijani,1785,1465,15,185,120
+Canada,1,Male,Turkish,17375,12765,980,2585,1050
+Canada,1,Male,Uyghur,510,400,10,65,40
+Canada,1,Male,Uzbek,855,700,15,75,65
+Canada,1,Male,"Turkic languages, n.i.e.",595,465,15,65,40
+Canada,1,Male,Uralic languages,37790,32565,225,4030,975
+Canada,1,Male,Estonian,2330,2010,0,300,15
+Canada,1,Male,Finnish,6395,5975,5,340,70
+Canada,1,Male,Hungarian,29060,24570,220,3385,885
+Canada,1,Male,"Uralic languages, n.i.e.",0,5,0,0,0
+Canada,1,Male,"Other languages, n.i.e.",2040,1465,140,345,90
+Canada,1,Male,Multiple responses,398325,248250,19825,128390,1860
+Canada,1,Male,English and French,80460,8270,2045,70095,50
+Canada,1,Male,English and non-official language,259165,236695,195,20835,1440
+Canada,1,Male,French and non-official language,42165,1685,17165,23020,290
+Canada,1,Male,"English, French and non-official language",16535,1595,420,14440,80
+Canada,1,Female,Total - Mother tongue,17666085,11919455,2218840,3144745,383045
+Canada,1,Female,Single responses,17245775,11660285,2195720,3008665,381115
+Canada,1,Female,Official languages,13425935,8811260,2036710,2573770,4200
+Canada,1,Female,English,9780725,8788990,2575,985580,3585
+Canada,1,Female,French,3645210,22270,2034135,1588190,615
+Canada,1,Female,Non-official languages,3819840,2849025,159010,434895,376915
+Canada,1,Female,Aboriginal languages,100900,85195,7140,4800,3770
+Canada,1,Female,Algonquian languages,67520,55960,6900,3080,1580
+Canada,1,Female,Blackfoot,1490,1480,0,10,0
+Canada,1,Female,Cree-Montagnais languages,45530,35080,6615,2595,1240
+Canada,1,Female,Atikamekw,3015,5,2670,135,210
+Canada,1,Female,Montagnais (Innu),5350,795,3895,425,230
+Canada,1,Female,Moose Cree,55,50,0,5,0
+Canada,1,Female,Naskapi,620,485,10,65,60
+Canada,1,Female,Northern East Cree,190,140,0,45,0
+Canada,1,Female,Plains Cree,1705,1685,5,15,5
+Canada,1,Female,Southern East Cree,25,15,0,10,0
+Canada,1,Female,Swampy Cree,855,830,0,15,5
+Canada,1,Female,Woods Cree,975,955,0,10,5
+Canada,1,Female,"Cree, n.o.s.",32745,30115,40,1870,720
+Canada,1,Female,Eastern Algonquian languages,3680,3555,5,120,10
+Canada,1,Female,Malecite,160,160,0,5,0
+Canada,1,Female,Mi'kmaq,3520,3395,5,115,10
+Canada,1,Female,Ojibway-Potawatomi languages,16795,15835,280,355,335
+Canada,1,Female,Algonquin,670,155,260,245,15
+Canada,1,Female,Ojibway,9450,9200,10,95,145
+Canada,1,Female,Oji-Cree,6595,6395,10,5,180
+Canada,1,Female,Ottawa (Odawa),80,80,0,0,0
+Canada,1,Female,"Algonquian languages, n.i.e.",20,15,0,10,0
+Canada,1,Female,Athabaskan languages,9045,8830,5,55,160
+Canada,1,Female,Northern Athabaskan languages,9010,8795,5,50,160
+Canada,1,Female,Babine (Wetsuwet'en),60,60,0,0,0
+Canada,1,Female,Beaver,105,100,0,0,0
+Canada,1,Female,Carrier,565,560,0,5,5
+Canada,1,Female,Chilcotin,360,350,0,5,5
+Canada,1,Female,Dene,5515,5395,0,25,90
+Canada,1,Female,Dogrib (Tlicho),815,780,0,0,30
+Canada,1,Female,Gwich'in,150,145,0,0,0
+Canada,1,Female,Sarsi (Sarcee),55,50,0,0,0
+Canada,1,Female,Sekani,45,45,0,0,0
+Canada,1,Female,Slavey-Hare languages,1040,1005,0,10,25
+Canada,1,Female,North Slavey (Hare),395,385,0,0,10
+Canada,1,Female,South Slavey,490,480,5,5,10
+Canada,1,Female,"Slavey, n.o.s.",155,140,0,0,5
+Canada,1,Female,Tahltan languages,140,140,0,5,0
+Canada,1,Female,Kaska (Nahani),90,90,0,0,0
+Canada,1,Female,Tahltan,50,50,0,0,0
+Canada,1,Female,Tutchone languages,170,170,0,0,0
+Canada,1,Female,Northern Tutchone,130,130,0,5,0
+Canada,1,Female,Southern Tutchone,40,35,0,0,0
+Canada,1,Female,"Athabaskan languages, n.i.e.",35,35,0,0,0
+Canada,1,Female,Haida,45,45,0,0,0
+Canada,1,Female,Inuit languages,18445,14685,200,1550,2005
+Canada,1,Female,Inuinnaqtun (Inuvialuktun),580,565,0,0,15
+Canada,1,Female,Inuktitut,17680,13965,200,1530,1985
+Canada,1,Female,"Inuit languages, n.i.e.",185,160,5,15,5
+Canada,1,Female,Iroquoian languages,635,585,5,35,0
+Canada,1,Female,Cayuga,20,20,0,0,0
+Canada,1,Female,Mohawk,555,515,5,30,0
+Canada,1,Female,Oneida,40,40,0,0,0
+Canada,1,Female,"Iroquoian languages, n.i.e.",20,15,5,5,0
+Canada,1,Female,Kutenai,50,50,0,0,0
+Canada,1,Female,Michif,235,195,0,40,5
+Canada,1,Female,Salish languages,1180,1165,0,10,5
+Canada,1,Female,Comox,40,45,0,0,0
+Canada,1,Female,Halkomelem,245,245,0,5,0
+Canada,1,Female,Lillooet,160,160,0,0,0
+Canada,1,Female,Okanagan,135,135,0,0,0
+Canada,1,Female,Shuswap (Secwepemctsin),220,220,0,0,0
+Canada,1,Female,Squamish,25,20,0,0,0
+Canada,1,Female,Straits,40,40,0,5,0
+Canada,1,Female,Thompson (Ntlakapamux),185,190,0,0,0
+Canada,1,Female,"Salish languages, n.i.e.",125,125,0,0,0
+Canada,1,Female,Siouan languages,2215,2205,0,10,5
+Canada,1,Female,Dakota,640,635,0,5,0
+Canada,1,Female,Stoney,1555,1550,0,5,5
+Canada,1,Female,"Siouan languages, n.i.e.",25,20,0,0,0
+Canada,1,Female,Tlingit,55,50,0,0,0
+Canada,1,Female,Tsimshian languages,750,740,0,10,0
+Canada,1,Female,Gitxsan (Gitksan),450,440,0,5,5
+Canada,1,Female,Nisga'a,195,195,0,0,0
+Canada,1,Female,Tsimshian,110,105,0,5,0
+Canada,1,Female,Wakashan languages,440,430,0,5,0
+Canada,1,Female,Haisla,55,50,0,5,0
+Canada,1,Female,Heiltsuk,55,55,0,0,0
+Canada,1,Female,Kwakiutl (Kwak'wala),180,180,0,5,0
+Canada,1,Female,Nuu-chah-nulth (Nootka),145,145,0,5,0
+Canada,1,Female,"Wakashan languages, n.i.e.",5,5,0,0,0
+Canada,1,Female,"Aboriginal languages, n.o.s.",290,255,20,5,10
+Canada,1,Female,Non-Aboriginal languages,3718940,2763830,151870,430095,373140
+Canada,1,Female,Afro-Asiatic languages,277305,146820,40605,62550,27330
+Canada,1,Female,Berber languages,10270,165,6470,3280,355
+Canada,1,Female,Kabyle,6155,95,3940,1895,225
+Canada,1,Female,"Berber languages, n.i.e.",4120,70,2525,1385,135
+Canada,1,Female,Cushitic languages,22790,18165,435,1905,2285
+Canada,1,Female,Bilen,350,265,0,10,75
+Canada,1,Female,Oromo,2400,2105,0,45,255
+Canada,1,Female,Somali,19865,15705,420,1815,1920
+Canada,1,Female,"Cushitic languages, n.i.e.",175,90,10,35,40
+Canada,1,Female,Semitic languages,243725,128165,33625,57275,24665
+Canada,1,Female,Amharic,11745,10620,30,575,520
+Canada,1,Female,Arabic,199105,90635,33480,54245,20745
+Canada,1,Female,Assyrian Neo-Aramaic,8160,6390,25,150,1600
+Canada,1,Female,Chaldean Neo-Aramaic,2765,2115,5,70,585
+Canada,1,Female,Harari,685,615,0,30,40
+Canada,1,Female,Hebrew,9045,6980,60,1830,170
+Canada,1,Female,Maltese,2800,2710,0,70,20
+Canada,1,Female,Tigrigna,8340,7255,20,250,815
+Canada,1,Female,"Semitic languages, n.i.e.",1070,840,10,60,160
+Canada,1,Female,"Afro-Asiatic languages, n.i.e.",515,320,80,85,25
+Canada,1,Female,Austro-Asiatic languages,94920,61355,5355,11670,16540
+Canada,1,Female,Khmer (Cambodian),10860,5220,1655,2145,1840
+Canada,1,Female,Vietnamese,83955,56065,3685,9510,14695
+Canada,1,Female,"Austro-Asiatic languages, n.i.e",100,70,10,15,5
+Canada,1,Female,Austronesian languages,299895,289410,450,7270,2770
+Canada,1,Female,Bikol,1000,960,0,30,10
+Canada,1,Female,Cebuano,11965,11565,5,300,95
+Canada,1,Female,Fijian,345,335,0,5,10
+Canada,1,Female,Hiligaynon,4205,4045,5,120,35
+Canada,1,Female,Ilocano,15725,15190,0,320,215
+Canada,1,Female,Malagasy,765,10,335,410,10
+Canada,1,Female,Malay,7015,6370,10,455,190
+Canada,1,Female,"Pampangan (Kapampangan, Pampango)",2180,2105,0,45,25
+Canada,1,Female,Pangasinan,800,775,0,10,15
+Canada,1,Female,"Tagalog (Pilipino, Filipino)",252810,245150,65,5485,2110
+Canada,1,Female,Waray-Waray,675,650,0,20,10
+Canada,1,Female,"Austronesian languages, n.i.e.",2425,2260,30,85,55
+Canada,1,Female,Creole languages,39825,2840,22260,13045,1675
+Canada,1,Female,Haitian Creole,1585,95,835,595,65
+Canada,1,Female,"Creole, n.o.s.",35655,1015,21370,11680,1590
+Canada,1,Female,"Creole languages, n.i.e.",2580,1730,55,765,25
+Canada,1,Female,Dravidian languages,94640,80035,290,5925,8390
+Canada,1,Female,Kannada,1930,1795,0,85,45
+Canada,1,Female,Malayalam,13795,12905,5,365,525
+Canada,1,Female,Tamil,71640,58635,285,5200,7525
+Canada,1,Female,Telugu,7015,6475,0,255,285
+Canada,1,Female,"Dravidian languages, n.i.e.",250,225,0,20,5
+Canada,1,Female,Hmong-Mien languages,400,345,0,10,45
+Canada,1,Female,Indo-European languages,1987930,1493945,65995,270730,157260
+Canada,1,Female,Albanian,13285,10105,445,1410,1320
+Canada,1,Female,Armenian,17185,7455,750,7505,1480
+Canada,1,Female,Balto-Slavic languages,378340,305940,7510,46095,18785
+Canada,1,Female,Baltic languages,7220,6015,15,1090,100
+Canada,1,Female,Latvian,3105,2585,5,485,30
+Canada,1,Female,Lithuanian,4115,3430,10,610,65
+Canada,1,Female,Slavic languages,371115,299925,7500,45000,18690
+Canada,1,Female,Belarusan,430,325,5,60,40
+Canada,1,Female,Bosnian,6180,4800,420,615,345
+Canada,1,Female,Bulgarian,10350,5650,805,3465,430
+Canada,1,Female,Croatian,24660,21790,170,1990,710
+Canada,1,Female,Czech,11765,10005,65,1510,185
+Canada,1,Female,Macedonian,8725,7805,15,455,455
+Canada,1,Female,Polish,99275,82810,960,11245,4265
+Canada,1,Female,Russian,102855,75490,3780,15430,8155
+Canada,1,Female,Serbian,28815,23505,375,3325,1615
+Canada,1,Female,Serbo-Croatian,4985,3545,335,905,195
+Canada,1,Female,Slovak,9510,8080,55,975,400
+Canada,1,Female,Slovene (Slovenian),5375,4780,10,535,45
+Canada,1,Female,Ukrainian,57040,50330,490,4395,1825
+Canada,1,Female,"Slavic languages, n.i.e.",1170,1015,20,90,40
+Canada,1,Female,Celtic languages,1360,1150,20,170,10
+Canada,1,Female,Scottish Gaelic,550,490,5,55,10
+Canada,1,Female,Welsh,575,505,0,65,5
+Canada,1,Female,"Celtic languages, n.i.e.",230,160,15,50,5
+Canada,1,Female,Germanic languages,280350,247705,710,24760,7175
+Canada,1,Female,Afrikaans,5150,4885,5,225,35
+Canada,1,Female,Danish,6390,5905,0,465,10
+Canada,1,Female,Dutch,50820,45915,80,4635,190
+Canada,1,Female,Frisian,1005,955,0,50,0
+Canada,1,Female,German,200820,178695,535,15435,6160
+Canada,1,Female,Icelandic,690,625,0,60,0
+Canada,1,Female,Norwegian,2440,2220,5,220,5
+Canada,1,Female,Swedish,3825,3185,10,625,5
+Canada,1,Female,Vlaams (Flemish),2170,1440,60,660,5
+Canada,1,Female,Yiddish,6800,3765,10,2265,765
+Canada,1,Female,"Germanic languages, n.i.e.",245,110,15,110,5
+Canada,1,Female,Greek,53170,35545,255,13170,4205
+Canada,1,Female,Indo-Iranian languages,648630,528735,3390,38540,77965
+Canada,1,Female,Indo-Aryan languages,526235,434720,980,24305,66230
+Canada,1,Female,Bengali,35715,29625,175,3910,2010
+Canada,1,Female,Gujarati,53675,44560,100,2835,6180
+Canada,1,Female,Hindi,54765,49620,35,2325,2785
+Canada,1,Female,Kashmiri,270,255,0,5,10
+Canada,1,Female,Konkani,1710,1605,5,70,30
+Canada,1,Female,Marathi,4000,3650,5,235,110
+Canada,1,Female,Nepali,9045,6815,255,520,1450
+Canada,1,Female,Oriya (Odia),490,445,0,25,20
+Canada,1,Female,Punjabi (Panjabi),248160,193645,195,7790,46525
+Canada,1,Female,Sindhi,6255,5510,15,450,290
+Canada,1,Female,Sinhala (Sinhalese),8285,7670,0,405,205
+Canada,1,Female,Urdu,103855,91315,195,5740,6610
+Canada,1,Female,Iranian languages,119970,92095,2365,14070,11445
+Canada,1,Female,Kurdish,5355,4120,160,315,755
+Canada,1,Female,Pashto,8145,6410,80,465,1185
+Canada,1,Female,Persian (Farsi),106475,81560,2120,13295,9500
+Canada,1,Female,"Indo-Iranian languages, n.i.e.",2425,1925,55,160,290
+Canada,1,Female,Italic (Romance) languages,595615,357305,52910,139080,46320
+Canada,1,Female,Catalan,420,195,35,180,10
+Canada,1,Female,Italian,191220,116790,8715,49900,15810
+Canada,1,Female,Portuguese,114910,79160,6055,17135,12560
+Canada,1,Female,Romanian,50470,23255,5170,19520,2520
+Canada,1,Female,Spanish,238240,137685,32920,52250,15395
+Canada,1,Female,"Italic (Romance) languages, n.i.e.",345,220,20,95,10
+Canada,1,Female,Japanese,28855,25420,120,1850,1465
+Canada,1,Female,Kartvelian languages,800,615,15,80,95
+Canada,1,Female,Georgian,805,615,15,75,95
+Canada,1,Female,Korean,83115,69240,135,3825,9915
+Canada,1,Female,Mongolic languages,885,705,25,90,55
+Canada,1,Female,Mongolian,885,705,25,95,60
+Canada,1,Female,Niger-Congo languages,46300,25485,9000,10435,1380
+Canada,1,Female,Akan (Twi),6970,6305,15,505,150
+Canada,1,Female,Bamanankan,720,15,410,290,10
+Canada,1,Female,Edo,900,860,5,30,5
+Canada,1,Female,Ewe,805,395,210,190,10
+Canada,1,Female,"Fulah (Pular, Pulaar, Fulfulde)",1330,70,710,510,40
+Canada,1,Female,Ga,475,420,0,45,5
+Canada,1,Female,Ganda,670,625,0,40,5
+Canada,1,Female,Igbo,1975,1845,0,105,20
+Canada,1,Female,Lingala,2025,65,1120,820,20
+Canada,1,Female,Rundi (Kirundi),3060,145,1065,1635,210
+Canada,1,Female,Kinyarwanda (Rwanda),2895,485,675,1615,110
+Canada,1,Female,Shona,1665,1575,0,75,10
+Canada,1,Female,Swahili,6990,3965,1130,1525,370
+Canada,1,Female,Wolof,1820,75,875,810,60
+Canada,1,Female,Yoruba,4300,4075,30,160,35
+Canada,1,Female,"Niger-Congo languages, n.i.e.",9700,4555,2760,2085,295
+Canada,1,Female,Nilo-Saharan languages,2845,2450,120,125,155
+Canada,1,Female,Dinka,1000,920,0,20,65
+Canada,1,Female,"Nilo-Saharan languages, n.i.e.",1845,1530,120,100,95
+Canada,1,Female,Sign languages,3575,1685,270,205,1415
+Canada,1,Female,American Sign Language,1360,965,0,60,335
+Canada,1,Female,Quebec Sign Language,360,0,200,75,85
+Canada,1,Female,"Sign languages, n.i.e",1860,725,65,75,995
+Canada,1,Female,Sino-Tibetan languages,679650,502250,4490,32805,140100
+Canada,1,Female,Chinese languages,671710,495740,4470,32630,138880
+Canada,1,Female,Cantonese,302405,217585,1105,12510,71205
+Canada,1,Female,Hakka,6015,4605,40,315,1040
+Canada,1,Female,Mandarin,317405,240505,2690,17275,56940
+Canada,1,Female,Min Dong,650,325,5,15,310
+Canada,1,Female,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",17350,12125,305,1125,3790
+Canada,1,Female,Wu (Shanghainese),7140,4775,40,365,1955
+Canada,1,Female,"Chinese, n.o.s.",20410,15580,275,1000,3555
+Canada,1,Female,"Chinese languages, n.i.e.",335,235,5,15,80
+Canada,1,Female,Tibeto-Burman languages,7930,6510,25,180,1220
+Canada,1,Female,Burmese,1795,1570,0,45,175
+Canada,1,Female,Karenic languages,2350,1745,10,10,585
+Canada,1,Female,Tibetan,3085,2620,5,105,360
+Canada,1,Female,"Tibeto-Burman languages, n.i.e.",705,575,10,25,105
+Canada,1,Female,Tai-Kadai languages,13140,9565,900,1615,1060
+Canada,1,Female,Lao,6530,3805,830,1205,685
+Canada,1,Female,Thai,6560,5715,65,415,365
+Canada,1,Female,"Tai-Kadai languages, n.i.e",55,45,0,5,5
+Canada,1,Female,Turkic languages,19025,13090,1395,2630,1910
+Canada,1,Female,Azerbaijani,1470,1130,20,160,165
+Canada,1,Female,Turkish,15440,10365,1295,2215,1565
+Canada,1,Female,Uyghur,520,380,25,60,55
+Canada,1,Female,Uzbek,865,660,20,105,80
+Canada,1,Female,"Turkic languages, n.i.e.",720,550,35,85,50
+Canada,1,Female,Uralic languages,44190,37425,275,5010,1485
+Canada,1,Female,Estonian,3115,2615,0,470,30
+Canada,1,Female,Finnish,8895,8140,5,655,95
+Canada,1,Female,Hungarian,32180,26665,270,3880,1360
+Canada,1,Female,"Uralic languages, n.i.e.",5,0,0,0,0
+Canada,1,Female,"Other languages, n.i.e.",1645,1165,165,225,85
+Canada,1,Female,Multiple responses,420305,259170,23125,136080,1935
+Canada,1,Female,English and French,84860,8845,2320,73650,50
+Canada,1,Female,English and non-official language,274100,246635,240,25725,1510
+Canada,1,Female,French and non-official language,43980,1905,20080,21695,300
+Canada,1,Female,"English, French and non-official language",17365,1790,490,15015,75

@@ -1,808 +1,808 @@
-,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
-2867271,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Total - Mother tongue,1,1.0,736285,420815,63145,249950,2365
-2867272,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Single responses,2,,726990,418910,62930,242805,2345
-2867273,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Official languages,3,,703840,401710,62495,239540,90
-2867274,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,English,4,,472730,399675,120,72855,80
-2867275,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,French,5,,231110,2040,62375,166685,10
-2867276,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Non-official languages,6,,23150,17195,440,3270,2250
-2867277,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Aboriginal languages,7,,2165,2090,0,70,5
-2867278,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Algonquian languages,8,,2130,2055,0,65,5
-2867279,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Blackfoot,9,,0,0,0,0,0
-2867280,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Cree-Montagnais languages,10,,10,5,0,0,0
-2867281,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Atikamekw,11,,0,0,0,0,0
-2867282,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Montagnais (Innu),12,,0,0,0,0,0
-2867283,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Moose Cree,13,,0,0,0,0,0
-2867284,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Naskapi,14,,0,0,0,0,0
-2867285,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Northern East Cree,15,,0,0,0,0,0
-2867286,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Plains Cree,16,,0,0,0,0,0
-2867287,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Southern East Cree,17,,0,0,0,0,0
-2867288,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Swampy Cree,18,,5,5,0,0,0
-2867289,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Woods Cree,19,,0,0,0,0,0
-2867290,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Cree, n.o.s.",20,,5,5,0,0,0
-2867291,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Eastern Algonquian languages,21,,2115,2040,0,65,5
-2867292,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Malecite,22,,280,275,0,5,0
-2867293,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Mi'kmaq,23,,1835,1765,0,65,5
-2867294,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Ojibway-Potawatomi languages,24,,5,10,0,0,0
-2867295,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Algonquin,25,,0,0,0,0,0
-2867296,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Ojibway,26,,5,5,0,0,0
-2867297,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Oji-Cree,27,,0,0,0,0,0
-2867298,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Ottawa (Odawa),28,,0,0,0,0,0
-2867299,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,0,5,0,0,0
-2867300,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Athabaskan languages,30,,5,5,0,0,0
-2867301,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Northern Athabaskan languages,31,,0,0,0,5,0
-2867302,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-2867303,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Beaver,33,,0,0,0,0,0
-2867304,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Carrier,34,,0,0,0,0,0
-2867305,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Chilcotin,35,,0,0,0,0,0
-2867306,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Dene,36,,0,0,0,0,0
-2867307,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Dogrib (Tlicho),37,,0,0,0,0,0
-2867308,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Gwich'in,38,,0,0,0,0,0
-2867309,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Sarsi (Sarcee),39,,0,0,0,0,0
-2867310,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Sekani,40,,0,0,0,0,0
-2867311,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Slavey-Hare languages,41,,5,0,0,0,0
-2867312,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,North Slavey (Hare),42,,0,0,0,0,0
-2867313,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,South Slavey,43,,0,0,0,0,0
-2867314,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Slavey, n.o.s.",44,,5,5,0,0,0
-2867315,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tahltan languages,45,,0,0,0,0,0
-2867316,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Kaska (Nahani),46,,0,0,0,0,0
-2867317,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tahltan,47,,0,0,0,0,0
-2867318,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tutchone languages,48,,0,0,0,0,0
-2867319,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Northern Tutchone,49,,0,0,0,0,0
-2867320,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Southern Tutchone,50,,0,0,0,0,0
-2867321,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,5,0,0,0,0
-2867322,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Haida,52,,0,0,0,0,0
-2867323,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Inuit languages,53,,20,20,0,0,0
-2867324,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-2867325,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Inuktitut,55,,15,10,0,0,0
-2867326,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Inuit languages, n.i.e.",56,,5,5,0,0,0
-2867327,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Iroquoian languages,57,,0,0,0,0,0
-2867328,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Cayuga,58,,0,0,0,0,0
-2867329,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Mohawk,59,,0,0,0,0,0
-2867330,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Oneida,60,,0,0,0,0,0
-2867331,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-2867332,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Kutenai,62,,0,0,0,0,0
-2867333,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Michif,63,,0,0,0,5,0
-2867334,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Salish languages,64,,0,0,0,0,0
-2867335,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Comox,65,,0,0,0,0,0
-2867336,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Halkomelem,66,,0,0,0,0,0
-2867337,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Lillooet,67,,0,0,0,0,0
-2867338,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Okanagan,68,,0,0,0,0,0
-2867339,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-2867340,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Squamish,70,,0,0,0,0,0
-2867341,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Straits,71,,0,0,0,0,0
-2867342,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-2867343,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-2867344,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Siouan languages,74,,0,0,0,0,0
-2867345,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Dakota,75,,0,0,0,0,0
-2867346,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Stoney,76,,0,0,0,0,0
-2867347,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-2867348,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tlingit,78,,0,0,0,0,0
-2867349,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tsimshian languages,79,,0,0,0,0,0
-2867350,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Gitxsan (Gitksan),80,,0,0,0,0,0
-2867351,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Nisga'a,81,,0,0,0,0,0
-2867352,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tsimshian,82,,0,0,0,0,0
-2867353,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Wakashan languages,83,,0,0,0,0,0
-2867354,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Haisla,84,,0,0,0,0,0
-2867355,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Heiltsuk,85,,0,0,0,0,0
-2867356,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-2867357,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-2867358,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-2867359,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,5,10,0,0,0
-2867360,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Non-Aboriginal languages,90,,20990,15105,435,3195,2250
-2867361,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Afro-Asiatic languages,91,,3190,1255,110,630,1190
-2867362,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Berber languages,92,,40,0,10,35,0
-2867363,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Kabyle,93,,20,0,5,15,0
-2867364,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Berber languages, n.i.e.",94,,25,0,5,25,0
-2867365,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Cushitic languages,95,,30,30,0,0,0
-2867366,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Bilen,96,,0,0,0,0,0
-2867367,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Oromo,97,,5,5,0,0,0
-2867368,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Somali,98,,25,25,0,0,0
-2867369,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-2867370,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Semitic languages,100,,3110,1230,100,590,1185
-2867371,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Amharic,101,,65,50,0,10,0
-2867372,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Arabic,102,,2855,1005,100,560,1180
-2867373,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-2867374,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-2867375,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Harari,105,,0,0,0,0,0
-2867376,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Hebrew,106,,170,150,0,15,5
-2867377,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Maltese,107,,5,0,0,0,0
-2867378,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tigrigna,108,,20,15,0,0,5
-2867379,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Semitic languages, n.i.e.",109,,0,0,0,0,5
-2867380,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,10,0,5,5,0
-2867381,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Austro-Asiatic languages,111,,630,505,5,75,45
-2867382,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Khmer (Cambodian),112,,10,10,0,5,0
-2867383,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Vietnamese,113,,625,500,5,70,50
-2867384,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-2867385,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Austronesian languages,115,,1375,1305,10,50,15
-2867386,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Bikol,116,,5,5,0,0,0
-2867387,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Cebuano,117,,105,100,0,0,5
-2867388,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Fijian,118,,0,0,0,0,0
-2867389,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Hiligaynon,119,,15,10,0,0,0
-2867390,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Ilocano,120,,45,45,0,0,0
-2867391,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Malagasy,121,,15,0,5,10,0
-2867392,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Malay,122,,50,50,0,0,0
-2867393,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,5,5,0,0,0
-2867394,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Pangasinan,124,,0,0,0,0,0
-2867395,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,1120,1075,5,35,10
-2867396,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Waray-Waray,126,,0,0,0,0,0
-2867397,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,15,10,0,0,0
-2867398,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Creole languages,128,,135,40,20,70,0
-2867399,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Haitian Creole,129,,10,0,5,5,0
-2867400,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Creole, n.o.s.",130,,85,0,10,65,0
-2867401,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Creole languages, n.i.e.",131,,40,35,0,5,0
-2867402,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Dravidian languages,132,,280,260,0,15,5
-2867403,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Kannada,133,,25,20,0,0,0
-2867404,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Malayalam,134,,40,35,0,0,0
-2867405,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tamil,135,,105,100,0,10,0
-2867406,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Telugu,136,,110,105,0,0,0
-2867407,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,0,0,0,5,0
-2867408,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Hmong-Mien languages,138,,0,0,0,0,0
-2867409,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Indo-European languages,139,,9325,7170,90,1640,420
-2867410,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Albanian,140,,50,45,0,0,0
-2867411,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Armenian,141,,25,10,0,15,5
-2867412,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Balto-Slavic languages,142,,1740,1400,15,255,70
-2867413,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Baltic languages,143,,55,50,0,10,0
-2867414,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Latvian,144,,25,20,0,5,0
-2867415,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Lithuanian,145,,30,25,0,5,0
-2867416,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Slavic languages,146,,1685,1355,15,245,70
-2867417,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Belarusan,147,,5,5,0,0,0
-2867418,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Bosnian,148,,50,45,0,0,5
-2867419,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Bulgarian,149,,20,15,0,5,0
-2867420,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Croatian,150,,75,65,0,15,0
-2867421,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Czech,151,,55,35,0,15,0
-2867422,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Macedonian,152,,15,15,0,0,0
-2867423,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Polish,153,,230,180,0,50,0
-2867424,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Russian,154,,880,715,10,105,50
-2867425,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Serbian,155,,105,85,5,15,5
-2867426,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Serbo-Croatian,156,,35,30,0,10,0
-2867427,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Slovak,157,,30,15,0,5,0
-2867428,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Slovene (Slovenian),158,,15,15,0,0,0
-2867429,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Ukrainian,159,,170,135,0,25,15
-2867430,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
-2867431,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Celtic languages,161,,30,20,0,10,5
-2867432,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Scottish Gaelic,162,,15,10,0,5,5
-2867433,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Welsh,163,,10,10,0,0,0
-2867434,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Celtic languages, n.i.e.",164,,0,0,0,0,0
-2867435,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Germanic languages,165,,2875,2335,5,510,25
-2867436,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Afrikaans,166,,50,45,0,5,0
-2867437,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Danish,167,,125,110,0,15,0
-2867438,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Dutch,168,,885,730,5,155,0
-2867439,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Frisian,169,,35,35,0,5,0
-2867440,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,German,170,,1650,1330,5,290,25
-2867441,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Icelandic,171,,5,5,0,0,0
-2867442,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Norwegian,172,,40,35,0,0,0
-2867443,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Swedish,173,,45,30,0,20,0
-2867444,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Vlaams (Flemish),174,,20,10,0,10,0
-2867445,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Yiddish,175,,10,10,0,0,0
-2867446,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Germanic languages, n.i.e.",176,,5,0,0,5,0
-2867447,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Greek,177,,145,120,0,25,5
-2867448,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Indo-Iranian languages,178,,1850,1570,5,155,125
-2867449,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Indo-Aryan languages,179,,1175,1030,0,90,60
-2867450,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Bengali,180,,210,190,0,15,5
-2867451,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Gujarati,181,,75,65,0,5,0
-2867452,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Hindi,182,,230,205,0,20,5
-2867453,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Kashmiri,183,,0,0,0,0,0
-2867454,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Konkani,184,,10,10,0,0,0
-2867455,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Marathi,185,,50,45,0,5,0
-2867456,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Nepali,186,,185,145,0,10,40
-2867457,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Oriya (Odia),187,,5,5,0,0,0
-2867458,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Punjabi (Panjabi),188,,125,105,0,10,10
-2867459,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Sindhi,189,,25,20,0,5,5
-2867460,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Sinhala (Sinhalese),190,,30,30,0,0,0
-2867461,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Urdu,191,,245,215,0,20,5
-2867462,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Iranian languages,192,,655,525,5,65,65
-2867463,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Kurdish,193,,50,15,0,0,40
-2867464,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Pashto,194,,25,20,0,5,0
-2867465,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Persian (Farsi),195,,580,495,0,65,25
-2867466,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,15,15,0,0,0
-2867467,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Italic (Romance) languages,197,,2610,1665,65,690,190
-2867468,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Catalan,198,,0,0,0,0,0
-2867469,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Italian,199,,400,215,5,170,10
-2867470,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Portuguese,200,,265,185,5,65,5
-2867471,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Romanian,201,,485,300,25,130,30
-2867472,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Spanish,202,,1460,960,30,325,140
-2867473,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,5,0,0,0,0
-2867474,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Japanese,204,,110,85,0,20,5
-2867475,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Kartvelian languages,205,,0,0,0,0,0
-2867476,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Georgian,206,,0,0,0,0,0
-2867477,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Korean,207,,1545,1290,0,175,75
-2867478,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Mongolic languages,208,,0,5,0,0,0
-2867479,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Mongolian,209,,5,5,0,0,0
-2867480,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Niger-Congo languages,210,,695,230,170,275,15
-2867481,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Akan (Twi),211,,25,20,0,5,0
-2867482,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Bamanankan,212,,60,5,30,30,0
-2867483,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Edo,213,,0,0,0,0,0
-2867484,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Ewe,214,,5,5,0,0,0
-2867485,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,45,0,15,30,0
-2867486,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Ga,216,,10,5,0,0,0
-2867487,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Ganda,217,,5,5,0,0,0
-2867488,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Igbo,218,,30,30,0,5,0
-2867489,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Lingala,219,,25,0,15,15,0
-2867490,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Rundi (Kirundi),220,,50,10,0,30,5
-2867491,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Kinyarwanda (Rwanda),221,,40,0,5,30,0
-2867492,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Shona,222,,20,20,0,0,0
-2867493,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Swahili,223,,130,30,35,60,5
-2867494,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Wolof,224,,25,0,5,20,0
-2867495,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Yoruba,225,,30,30,0,5,0
-2867496,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,195,65,60,55,5
-2867497,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Nilo-Saharan languages,227,,0,5,0,0,0
-2867498,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Dinka,228,,5,0,0,0,0
-2867499,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
-2867500,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Sign languages,230,,140,65,5,10,60
-2867501,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,American Sign Language,231,,40,30,0,5,15
-2867502,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Quebec Sign Language,232,,0,0,0,5,0
-2867503,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Sign languages, n.i.e",233,,95,35,5,10,45
-2867504,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Sino-Tibetan languages,234,,3115,2535,15,165,400
-2867505,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Chinese languages,235,,3085,2505,15,160,405
-2867506,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Cantonese,236,,440,330,5,50,55
-2867507,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Hakka,237,,15,15,0,0,0
-2867508,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Mandarin,238,,2255,1835,5,95,315
-2867509,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Min Dong,239,,0,0,0,0,0
-2867510,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,35,20,0,5,5
-2867511,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Wu (Shanghainese),241,,100,80,0,10,10
-2867512,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Chinese, n.o.s.",242,,235,215,5,5,15
-2867513,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Chinese languages, n.i.e.",243,,10,5,0,5,0
-2867514,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tibeto-Burman languages,244,,30,25,0,0,0
-2867515,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Burmese,245,,5,5,0,0,0
-2867516,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Karenic languages,246,,25,25,0,0,0
-2867517,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tibetan,247,,0,0,0,0,0
-2867518,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,0,5,0,0,0
-2867519,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Tai-Kadai languages,249,,60,50,0,5,0
-2867520,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Lao,250,,0,0,0,0,0
-2867521,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Thai,251,,55,55,0,5,0
-2867522,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-2867523,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Turkic languages,253,,100,75,5,15,10
-2867524,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Azerbaijani,254,,5,5,0,0,0
-2867525,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Turkish,255,,75,60,0,15,10
-2867526,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Uyghur,256,,0,0,0,0,0
-2867527,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Uzbek,257,,10,5,0,0,0
-2867528,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Turkic languages, n.i.e.",258,,10,5,0,0,0
-2867529,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Uralic languages,259,,250,210,0,40,0
-2867530,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Estonian,260,,15,15,0,5,0
-2867531,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Finnish,261,,45,40,0,10,0
-2867532,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Hungarian,262,,180,155,0,30,0
-2867533,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-2867534,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"Other languages, n.i.e.",264,,25,15,0,5,0
-2867535,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,Multiple responses,265,,9290,1915,215,7145,25
-2867536,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,English and French,266,,7280,570,130,6580,0
-2867537,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,English and non-official language,267,,1535,1315,5,200,20
-2867538,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,French and non-official language,268,,335,15,75,240,5
-2867539,2016,13,1,New Brunswick,3.9,0, ,13,Total - Sex,1,,"English, French and non-official language",269,,145,15,0,125,0
-2867540,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Total - Mother tongue,1,1.0,360440,210555,29955,118705,1220
-2867541,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Single responses,2,,356000,209660,29845,115285,1205
-2867542,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Official languages,3,,344280,200970,29625,113635,55
-2867543,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,English,4,,231590,200050,65,31430,50
-2867544,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,French,5,,112690,920,29555,82200,5
-2867545,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Non-official languages,6,,11720,8690,220,1655,1155
-2867546,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Aboriginal languages,7,,1035,995,0,35,5
-2867547,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Algonquian languages,8,,1015,985,0,35,0
-2867548,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Blackfoot,9,,0,0,0,0,0
-2867549,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Cree-Montagnais languages,10,,5,0,0,0,0
-2867550,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Atikamekw,11,,0,0,0,0,0
-2867551,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Montagnais (Innu),12,,0,0,0,0,0
-2867552,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Moose Cree,13,,0,0,0,0,0
-2867553,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Naskapi,14,,0,0,0,0,0
-2867554,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Northern East Cree,15,,0,0,0,0,0
-2867555,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Plains Cree,16,,0,0,0,0,0
-2867556,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Southern East Cree,17,,0,0,0,0,0
-2867557,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Swampy Cree,18,,0,0,0,0,0
-2867558,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Woods Cree,19,,5,0,0,0,0
-2867559,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Cree, n.o.s.",20,,5,0,0,0,0
-2867560,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Eastern Algonquian languages,21,,1010,975,0,35,5
-2867561,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Malecite,22,,125,120,0,0,0
-2867562,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Mi'kmaq,23,,885,850,0,30,5
-2867563,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Ojibway-Potawatomi languages,24,,5,0,0,0,0
-2867564,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Algonquin,25,,0,0,0,0,0
-2867565,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Ojibway,26,,5,5,0,0,0
-2867566,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Oji-Cree,27,,0,0,0,0,0
-2867567,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Ottawa (Odawa),28,,0,0,0,0,0
-2867568,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-2867569,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Athabaskan languages,30,,0,0,0,0,0
-2867570,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Northern Athabaskan languages,31,,0,0,0,0,0
-2867571,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-2867572,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Beaver,33,,0,0,0,0,0
-2867573,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Carrier,34,,0,0,0,0,0
-2867574,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Chilcotin,35,,0,0,0,0,0
-2867575,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Dene,36,,0,0,0,0,0
-2867576,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Dogrib (Tlicho),37,,0,0,0,0,0
-2867577,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Gwich'in,38,,0,0,0,0,0
-2867578,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Sarsi (Sarcee),39,,0,0,0,0,0
-2867579,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Sekani,40,,0,0,0,0,0
-2867580,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Slavey-Hare languages,41,,0,0,0,0,0
-2867581,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,North Slavey (Hare),42,,0,0,0,0,0
-2867582,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,South Slavey,43,,0,0,0,0,0
-2867583,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Slavey, n.o.s.",44,,0,0,0,0,0
-2867584,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tahltan languages,45,,0,0,0,0,0
-2867585,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Kaska (Nahani),46,,0,0,0,0,0
-2867586,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tahltan,47,,0,0,0,0,0
-2867587,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tutchone languages,48,,0,0,0,0,0
-2867588,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Northern Tutchone,49,,0,0,0,0,0
-2867589,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Southern Tutchone,50,,0,0,0,0,0
-2867590,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-2867591,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Haida,52,,0,0,0,0,0
-2867592,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Inuit languages,53,,10,5,0,0,0
-2867593,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-2867594,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Inuktitut,55,,5,5,0,0,0
-2867595,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Inuit languages, n.i.e.",56,,0,0,0,0,0
-2867596,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Iroquoian languages,57,,0,0,0,0,0
-2867597,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Cayuga,58,,0,0,0,0,0
-2867598,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Mohawk,59,,0,0,0,0,0
-2867599,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Oneida,60,,0,0,0,0,0
-2867600,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-2867601,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Kutenai,62,,0,0,0,0,0
-2867602,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Michif,63,,0,0,0,0,0
-2867603,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Salish languages,64,,0,0,0,0,0
-2867604,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Comox,65,,0,0,0,0,0
-2867605,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Halkomelem,66,,0,0,0,0,0
-2867606,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Lillooet,67,,0,0,0,0,0
-2867607,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Okanagan,68,,0,0,0,0,0
-2867608,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-2867609,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Squamish,70,,0,0,0,0,0
-2867610,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Straits,71,,0,0,0,0,0
-2867611,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-2867612,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-2867613,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Siouan languages,74,,0,0,0,0,0
-2867614,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Dakota,75,,0,0,0,0,0
-2867615,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Stoney,76,,0,0,0,0,0
-2867616,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-2867617,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tlingit,78,,0,0,0,0,0
-2867618,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tsimshian languages,79,,0,0,0,0,0
-2867619,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Gitxsan (Gitksan),80,,0,0,0,0,0
-2867620,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Nisga'a,81,,0,0,0,0,0
-2867621,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tsimshian,82,,0,0,0,0,0
-2867622,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Wakashan languages,83,,0,0,0,0,0
-2867623,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Haisla,84,,0,0,0,0,0
-2867624,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Heiltsuk,85,,0,0,0,0,0
-2867625,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-2867626,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-2867627,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-2867628,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-2867629,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Non-Aboriginal languages,90,,10685,7695,220,1625,1150
-2867630,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Afro-Asiatic languages,91,,1805,745,60,385,610
-2867631,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Berber languages,92,,30,0,5,25,0
-2867632,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Kabyle,93,,10,0,0,10,0
-2867633,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Berber languages, n.i.e.",94,,15,0,5,15,0
-2867634,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Cushitic languages,95,,15,15,0,0,0
-2867635,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Bilen,96,,0,0,0,0,0
-2867636,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Oromo,97,,0,0,0,0,0
-2867637,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Somali,98,,10,10,0,0,0
-2867638,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-2867639,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Semitic languages,100,,1760,730,60,360,610
-2867640,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Amharic,101,,35,25,0,5,0
-2867641,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Arabic,102,,1615,610,55,345,610
-2867642,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-2867643,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-2867644,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Harari,105,,0,0,0,0,0
-2867645,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Hebrew,106,,90,80,0,10,0
-2867646,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Maltese,107,,5,0,0,0,0
-2867647,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tigrigna,108,,10,10,0,0,0
-2867648,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Semitic languages, n.i.e.",109,,5,0,0,0,0
-2867649,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,5,5,0,0,0
-2867650,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Austro-Asiatic languages,111,,305,250,5,30,20
-2867651,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Khmer (Cambodian),112,,5,5,0,0,0
-2867652,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Vietnamese,113,,300,245,0,30,20
-2867653,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-2867654,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Austronesian languages,115,,505,480,5,15,10
-2867655,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Bikol,116,,0,0,0,0,0
-2867656,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Cebuano,117,,35,35,0,0,0
-2867657,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Fijian,118,,0,0,0,0,0
-2867658,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Hiligaynon,119,,5,5,0,0,0
-2867659,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Ilocano,120,,15,15,0,0,0
-2867660,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Malagasy,121,,5,0,0,5,0
-2867661,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Malay,122,,20,15,0,0,0
-2867662,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,0,0,0,0,0
-2867663,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Pangasinan,124,,0,0,0,0,0
-2867664,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Tagalog (Pilipino, Filipino)",125,,420,400,0,10,5
-2867665,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Waray-Waray,126,,0,0,0,0,0
-2867666,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Austronesian languages, n.i.e.",127,,5,5,0,0,0
-2867667,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Creole languages,128,,70,30,5,30,0
-2867668,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Haitian Creole,129,,5,5,5,5,0
-2867669,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Creole, n.o.s.",130,,30,0,0,25,0
-2867670,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Creole languages, n.i.e.",131,,30,30,0,0,0
-2867671,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Dravidian languages,132,,155,145,0,10,0
-2867672,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Kannada,133,,10,10,0,0,0
-2867673,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Malayalam,134,,20,15,0,5,0
-2867674,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tamil,135,,60,55,0,0,0
-2867675,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Telugu,136,,65,65,0,0,0
-2867676,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
-2867677,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Hmong-Mien languages,138,,0,5,0,0,0
-2867678,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Indo-European languages,139,,4795,3730,40,785,235
-2867679,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Albanian,140,,25,20,0,0,5
-2867680,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Armenian,141,,15,5,0,10,0
-2867681,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Balto-Slavic languages,142,,860,705,10,110,35
-2867682,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Baltic languages,143,,25,25,0,5,0
-2867683,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Latvian,144,,10,10,0,0,0
-2867684,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Lithuanian,145,,15,15,0,0,0
-2867685,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Slavic languages,146,,835,685,10,110,35
-2867686,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Belarusan,147,,0,0,0,0,0
-2867687,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Bosnian,148,,25,20,0,0,0
-2867688,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Bulgarian,149,,10,5,0,0,0
-2867689,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Croatian,150,,35,30,0,5,0
-2867690,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Czech,151,,25,20,0,10,0
-2867691,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Macedonian,152,,10,10,0,0,0
-2867692,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Polish,153,,105,80,0,20,0
-2867693,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Russian,154,,445,365,5,45,25
-2867694,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Serbian,155,,55,50,0,5,0
-2867695,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Serbo-Croatian,156,,15,15,0,0,0
-2867696,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Slovak,157,,15,10,0,0,0
-2867697,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Slovene (Slovenian),158,,10,5,0,0,0
-2867698,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Ukrainian,159,,85,65,0,15,5
-2867699,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
-2867700,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Celtic languages,161,,10,5,0,0,0
-2867701,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Scottish Gaelic,162,,5,5,0,5,0
-2867702,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Welsh,163,,0,5,0,0,0
-2867703,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Celtic languages, n.i.e.",164,,0,0,0,0,0
-2867704,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Germanic languages,165,,1415,1160,5,230,15
-2867705,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Afrikaans,166,,25,20,0,5,0
-2867706,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Danish,167,,55,50,0,10,0
-2867707,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Dutch,168,,470,390,0,75,0
-2867708,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Frisian,169,,25,20,0,5,0
-2867709,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,German,170,,780,645,5,125,15
-2867710,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Icelandic,171,,5,0,0,0,0
-2867711,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Norwegian,172,,20,20,0,0,0
-2867712,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Swedish,173,,10,10,0,0,0
-2867713,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Vlaams (Flemish),174,,10,0,0,5,0
-2867714,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Yiddish,175,,5,5,0,5,0
-2867715,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Germanic languages, n.i.e.",176,,0,0,0,5,0
-2867716,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Greek,177,,100,85,0,10,5
-2867717,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Indo-Iranian languages,178,,1015,885,0,75,55
-2867718,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Indo-Aryan languages,179,,650,585,0,35,25
-2867719,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Bengali,180,,120,110,0,10,0
-2867720,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Gujarati,181,,40,35,0,0,5
-2867721,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Hindi,182,,135,120,0,10,0
-2867722,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Kashmiri,183,,0,0,0,0,0
-2867723,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Konkani,184,,5,5,0,5,0
-2867724,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Marathi,185,,20,20,0,0,0
-2867725,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Nepali,186,,90,75,0,5,15
-2867726,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Oriya (Odia),187,,5,5,0,0,0
-2867727,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Punjabi (Panjabi),188,,75,65,0,5,5
-2867728,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Sindhi,189,,10,15,0,0,5
-2867729,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Sinhala (Sinhalese),190,,15,15,0,0,0
-2867730,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Urdu,191,,140,125,0,5,0
-2867731,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Iranian languages,192,,355,285,5,35,30
-2867732,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Kurdish,193,,35,5,0,0,20
-2867733,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Pashto,194,,10,15,0,0,0
-2867734,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Persian (Farsi),195,,305,270,5,30,10
-2867735,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Indo-Iranian languages, n.i.e.",196,,10,10,0,0,0
-2867736,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Italic (Romance) languages,197,,1355,860,25,345,120
-2867737,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Catalan,198,,0,0,0,0,0
-2867738,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Italian,199,,225,130,5,95,5
-2867739,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Portuguese,200,,125,95,5,30,5
-2867740,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Romanian,201,,250,165,10,65,10
-2867741,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Spanish,202,,760,475,10,165,105
-2867742,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-2867743,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Japanese,204,,25,20,0,5,0
-2867744,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Kartvelian languages,205,,0,5,0,0,0
-2867745,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Georgian,206,,0,5,0,0,0
-2867746,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Korean,207,,795,670,0,95,30
-2867747,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Mongolic languages,208,,0,0,0,0,0
-2867748,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Mongolian,209,,0,0,0,0,0
-2867749,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Niger-Congo languages,210,,385,115,90,170,5
-2867750,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Akan (Twi),211,,15,10,0,0,0
-2867751,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Bamanankan,212,,35,5,15,20,0
-2867752,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Edo,213,,0,0,0,0,0
-2867753,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Ewe,214,,5,0,0,5,0
-2867754,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,30,0,10,20,0
-2867755,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Ga,216,,0,0,0,0,0
-2867756,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Ganda,217,,5,5,0,0,0
-2867757,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Igbo,218,,20,20,0,0,0
-2867758,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Lingala,219,,10,0,0,10,0
-2867759,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Rundi (Kirundi),220,,25,5,5,20,0
-2867760,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Kinyarwanda (Rwanda),221,,20,0,5,15,0
-2867761,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Shona,222,,10,10,0,0,0
-2867762,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Swahili,223,,65,15,20,35,5
-2867763,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Wolof,224,,15,0,5,15,0
-2867764,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Yoruba,225,,20,20,0,0,0
-2867765,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Niger-Congo languages, n.i.e.",226,,105,30,35,40,0
-2867766,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Nilo-Saharan languages,227,,5,5,0,0,0
-2867767,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Dinka,228,,0,0,0,0,0
-2867768,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,0,5,0,0,0
-2867769,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Sign languages,230,,75,30,5,5,40
-2867770,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,American Sign Language,231,,20,5,0,0,10
-2867771,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Quebec Sign Language,232,,0,0,0,0,0
-2867772,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Sign languages, n.i.e",233,,55,20,5,0,30
-2867773,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Sino-Tibetan languages,234,,1570,1310,5,70,190
-2867774,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Chinese languages,235,,1555,1295,5,65,190
-2867775,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Cantonese,236,,225,180,0,20,25
-2867776,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Hakka,237,,10,10,0,0,0
-2867777,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Mandarin,238,,1105,915,0,40,145
-2867778,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Min Dong,239,,0,0,0,0,0
-2867779,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,15,10,0,5,5
-2867780,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Wu (Shanghainese),241,,45,35,0,5,5
-2867781,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Chinese, n.o.s.",242,,150,140,0,0,10
-2867782,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Chinese languages, n.i.e.",243,,5,5,0,0,0
-2867783,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tibeto-Burman languages,244,,15,15,0,0,0
-2867784,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Burmese,245,,5,0,0,0,0
-2867785,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Karenic languages,246,,15,10,0,0,0
-2867786,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tibetan,247,,0,0,0,0,0
-2867787,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,0,0,0,0,0
-2867788,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Tai-Kadai languages,249,,15,15,0,0,0
-2867789,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Lao,250,,0,5,0,0,0
-2867790,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Thai,251,,15,15,0,0,0
-2867791,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-2867792,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Turkic languages,253,,60,45,5,10,5
-2867793,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Azerbaijani,254,,5,5,0,0,0
-2867794,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Turkish,255,,45,30,0,10,0
-2867795,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Uyghur,256,,0,0,0,0,0
-2867796,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Uzbek,257,,5,5,0,5,5
-2867797,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Turkic languages, n.i.e.",258,,5,0,0,0,0
-2867798,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Uralic languages,259,,115,100,0,15,0
-2867799,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Estonian,260,,10,5,0,0,0
-2867800,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Finnish,261,,15,10,0,5,0
-2867801,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Hungarian,262,,90,75,0,10,0
-2867802,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-2867803,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"Other languages, n.i.e.",264,,10,5,0,5,0
-2867804,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,Multiple responses,265,,4440,900,110,3420,10
-2867805,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,English and French,266,,3470,260,65,3140,0
-2867806,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,English and non-official language,267,,725,625,0,90,10
-2867807,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,French and non-official language,268,,180,5,40,130,5
-2867808,2016,13,1,New Brunswick,3.9,0, ,13,Male,2,,"English, French and non-official language",269,,65,5,5,60,0
-2867809,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Total - Mother tongue,1,1.0,375840,210260,33185,131245,1145
-2867810,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Single responses,2,,370990,209250,33085,127520,1140
-2867811,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Official languages,3,,359555,200745,32865,125905,35
-2867812,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,English,4,,241135,199625,55,41425,30
-2867813,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,French,5,,118415,1115,32815,84480,5
-2867814,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Non-official languages,6,,11435,8500,220,1610,1105
-2867815,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Aboriginal languages,7,,1135,1090,0,35,0
-2867816,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Algonquian languages,8,,1110,1070,0,35,5
-2867817,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Blackfoot,9,,0,0,0,0,0
-2867818,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Cree-Montagnais languages,10,,5,5,0,0,0
-2867819,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Atikamekw,11,,0,0,0,0,0
-2867820,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Montagnais (Innu),12,,0,0,0,0,0
-2867821,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Moose Cree,13,,0,0,0,0,0
-2867822,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Naskapi,14,,0,0,0,0,0
-2867823,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Northern East Cree,15,,0,0,0,0,0
-2867824,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Plains Cree,16,,0,0,0,0,0
-2867825,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Southern East Cree,17,,0,0,0,0,0
-2867826,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Swampy Cree,18,,5,5,0,0,0
-2867827,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Woods Cree,19,,0,0,0,0,0
-2867828,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Cree, n.o.s.",20,,5,0,0,0,0
-2867829,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Eastern Algonquian languages,21,,1105,1065,0,35,0
-2867830,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Malecite,22,,155,150,0,0,0
-2867831,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Mi'kmaq,23,,950,915,0,35,5
-2867832,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Ojibway-Potawatomi languages,24,,0,0,0,0,0
-2867833,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Algonquin,25,,0,0,0,0,0
-2867834,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Ojibway,26,,0,0,0,0,0
-2867835,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Oji-Cree,27,,0,0,0,0,0
-2867836,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Ottawa (Odawa),28,,0,0,0,0,0
-2867837,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-2867838,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Athabaskan languages,30,,0,5,0,0,0
-2867839,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Northern Athabaskan languages,31,,0,0,0,0,0
-2867840,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-2867841,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Beaver,33,,0,0,0,0,0
-2867842,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Carrier,34,,0,0,0,0,0
-2867843,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Chilcotin,35,,0,0,0,0,0
-2867844,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Dene,36,,0,0,0,0,0
-2867845,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Dogrib (Tlicho),37,,0,0,0,0,0
-2867846,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Gwich'in,38,,0,0,0,0,0
-2867847,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Sarsi (Sarcee),39,,0,0,0,0,0
-2867848,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Sekani,40,,0,0,0,0,0
-2867849,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Slavey-Hare languages,41,,0,0,0,0,0
-2867850,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,North Slavey (Hare),42,,0,0,0,0,0
-2867851,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,South Slavey,43,,0,0,0,0,0
-2867852,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Slavey, n.o.s.",44,,0,0,0,0,0
-2867853,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tahltan languages,45,,0,0,0,0,0
-2867854,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Kaska (Nahani),46,,0,0,0,0,0
-2867855,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tahltan,47,,0,0,0,0,0
-2867856,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tutchone languages,48,,0,0,0,0,0
-2867857,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Northern Tutchone,49,,0,0,0,0,0
-2867858,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Southern Tutchone,50,,0,0,0,0,0
-2867859,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Athabaskan languages, n.i.e.",51,,0,5,0,0,0
-2867860,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Haida,52,,0,0,0,0,0
-2867861,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Inuit languages,53,,10,10,0,0,0
-2867862,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-2867863,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Inuktitut,55,,10,10,0,0,0
-2867864,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Inuit languages, n.i.e.",56,,5,0,0,0,0
-2867865,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Iroquoian languages,57,,0,0,0,0,0
-2867866,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Cayuga,58,,0,0,0,0,0
-2867867,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Mohawk,59,,0,0,0,0,0
-2867868,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Oneida,60,,0,0,0,0,0
-2867869,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-2867870,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Kutenai,62,,0,0,0,0,0
-2867871,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Michif,63,,0,0,0,0,0
-2867872,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Salish languages,64,,0,0,0,0,0
-2867873,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Comox,65,,0,0,0,0,0
-2867874,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Halkomelem,66,,0,0,0,0,0
-2867875,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Lillooet,67,,0,0,0,0,0
-2867876,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Okanagan,68,,0,0,0,0,0
-2867877,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-2867878,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Squamish,70,,0,0,0,0,0
-2867879,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Straits,71,,0,0,0,0,0
-2867880,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-2867881,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-2867882,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Siouan languages,74,,0,0,0,0,0
-2867883,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Dakota,75,,0,0,0,0,0
-2867884,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Stoney,76,,0,0,0,0,0
-2867885,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-2867886,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tlingit,78,,0,0,0,0,0
-2867887,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tsimshian languages,79,,0,0,0,0,0
-2867888,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Gitxsan (Gitksan),80,,0,0,0,0,0
-2867889,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Nisga'a,81,,0,0,0,0,0
-2867890,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tsimshian,82,,0,0,0,0,0
-2867891,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Wakashan languages,83,,0,0,0,0,0
-2867892,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Haisla,84,,0,0,0,0,0
-2867893,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Heiltsuk,85,,0,0,0,0,0
-2867894,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-2867895,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-2867896,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-2867897,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Aboriginal languages, n.o.s.",89,,5,0,0,0,0
-2867898,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Non-Aboriginal languages,90,,10300,7410,220,1575,1100
-2867899,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Afro-Asiatic languages,91,,1385,515,50,245,580
-2867900,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Berber languages,92,,15,0,5,15,0
-2867901,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Kabyle,93,,10,0,5,5,0
-2867902,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Berber languages, n.i.e.",94,,10,0,0,10,0
-2867903,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Cushitic languages,95,,15,20,0,0,0
-2867904,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Bilen,96,,0,0,0,0,0
-2867905,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Oromo,97,,0,0,0,0,0
-2867906,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Somali,98,,15,15,0,0,0
-2867907,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-2867908,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Semitic languages,100,,1355,500,45,230,580
-2867909,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Amharic,101,,30,20,0,5,0
-2867910,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Arabic,102,,1235,400,45,215,575
-2867911,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-2867912,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-2867913,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Harari,105,,0,0,0,0,0
-2867914,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Hebrew,106,,80,70,0,5,0
-2867915,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Maltese,107,,0,0,0,0,0
-2867916,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tigrigna,108,,5,5,0,0,0
-2867917,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
-2867918,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-2867919,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Austro-Asiatic languages,111,,325,255,0,40,25
-2867920,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Khmer (Cambodian),112,,10,5,0,0,0
-2867921,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Vietnamese,113,,320,255,0,40,25
-2867922,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-2867923,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Austronesian languages,115,,865,825,5,35,5
-2867924,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Bikol,116,,5,5,0,0,0
-2867925,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Cebuano,117,,65,65,0,0,0
-2867926,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Fijian,118,,0,0,0,0,0
-2867927,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Hiligaynon,119,,10,10,0,0,0
-2867928,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Ilocano,120,,35,35,0,5,0
-2867929,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Malagasy,121,,10,0,5,5,0
-2867930,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Malay,122,,35,30,0,0,0
-2867931,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,5,0,0,0,0
-2867932,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Pangasinan,124,,0,0,0,0,0
-2867933,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Tagalog (Pilipino, Filipino)",125,,700,675,0,25,5
-2867934,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Waray-Waray,126,,0,0,0,0,0
-2867935,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Austronesian languages, n.i.e.",127,,10,10,0,0,0
-2867936,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Creole languages,128,,65,10,15,40,0
-2867937,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Haitian Creole,129,,5,5,5,0,0
-2867938,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Creole, n.o.s.",130,,50,0,10,40,0
-2867939,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Creole languages, n.i.e.",131,,10,10,0,5,0
-2867940,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Dravidian languages,132,,130,115,0,5,5
-2867941,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Kannada,133,,10,10,0,0,0
-2867942,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Malayalam,134,,20,20,0,0,0
-2867943,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tamil,135,,50,45,0,5,5
-2867944,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Telugu,136,,45,40,0,0,0
-2867945,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
-2867946,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Hmong-Mien languages,138,,0,0,0,0,0
-2867947,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Indo-European languages,139,,4530,3435,50,855,185
-2867948,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Albanian,140,,25,20,0,0,0
-2867949,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Armenian,141,,10,5,0,0,5
-2867950,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Balto-Slavic languages,142,,880,695,10,140,35
-2867951,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Baltic languages,143,,30,25,0,10,0
-2867952,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Latvian,144,,15,10,0,5,0
-2867953,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Lithuanian,145,,15,10,0,5,0
-2867954,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Slavic languages,146,,845,675,10,135,35
-2867955,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Belarusan,147,,5,0,0,0,0
-2867956,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Bosnian,148,,25,20,0,0,5
-2867957,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Bulgarian,149,,10,10,0,0,0
-2867958,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Croatian,150,,40,35,0,10,0
-2867959,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Czech,151,,25,15,0,10,0
-2867960,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Macedonian,152,,5,5,0,0,0
-2867961,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Polish,153,,125,100,0,25,0
-2867962,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Russian,154,,435,345,5,55,25
-2867963,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Serbian,155,,40,35,0,5,5
-2867964,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Serbo-Croatian,156,,20,15,0,5,0
-2867965,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Slovak,157,,10,5,0,5,0
-2867966,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Slovene (Slovenian),158,,5,5,0,0,0
-2867967,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Ukrainian,159,,85,70,0,10,5
-2867968,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
-2867969,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Celtic languages,161,,20,15,0,0,0
-2867970,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Scottish Gaelic,162,,10,5,0,0,0
-2867971,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Welsh,163,,10,10,0,0,0
-2867972,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Celtic languages, n.i.e.",164,,0,5,0,0,0
-2867973,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Germanic languages,165,,1460,1170,5,275,10
-2867974,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Afrikaans,166,,25,25,0,0,0
-2867975,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Danish,167,,75,60,0,10,0
-2867976,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Dutch,168,,415,335,0,75,0
-2867977,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Frisian,169,,15,10,0,5,0
-2867978,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,German,170,,865,685,5,170,10
-2867979,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Icelandic,171,,5,5,0,0,0
-2867980,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Norwegian,172,,20,20,0,0,0
-2867981,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Swedish,173,,30,20,0,10,0
-2867982,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Vlaams (Flemish),174,,10,5,0,5,0
-2867983,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Yiddish,175,,5,5,0,0,0
-2867984,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Germanic languages, n.i.e.",176,,0,0,0,0,0
-2867985,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Greek,177,,50,35,0,10,0
-2867986,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Indo-Iranian languages,178,,830,685,0,80,70
-2867987,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Indo-Aryan languages,179,,525,445,0,45,35
-2867988,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Bengali,180,,85,80,0,5,0
-2867989,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Gujarati,181,,35,30,0,5,0
-2867990,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Hindi,182,,95,85,0,15,0
-2867991,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Kashmiri,183,,0,0,0,0,0
-2867992,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Konkani,184,,5,5,0,0,0
-2867993,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Marathi,185,,25,20,0,5,0
-2867994,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Nepali,186,,95,70,0,5,20
-2867995,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Oriya (Odia),187,,0,0,0,0,0
-2867996,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Punjabi (Panjabi),188,,50,45,0,5,5
-2867997,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Sindhi,189,,10,5,0,0,0
-2867998,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Sinhala (Sinhalese),190,,15,15,0,0,0
-2867999,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Urdu,191,,100,90,0,10,0
-2868000,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Iranian languages,192,,305,235,5,35,35
-2868001,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Kurdish,193,,25,5,0,0,20
-2868002,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Pashto,194,,10,10,0,0,0
-2868003,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Persian (Farsi),195,,270,220,0,30,15
-2868004,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Indo-Iranian languages, n.i.e.",196,,10,5,0,0,0
-2868005,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Italic (Romance) languages,197,,1250,805,35,345,65
-2868006,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Catalan,198,,0,0,0,0,0
-2868007,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Italian,199,,175,90,5,75,5
-2868008,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Portuguese,200,,135,90,0,40,5
-2868009,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Romanian,201,,240,140,15,65,15
-2868010,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Spanish,202,,705,485,20,160,35
-2868011,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-2868012,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Japanese,204,,85,65,0,20,5
-2868013,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Kartvelian languages,205,,0,0,0,0,0
-2868014,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Georgian,206,,0,0,0,0,0
-2868015,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Korean,207,,750,620,0,85,45
-2868016,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Mongolic languages,208,,0,0,0,0,0
-2868017,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Mongolian,209,,5,0,0,0,0
-2868018,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Niger-Congo languages,210,,315,115,75,115,10
-2868019,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Akan (Twi),211,,10,10,0,0,0
-2868020,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Bamanankan,212,,25,0,15,15,0
-2868021,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Edo,213,,0,0,0,0,0
-2868022,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Ewe,214,,5,5,0,0,0
-2868023,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,15,0,5,5,0
-2868024,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Ga,216,,0,0,0,0,0
-2868025,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Ganda,217,,5,0,0,0,0
-2868026,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Igbo,218,,15,10,0,0,0
-2868027,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Lingala,219,,15,5,10,5,0
-2868028,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Rundi (Kirundi),220,,20,5,0,10,0
-2868029,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Kinyarwanda (Rwanda),221,,20,5,0,10,0
-2868030,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Shona,222,,10,10,0,0,0
-2868031,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Swahili,223,,70,15,20,30,5
-2868032,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Wolof,224,,10,0,5,10,0
-2868033,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Yoruba,225,,15,10,0,0,0
-2868034,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Niger-Congo languages, n.i.e.",226,,85,35,30,20,5
-2868035,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Nilo-Saharan languages,227,,0,0,0,0,0
-2868036,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Dinka,228,,0,0,0,0,0
-2868037,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
-2868038,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Sign languages,230,,70,40,0,10,25
-2868039,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,American Sign Language,231,,25,20,0,0,5
-2868040,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Quebec Sign Language,232,,0,0,0,0,0
-2868041,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Sign languages, n.i.e",233,,40,20,0,5,15
-2868042,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Sino-Tibetan languages,234,,1540,1225,10,95,215
-2868043,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Chinese languages,235,,1530,1210,10,90,215
-2868044,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Cantonese,236,,210,150,0,30,30
-2868045,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Hakka,237,,5,5,0,0,0
-2868046,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Mandarin,238,,1150,920,5,55,170
-2868047,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Min Dong,239,,0,0,0,0,0
-2868048,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,20,10,5,0,5
-2868049,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Wu (Shanghainese),241,,55,45,0,0,10
-2868050,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Chinese, n.o.s.",242,,85,70,0,0,10
-2868051,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Chinese languages, n.i.e.",243,,10,0,0,5,0
-2868052,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tibeto-Burman languages,244,,15,10,0,0,0
-2868053,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Burmese,245,,5,0,0,0,0
-2868054,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Karenic languages,246,,10,10,0,0,0
-2868055,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tibetan,247,,0,0,0,0,0
-2868056,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,0,5,0,0,0
-2868057,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Tai-Kadai languages,249,,50,40,0,5,0
-2868058,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Lao,250,,0,0,0,0,0
-2868059,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Thai,251,,50,40,0,5,0
-2868060,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-2868061,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Turkic languages,253,,45,30,0,5,5
-2868062,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Azerbaijani,254,,5,0,0,5,5
-2868063,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Turkish,255,,30,25,0,5,0
-2868064,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Uyghur,256,,0,0,0,0,0
-2868065,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Uzbek,257,,5,0,0,0,0
-2868066,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Turkic languages, n.i.e.",258,,5,5,5,0,0
-2868067,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Uralic languages,259,,135,110,0,20,0
-2868068,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Estonian,260,,10,10,0,5,0
-2868069,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Finnish,261,,30,25,0,5,0
-2868070,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Hungarian,262,,95,75,0,15,0
-2868071,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-2868072,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"Other languages, n.i.e.",264,,10,5,0,5,0
-2868073,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,Multiple responses,265,,4855,1015,100,3725,10
-2868074,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,English and French,266,,3815,300,65,3440,0
-2868075,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,English and non-official language,267,,810,690,0,110,10
-2868076,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,French and non-official language,268,,155,10,30,105,5
-2868077,2016,13,1,New Brunswick,3.9,0, ,13,Female,3,,"English, French and non-official language",269,,80,10,0,65,0
+GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+New Brunswick,13,Total - Sex,Total - Mother tongue,736285,420815,63145,249950,2365
+New Brunswick,13,Total - Sex,Single responses,726990,418910,62930,242805,2345
+New Brunswick,13,Total - Sex,Official languages,703840,401710,62495,239540,90
+New Brunswick,13,Total - Sex,English,472730,399675,120,72855,80
+New Brunswick,13,Total - Sex,French,231110,2040,62375,166685,10
+New Brunswick,13,Total - Sex,Non-official languages,23150,17195,440,3270,2250
+New Brunswick,13,Total - Sex,Aboriginal languages,2165,2090,0,70,5
+New Brunswick,13,Total - Sex,Algonquian languages,2130,2055,0,65,5
+New Brunswick,13,Total - Sex,Blackfoot,0,0,0,0,0
+New Brunswick,13,Total - Sex,Cree-Montagnais languages,10,5,0,0,0
+New Brunswick,13,Total - Sex,Atikamekw,0,0,0,0,0
+New Brunswick,13,Total - Sex,Montagnais (Innu),0,0,0,0,0
+New Brunswick,13,Total - Sex,Moose Cree,0,0,0,0,0
+New Brunswick,13,Total - Sex,Naskapi,0,0,0,0,0
+New Brunswick,13,Total - Sex,Northern East Cree,0,0,0,0,0
+New Brunswick,13,Total - Sex,Plains Cree,0,0,0,0,0
+New Brunswick,13,Total - Sex,Southern East Cree,0,0,0,0,0
+New Brunswick,13,Total - Sex,Swampy Cree,5,5,0,0,0
+New Brunswick,13,Total - Sex,Woods Cree,0,0,0,0,0
+New Brunswick,13,Total - Sex,"Cree, n.o.s.",5,5,0,0,0
+New Brunswick,13,Total - Sex,Eastern Algonquian languages,2115,2040,0,65,5
+New Brunswick,13,Total - Sex,Malecite,280,275,0,5,0
+New Brunswick,13,Total - Sex,Mi'kmaq,1835,1765,0,65,5
+New Brunswick,13,Total - Sex,Ojibway-Potawatomi languages,5,10,0,0,0
+New Brunswick,13,Total - Sex,Algonquin,0,0,0,0,0
+New Brunswick,13,Total - Sex,Ojibway,5,5,0,0,0
+New Brunswick,13,Total - Sex,Oji-Cree,0,0,0,0,0
+New Brunswick,13,Total - Sex,Ottawa (Odawa),0,0,0,0,0
+New Brunswick,13,Total - Sex,"Algonquian languages, n.i.e.",0,5,0,0,0
+New Brunswick,13,Total - Sex,Athabaskan languages,5,5,0,0,0
+New Brunswick,13,Total - Sex,Northern Athabaskan languages,0,0,0,5,0
+New Brunswick,13,Total - Sex,Babine (Wetsuwet'en),0,0,0,0,0
+New Brunswick,13,Total - Sex,Beaver,0,0,0,0,0
+New Brunswick,13,Total - Sex,Carrier,0,0,0,0,0
+New Brunswick,13,Total - Sex,Chilcotin,0,0,0,0,0
+New Brunswick,13,Total - Sex,Dene,0,0,0,0,0
+New Brunswick,13,Total - Sex,Dogrib (Tlicho),0,0,0,0,0
+New Brunswick,13,Total - Sex,Gwich'in,0,0,0,0,0
+New Brunswick,13,Total - Sex,Sarsi (Sarcee),0,0,0,0,0
+New Brunswick,13,Total - Sex,Sekani,0,0,0,0,0
+New Brunswick,13,Total - Sex,Slavey-Hare languages,5,0,0,0,0
+New Brunswick,13,Total - Sex,North Slavey (Hare),0,0,0,0,0
+New Brunswick,13,Total - Sex,South Slavey,0,0,0,0,0
+New Brunswick,13,Total - Sex,"Slavey, n.o.s.",5,5,0,0,0
+New Brunswick,13,Total - Sex,Tahltan languages,0,0,0,0,0
+New Brunswick,13,Total - Sex,Kaska (Nahani),0,0,0,0,0
+New Brunswick,13,Total - Sex,Tahltan,0,0,0,0,0
+New Brunswick,13,Total - Sex,Tutchone languages,0,0,0,0,0
+New Brunswick,13,Total - Sex,Northern Tutchone,0,0,0,0,0
+New Brunswick,13,Total - Sex,Southern Tutchone,0,0,0,0,0
+New Brunswick,13,Total - Sex,"Athabaskan languages, n.i.e.",5,0,0,0,0
+New Brunswick,13,Total - Sex,Haida,0,0,0,0,0
+New Brunswick,13,Total - Sex,Inuit languages,20,20,0,0,0
+New Brunswick,13,Total - Sex,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+New Brunswick,13,Total - Sex,Inuktitut,15,10,0,0,0
+New Brunswick,13,Total - Sex,"Inuit languages, n.i.e.",5,5,0,0,0
+New Brunswick,13,Total - Sex,Iroquoian languages,0,0,0,0,0
+New Brunswick,13,Total - Sex,Cayuga,0,0,0,0,0
+New Brunswick,13,Total - Sex,Mohawk,0,0,0,0,0
+New Brunswick,13,Total - Sex,Oneida,0,0,0,0,0
+New Brunswick,13,Total - Sex,"Iroquoian languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Total - Sex,Kutenai,0,0,0,0,0
+New Brunswick,13,Total - Sex,Michif,0,0,0,5,0
+New Brunswick,13,Total - Sex,Salish languages,0,0,0,0,0
+New Brunswick,13,Total - Sex,Comox,0,0,0,0,0
+New Brunswick,13,Total - Sex,Halkomelem,0,0,0,0,0
+New Brunswick,13,Total - Sex,Lillooet,0,0,0,0,0
+New Brunswick,13,Total - Sex,Okanagan,0,0,0,0,0
+New Brunswick,13,Total - Sex,Shuswap (Secwepemctsin),0,0,0,0,0
+New Brunswick,13,Total - Sex,Squamish,0,0,0,0,0
+New Brunswick,13,Total - Sex,Straits,0,0,0,0,0
+New Brunswick,13,Total - Sex,Thompson (Ntlakapamux),0,0,0,0,0
+New Brunswick,13,Total - Sex,"Salish languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Total - Sex,Siouan languages,0,0,0,0,0
+New Brunswick,13,Total - Sex,Dakota,0,0,0,0,0
+New Brunswick,13,Total - Sex,Stoney,0,0,0,0,0
+New Brunswick,13,Total - Sex,"Siouan languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Total - Sex,Tlingit,0,0,0,0,0
+New Brunswick,13,Total - Sex,Tsimshian languages,0,0,0,0,0
+New Brunswick,13,Total - Sex,Gitxsan (Gitksan),0,0,0,0,0
+New Brunswick,13,Total - Sex,Nisga'a,0,0,0,0,0
+New Brunswick,13,Total - Sex,Tsimshian,0,0,0,0,0
+New Brunswick,13,Total - Sex,Wakashan languages,0,0,0,0,0
+New Brunswick,13,Total - Sex,Haisla,0,0,0,0,0
+New Brunswick,13,Total - Sex,Heiltsuk,0,0,0,0,0
+New Brunswick,13,Total - Sex,Kwakiutl (Kwak'wala),0,0,0,0,0
+New Brunswick,13,Total - Sex,Nuu-chah-nulth (Nootka),0,0,0,0,0
+New Brunswick,13,Total - Sex,"Wakashan languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Total - Sex,"Aboriginal languages, n.o.s.",5,10,0,0,0
+New Brunswick,13,Total - Sex,Non-Aboriginal languages,20990,15105,435,3195,2250
+New Brunswick,13,Total - Sex,Afro-Asiatic languages,3190,1255,110,630,1190
+New Brunswick,13,Total - Sex,Berber languages,40,0,10,35,0
+New Brunswick,13,Total - Sex,Kabyle,20,0,5,15,0
+New Brunswick,13,Total - Sex,"Berber languages, n.i.e.",25,0,5,25,0
+New Brunswick,13,Total - Sex,Cushitic languages,30,30,0,0,0
+New Brunswick,13,Total - Sex,Bilen,0,0,0,0,0
+New Brunswick,13,Total - Sex,Oromo,5,5,0,0,0
+New Brunswick,13,Total - Sex,Somali,25,25,0,0,0
+New Brunswick,13,Total - Sex,"Cushitic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Total - Sex,Semitic languages,3110,1230,100,590,1185
+New Brunswick,13,Total - Sex,Amharic,65,50,0,10,0
+New Brunswick,13,Total - Sex,Arabic,2855,1005,100,560,1180
+New Brunswick,13,Total - Sex,Assyrian Neo-Aramaic,0,0,0,0,0
+New Brunswick,13,Total - Sex,Chaldean Neo-Aramaic,0,0,0,0,0
+New Brunswick,13,Total - Sex,Harari,0,0,0,0,0
+New Brunswick,13,Total - Sex,Hebrew,170,150,0,15,5
+New Brunswick,13,Total - Sex,Maltese,5,0,0,0,0
+New Brunswick,13,Total - Sex,Tigrigna,20,15,0,0,5
+New Brunswick,13,Total - Sex,"Semitic languages, n.i.e.",0,0,0,0,5
+New Brunswick,13,Total - Sex,"Afro-Asiatic languages, n.i.e.",10,0,5,5,0
+New Brunswick,13,Total - Sex,Austro-Asiatic languages,630,505,5,75,45
+New Brunswick,13,Total - Sex,Khmer (Cambodian),10,10,0,5,0
+New Brunswick,13,Total - Sex,Vietnamese,625,500,5,70,50
+New Brunswick,13,Total - Sex,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+New Brunswick,13,Total - Sex,Austronesian languages,1375,1305,10,50,15
+New Brunswick,13,Total - Sex,Bikol,5,5,0,0,0
+New Brunswick,13,Total - Sex,Cebuano,105,100,0,0,5
+New Brunswick,13,Total - Sex,Fijian,0,0,0,0,0
+New Brunswick,13,Total - Sex,Hiligaynon,15,10,0,0,0
+New Brunswick,13,Total - Sex,Ilocano,45,45,0,0,0
+New Brunswick,13,Total - Sex,Malagasy,15,0,5,10,0
+New Brunswick,13,Total - Sex,Malay,50,50,0,0,0
+New Brunswick,13,Total - Sex,"Pampangan (Kapampangan, Pampango)",5,5,0,0,0
+New Brunswick,13,Total - Sex,Pangasinan,0,0,0,0,0
+New Brunswick,13,Total - Sex,"Tagalog (Pilipino, Filipino)",1120,1075,5,35,10
+New Brunswick,13,Total - Sex,Waray-Waray,0,0,0,0,0
+New Brunswick,13,Total - Sex,"Austronesian languages, n.i.e.",15,10,0,0,0
+New Brunswick,13,Total - Sex,Creole languages,135,40,20,70,0
+New Brunswick,13,Total - Sex,Haitian Creole,10,0,5,5,0
+New Brunswick,13,Total - Sex,"Creole, n.o.s.",85,0,10,65,0
+New Brunswick,13,Total - Sex,"Creole languages, n.i.e.",40,35,0,5,0
+New Brunswick,13,Total - Sex,Dravidian languages,280,260,0,15,5
+New Brunswick,13,Total - Sex,Kannada,25,20,0,0,0
+New Brunswick,13,Total - Sex,Malayalam,40,35,0,0,0
+New Brunswick,13,Total - Sex,Tamil,105,100,0,10,0
+New Brunswick,13,Total - Sex,Telugu,110,105,0,0,0
+New Brunswick,13,Total - Sex,"Dravidian languages, n.i.e.",0,0,0,5,0
+New Brunswick,13,Total - Sex,Hmong-Mien languages,0,0,0,0,0
+New Brunswick,13,Total - Sex,Indo-European languages,9325,7170,90,1640,420
+New Brunswick,13,Total - Sex,Albanian,50,45,0,0,0
+New Brunswick,13,Total - Sex,Armenian,25,10,0,15,5
+New Brunswick,13,Total - Sex,Balto-Slavic languages,1740,1400,15,255,70
+New Brunswick,13,Total - Sex,Baltic languages,55,50,0,10,0
+New Brunswick,13,Total - Sex,Latvian,25,20,0,5,0
+New Brunswick,13,Total - Sex,Lithuanian,30,25,0,5,0
+New Brunswick,13,Total - Sex,Slavic languages,1685,1355,15,245,70
+New Brunswick,13,Total - Sex,Belarusan,5,5,0,0,0
+New Brunswick,13,Total - Sex,Bosnian,50,45,0,0,5
+New Brunswick,13,Total - Sex,Bulgarian,20,15,0,5,0
+New Brunswick,13,Total - Sex,Croatian,75,65,0,15,0
+New Brunswick,13,Total - Sex,Czech,55,35,0,15,0
+New Brunswick,13,Total - Sex,Macedonian,15,15,0,0,0
+New Brunswick,13,Total - Sex,Polish,230,180,0,50,0
+New Brunswick,13,Total - Sex,Russian,880,715,10,105,50
+New Brunswick,13,Total - Sex,Serbian,105,85,5,15,5
+New Brunswick,13,Total - Sex,Serbo-Croatian,35,30,0,10,0
+New Brunswick,13,Total - Sex,Slovak,30,15,0,5,0
+New Brunswick,13,Total - Sex,Slovene (Slovenian),15,15,0,0,0
+New Brunswick,13,Total - Sex,Ukrainian,170,135,0,25,15
+New Brunswick,13,Total - Sex,"Slavic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Total - Sex,Celtic languages,30,20,0,10,5
+New Brunswick,13,Total - Sex,Scottish Gaelic,15,10,0,5,5
+New Brunswick,13,Total - Sex,Welsh,10,10,0,0,0
+New Brunswick,13,Total - Sex,"Celtic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Total - Sex,Germanic languages,2875,2335,5,510,25
+New Brunswick,13,Total - Sex,Afrikaans,50,45,0,5,0
+New Brunswick,13,Total - Sex,Danish,125,110,0,15,0
+New Brunswick,13,Total - Sex,Dutch,885,730,5,155,0
+New Brunswick,13,Total - Sex,Frisian,35,35,0,5,0
+New Brunswick,13,Total - Sex,German,1650,1330,5,290,25
+New Brunswick,13,Total - Sex,Icelandic,5,5,0,0,0
+New Brunswick,13,Total - Sex,Norwegian,40,35,0,0,0
+New Brunswick,13,Total - Sex,Swedish,45,30,0,20,0
+New Brunswick,13,Total - Sex,Vlaams (Flemish),20,10,0,10,0
+New Brunswick,13,Total - Sex,Yiddish,10,10,0,0,0
+New Brunswick,13,Total - Sex,"Germanic languages, n.i.e.",5,0,0,5,0
+New Brunswick,13,Total - Sex,Greek,145,120,0,25,5
+New Brunswick,13,Total - Sex,Indo-Iranian languages,1850,1570,5,155,125
+New Brunswick,13,Total - Sex,Indo-Aryan languages,1175,1030,0,90,60
+New Brunswick,13,Total - Sex,Bengali,210,190,0,15,5
+New Brunswick,13,Total - Sex,Gujarati,75,65,0,5,0
+New Brunswick,13,Total - Sex,Hindi,230,205,0,20,5
+New Brunswick,13,Total - Sex,Kashmiri,0,0,0,0,0
+New Brunswick,13,Total - Sex,Konkani,10,10,0,0,0
+New Brunswick,13,Total - Sex,Marathi,50,45,0,5,0
+New Brunswick,13,Total - Sex,Nepali,185,145,0,10,40
+New Brunswick,13,Total - Sex,Oriya (Odia),5,5,0,0,0
+New Brunswick,13,Total - Sex,Punjabi (Panjabi),125,105,0,10,10
+New Brunswick,13,Total - Sex,Sindhi,25,20,0,5,5
+New Brunswick,13,Total - Sex,Sinhala (Sinhalese),30,30,0,0,0
+New Brunswick,13,Total - Sex,Urdu,245,215,0,20,5
+New Brunswick,13,Total - Sex,Iranian languages,655,525,5,65,65
+New Brunswick,13,Total - Sex,Kurdish,50,15,0,0,40
+New Brunswick,13,Total - Sex,Pashto,25,20,0,5,0
+New Brunswick,13,Total - Sex,Persian (Farsi),580,495,0,65,25
+New Brunswick,13,Total - Sex,"Indo-Iranian languages, n.i.e.",15,15,0,0,0
+New Brunswick,13,Total - Sex,Italic (Romance) languages,2610,1665,65,690,190
+New Brunswick,13,Total - Sex,Catalan,0,0,0,0,0
+New Brunswick,13,Total - Sex,Italian,400,215,5,170,10
+New Brunswick,13,Total - Sex,Portuguese,265,185,5,65,5
+New Brunswick,13,Total - Sex,Romanian,485,300,25,130,30
+New Brunswick,13,Total - Sex,Spanish,1460,960,30,325,140
+New Brunswick,13,Total - Sex,"Italic (Romance) languages, n.i.e.",5,0,0,0,0
+New Brunswick,13,Total - Sex,Japanese,110,85,0,20,5
+New Brunswick,13,Total - Sex,Kartvelian languages,0,0,0,0,0
+New Brunswick,13,Total - Sex,Georgian,0,0,0,0,0
+New Brunswick,13,Total - Sex,Korean,1545,1290,0,175,75
+New Brunswick,13,Total - Sex,Mongolic languages,0,5,0,0,0
+New Brunswick,13,Total - Sex,Mongolian,5,5,0,0,0
+New Brunswick,13,Total - Sex,Niger-Congo languages,695,230,170,275,15
+New Brunswick,13,Total - Sex,Akan (Twi),25,20,0,5,0
+New Brunswick,13,Total - Sex,Bamanankan,60,5,30,30,0
+New Brunswick,13,Total - Sex,Edo,0,0,0,0,0
+New Brunswick,13,Total - Sex,Ewe,5,5,0,0,0
+New Brunswick,13,Total - Sex,"Fulah (Pular, Pulaar, Fulfulde)",45,0,15,30,0
+New Brunswick,13,Total - Sex,Ga,10,5,0,0,0
+New Brunswick,13,Total - Sex,Ganda,5,5,0,0,0
+New Brunswick,13,Total - Sex,Igbo,30,30,0,5,0
+New Brunswick,13,Total - Sex,Lingala,25,0,15,15,0
+New Brunswick,13,Total - Sex,Rundi (Kirundi),50,10,0,30,5
+New Brunswick,13,Total - Sex,Kinyarwanda (Rwanda),40,0,5,30,0
+New Brunswick,13,Total - Sex,Shona,20,20,0,0,0
+New Brunswick,13,Total - Sex,Swahili,130,30,35,60,5
+New Brunswick,13,Total - Sex,Wolof,25,0,5,20,0
+New Brunswick,13,Total - Sex,Yoruba,30,30,0,5,0
+New Brunswick,13,Total - Sex,"Niger-Congo languages, n.i.e.",195,65,60,55,5
+New Brunswick,13,Total - Sex,Nilo-Saharan languages,0,5,0,0,0
+New Brunswick,13,Total - Sex,Dinka,5,0,0,0,0
+New Brunswick,13,Total - Sex,"Nilo-Saharan languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Total - Sex,Sign languages,140,65,5,10,60
+New Brunswick,13,Total - Sex,American Sign Language,40,30,0,5,15
+New Brunswick,13,Total - Sex,Quebec Sign Language,0,0,0,5,0
+New Brunswick,13,Total - Sex,"Sign languages, n.i.e",95,35,5,10,45
+New Brunswick,13,Total - Sex,Sino-Tibetan languages,3115,2535,15,165,400
+New Brunswick,13,Total - Sex,Chinese languages,3085,2505,15,160,405
+New Brunswick,13,Total - Sex,Cantonese,440,330,5,50,55
+New Brunswick,13,Total - Sex,Hakka,15,15,0,0,0
+New Brunswick,13,Total - Sex,Mandarin,2255,1835,5,95,315
+New Brunswick,13,Total - Sex,Min Dong,0,0,0,0,0
+New Brunswick,13,Total - Sex,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",35,20,0,5,5
+New Brunswick,13,Total - Sex,Wu (Shanghainese),100,80,0,10,10
+New Brunswick,13,Total - Sex,"Chinese, n.o.s.",235,215,5,5,15
+New Brunswick,13,Total - Sex,"Chinese languages, n.i.e.",10,5,0,5,0
+New Brunswick,13,Total - Sex,Tibeto-Burman languages,30,25,0,0,0
+New Brunswick,13,Total - Sex,Burmese,5,5,0,0,0
+New Brunswick,13,Total - Sex,Karenic languages,25,25,0,0,0
+New Brunswick,13,Total - Sex,Tibetan,0,0,0,0,0
+New Brunswick,13,Total - Sex,"Tibeto-Burman languages, n.i.e.",0,5,0,0,0
+New Brunswick,13,Total - Sex,Tai-Kadai languages,60,50,0,5,0
+New Brunswick,13,Total - Sex,Lao,0,0,0,0,0
+New Brunswick,13,Total - Sex,Thai,55,55,0,5,0
+New Brunswick,13,Total - Sex,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+New Brunswick,13,Total - Sex,Turkic languages,100,75,5,15,10
+New Brunswick,13,Total - Sex,Azerbaijani,5,5,0,0,0
+New Brunswick,13,Total - Sex,Turkish,75,60,0,15,10
+New Brunswick,13,Total - Sex,Uyghur,0,0,0,0,0
+New Brunswick,13,Total - Sex,Uzbek,10,5,0,0,0
+New Brunswick,13,Total - Sex,"Turkic languages, n.i.e.",10,5,0,0,0
+New Brunswick,13,Total - Sex,Uralic languages,250,210,0,40,0
+New Brunswick,13,Total - Sex,Estonian,15,15,0,5,0
+New Brunswick,13,Total - Sex,Finnish,45,40,0,10,0
+New Brunswick,13,Total - Sex,Hungarian,180,155,0,30,0
+New Brunswick,13,Total - Sex,"Uralic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Total - Sex,"Other languages, n.i.e.",25,15,0,5,0
+New Brunswick,13,Total - Sex,Multiple responses,9290,1915,215,7145,25
+New Brunswick,13,Total - Sex,English and French,7280,570,130,6580,0
+New Brunswick,13,Total - Sex,English and non-official language,1535,1315,5,200,20
+New Brunswick,13,Total - Sex,French and non-official language,335,15,75,240,5
+New Brunswick,13,Total - Sex,"English, French and non-official language",145,15,0,125,0
+New Brunswick,13,Male,Total - Mother tongue,360440,210555,29955,118705,1220
+New Brunswick,13,Male,Single responses,356000,209660,29845,115285,1205
+New Brunswick,13,Male,Official languages,344280,200970,29625,113635,55
+New Brunswick,13,Male,English,231590,200050,65,31430,50
+New Brunswick,13,Male,French,112690,920,29555,82200,5
+New Brunswick,13,Male,Non-official languages,11720,8690,220,1655,1155
+New Brunswick,13,Male,Aboriginal languages,1035,995,0,35,5
+New Brunswick,13,Male,Algonquian languages,1015,985,0,35,0
+New Brunswick,13,Male,Blackfoot,0,0,0,0,0
+New Brunswick,13,Male,Cree-Montagnais languages,5,0,0,0,0
+New Brunswick,13,Male,Atikamekw,0,0,0,0,0
+New Brunswick,13,Male,Montagnais (Innu),0,0,0,0,0
+New Brunswick,13,Male,Moose Cree,0,0,0,0,0
+New Brunswick,13,Male,Naskapi,0,0,0,0,0
+New Brunswick,13,Male,Northern East Cree,0,0,0,0,0
+New Brunswick,13,Male,Plains Cree,0,0,0,0,0
+New Brunswick,13,Male,Southern East Cree,0,0,0,0,0
+New Brunswick,13,Male,Swampy Cree,0,0,0,0,0
+New Brunswick,13,Male,Woods Cree,5,0,0,0,0
+New Brunswick,13,Male,"Cree, n.o.s.",5,0,0,0,0
+New Brunswick,13,Male,Eastern Algonquian languages,1010,975,0,35,5
+New Brunswick,13,Male,Malecite,125,120,0,0,0
+New Brunswick,13,Male,Mi'kmaq,885,850,0,30,5
+New Brunswick,13,Male,Ojibway-Potawatomi languages,5,0,0,0,0
+New Brunswick,13,Male,Algonquin,0,0,0,0,0
+New Brunswick,13,Male,Ojibway,5,5,0,0,0
+New Brunswick,13,Male,Oji-Cree,0,0,0,0,0
+New Brunswick,13,Male,Ottawa (Odawa),0,0,0,0,0
+New Brunswick,13,Male,"Algonquian languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Athabaskan languages,0,0,0,0,0
+New Brunswick,13,Male,Northern Athabaskan languages,0,0,0,0,0
+New Brunswick,13,Male,Babine (Wetsuwet'en),0,0,0,0,0
+New Brunswick,13,Male,Beaver,0,0,0,0,0
+New Brunswick,13,Male,Carrier,0,0,0,0,0
+New Brunswick,13,Male,Chilcotin,0,0,0,0,0
+New Brunswick,13,Male,Dene,0,0,0,0,0
+New Brunswick,13,Male,Dogrib (Tlicho),0,0,0,0,0
+New Brunswick,13,Male,Gwich'in,0,0,0,0,0
+New Brunswick,13,Male,Sarsi (Sarcee),0,0,0,0,0
+New Brunswick,13,Male,Sekani,0,0,0,0,0
+New Brunswick,13,Male,Slavey-Hare languages,0,0,0,0,0
+New Brunswick,13,Male,North Slavey (Hare),0,0,0,0,0
+New Brunswick,13,Male,South Slavey,0,0,0,0,0
+New Brunswick,13,Male,"Slavey, n.o.s.",0,0,0,0,0
+New Brunswick,13,Male,Tahltan languages,0,0,0,0,0
+New Brunswick,13,Male,Kaska (Nahani),0,0,0,0,0
+New Brunswick,13,Male,Tahltan,0,0,0,0,0
+New Brunswick,13,Male,Tutchone languages,0,0,0,0,0
+New Brunswick,13,Male,Northern Tutchone,0,0,0,0,0
+New Brunswick,13,Male,Southern Tutchone,0,0,0,0,0
+New Brunswick,13,Male,"Athabaskan languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Haida,0,0,0,0,0
+New Brunswick,13,Male,Inuit languages,10,5,0,0,0
+New Brunswick,13,Male,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+New Brunswick,13,Male,Inuktitut,5,5,0,0,0
+New Brunswick,13,Male,"Inuit languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Iroquoian languages,0,0,0,0,0
+New Brunswick,13,Male,Cayuga,0,0,0,0,0
+New Brunswick,13,Male,Mohawk,0,0,0,0,0
+New Brunswick,13,Male,Oneida,0,0,0,0,0
+New Brunswick,13,Male,"Iroquoian languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Kutenai,0,0,0,0,0
+New Brunswick,13,Male,Michif,0,0,0,0,0
+New Brunswick,13,Male,Salish languages,0,0,0,0,0
+New Brunswick,13,Male,Comox,0,0,0,0,0
+New Brunswick,13,Male,Halkomelem,0,0,0,0,0
+New Brunswick,13,Male,Lillooet,0,0,0,0,0
+New Brunswick,13,Male,Okanagan,0,0,0,0,0
+New Brunswick,13,Male,Shuswap (Secwepemctsin),0,0,0,0,0
+New Brunswick,13,Male,Squamish,0,0,0,0,0
+New Brunswick,13,Male,Straits,0,0,0,0,0
+New Brunswick,13,Male,Thompson (Ntlakapamux),0,0,0,0,0
+New Brunswick,13,Male,"Salish languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Siouan languages,0,0,0,0,0
+New Brunswick,13,Male,Dakota,0,0,0,0,0
+New Brunswick,13,Male,Stoney,0,0,0,0,0
+New Brunswick,13,Male,"Siouan languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Tlingit,0,0,0,0,0
+New Brunswick,13,Male,Tsimshian languages,0,0,0,0,0
+New Brunswick,13,Male,Gitxsan (Gitksan),0,0,0,0,0
+New Brunswick,13,Male,Nisga'a,0,0,0,0,0
+New Brunswick,13,Male,Tsimshian,0,0,0,0,0
+New Brunswick,13,Male,Wakashan languages,0,0,0,0,0
+New Brunswick,13,Male,Haisla,0,0,0,0,0
+New Brunswick,13,Male,Heiltsuk,0,0,0,0,0
+New Brunswick,13,Male,Kwakiutl (Kwak'wala),0,0,0,0,0
+New Brunswick,13,Male,Nuu-chah-nulth (Nootka),0,0,0,0,0
+New Brunswick,13,Male,"Wakashan languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,"Aboriginal languages, n.o.s.",0,0,0,0,0
+New Brunswick,13,Male,Non-Aboriginal languages,10685,7695,220,1625,1150
+New Brunswick,13,Male,Afro-Asiatic languages,1805,745,60,385,610
+New Brunswick,13,Male,Berber languages,30,0,5,25,0
+New Brunswick,13,Male,Kabyle,10,0,0,10,0
+New Brunswick,13,Male,"Berber languages, n.i.e.",15,0,5,15,0
+New Brunswick,13,Male,Cushitic languages,15,15,0,0,0
+New Brunswick,13,Male,Bilen,0,0,0,0,0
+New Brunswick,13,Male,Oromo,0,0,0,0,0
+New Brunswick,13,Male,Somali,10,10,0,0,0
+New Brunswick,13,Male,"Cushitic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Semitic languages,1760,730,60,360,610
+New Brunswick,13,Male,Amharic,35,25,0,5,0
+New Brunswick,13,Male,Arabic,1615,610,55,345,610
+New Brunswick,13,Male,Assyrian Neo-Aramaic,0,0,0,0,0
+New Brunswick,13,Male,Chaldean Neo-Aramaic,0,0,0,0,0
+New Brunswick,13,Male,Harari,0,0,0,0,0
+New Brunswick,13,Male,Hebrew,90,80,0,10,0
+New Brunswick,13,Male,Maltese,5,0,0,0,0
+New Brunswick,13,Male,Tigrigna,10,10,0,0,0
+New Brunswick,13,Male,"Semitic languages, n.i.e.",5,0,0,0,0
+New Brunswick,13,Male,"Afro-Asiatic languages, n.i.e.",5,5,0,0,0
+New Brunswick,13,Male,Austro-Asiatic languages,305,250,5,30,20
+New Brunswick,13,Male,Khmer (Cambodian),5,5,0,0,0
+New Brunswick,13,Male,Vietnamese,300,245,0,30,20
+New Brunswick,13,Male,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+New Brunswick,13,Male,Austronesian languages,505,480,5,15,10
+New Brunswick,13,Male,Bikol,0,0,0,0,0
+New Brunswick,13,Male,Cebuano,35,35,0,0,0
+New Brunswick,13,Male,Fijian,0,0,0,0,0
+New Brunswick,13,Male,Hiligaynon,5,5,0,0,0
+New Brunswick,13,Male,Ilocano,15,15,0,0,0
+New Brunswick,13,Male,Malagasy,5,0,0,5,0
+New Brunswick,13,Male,Malay,20,15,0,0,0
+New Brunswick,13,Male,"Pampangan (Kapampangan, Pampango)",0,0,0,0,0
+New Brunswick,13,Male,Pangasinan,0,0,0,0,0
+New Brunswick,13,Male,"Tagalog (Pilipino, Filipino)",420,400,0,10,5
+New Brunswick,13,Male,Waray-Waray,0,0,0,0,0
+New Brunswick,13,Male,"Austronesian languages, n.i.e.",5,5,0,0,0
+New Brunswick,13,Male,Creole languages,70,30,5,30,0
+New Brunswick,13,Male,Haitian Creole,5,5,5,5,0
+New Brunswick,13,Male,"Creole, n.o.s.",30,0,0,25,0
+New Brunswick,13,Male,"Creole languages, n.i.e.",30,30,0,0,0
+New Brunswick,13,Male,Dravidian languages,155,145,0,10,0
+New Brunswick,13,Male,Kannada,10,10,0,0,0
+New Brunswick,13,Male,Malayalam,20,15,0,5,0
+New Brunswick,13,Male,Tamil,60,55,0,0,0
+New Brunswick,13,Male,Telugu,65,65,0,0,0
+New Brunswick,13,Male,"Dravidian languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Hmong-Mien languages,0,5,0,0,0
+New Brunswick,13,Male,Indo-European languages,4795,3730,40,785,235
+New Brunswick,13,Male,Albanian,25,20,0,0,5
+New Brunswick,13,Male,Armenian,15,5,0,10,0
+New Brunswick,13,Male,Balto-Slavic languages,860,705,10,110,35
+New Brunswick,13,Male,Baltic languages,25,25,0,5,0
+New Brunswick,13,Male,Latvian,10,10,0,0,0
+New Brunswick,13,Male,Lithuanian,15,15,0,0,0
+New Brunswick,13,Male,Slavic languages,835,685,10,110,35
+New Brunswick,13,Male,Belarusan,0,0,0,0,0
+New Brunswick,13,Male,Bosnian,25,20,0,0,0
+New Brunswick,13,Male,Bulgarian,10,5,0,0,0
+New Brunswick,13,Male,Croatian,35,30,0,5,0
+New Brunswick,13,Male,Czech,25,20,0,10,0
+New Brunswick,13,Male,Macedonian,10,10,0,0,0
+New Brunswick,13,Male,Polish,105,80,0,20,0
+New Brunswick,13,Male,Russian,445,365,5,45,25
+New Brunswick,13,Male,Serbian,55,50,0,5,0
+New Brunswick,13,Male,Serbo-Croatian,15,15,0,0,0
+New Brunswick,13,Male,Slovak,15,10,0,0,0
+New Brunswick,13,Male,Slovene (Slovenian),10,5,0,0,0
+New Brunswick,13,Male,Ukrainian,85,65,0,15,5
+New Brunswick,13,Male,"Slavic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Celtic languages,10,5,0,0,0
+New Brunswick,13,Male,Scottish Gaelic,5,5,0,5,0
+New Brunswick,13,Male,Welsh,0,5,0,0,0
+New Brunswick,13,Male,"Celtic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Germanic languages,1415,1160,5,230,15
+New Brunswick,13,Male,Afrikaans,25,20,0,5,0
+New Brunswick,13,Male,Danish,55,50,0,10,0
+New Brunswick,13,Male,Dutch,470,390,0,75,0
+New Brunswick,13,Male,Frisian,25,20,0,5,0
+New Brunswick,13,Male,German,780,645,5,125,15
+New Brunswick,13,Male,Icelandic,5,0,0,0,0
+New Brunswick,13,Male,Norwegian,20,20,0,0,0
+New Brunswick,13,Male,Swedish,10,10,0,0,0
+New Brunswick,13,Male,Vlaams (Flemish),10,0,0,5,0
+New Brunswick,13,Male,Yiddish,5,5,0,5,0
+New Brunswick,13,Male,"Germanic languages, n.i.e.",0,0,0,5,0
+New Brunswick,13,Male,Greek,100,85,0,10,5
+New Brunswick,13,Male,Indo-Iranian languages,1015,885,0,75,55
+New Brunswick,13,Male,Indo-Aryan languages,650,585,0,35,25
+New Brunswick,13,Male,Bengali,120,110,0,10,0
+New Brunswick,13,Male,Gujarati,40,35,0,0,5
+New Brunswick,13,Male,Hindi,135,120,0,10,0
+New Brunswick,13,Male,Kashmiri,0,0,0,0,0
+New Brunswick,13,Male,Konkani,5,5,0,5,0
+New Brunswick,13,Male,Marathi,20,20,0,0,0
+New Brunswick,13,Male,Nepali,90,75,0,5,15
+New Brunswick,13,Male,Oriya (Odia),5,5,0,0,0
+New Brunswick,13,Male,Punjabi (Panjabi),75,65,0,5,5
+New Brunswick,13,Male,Sindhi,10,15,0,0,5
+New Brunswick,13,Male,Sinhala (Sinhalese),15,15,0,0,0
+New Brunswick,13,Male,Urdu,140,125,0,5,0
+New Brunswick,13,Male,Iranian languages,355,285,5,35,30
+New Brunswick,13,Male,Kurdish,35,5,0,0,20
+New Brunswick,13,Male,Pashto,10,15,0,0,0
+New Brunswick,13,Male,Persian (Farsi),305,270,5,30,10
+New Brunswick,13,Male,"Indo-Iranian languages, n.i.e.",10,10,0,0,0
+New Brunswick,13,Male,Italic (Romance) languages,1355,860,25,345,120
+New Brunswick,13,Male,Catalan,0,0,0,0,0
+New Brunswick,13,Male,Italian,225,130,5,95,5
+New Brunswick,13,Male,Portuguese,125,95,5,30,5
+New Brunswick,13,Male,Romanian,250,165,10,65,10
+New Brunswick,13,Male,Spanish,760,475,10,165,105
+New Brunswick,13,Male,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Japanese,25,20,0,5,0
+New Brunswick,13,Male,Kartvelian languages,0,5,0,0,0
+New Brunswick,13,Male,Georgian,0,5,0,0,0
+New Brunswick,13,Male,Korean,795,670,0,95,30
+New Brunswick,13,Male,Mongolic languages,0,0,0,0,0
+New Brunswick,13,Male,Mongolian,0,0,0,0,0
+New Brunswick,13,Male,Niger-Congo languages,385,115,90,170,5
+New Brunswick,13,Male,Akan (Twi),15,10,0,0,0
+New Brunswick,13,Male,Bamanankan,35,5,15,20,0
+New Brunswick,13,Male,Edo,0,0,0,0,0
+New Brunswick,13,Male,Ewe,5,0,0,5,0
+New Brunswick,13,Male,"Fulah (Pular, Pulaar, Fulfulde)",30,0,10,20,0
+New Brunswick,13,Male,Ga,0,0,0,0,0
+New Brunswick,13,Male,Ganda,5,5,0,0,0
+New Brunswick,13,Male,Igbo,20,20,0,0,0
+New Brunswick,13,Male,Lingala,10,0,0,10,0
+New Brunswick,13,Male,Rundi (Kirundi),25,5,5,20,0
+New Brunswick,13,Male,Kinyarwanda (Rwanda),20,0,5,15,0
+New Brunswick,13,Male,Shona,10,10,0,0,0
+New Brunswick,13,Male,Swahili,65,15,20,35,5
+New Brunswick,13,Male,Wolof,15,0,5,15,0
+New Brunswick,13,Male,Yoruba,20,20,0,0,0
+New Brunswick,13,Male,"Niger-Congo languages, n.i.e.",105,30,35,40,0
+New Brunswick,13,Male,Nilo-Saharan languages,5,5,0,0,0
+New Brunswick,13,Male,Dinka,0,0,0,0,0
+New Brunswick,13,Male,"Nilo-Saharan languages, n.i.e.",0,5,0,0,0
+New Brunswick,13,Male,Sign languages,75,30,5,5,40
+New Brunswick,13,Male,American Sign Language,20,5,0,0,10
+New Brunswick,13,Male,Quebec Sign Language,0,0,0,0,0
+New Brunswick,13,Male,"Sign languages, n.i.e",55,20,5,0,30
+New Brunswick,13,Male,Sino-Tibetan languages,1570,1310,5,70,190
+New Brunswick,13,Male,Chinese languages,1555,1295,5,65,190
+New Brunswick,13,Male,Cantonese,225,180,0,20,25
+New Brunswick,13,Male,Hakka,10,10,0,0,0
+New Brunswick,13,Male,Mandarin,1105,915,0,40,145
+New Brunswick,13,Male,Min Dong,0,0,0,0,0
+New Brunswick,13,Male,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",15,10,0,5,5
+New Brunswick,13,Male,Wu (Shanghainese),45,35,0,5,5
+New Brunswick,13,Male,"Chinese, n.o.s.",150,140,0,0,10
+New Brunswick,13,Male,"Chinese languages, n.i.e.",5,5,0,0,0
+New Brunswick,13,Male,Tibeto-Burman languages,15,15,0,0,0
+New Brunswick,13,Male,Burmese,5,0,0,0,0
+New Brunswick,13,Male,Karenic languages,15,10,0,0,0
+New Brunswick,13,Male,Tibetan,0,0,0,0,0
+New Brunswick,13,Male,"Tibeto-Burman languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,Tai-Kadai languages,15,15,0,0,0
+New Brunswick,13,Male,Lao,0,5,0,0,0
+New Brunswick,13,Male,Thai,15,15,0,0,0
+New Brunswick,13,Male,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+New Brunswick,13,Male,Turkic languages,60,45,5,10,5
+New Brunswick,13,Male,Azerbaijani,5,5,0,0,0
+New Brunswick,13,Male,Turkish,45,30,0,10,0
+New Brunswick,13,Male,Uyghur,0,0,0,0,0
+New Brunswick,13,Male,Uzbek,5,5,0,5,5
+New Brunswick,13,Male,"Turkic languages, n.i.e.",5,0,0,0,0
+New Brunswick,13,Male,Uralic languages,115,100,0,15,0
+New Brunswick,13,Male,Estonian,10,5,0,0,0
+New Brunswick,13,Male,Finnish,15,10,0,5,0
+New Brunswick,13,Male,Hungarian,90,75,0,10,0
+New Brunswick,13,Male,"Uralic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Male,"Other languages, n.i.e.",10,5,0,5,0
+New Brunswick,13,Male,Multiple responses,4440,900,110,3420,10
+New Brunswick,13,Male,English and French,3470,260,65,3140,0
+New Brunswick,13,Male,English and non-official language,725,625,0,90,10
+New Brunswick,13,Male,French and non-official language,180,5,40,130,5
+New Brunswick,13,Male,"English, French and non-official language",65,5,5,60,0
+New Brunswick,13,Female,Total - Mother tongue,375840,210260,33185,131245,1145
+New Brunswick,13,Female,Single responses,370990,209250,33085,127520,1140
+New Brunswick,13,Female,Official languages,359555,200745,32865,125905,35
+New Brunswick,13,Female,English,241135,199625,55,41425,30
+New Brunswick,13,Female,French,118415,1115,32815,84480,5
+New Brunswick,13,Female,Non-official languages,11435,8500,220,1610,1105
+New Brunswick,13,Female,Aboriginal languages,1135,1090,0,35,0
+New Brunswick,13,Female,Algonquian languages,1110,1070,0,35,5
+New Brunswick,13,Female,Blackfoot,0,0,0,0,0
+New Brunswick,13,Female,Cree-Montagnais languages,5,5,0,0,0
+New Brunswick,13,Female,Atikamekw,0,0,0,0,0
+New Brunswick,13,Female,Montagnais (Innu),0,0,0,0,0
+New Brunswick,13,Female,Moose Cree,0,0,0,0,0
+New Brunswick,13,Female,Naskapi,0,0,0,0,0
+New Brunswick,13,Female,Northern East Cree,0,0,0,0,0
+New Brunswick,13,Female,Plains Cree,0,0,0,0,0
+New Brunswick,13,Female,Southern East Cree,0,0,0,0,0
+New Brunswick,13,Female,Swampy Cree,5,5,0,0,0
+New Brunswick,13,Female,Woods Cree,0,0,0,0,0
+New Brunswick,13,Female,"Cree, n.o.s.",5,0,0,0,0
+New Brunswick,13,Female,Eastern Algonquian languages,1105,1065,0,35,0
+New Brunswick,13,Female,Malecite,155,150,0,0,0
+New Brunswick,13,Female,Mi'kmaq,950,915,0,35,5
+New Brunswick,13,Female,Ojibway-Potawatomi languages,0,0,0,0,0
+New Brunswick,13,Female,Algonquin,0,0,0,0,0
+New Brunswick,13,Female,Ojibway,0,0,0,0,0
+New Brunswick,13,Female,Oji-Cree,0,0,0,0,0
+New Brunswick,13,Female,Ottawa (Odawa),0,0,0,0,0
+New Brunswick,13,Female,"Algonquian languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Athabaskan languages,0,5,0,0,0
+New Brunswick,13,Female,Northern Athabaskan languages,0,0,0,0,0
+New Brunswick,13,Female,Babine (Wetsuwet'en),0,0,0,0,0
+New Brunswick,13,Female,Beaver,0,0,0,0,0
+New Brunswick,13,Female,Carrier,0,0,0,0,0
+New Brunswick,13,Female,Chilcotin,0,0,0,0,0
+New Brunswick,13,Female,Dene,0,0,0,0,0
+New Brunswick,13,Female,Dogrib (Tlicho),0,0,0,0,0
+New Brunswick,13,Female,Gwich'in,0,0,0,0,0
+New Brunswick,13,Female,Sarsi (Sarcee),0,0,0,0,0
+New Brunswick,13,Female,Sekani,0,0,0,0,0
+New Brunswick,13,Female,Slavey-Hare languages,0,0,0,0,0
+New Brunswick,13,Female,North Slavey (Hare),0,0,0,0,0
+New Brunswick,13,Female,South Slavey,0,0,0,0,0
+New Brunswick,13,Female,"Slavey, n.o.s.",0,0,0,0,0
+New Brunswick,13,Female,Tahltan languages,0,0,0,0,0
+New Brunswick,13,Female,Kaska (Nahani),0,0,0,0,0
+New Brunswick,13,Female,Tahltan,0,0,0,0,0
+New Brunswick,13,Female,Tutchone languages,0,0,0,0,0
+New Brunswick,13,Female,Northern Tutchone,0,0,0,0,0
+New Brunswick,13,Female,Southern Tutchone,0,0,0,0,0
+New Brunswick,13,Female,"Athabaskan languages, n.i.e.",0,5,0,0,0
+New Brunswick,13,Female,Haida,0,0,0,0,0
+New Brunswick,13,Female,Inuit languages,10,10,0,0,0
+New Brunswick,13,Female,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+New Brunswick,13,Female,Inuktitut,10,10,0,0,0
+New Brunswick,13,Female,"Inuit languages, n.i.e.",5,0,0,0,0
+New Brunswick,13,Female,Iroquoian languages,0,0,0,0,0
+New Brunswick,13,Female,Cayuga,0,0,0,0,0
+New Brunswick,13,Female,Mohawk,0,0,0,0,0
+New Brunswick,13,Female,Oneida,0,0,0,0,0
+New Brunswick,13,Female,"Iroquoian languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Kutenai,0,0,0,0,0
+New Brunswick,13,Female,Michif,0,0,0,0,0
+New Brunswick,13,Female,Salish languages,0,0,0,0,0
+New Brunswick,13,Female,Comox,0,0,0,0,0
+New Brunswick,13,Female,Halkomelem,0,0,0,0,0
+New Brunswick,13,Female,Lillooet,0,0,0,0,0
+New Brunswick,13,Female,Okanagan,0,0,0,0,0
+New Brunswick,13,Female,Shuswap (Secwepemctsin),0,0,0,0,0
+New Brunswick,13,Female,Squamish,0,0,0,0,0
+New Brunswick,13,Female,Straits,0,0,0,0,0
+New Brunswick,13,Female,Thompson (Ntlakapamux),0,0,0,0,0
+New Brunswick,13,Female,"Salish languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Siouan languages,0,0,0,0,0
+New Brunswick,13,Female,Dakota,0,0,0,0,0
+New Brunswick,13,Female,Stoney,0,0,0,0,0
+New Brunswick,13,Female,"Siouan languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Tlingit,0,0,0,0,0
+New Brunswick,13,Female,Tsimshian languages,0,0,0,0,0
+New Brunswick,13,Female,Gitxsan (Gitksan),0,0,0,0,0
+New Brunswick,13,Female,Nisga'a,0,0,0,0,0
+New Brunswick,13,Female,Tsimshian,0,0,0,0,0
+New Brunswick,13,Female,Wakashan languages,0,0,0,0,0
+New Brunswick,13,Female,Haisla,0,0,0,0,0
+New Brunswick,13,Female,Heiltsuk,0,0,0,0,0
+New Brunswick,13,Female,Kwakiutl (Kwak'wala),0,0,0,0,0
+New Brunswick,13,Female,Nuu-chah-nulth (Nootka),0,0,0,0,0
+New Brunswick,13,Female,"Wakashan languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,"Aboriginal languages, n.o.s.",5,0,0,0,0
+New Brunswick,13,Female,Non-Aboriginal languages,10300,7410,220,1575,1100
+New Brunswick,13,Female,Afro-Asiatic languages,1385,515,50,245,580
+New Brunswick,13,Female,Berber languages,15,0,5,15,0
+New Brunswick,13,Female,Kabyle,10,0,5,5,0
+New Brunswick,13,Female,"Berber languages, n.i.e.",10,0,0,10,0
+New Brunswick,13,Female,Cushitic languages,15,20,0,0,0
+New Brunswick,13,Female,Bilen,0,0,0,0,0
+New Brunswick,13,Female,Oromo,0,0,0,0,0
+New Brunswick,13,Female,Somali,15,15,0,0,0
+New Brunswick,13,Female,"Cushitic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Semitic languages,1355,500,45,230,580
+New Brunswick,13,Female,Amharic,30,20,0,5,0
+New Brunswick,13,Female,Arabic,1235,400,45,215,575
+New Brunswick,13,Female,Assyrian Neo-Aramaic,0,0,0,0,0
+New Brunswick,13,Female,Chaldean Neo-Aramaic,0,0,0,0,0
+New Brunswick,13,Female,Harari,0,0,0,0,0
+New Brunswick,13,Female,Hebrew,80,70,0,5,0
+New Brunswick,13,Female,Maltese,0,0,0,0,0
+New Brunswick,13,Female,Tigrigna,5,5,0,0,0
+New Brunswick,13,Female,"Semitic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Austro-Asiatic languages,325,255,0,40,25
+New Brunswick,13,Female,Khmer (Cambodian),10,5,0,0,0
+New Brunswick,13,Female,Vietnamese,320,255,0,40,25
+New Brunswick,13,Female,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+New Brunswick,13,Female,Austronesian languages,865,825,5,35,5
+New Brunswick,13,Female,Bikol,5,5,0,0,0
+New Brunswick,13,Female,Cebuano,65,65,0,0,0
+New Brunswick,13,Female,Fijian,0,0,0,0,0
+New Brunswick,13,Female,Hiligaynon,10,10,0,0,0
+New Brunswick,13,Female,Ilocano,35,35,0,5,0
+New Brunswick,13,Female,Malagasy,10,0,5,5,0
+New Brunswick,13,Female,Malay,35,30,0,0,0
+New Brunswick,13,Female,"Pampangan (Kapampangan, Pampango)",5,0,0,0,0
+New Brunswick,13,Female,Pangasinan,0,0,0,0,0
+New Brunswick,13,Female,"Tagalog (Pilipino, Filipino)",700,675,0,25,5
+New Brunswick,13,Female,Waray-Waray,0,0,0,0,0
+New Brunswick,13,Female,"Austronesian languages, n.i.e.",10,10,0,0,0
+New Brunswick,13,Female,Creole languages,65,10,15,40,0
+New Brunswick,13,Female,Haitian Creole,5,5,5,0,0
+New Brunswick,13,Female,"Creole, n.o.s.",50,0,10,40,0
+New Brunswick,13,Female,"Creole languages, n.i.e.",10,10,0,5,0
+New Brunswick,13,Female,Dravidian languages,130,115,0,5,5
+New Brunswick,13,Female,Kannada,10,10,0,0,0
+New Brunswick,13,Female,Malayalam,20,20,0,0,0
+New Brunswick,13,Female,Tamil,50,45,0,5,5
+New Brunswick,13,Female,Telugu,45,40,0,0,0
+New Brunswick,13,Female,"Dravidian languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Hmong-Mien languages,0,0,0,0,0
+New Brunswick,13,Female,Indo-European languages,4530,3435,50,855,185
+New Brunswick,13,Female,Albanian,25,20,0,0,0
+New Brunswick,13,Female,Armenian,10,5,0,0,5
+New Brunswick,13,Female,Balto-Slavic languages,880,695,10,140,35
+New Brunswick,13,Female,Baltic languages,30,25,0,10,0
+New Brunswick,13,Female,Latvian,15,10,0,5,0
+New Brunswick,13,Female,Lithuanian,15,10,0,5,0
+New Brunswick,13,Female,Slavic languages,845,675,10,135,35
+New Brunswick,13,Female,Belarusan,5,0,0,0,0
+New Brunswick,13,Female,Bosnian,25,20,0,0,5
+New Brunswick,13,Female,Bulgarian,10,10,0,0,0
+New Brunswick,13,Female,Croatian,40,35,0,10,0
+New Brunswick,13,Female,Czech,25,15,0,10,0
+New Brunswick,13,Female,Macedonian,5,5,0,0,0
+New Brunswick,13,Female,Polish,125,100,0,25,0
+New Brunswick,13,Female,Russian,435,345,5,55,25
+New Brunswick,13,Female,Serbian,40,35,0,5,5
+New Brunswick,13,Female,Serbo-Croatian,20,15,0,5,0
+New Brunswick,13,Female,Slovak,10,5,0,5,0
+New Brunswick,13,Female,Slovene (Slovenian),5,5,0,0,0
+New Brunswick,13,Female,Ukrainian,85,70,0,10,5
+New Brunswick,13,Female,"Slavic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Celtic languages,20,15,0,0,0
+New Brunswick,13,Female,Scottish Gaelic,10,5,0,0,0
+New Brunswick,13,Female,Welsh,10,10,0,0,0
+New Brunswick,13,Female,"Celtic languages, n.i.e.",0,5,0,0,0
+New Brunswick,13,Female,Germanic languages,1460,1170,5,275,10
+New Brunswick,13,Female,Afrikaans,25,25,0,0,0
+New Brunswick,13,Female,Danish,75,60,0,10,0
+New Brunswick,13,Female,Dutch,415,335,0,75,0
+New Brunswick,13,Female,Frisian,15,10,0,5,0
+New Brunswick,13,Female,German,865,685,5,170,10
+New Brunswick,13,Female,Icelandic,5,5,0,0,0
+New Brunswick,13,Female,Norwegian,20,20,0,0,0
+New Brunswick,13,Female,Swedish,30,20,0,10,0
+New Brunswick,13,Female,Vlaams (Flemish),10,5,0,5,0
+New Brunswick,13,Female,Yiddish,5,5,0,0,0
+New Brunswick,13,Female,"Germanic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Greek,50,35,0,10,0
+New Brunswick,13,Female,Indo-Iranian languages,830,685,0,80,70
+New Brunswick,13,Female,Indo-Aryan languages,525,445,0,45,35
+New Brunswick,13,Female,Bengali,85,80,0,5,0
+New Brunswick,13,Female,Gujarati,35,30,0,5,0
+New Brunswick,13,Female,Hindi,95,85,0,15,0
+New Brunswick,13,Female,Kashmiri,0,0,0,0,0
+New Brunswick,13,Female,Konkani,5,5,0,0,0
+New Brunswick,13,Female,Marathi,25,20,0,5,0
+New Brunswick,13,Female,Nepali,95,70,0,5,20
+New Brunswick,13,Female,Oriya (Odia),0,0,0,0,0
+New Brunswick,13,Female,Punjabi (Panjabi),50,45,0,5,5
+New Brunswick,13,Female,Sindhi,10,5,0,0,0
+New Brunswick,13,Female,Sinhala (Sinhalese),15,15,0,0,0
+New Brunswick,13,Female,Urdu,100,90,0,10,0
+New Brunswick,13,Female,Iranian languages,305,235,5,35,35
+New Brunswick,13,Female,Kurdish,25,5,0,0,20
+New Brunswick,13,Female,Pashto,10,10,0,0,0
+New Brunswick,13,Female,Persian (Farsi),270,220,0,30,15
+New Brunswick,13,Female,"Indo-Iranian languages, n.i.e.",10,5,0,0,0
+New Brunswick,13,Female,Italic (Romance) languages,1250,805,35,345,65
+New Brunswick,13,Female,Catalan,0,0,0,0,0
+New Brunswick,13,Female,Italian,175,90,5,75,5
+New Brunswick,13,Female,Portuguese,135,90,0,40,5
+New Brunswick,13,Female,Romanian,240,140,15,65,15
+New Brunswick,13,Female,Spanish,705,485,20,160,35
+New Brunswick,13,Female,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Japanese,85,65,0,20,5
+New Brunswick,13,Female,Kartvelian languages,0,0,0,0,0
+New Brunswick,13,Female,Georgian,0,0,0,0,0
+New Brunswick,13,Female,Korean,750,620,0,85,45
+New Brunswick,13,Female,Mongolic languages,0,0,0,0,0
+New Brunswick,13,Female,Mongolian,5,0,0,0,0
+New Brunswick,13,Female,Niger-Congo languages,315,115,75,115,10
+New Brunswick,13,Female,Akan (Twi),10,10,0,0,0
+New Brunswick,13,Female,Bamanankan,25,0,15,15,0
+New Brunswick,13,Female,Edo,0,0,0,0,0
+New Brunswick,13,Female,Ewe,5,5,0,0,0
+New Brunswick,13,Female,"Fulah (Pular, Pulaar, Fulfulde)",15,0,5,5,0
+New Brunswick,13,Female,Ga,0,0,0,0,0
+New Brunswick,13,Female,Ganda,5,0,0,0,0
+New Brunswick,13,Female,Igbo,15,10,0,0,0
+New Brunswick,13,Female,Lingala,15,5,10,5,0
+New Brunswick,13,Female,Rundi (Kirundi),20,5,0,10,0
+New Brunswick,13,Female,Kinyarwanda (Rwanda),20,5,0,10,0
+New Brunswick,13,Female,Shona,10,10,0,0,0
+New Brunswick,13,Female,Swahili,70,15,20,30,5
+New Brunswick,13,Female,Wolof,10,0,5,10,0
+New Brunswick,13,Female,Yoruba,15,10,0,0,0
+New Brunswick,13,Female,"Niger-Congo languages, n.i.e.",85,35,30,20,5
+New Brunswick,13,Female,Nilo-Saharan languages,0,0,0,0,0
+New Brunswick,13,Female,Dinka,0,0,0,0,0
+New Brunswick,13,Female,"Nilo-Saharan languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,Sign languages,70,40,0,10,25
+New Brunswick,13,Female,American Sign Language,25,20,0,0,5
+New Brunswick,13,Female,Quebec Sign Language,0,0,0,0,0
+New Brunswick,13,Female,"Sign languages, n.i.e",40,20,0,5,15
+New Brunswick,13,Female,Sino-Tibetan languages,1540,1225,10,95,215
+New Brunswick,13,Female,Chinese languages,1530,1210,10,90,215
+New Brunswick,13,Female,Cantonese,210,150,0,30,30
+New Brunswick,13,Female,Hakka,5,5,0,0,0
+New Brunswick,13,Female,Mandarin,1150,920,5,55,170
+New Brunswick,13,Female,Min Dong,0,0,0,0,0
+New Brunswick,13,Female,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",20,10,5,0,5
+New Brunswick,13,Female,Wu (Shanghainese),55,45,0,0,10
+New Brunswick,13,Female,"Chinese, n.o.s.",85,70,0,0,10
+New Brunswick,13,Female,"Chinese languages, n.i.e.",10,0,0,5,0
+New Brunswick,13,Female,Tibeto-Burman languages,15,10,0,0,0
+New Brunswick,13,Female,Burmese,5,0,0,0,0
+New Brunswick,13,Female,Karenic languages,10,10,0,0,0
+New Brunswick,13,Female,Tibetan,0,0,0,0,0
+New Brunswick,13,Female,"Tibeto-Burman languages, n.i.e.",0,5,0,0,0
+New Brunswick,13,Female,Tai-Kadai languages,50,40,0,5,0
+New Brunswick,13,Female,Lao,0,0,0,0,0
+New Brunswick,13,Female,Thai,50,40,0,5,0
+New Brunswick,13,Female,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+New Brunswick,13,Female,Turkic languages,45,30,0,5,5
+New Brunswick,13,Female,Azerbaijani,5,0,0,5,5
+New Brunswick,13,Female,Turkish,30,25,0,5,0
+New Brunswick,13,Female,Uyghur,0,0,0,0,0
+New Brunswick,13,Female,Uzbek,5,0,0,0,0
+New Brunswick,13,Female,"Turkic languages, n.i.e.",5,5,5,0,0
+New Brunswick,13,Female,Uralic languages,135,110,0,20,0
+New Brunswick,13,Female,Estonian,10,10,0,5,0
+New Brunswick,13,Female,Finnish,30,25,0,5,0
+New Brunswick,13,Female,Hungarian,95,75,0,15,0
+New Brunswick,13,Female,"Uralic languages, n.i.e.",0,0,0,0,0
+New Brunswick,13,Female,"Other languages, n.i.e.",10,5,0,5,0
+New Brunswick,13,Female,Multiple responses,4855,1015,100,3725,10
+New Brunswick,13,Female,English and French,3815,300,65,3440,0
+New Brunswick,13,Female,English and non-official language,810,690,0,110,10
+New Brunswick,13,Female,French and non-official language,155,10,30,105,5
+New Brunswick,13,Female,"English, French and non-official language",80,10,0,65,0

@@ -1,808 +1,808 @@
-,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
-807,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Total - Mother tongue,1,1.0,515680,488800,115,25945,815
-808,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Single responses,2,,513980,487710,115,25355,805
-809,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Official languages,3,,502060,477245,95,24640,80
-810,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,English,4,,499705,477010,10,22605,75
-811,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,French,5,,2350,230,90,2030,0
-812,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Non-official languages,6,,11920,10460,15,715,730
-813,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Aboriginal languages,7,,2620,2450,5,40,125
-814,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Algonquian languages,8,,2125,1970,5,35,120
-815,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Blackfoot,9,,0,0,0,0,0
-816,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Cree-Montagnais languages,10,,2120,1960,5,35,120
-817,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Atikamekw,11,,0,0,0,0,0
-818,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Montagnais (Innu),12,,1510,1410,5,30,65
-819,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Moose Cree,13,,0,0,0,0,0
-820,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Naskapi,14,,600,545,0,0,60
-821,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Northern East Cree,15,,0,0,0,0,0
-822,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Plains Cree,16,,0,0,0,0,0
-823,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Southern East Cree,17,,0,0,0,0,0
-824,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Swampy Cree,18,,0,0,0,0,0
-825,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Woods Cree,19,,0,0,0,0,0
-826,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Cree, n.o.s.",20,,10,10,0,0,0
-827,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Eastern Algonquian languages,21,,5,5,0,0,0
-828,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Malecite,22,,0,0,0,0,0
-829,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Mi'kmaq,23,,5,5,0,0,0
-830,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Ojibway-Potawatomi languages,24,,0,5,0,0,0
-831,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Algonquin,25,,0,0,0,0,0
-832,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Ojibway,26,,5,5,0,0,0
-833,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Oji-Cree,27,,0,0,0,0,0
-834,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Ottawa (Odawa),28,,0,0,0,0,0
-835,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-836,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Athabaskan languages,30,,0,0,0,0,0
-837,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Northern Athabaskan languages,31,,0,0,0,0,0
-838,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-839,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Beaver,33,,0,0,0,0,0
-840,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Carrier,34,,0,0,0,0,0
-841,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Chilcotin,35,,0,0,0,0,0
-842,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Dene,36,,0,0,0,0,0
-843,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Dogrib (Tlicho),37,,0,0,0,0,0
-844,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Gwich'in,38,,0,0,0,0,0
-845,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Sarsi (Sarcee),39,,0,0,0,0,0
-846,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Sekani,40,,0,0,0,0,0
-847,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Slavey-Hare languages,41,,0,0,0,0,0
-848,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,North Slavey (Hare),42,,0,0,0,0,0
-849,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,South Slavey,43,,0,0,0,0,0
-850,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Slavey, n.o.s.",44,,0,0,0,0,0
-851,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tahltan languages,45,,0,0,0,0,0
-852,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Kaska (Nahani),46,,0,0,0,0,0
-853,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tahltan,47,,0,0,0,0,0
-854,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tutchone languages,48,,0,0,0,0,0
-855,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Northern Tutchone,49,,0,0,0,0,0
-856,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Southern Tutchone,50,,0,0,0,0,0
-857,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-858,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Haida,52,,0,0,0,0,0
-859,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Inuit languages,53,,485,475,0,0,10
-860,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-861,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Inuktitut,55,,435,425,0,0,10
-862,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Inuit languages, n.i.e.",56,,50,50,0,0,0
-863,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Iroquoian languages,57,,0,0,0,5,0
-864,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Cayuga,58,,0,0,0,0,0
-865,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Mohawk,59,,0,0,0,0,0
-866,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Oneida,60,,0,0,0,0,0
-867,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-868,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Kutenai,62,,0,0,0,0,0
-869,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Michif,63,,0,0,0,0,0
-870,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Salish languages,64,,0,0,0,0,0
-871,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Comox,65,,0,0,0,0,0
-872,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Halkomelem,66,,0,0,0,0,0
-873,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Lillooet,67,,0,0,0,0,0
-874,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Okanagan,68,,0,0,0,0,0
-875,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-876,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Squamish,70,,0,0,0,0,0
-877,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Straits,71,,0,0,0,0,0
-878,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-879,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-880,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Siouan languages,74,,0,0,0,0,0
-881,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Dakota,75,,0,0,0,0,0
-882,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Stoney,76,,0,0,0,0,0
-883,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-884,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tlingit,78,,0,0,0,0,0
-885,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tsimshian languages,79,,0,0,0,0,0
-886,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Gitxsan (Gitksan),80,,0,0,0,0,0
-887,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Nisga'a,81,,0,0,0,0,0
-888,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tsimshian,82,,0,0,0,0,0
-889,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Wakashan languages,83,,0,0,0,0,0
-890,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Haisla,84,,0,0,0,0,0
-891,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Heiltsuk,85,,0,0,0,0,0
-892,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-893,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-894,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-895,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,5,0,0,0,0
-896,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Non-Aboriginal languages,90,,9300,8020,10,675,600
-897,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Afro-Asiatic languages,91,,1295,940,5,90,255
-898,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Berber languages,92,,5,5,0,0,0
-899,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Kabyle,93,,0,0,0,0,0
-900,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Berber languages, n.i.e.",94,,5,0,0,0,0
-901,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Cushitic languages,95,,45,40,0,0,5
-902,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Bilen,96,,10,5,0,0,0
-903,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Oromo,97,,30,35,0,0,0
-904,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Somali,98,,0,0,0,0,0
-905,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,5,0,0,0,0
-906,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Semitic languages,100,,1245,895,5,95,250
-907,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Amharic,101,,25,20,0,0,5
-908,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Arabic,102,,1140,800,5,90,245
-909,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-910,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-911,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Harari,105,,0,0,0,0,0
-912,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Hebrew,106,,10,10,0,0,0
-913,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Maltese,107,,0,5,0,0,0
-914,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tigrigna,108,,65,55,0,5,5
-915,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
-916,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-917,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Austro-Asiatic languages,111,,55,50,0,10,0
-918,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Khmer (Cambodian),112,,0,0,0,0,0
-919,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Vietnamese,113,,55,45,0,10,0
-920,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-921,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Austronesian languages,115,,1115,1090,0,15,5
-922,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Bikol,116,,5,0,0,0,0
-923,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Cebuano,117,,55,55,0,0,0
-924,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Fijian,118,,0,0,0,0,0
-925,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Hiligaynon,119,,5,10,0,0,0
-926,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Ilocano,120,,25,25,0,0,0
-927,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Malagasy,121,,5,5,0,0,0
-928,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Malay,122,,25,25,0,0,0
-929,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,10,10,0,0,0
-930,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Pangasinan,124,,0,0,0,0,0
-931,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,975,955,5,15,5
-932,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Waray-Waray,126,,5,0,0,0,0
-933,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,10,10,0,0,0
-934,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Creole languages,128,,35,20,0,15,0
-935,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Haitian Creole,129,,0,0,0,0,0
-936,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Creole, n.o.s.",130,,20,5,0,15,0
-937,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Creole languages, n.i.e.",131,,15,10,0,0,0
-938,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Dravidian languages,132,,270,265,0,5,5
-939,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Kannada,133,,10,15,0,0,0
-940,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Malayalam,134,,100,100,0,5,0
-941,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tamil,135,,110,110,0,5,0
-942,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Telugu,136,,50,45,0,5,0
-943,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
-944,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Hmong-Mien languages,138,,0,0,0,0,0
-945,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Indo-European languages,139,,4020,3480,0,425,110
-946,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Albanian,140,,85,70,0,5,15
-947,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Armenian,141,,10,5,0,0,5
-948,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Balto-Slavic languages,142,,585,505,5,75,10
-949,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Baltic languages,143,,10,10,0,0,0
-950,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Latvian,144,,10,10,0,0,0
-951,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Lithuanian,145,,0,0,0,0,0
-952,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Slavic languages,146,,575,495,5,70,10
-953,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Belarusan,147,,5,0,0,0,0
-954,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Bosnian,148,,15,15,0,0,0
-955,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Bulgarian,149,,60,50,0,10,0
-956,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Croatian,150,,30,25,0,0,0
-957,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Czech,151,,35,30,0,5,0
-958,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Macedonian,152,,0,0,0,0,0
-959,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Polish,153,,105,90,0,15,0
-960,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Russian,154,,215,190,0,25,5
-961,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Serbian,155,,30,25,0,0,0
-962,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Serbo-Croatian,156,,10,5,0,5,0
-963,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Slovak,157,,5,5,0,0,0
-964,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Slovene (Slovenian),158,,10,10,0,0,0
-965,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Ukrainian,159,,40,40,0,5,0
-966,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
-967,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Celtic languages,161,,25,15,0,5,0
-968,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Scottish Gaelic,162,,10,10,0,5,0
-969,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Welsh,163,,5,5,0,0,0
-970,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Celtic languages, n.i.e.",164,,5,5,0,5,0
-971,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Germanic languages,165,,715,600,0,105,5
-972,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Afrikaans,166,,55,50,0,0,0
-973,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Danish,167,,55,50,0,5,0
-974,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Dutch,168,,110,90,0,20,0
-975,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Frisian,169,,0,0,0,0,0
-976,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,German,170,,380,310,0,65,5
-977,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Icelandic,171,,30,30,0,0,0
-978,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Norwegian,172,,55,50,0,5,0
-979,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Swedish,173,,15,10,0,0,5
-980,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Vlaams (Flemish),174,,0,0,0,0,0
-981,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Yiddish,175,,0,0,0,0,0
-982,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Germanic languages, n.i.e.",176,,10,5,0,5,0
-983,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Greek,177,,55,50,0,5,0
-984,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Indo-Iranian languages,178,,1640,1520,0,70,50
-985,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Indo-Aryan languages,179,,1330,1230,0,65,35
-986,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Bengali,180,,325,315,0,10,5
-987,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Gujarati,181,,70,65,0,5,0
-988,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Hindi,182,,175,165,0,10,0
-989,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Kashmiri,183,,0,0,0,0,0
-990,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Konkani,184,,5,0,0,0,0
-991,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Marathi,185,,25,25,0,0,0
-992,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Nepali,186,,140,125,0,0,15
-993,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Oriya (Odia),187,,5,0,0,0,0
-994,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Punjabi (Panjabi),188,,215,195,0,20,0
-995,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Sindhi,189,,25,15,0,5,0
-996,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Sinhala (Sinhalese),190,,70,70,0,0,0
-997,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Urdu,191,,285,255,0,20,5
-998,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Iranian languages,192,,280,250,0,10,15
-999,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Kurdish,193,,15,5,0,0,5
-1000,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Pashto,194,,30,25,0,0,0
-1001,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Persian (Farsi),195,,235,220,0,10,15
-1002,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,30,30,0,0,5
-1003,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Italic (Romance) languages,197,,915,715,0,165,30
-1004,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Catalan,198,,5,0,0,5,0
-1005,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Italian,199,,105,85,0,25,0
-1006,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Portuguese,200,,165,125,0,30,10
-1007,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Romanian,201,,45,25,0,20,0
-1008,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Spanish,202,,595,475,0,95,25
-1009,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,5,5,0,0,0
-1010,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Japanese,204,,45,40,5,5,0
-1011,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Kartvelian languages,205,,0,0,0,0,0
-1012,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Georgian,206,,0,0,0,0,0
-1013,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Korean,207,,125,115,0,5,5
-1014,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Mongolic languages,208,,5,0,0,0,0
-1015,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Mongolian,209,,0,0,0,0,0
-1016,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Niger-Congo languages,210,,315,255,0,35,25
-1017,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Akan (Twi),211,,30,30,0,5,0
-1018,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Bamanankan,212,,0,0,0,0,0
-1019,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Edo,213,,5,5,0,0,0
-1020,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Ewe,214,,5,5,0,5,0
-1021,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-1022,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Ga,216,,0,0,0,0,0
-1023,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Ganda,217,,10,10,0,0,0
-1024,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Igbo,218,,30,30,0,0,0
-1025,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Lingala,219,,5,5,0,5,0
-1026,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Rundi (Kirundi),220,,5,0,0,5,0
-1027,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Kinyarwanda (Rwanda),221,,5,5,0,5,0
-1028,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Shona,222,,30,30,0,0,0
-1029,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Swahili,223,,55,25,0,5,20
-1030,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Wolof,224,,10,10,0,0,0
-1031,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Yoruba,225,,60,60,0,0,0
-1032,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,70,60,0,10,0
-1033,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Nilo-Saharan languages,227,,35,30,0,5,5
-1034,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Dinka,228,,10,10,0,0,0
-1035,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,25,20,0,5,0
-1036,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Sign languages,230,,120,55,0,0,65
-1037,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,American Sign Language,231,,50,30,0,0,20
-1038,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Quebec Sign Language,232,,0,0,0,0,0
-1039,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Sign languages, n.i.e",233,,75,25,0,0,50
-1040,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Sino-Tibetan languages,234,,1620,1470,0,30,115
-1041,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Chinese languages,235,,1595,1450,0,30,115
-1042,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Cantonese,236,,360,295,0,15,50
-1043,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Hakka,237,,10,10,0,0,0
-1044,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Mandarin,238,,990,925,0,15,50
-1045,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Min Dong,239,,0,0,0,0,0
-1046,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,35,30,0,0,0
-1047,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Wu (Shanghainese),241,,10,10,0,0,0
-1048,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Chinese, n.o.s.",242,,190,170,0,0,15
-1049,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Chinese languages, n.i.e.",243,,5,5,0,0,0
-1050,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tibeto-Burman languages,244,,30,25,0,0,0
-1051,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Burmese,245,,10,10,0,0,0
-1052,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Karenic languages,246,,10,5,0,0,0
-1053,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tibetan,247,,0,5,0,0,0
-1054,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,5,5,0,0,0
-1055,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Tai-Kadai languages,249,,50,50,0,0,0
-1056,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Lao,250,,5,5,0,0,0
-1057,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Thai,251,,45,45,0,0,0
-1058,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-1059,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Turkic languages,253,,70,60,0,10,0
-1060,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Azerbaijani,254,,10,10,0,0,0
-1061,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Turkish,255,,45,40,0,5,0
-1062,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Uyghur,256,,0,0,0,0,0
-1063,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Uzbek,257,,15,5,0,0,0
-1064,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Turkic languages, n.i.e.",258,,5,5,0,0,0
-1065,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Uralic languages,259,,90,70,0,20,0
-1066,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Estonian,260,,20,10,0,5,0
-1067,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Finnish,261,,20,15,0,5,0
-1068,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Hungarian,262,,55,45,0,10,0
-1069,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-1070,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"Other languages, n.i.e.",264,,20,15,0,5,0
-1071,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,Multiple responses,265,,1700,1090,5,590,15
-1072,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,English and French,266,,580,135,0,445,0
-1073,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,English and non-official language,267,,1025,945,0,70,15
-1074,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,French and non-official language,268,,55,5,5,50,0
-1075,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Total - Sex,1,,"English, French and non-official language",269,,25,5,0,20,0
-1076,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Total - Mother tongue,1,1.0,252310,241310,60,10580,365
-1077,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Single responses,2,,251490,240755,60,10325,355
-1078,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Official languages,3,,245300,235260,50,9955,40
-1079,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,English,4,,244065,235155,5,8860,40
-1080,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,French,5,,1240,105,40,1090,0
-1081,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Non-official languages,6,,6185,5495,10,370,315
-1082,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Aboriginal languages,7,,1265,1190,5,20,50
-1083,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Algonquian languages,8,,1030,955,5,15,45
-1084,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Blackfoot,9,,0,0,0,0,0
-1085,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Cree-Montagnais languages,10,,1025,955,5,20,45
-1086,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Atikamekw,11,,0,0,0,0,0
-1087,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Montagnais (Innu),12,,725,680,5,20,25
-1088,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Moose Cree,13,,0,0,0,0,0
-1089,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Naskapi,14,,295,275,0,5,20
-1090,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Northern East Cree,15,,0,0,0,0,0
-1091,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Plains Cree,16,,0,5,0,0,0
-1092,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Southern East Cree,17,,0,0,0,0,0
-1093,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Swampy Cree,18,,0,0,0,0,0
-1094,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Woods Cree,19,,0,0,0,0,0
-1095,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Cree, n.o.s.",20,,0,0,0,0,0
-1096,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Eastern Algonquian languages,21,,5,0,0,0,0
-1097,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Malecite,22,,0,0,0,0,0
-1098,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Mi'kmaq,23,,0,0,0,0,0
-1099,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Ojibway-Potawatomi languages,24,,0,5,0,0,0
-1100,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Algonquin,25,,0,0,0,0,0
-1101,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Ojibway,26,,0,0,0,0,0
-1102,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Oji-Cree,27,,0,0,0,0,0
-1103,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Ottawa (Odawa),28,,0,0,0,0,0
-1104,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-1105,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Athabaskan languages,30,,0,0,0,0,0
-1106,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Northern Athabaskan languages,31,,0,0,0,0,0
-1107,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-1108,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Beaver,33,,0,0,0,0,0
-1109,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Carrier,34,,0,0,0,0,0
-1110,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Chilcotin,35,,0,0,0,0,0
-1111,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Dene,36,,0,0,0,0,0
-1112,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Dogrib (Tlicho),37,,0,0,0,0,0
-1113,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Gwich'in,38,,0,0,0,0,0
-1114,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Sarsi (Sarcee),39,,0,0,0,0,0
-1115,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Sekani,40,,0,0,0,0,0
-1116,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Slavey-Hare languages,41,,0,0,0,0,0
-1117,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,North Slavey (Hare),42,,0,0,0,0,0
-1118,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,South Slavey,43,,0,0,0,0,0
-1119,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Slavey, n.o.s.",44,,0,0,0,0,0
-1120,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tahltan languages,45,,0,0,0,0,0
-1121,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Kaska (Nahani),46,,0,0,0,0,0
-1122,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tahltan,47,,0,0,0,0,0
-1123,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tutchone languages,48,,0,0,0,0,0
-1124,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Northern Tutchone,49,,0,0,0,0,0
-1125,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Southern Tutchone,50,,0,0,0,0,0
-1126,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-1127,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Haida,52,,0,0,0,0,0
-1128,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Inuit languages,53,,235,230,0,0,5
-1129,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-1130,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Inuktitut,55,,205,200,0,0,5
-1131,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Inuit languages, n.i.e.",56,,30,30,0,0,0
-1132,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Iroquoian languages,57,,0,0,0,0,0
-1133,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Cayuga,58,,0,0,0,0,0
-1134,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Mohawk,59,,5,0,0,5,0
-1135,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Oneida,60,,0,0,0,0,0
-1136,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-1137,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Kutenai,62,,0,0,0,0,0
-1138,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Michif,63,,0,0,0,0,0
-1139,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Salish languages,64,,0,0,0,0,0
-1140,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Comox,65,,0,0,0,0,0
-1141,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Halkomelem,66,,0,0,0,0,0
-1142,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Lillooet,67,,0,0,0,0,0
-1143,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Okanagan,68,,0,0,0,0,0
-1144,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-1145,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Squamish,70,,0,0,0,0,0
-1146,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Straits,71,,0,0,0,0,0
-1147,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-1148,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-1149,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Siouan languages,74,,0,0,0,0,0
-1150,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Dakota,75,,0,0,0,0,0
-1151,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Stoney,76,,0,0,0,0,0
-1152,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-1153,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tlingit,78,,0,0,0,0,0
-1154,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tsimshian languages,79,,0,0,0,0,0
-1155,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Gitxsan (Gitksan),80,,0,0,0,0,0
-1156,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Nisga'a,81,,0,0,0,0,0
-1157,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tsimshian,82,,0,0,0,0,0
-1158,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Wakashan languages,83,,0,0,0,0,0
-1159,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Haisla,84,,0,0,0,0,0
-1160,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Heiltsuk,85,,0,0,0,0,0
-1161,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-1162,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-1163,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-1164,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-1165,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Non-Aboriginal languages,90,,4920,4305,5,350,265
-1166,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Afro-Asiatic languages,91,,725,555,0,70,105
-1167,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Berber languages,92,,5,0,0,0,0
-1168,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Kabyle,93,,0,0,0,0,0
-1169,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Berber languages, n.i.e.",94,,5,0,0,0,0
-1170,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Cushitic languages,95,,25,20,0,0,0
-1171,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Bilen,96,,5,5,0,0,0
-1172,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Oromo,97,,20,15,0,0,0
-1173,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Somali,98,,0,0,0,0,0
-1174,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-1175,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Semitic languages,100,,705,530,0,65,105
-1176,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Amharic,101,,15,10,0,0,5
-1177,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Arabic,102,,650,485,0,65,100
-1178,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-1179,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-1180,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Harari,105,,0,0,0,0,0
-1181,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Hebrew,106,,5,5,0,0,0
-1182,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Maltese,107,,0,0,0,0,0
-1183,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tigrigna,108,,30,30,0,0,5
-1184,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Semitic languages, n.i.e.",109,,0,5,0,0,0
-1185,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-1186,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Austro-Asiatic languages,111,,30,25,0,5,0
-1187,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Khmer (Cambodian),112,,0,0,0,0,0
-1188,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Vietnamese,113,,30,25,0,0,0
-1189,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-1190,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Austronesian languages,115,,475,470,0,5,5
-1191,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Bikol,116,,0,0,0,0,0
-1192,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Cebuano,117,,20,20,0,5,0
-1193,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Fijian,118,,0,0,0,0,0
-1194,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Hiligaynon,119,,5,5,0,0,0
-1195,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Ilocano,120,,10,10,0,0,0
-1196,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Malagasy,121,,0,0,0,0,0
-1197,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Malay,122,,15,15,0,0,0
-1198,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,5,10,0,0,0
-1199,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Pangasinan,124,,0,0,0,0,0
-1200,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Tagalog (Pilipino, Filipino)",125,,415,410,0,5,0
-1201,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Waray-Waray,126,,0,0,0,0,0
-1202,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Austronesian languages, n.i.e.",127,,5,5,0,0,0
-1203,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Creole languages,128,,20,5,0,10,0
-1204,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Haitian Creole,129,,0,0,0,0,0
-1205,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Creole, n.o.s.",130,,15,0,0,10,0
-1206,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Creole languages, n.i.e.",131,,5,5,0,0,0
-1207,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Dravidian languages,132,,150,150,0,0,0
-1208,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Kannada,133,,5,5,0,0,0
-1209,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Malayalam,134,,55,55,0,0,0
-1210,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tamil,135,,70,65,0,5,0
-1211,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Telugu,136,,25,25,0,0,0
-1212,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
-1213,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Hmong-Mien languages,138,,0,0,0,0,0
-1214,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Indo-European languages,139,,2260,2010,0,205,45
-1215,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Albanian,140,,45,35,0,0,5
-1216,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Armenian,141,,5,5,0,0,0
-1217,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Balto-Slavic languages,142,,305,270,0,30,5
-1218,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Baltic languages,143,,5,5,0,0,0
-1219,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Latvian,144,,5,5,0,0,0
-1220,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Lithuanian,145,,0,0,0,0,0
-1221,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Slavic languages,146,,300,265,0,30,5
-1222,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Belarusan,147,,5,5,0,0,0
-1223,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Bosnian,148,,10,10,0,0,0
-1224,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Bulgarian,149,,30,25,0,5,5
-1225,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Croatian,150,,15,20,0,0,0
-1226,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Czech,151,,20,15,0,5,0
-1227,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Macedonian,152,,0,0,0,0,0
-1228,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Polish,153,,55,50,0,5,0
-1229,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Russian,154,,115,100,0,15,0
-1230,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Serbian,155,,20,15,0,0,0
-1231,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Serbo-Croatian,156,,0,0,0,0,0
-1232,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Slovak,157,,5,5,0,0,0
-1233,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Slovene (Slovenian),158,,5,5,0,0,0
-1234,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Ukrainian,159,,15,15,0,5,0
-1235,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Slavic languages, n.i.e.",160,,5,0,0,0,0
-1236,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Celtic languages,161,,10,10,0,0,0
-1237,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Scottish Gaelic,162,,5,5,0,5,0
-1238,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Welsh,163,,5,0,0,0,0
-1239,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Celtic languages, n.i.e.",164,,0,0,0,0,0
-1240,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Germanic languages,165,,425,370,0,50,0
-1241,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Afrikaans,166,,30,30,0,0,0
-1242,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Danish,167,,30,30,0,0,0
-1243,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Dutch,168,,70,55,0,15,0
-1244,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Frisian,169,,0,0,0,0,0
-1245,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,German,170,,210,180,0,25,5
-1246,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Icelandic,171,,20,20,0,0,0
-1247,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Norwegian,172,,45,40,0,0,0
-1248,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Swedish,173,,10,10,0,5,0
-1249,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Vlaams (Flemish),174,,0,0,0,0,0
-1250,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Yiddish,175,,0,0,0,0,0
-1251,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Germanic languages, n.i.e.",176,,10,5,0,0,0
-1252,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Greek,177,,40,35,0,0,0
-1253,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Indo-Iranian languages,178,,970,905,0,30,25
-1254,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Indo-Aryan languages,179,,800,750,0,30,20
-1255,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Bengali,180,,220,210,0,5,0
-1256,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Gujarati,181,,40,40,0,0,0
-1257,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Hindi,182,,100,100,0,0,0
-1258,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Kashmiri,183,,0,0,0,0,0
-1259,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Konkani,184,,5,0,0,0,0
-1260,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Marathi,185,,15,10,0,5,0
-1261,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Nepali,186,,80,75,0,0,10
-1262,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Oriya (Odia),187,,5,0,0,0,0
-1263,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Punjabi (Panjabi),188,,130,115,0,10,0
-1264,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Sindhi,189,,10,10,0,5,0
-1265,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Sinhala (Sinhalese),190,,35,35,0,0,0
-1266,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Urdu,191,,165,150,0,5,5
-1267,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Iranian languages,192,,145,135,0,5,5
-1268,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Kurdish,193,,10,5,0,0,5
-1269,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Pashto,194,,10,10,0,0,0
-1270,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Persian (Farsi),195,,125,120,0,5,5
-1271,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Indo-Iranian languages, n.i.e.",196,,20,20,0,0,0
-1272,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Italic (Romance) languages,197,,465,375,0,80,10
-1273,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Catalan,198,,0,0,0,0,0
-1274,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Italian,199,,60,50,0,15,0
-1275,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Portuguese,200,,90,70,0,20,5
-1276,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Romanian,201,,15,10,0,10,0
-1277,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Spanish,202,,295,240,0,40,10
-1278,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Italic (Romance) languages, n.i.e.",203,,5,0,0,0,0
-1279,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Japanese,204,,15,15,0,0,0
-1280,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Kartvelian languages,205,,0,0,0,0,0
-1281,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Georgian,206,,5,5,0,0,0
-1282,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Korean,207,,50,50,0,0,5
-1283,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Mongolic languages,208,,0,0,0,0,0
-1284,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Mongolian,209,,0,0,0,0,0
-1285,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Niger-Congo languages,210,,170,140,0,20,5
-1286,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Akan (Twi),211,,20,15,0,0,0
-1287,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Bamanankan,212,,0,0,0,0,0
-1288,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Edo,213,,5,0,0,0,0
-1289,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Ewe,214,,5,0,0,0,0
-1290,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-1291,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Ga,216,,0,0,0,0,0
-1292,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Ganda,217,,5,5,0,0,0
-1293,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Igbo,218,,20,15,0,0,0
-1294,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Lingala,219,,5,0,0,0,0
-1295,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Rundi (Kirundi),220,,0,0,0,0,0
-1296,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Kinyarwanda (Rwanda),221,,5,0,0,5,0
-1297,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Shona,222,,15,15,0,0,0
-1298,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Swahili,223,,25,15,0,0,10
-1299,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Wolof,224,,5,0,0,0,0
-1300,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Yoruba,225,,35,35,0,0,0
-1301,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Niger-Congo languages, n.i.e.",226,,30,30,0,0,0
-1302,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Nilo-Saharan languages,227,,20,15,0,0,0
-1303,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Dinka,228,,5,5,0,0,0
-1304,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,15,10,0,0,0
-1305,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Sign languages,230,,70,25,0,0,45
-1306,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,American Sign Language,231,,25,15,0,0,10
-1307,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Quebec Sign Language,232,,0,0,0,0,0
-1308,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Sign languages, n.i.e",233,,45,10,0,0,35
-1309,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Sino-Tibetan languages,234,,830,765,0,15,50
-1310,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Chinese languages,235,,815,750,0,20,45
-1311,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Cantonese,236,,195,165,0,5,20
-1312,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Hakka,237,,5,0,0,0,5
-1313,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Mandarin,238,,495,470,0,5,15
-1314,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Min Dong,239,,0,0,0,0,0
-1315,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,10,10,0,0,0
-1316,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Wu (Shanghainese),241,,5,0,0,0,0
-1317,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Chinese, n.o.s.",242,,100,95,0,0,10
-1318,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Chinese languages, n.i.e.",243,,5,0,0,0,0
-1319,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tibeto-Burman languages,244,,10,10,0,0,0
-1320,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Burmese,245,,5,0,0,0,0
-1321,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Karenic languages,246,,10,5,0,0,0
-1322,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tibetan,247,,5,0,0,0,0
-1323,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,0,0,0,0,5
-1324,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Tai-Kadai languages,249,,20,20,0,0,0
-1325,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Lao,250,,5,5,0,0,0
-1326,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Thai,251,,15,15,0,0,0
-1327,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-1328,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Turkic languages,253,,40,35,0,5,0
-1329,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Azerbaijani,254,,5,5,0,0,0
-1330,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Turkish,255,,30,30,0,5,0
-1331,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Uyghur,256,,0,0,0,0,0
-1332,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Uzbek,257,,5,5,0,0,0
-1333,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Turkic languages, n.i.e.",258,,0,0,0,0,0
-1334,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Uralic languages,259,,25,15,0,10,0
-1335,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Estonian,260,,10,5,0,5,0
-1336,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Finnish,261,,5,0,0,0,0
-1337,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Hungarian,262,,10,10,0,0,0
-1338,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-1339,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"Other languages, n.i.e.",264,,15,10,0,5,0
-1340,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,Multiple responses,265,,820,555,0,255,10
-1341,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,English and French,266,,250,65,0,185,0
-1342,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,English and non-official language,267,,525,485,0,35,10
-1343,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,French and non-official language,268,,30,0,0,25,0
-1344,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Male,2,,"English, French and non-official language",269,,10,0,0,10,0
-1345,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Total - Mother tongue,1,1.0,263365,247490,55,15365,455
-1346,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Single responses,2,,262490,246955,55,15030,450
-1347,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Official languages,3,,256755,241985,50,14685,35
-1348,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,English,4,,255640,241855,5,13745,35
-1349,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,French,5,,1115,125,50,940,0
-1350,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Non-official languages,6,,5735,4970,10,345,410
-1351,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Aboriginal languages,7,,1355,1255,0,20,80
-1352,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Algonquian languages,8,,1100,1010,0,15,75
-1353,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Blackfoot,9,,0,0,0,0,0
-1354,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Cree-Montagnais languages,10,,1095,1005,0,15,70
-1355,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Atikamekw,11,,0,0,0,0,0
-1356,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Montagnais (Innu),12,,785,735,0,15,30
-1357,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Moose Cree,13,,0,0,0,0,0
-1358,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Naskapi,14,,305,270,0,0,40
-1359,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Northern East Cree,15,,0,0,0,0,0
-1360,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Plains Cree,16,,0,0,0,0,0
-1361,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Southern East Cree,17,,0,0,0,0,0
-1362,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Swampy Cree,18,,0,0,0,0,0
-1363,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Woods Cree,19,,0,0,0,0,0
-1364,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Cree, n.o.s.",20,,5,5,0,0,0
-1365,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Eastern Algonquian languages,21,,5,0,0,5,0
-1366,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Malecite,22,,0,0,0,0,0
-1367,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Mi'kmaq,23,,5,0,0,0,0
-1368,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Ojibway-Potawatomi languages,24,,0,0,0,0,0
-1369,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Algonquin,25,,0,0,0,0,0
-1370,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Ojibway,26,,0,0,0,0,0
-1371,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Oji-Cree,27,,0,0,0,0,0
-1372,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Ottawa (Odawa),28,,0,0,0,0,0
-1373,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-1374,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Athabaskan languages,30,,0,0,0,0,0
-1375,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Northern Athabaskan languages,31,,0,0,0,0,0
-1376,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-1377,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Beaver,33,,0,0,0,0,0
-1378,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Carrier,34,,0,0,0,0,0
-1379,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Chilcotin,35,,0,0,0,0,0
-1380,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Dene,36,,0,0,0,0,0
-1381,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Dogrib (Tlicho),37,,0,0,0,0,0
-1382,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Gwich'in,38,,0,0,0,0,0
-1383,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Sarsi (Sarcee),39,,0,0,0,0,0
-1384,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Sekani,40,,0,0,0,0,0
-1385,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Slavey-Hare languages,41,,0,0,0,0,0
-1386,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,North Slavey (Hare),42,,0,0,0,0,0
-1387,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,South Slavey,43,,0,0,0,0,0
-1388,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Slavey, n.o.s.",44,,0,0,0,0,0
-1389,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tahltan languages,45,,0,0,0,0,0
-1390,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Kaska (Nahani),46,,0,0,0,0,0
-1391,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tahltan,47,,0,0,0,0,0
-1392,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tutchone languages,48,,0,0,0,0,0
-1393,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Northern Tutchone,49,,0,0,0,0,0
-1394,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Southern Tutchone,50,,0,0,0,0,0
-1395,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-1396,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Haida,52,,0,0,0,0,0
-1397,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Inuit languages,53,,255,245,0,0,5
-1398,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Inuinnaqtun (Inuvialuktun),54,,0,5,0,0,0
-1399,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Inuktitut,55,,230,225,0,0,5
-1400,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Inuit languages, n.i.e.",56,,20,20,0,0,0
-1401,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Iroquoian languages,57,,0,0,0,0,0
-1402,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Cayuga,58,,0,0,0,0,0
-1403,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Mohawk,59,,0,0,0,0,0
-1404,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Oneida,60,,0,0,0,0,0
-1405,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-1406,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Kutenai,62,,0,0,0,0,0
-1407,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Michif,63,,0,0,0,0,0
-1408,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Salish languages,64,,0,0,0,0,0
-1409,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Comox,65,,0,0,0,0,0
-1410,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Halkomelem,66,,0,0,0,0,0
-1411,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Lillooet,67,,0,0,0,0,0
-1412,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Okanagan,68,,0,0,0,0,0
-1413,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-1414,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Squamish,70,,0,0,0,0,0
-1415,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Straits,71,,0,0,0,0,0
-1416,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-1417,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-1418,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Siouan languages,74,,0,0,0,0,0
-1419,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Dakota,75,,0,0,0,0,0
-1420,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Stoney,76,,0,0,0,0,0
-1421,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-1422,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tlingit,78,,0,0,0,0,0
-1423,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tsimshian languages,79,,0,0,0,0,0
-1424,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Gitxsan (Gitksan),80,,0,0,0,0,0
-1425,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Nisga'a,81,,0,0,0,0,0
-1426,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tsimshian,82,,0,0,0,0,0
-1427,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Wakashan languages,83,,0,0,0,0,0
-1428,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Haisla,84,,0,0,0,0,0
-1429,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Heiltsuk,85,,0,0,0,0,0
-1430,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-1431,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-1432,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-1433,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-1434,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Non-Aboriginal languages,90,,4380,3715,5,325,335
-1435,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Afro-Asiatic languages,91,,570,390,5,25,150
-1436,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Berber languages,92,,5,0,0,0,0
-1437,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Kabyle,93,,0,0,0,0,0
-1438,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Berber languages, n.i.e.",94,,0,5,0,0,0
-1439,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Cushitic languages,95,,20,20,0,0,5
-1440,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Bilen,96,,5,5,0,0,0
-1441,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Oromo,97,,15,15,0,0,0
-1442,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Somali,98,,0,0,0,0,0
-1443,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-1444,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Semitic languages,100,,545,365,5,20,150
-1445,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Amharic,101,,10,10,0,0,0
-1446,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Arabic,102,,490,320,5,25,140
-1447,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-1448,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-1449,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Harari,105,,0,0,0,0,0
-1450,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Hebrew,106,,5,5,0,0,0
-1451,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Maltese,107,,5,0,0,0,0
-1452,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tigrigna,108,,35,25,0,0,5
-1453,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
-1454,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-1455,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Austro-Asiatic languages,111,,25,25,0,0,0
-1456,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Khmer (Cambodian),112,,5,5,0,0,0
-1457,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Vietnamese,113,,25,25,0,0,0
-1458,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-1459,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Austronesian languages,115,,645,625,0,10,5
-1460,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Bikol,116,,0,0,0,0,0
-1461,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Cebuano,117,,40,40,0,0,0
-1462,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Fijian,118,,0,0,0,0,0
-1463,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Hiligaynon,119,,5,0,0,0,0
-1464,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Ilocano,120,,20,15,0,0,0
-1465,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Malagasy,121,,0,0,0,0,0
-1466,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Malay,122,,15,10,0,0,0
-1467,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,5,5,0,0,0
-1468,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Pangasinan,124,,0,0,0,0,0
-1469,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Tagalog (Pilipino, Filipino)",125,,560,550,0,10,5
-1470,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Waray-Waray,126,,0,0,0,0,0
-1471,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Austronesian languages, n.i.e.",127,,0,0,0,0,0
-1472,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Creole languages,128,,20,10,0,10,0
-1473,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Haitian Creole,129,,0,0,0,0,0
-1474,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Creole, n.o.s.",130,,10,0,0,5,0
-1475,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Creole languages, n.i.e.",131,,10,5,0,0,0
-1476,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Dravidian languages,132,,120,115,0,5,5
-1477,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Kannada,133,,10,10,0,0,0
-1478,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Malayalam,134,,45,45,0,0,0
-1479,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tamil,135,,40,40,0,0,0
-1480,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Telugu,136,,25,20,0,0,0
-1481,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
-1482,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Hmong-Mien languages,138,,0,0,0,0,0
-1483,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Indo-European languages,139,,1760,1475,0,220,60
-1484,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Albanian,140,,40,35,0,0,5
-1485,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Armenian,141,,0,0,0,0,0
-1486,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Balto-Slavic languages,142,,275,235,0,40,5
-1487,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Baltic languages,143,,0,5,0,0,0
-1488,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Latvian,144,,5,0,0,0,0
-1489,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Lithuanian,145,,0,0,0,0,0
-1490,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Slavic languages,146,,275,235,0,40,0
-1491,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Belarusan,147,,0,0,0,0,0
-1492,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Bosnian,148,,5,5,0,0,0
-1493,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Bulgarian,149,,30,25,0,0,5
-1494,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Croatian,150,,10,10,0,0,0
-1495,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Czech,151,,15,10,0,0,0
-1496,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Macedonian,152,,5,5,0,0,0
-1497,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Polish,153,,45,40,0,10,0
-1498,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Russian,154,,100,90,0,10,0
-1499,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Serbian,155,,15,15,0,5,0
-1500,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Serbo-Croatian,156,,5,0,0,5,0
-1501,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Slovak,157,,5,0,0,5,0
-1502,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Slovene (Slovenian),158,,5,5,0,5,0
-1503,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Ukrainian,159,,25,25,0,5,0
-1504,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
-1505,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Celtic languages,161,,10,5,0,5,0
-1506,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Scottish Gaelic,162,,5,5,0,0,0
-1507,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Welsh,163,,5,5,0,0,0
-1508,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Celtic languages, n.i.e.",164,,5,0,0,5,0
-1509,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Germanic languages,165,,295,230,0,60,0
-1510,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Afrikaans,166,,25,25,0,0,0
-1511,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Danish,167,,25,15,0,0,5
-1512,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Dutch,168,,45,35,0,5,0
-1513,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Frisian,169,,0,0,0,0,0
-1514,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,German,170,,170,130,0,45,0
-1515,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Icelandic,171,,10,10,0,0,0
-1516,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Norwegian,172,,15,10,0,0,0
-1517,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Swedish,173,,10,5,0,0,0
-1518,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Vlaams (Flemish),174,,0,0,0,0,0
-1519,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Yiddish,175,,0,0,0,0,0
-1520,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Germanic languages, n.i.e.",176,,0,0,0,0,0
-1521,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Greek,177,,15,15,0,0,0
-1522,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Indo-Iranian languages,178,,675,610,0,35,25
-1523,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Indo-Aryan languages,179,,530,480,0,30,15
-1524,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Bengali,180,,105,100,0,0,0
-1525,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Gujarati,181,,25,25,0,0,0
-1526,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Hindi,182,,70,65,0,5,0
-1527,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Kashmiri,183,,0,0,0,0,0
-1528,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Konkani,184,,0,0,0,0,0
-1529,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Marathi,185,,10,10,0,0,0
-1530,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Nepali,186,,55,50,0,5,5
-1531,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Oriya (Odia),187,,5,0,0,0,0
-1532,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Punjabi (Panjabi),188,,90,80,0,5,0
-1533,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Sindhi,189,,10,10,0,5,0
-1534,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Sinhala (Sinhalese),190,,40,35,0,0,0
-1535,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Urdu,191,,120,110,0,10,5
-1536,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Iranian languages,192,,130,120,0,5,10
-1537,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Kurdish,193,,5,5,0,0,0
-1538,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Pashto,194,,20,15,0,0,0
-1539,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Persian (Farsi),195,,110,100,0,5,5
-1540,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Indo-Iranian languages, n.i.e.",196,,10,10,0,0,0
-1541,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Italic (Romance) languages,197,,450,340,0,90,25
-1542,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Catalan,198,,0,0,0,0,0
-1543,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Italian,199,,45,30,0,10,0
-1544,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Portuguese,200,,75,60,0,10,5
-1545,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Romanian,201,,25,15,0,10,0
-1546,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Spanish,202,,305,230,0,50,20
-1547,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-1548,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Japanese,204,,30,25,0,0,0
-1549,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Kartvelian languages,205,,0,0,0,0,0
-1550,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Georgian,206,,0,0,0,0,0
-1551,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Korean,207,,80,70,0,5,5
-1552,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Mongolic languages,208,,0,5,0,0,0
-1553,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Mongolian,209,,0,0,0,0,0
-1554,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Niger-Congo languages,210,,150,115,0,20,15
-1555,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Akan (Twi),211,,15,15,0,0,0
-1556,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Bamanankan,212,,0,0,0,0,0
-1557,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Edo,213,,0,0,0,0,0
-1558,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Ewe,214,,0,0,0,0,0
-1559,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-1560,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Ga,216,,5,0,0,0,0
-1561,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Ganda,217,,0,0,0,0,0
-1562,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Igbo,218,,15,10,0,0,0
-1563,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Lingala,219,,5,0,0,5,0
-1564,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Rundi (Kirundi),220,,10,5,0,0,0
-1565,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Kinyarwanda (Rwanda),221,,5,0,0,5,0
-1566,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Shona,222,,15,15,0,0,0
-1567,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Swahili,223,,25,5,0,0,20
-1568,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Wolof,224,,5,5,0,0,0
-1569,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Yoruba,225,,25,20,0,0,0
-1570,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Niger-Congo languages, n.i.e.",226,,35,30,0,5,0
-1571,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Nilo-Saharan languages,227,,20,15,5,5,5
-1572,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Dinka,228,,5,0,0,0,0
-1573,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,10,10,0,0,0
-1574,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Sign languages,230,,50,30,0,0,20
-1575,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,American Sign Language,231,,25,20,0,0,5
-1576,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Quebec Sign Language,232,,0,0,0,0,0
-1577,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Sign languages, n.i.e",233,,25,15,0,0,20
-1578,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Sino-Tibetan languages,234,,790,710,0,15,70
-1579,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Chinese languages,235,,775,695,0,15,65
-1580,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Cantonese,236,,160,135,0,5,25
-1581,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Hakka,237,,5,5,0,0,0
-1582,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Mandarin,238,,495,460,0,5,30
-1583,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Min Dong,239,,0,0,0,0,0
-1584,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,20,20,0,0,0
-1585,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Wu (Shanghainese),241,,10,10,0,0,0
-1586,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Chinese, n.o.s.",242,,85,75,0,5,5
-1587,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Chinese languages, n.i.e.",243,,0,5,0,0,0
-1588,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tibeto-Burman languages,244,,10,15,0,0,0
-1589,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Burmese,245,,10,5,0,0,0
-1590,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Karenic languages,246,,0,5,0,0,0
-1591,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tibetan,247,,0,5,0,0,0
-1592,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,0,5,0,0,0
-1593,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Tai-Kadai languages,249,,30,30,0,0,0
-1594,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Lao,250,,0,5,0,0,0
-1595,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Thai,251,,25,30,0,0,0
-1596,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-1597,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Turkic languages,253,,30,25,0,5,0
-1598,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Azerbaijani,254,,0,5,0,0,0
-1599,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Turkish,255,,15,10,0,5,0
-1600,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Uyghur,256,,0,0,0,0,0
-1601,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Uzbek,257,,5,5,0,0,0
-1602,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Turkic languages, n.i.e.",258,,5,5,0,0,0
-1603,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Uralic languages,259,,70,55,0,15,5
-1604,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Estonian,260,,15,5,0,5,5
-1605,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Finnish,261,,15,15,0,5,0
-1606,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Hungarian,262,,40,35,0,5,0
-1607,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-1608,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"Other languages, n.i.e.",264,,5,5,0,0,0
-1609,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,Multiple responses,265,,875,540,0,335,5
-1610,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,English and French,266,,335,75,0,265,0
-1611,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,English and non-official language,267,,495,455,0,35,5
-1612,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,French and non-official language,268,,30,5,0,20,0
-1613,2016,10,1,Newfoundland and Labrador,4.0,0, ,10,Female,3,,"English, French and non-official language",269,,15,0,0,15,0
+GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+Newfoundland and Labrador,10,Total - Sex,Total - Mother tongue,515680,488800,115,25945,815
+Newfoundland and Labrador,10,Total - Sex,Single responses,513980,487710,115,25355,805
+Newfoundland and Labrador,10,Total - Sex,Official languages,502060,477245,95,24640,80
+Newfoundland and Labrador,10,Total - Sex,English,499705,477010,10,22605,75
+Newfoundland and Labrador,10,Total - Sex,French,2350,230,90,2030,0
+Newfoundland and Labrador,10,Total - Sex,Non-official languages,11920,10460,15,715,730
+Newfoundland and Labrador,10,Total - Sex,Aboriginal languages,2620,2450,5,40,125
+Newfoundland and Labrador,10,Total - Sex,Algonquian languages,2125,1970,5,35,120
+Newfoundland and Labrador,10,Total - Sex,Blackfoot,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Cree-Montagnais languages,2120,1960,5,35,120
+Newfoundland and Labrador,10,Total - Sex,Atikamekw,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Montagnais (Innu),1510,1410,5,30,65
+Newfoundland and Labrador,10,Total - Sex,Moose Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Naskapi,600,545,0,0,60
+Newfoundland and Labrador,10,Total - Sex,Northern East Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Plains Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Southern East Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Swampy Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Woods Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Cree, n.o.s.",10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Eastern Algonquian languages,5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Malecite,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Mi'kmaq,5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Ojibway-Potawatomi languages,0,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Algonquin,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Ojibway,5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Oji-Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Ottawa (Odawa),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Algonquian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Athabaskan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Northern Athabaskan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Babine (Wetsuwet'en),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Beaver,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Carrier,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Chilcotin,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Dene,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Dogrib (Tlicho),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Gwich'in,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Sarsi (Sarcee),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Sekani,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Slavey-Hare languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,North Slavey (Hare),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,South Slavey,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Slavey, n.o.s.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tahltan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Kaska (Nahani),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tahltan,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tutchone languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Northern Tutchone,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Southern Tutchone,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Haida,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Inuit languages,485,475,0,0,10
+Newfoundland and Labrador,10,Total - Sex,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Inuktitut,435,425,0,0,10
+Newfoundland and Labrador,10,Total - Sex,"Inuit languages, n.i.e.",50,50,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Iroquoian languages,0,0,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Cayuga,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Mohawk,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Oneida,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Kutenai,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Michif,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Salish languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Comox,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Halkomelem,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Lillooet,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Okanagan,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Shuswap (Secwepemctsin),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Squamish,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Straits,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Thompson (Ntlakapamux),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Salish languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Siouan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Dakota,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Stoney,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Siouan languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tlingit,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tsimshian languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Gitxsan (Gitksan),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Nisga'a,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tsimshian,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Wakashan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Haisla,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Heiltsuk,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Kwakiutl (Kwak'wala),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Wakashan languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Aboriginal languages, n.o.s.",5,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Non-Aboriginal languages,9300,8020,10,675,600
+Newfoundland and Labrador,10,Total - Sex,Afro-Asiatic languages,1295,940,5,90,255
+Newfoundland and Labrador,10,Total - Sex,Berber languages,5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Kabyle,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Berber languages, n.i.e.",5,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Cushitic languages,45,40,0,0,5
+Newfoundland and Labrador,10,Total - Sex,Bilen,10,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Oromo,30,35,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Somali,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Cushitic languages, n.i.e.",5,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Semitic languages,1245,895,5,95,250
+Newfoundland and Labrador,10,Total - Sex,Amharic,25,20,0,0,5
+Newfoundland and Labrador,10,Total - Sex,Arabic,1140,800,5,90,245
+Newfoundland and Labrador,10,Total - Sex,Assyrian Neo-Aramaic,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Chaldean Neo-Aramaic,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Harari,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Hebrew,10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Maltese,0,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tigrigna,65,55,0,5,5
+Newfoundland and Labrador,10,Total - Sex,"Semitic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Austro-Asiatic languages,55,50,0,10,0
+Newfoundland and Labrador,10,Total - Sex,Khmer (Cambodian),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Vietnamese,55,45,0,10,0
+Newfoundland and Labrador,10,Total - Sex,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Austronesian languages,1115,1090,0,15,5
+Newfoundland and Labrador,10,Total - Sex,Bikol,5,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Cebuano,55,55,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Fijian,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Hiligaynon,5,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Ilocano,25,25,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Malagasy,5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Malay,25,25,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Pampangan (Kapampangan, Pampango)",10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Pangasinan,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Tagalog (Pilipino, Filipino)",975,955,5,15,5
+Newfoundland and Labrador,10,Total - Sex,Waray-Waray,5,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Austronesian languages, n.i.e.",10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Creole languages,35,20,0,15,0
+Newfoundland and Labrador,10,Total - Sex,Haitian Creole,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Creole, n.o.s.",20,5,0,15,0
+Newfoundland and Labrador,10,Total - Sex,"Creole languages, n.i.e.",15,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Dravidian languages,270,265,0,5,5
+Newfoundland and Labrador,10,Total - Sex,Kannada,10,15,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Malayalam,100,100,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Tamil,110,110,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Telugu,50,45,0,5,0
+Newfoundland and Labrador,10,Total - Sex,"Dravidian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Hmong-Mien languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Indo-European languages,4020,3480,0,425,110
+Newfoundland and Labrador,10,Total - Sex,Albanian,85,70,0,5,15
+Newfoundland and Labrador,10,Total - Sex,Armenian,10,5,0,0,5
+Newfoundland and Labrador,10,Total - Sex,Balto-Slavic languages,585,505,5,75,10
+Newfoundland and Labrador,10,Total - Sex,Baltic languages,10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Latvian,10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Lithuanian,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Slavic languages,575,495,5,70,10
+Newfoundland and Labrador,10,Total - Sex,Belarusan,5,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Bosnian,15,15,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Bulgarian,60,50,0,10,0
+Newfoundland and Labrador,10,Total - Sex,Croatian,30,25,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Czech,35,30,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Macedonian,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Polish,105,90,0,15,0
+Newfoundland and Labrador,10,Total - Sex,Russian,215,190,0,25,5
+Newfoundland and Labrador,10,Total - Sex,Serbian,30,25,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Serbo-Croatian,10,5,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Slovak,5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Slovene (Slovenian),10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Ukrainian,40,40,0,5,0
+Newfoundland and Labrador,10,Total - Sex,"Slavic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Celtic languages,25,15,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Scottish Gaelic,10,10,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Welsh,5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Celtic languages, n.i.e.",5,5,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Germanic languages,715,600,0,105,5
+Newfoundland and Labrador,10,Total - Sex,Afrikaans,55,50,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Danish,55,50,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Dutch,110,90,0,20,0
+Newfoundland and Labrador,10,Total - Sex,Frisian,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,German,380,310,0,65,5
+Newfoundland and Labrador,10,Total - Sex,Icelandic,30,30,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Norwegian,55,50,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Swedish,15,10,0,0,5
+Newfoundland and Labrador,10,Total - Sex,Vlaams (Flemish),0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Yiddish,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Germanic languages, n.i.e.",10,5,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Greek,55,50,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Indo-Iranian languages,1640,1520,0,70,50
+Newfoundland and Labrador,10,Total - Sex,Indo-Aryan languages,1330,1230,0,65,35
+Newfoundland and Labrador,10,Total - Sex,Bengali,325,315,0,10,5
+Newfoundland and Labrador,10,Total - Sex,Gujarati,70,65,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Hindi,175,165,0,10,0
+Newfoundland and Labrador,10,Total - Sex,Kashmiri,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Konkani,5,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Marathi,25,25,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Nepali,140,125,0,0,15
+Newfoundland and Labrador,10,Total - Sex,Oriya (Odia),5,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Punjabi (Panjabi),215,195,0,20,0
+Newfoundland and Labrador,10,Total - Sex,Sindhi,25,15,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Sinhala (Sinhalese),70,70,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Urdu,285,255,0,20,5
+Newfoundland and Labrador,10,Total - Sex,Iranian languages,280,250,0,10,15
+Newfoundland and Labrador,10,Total - Sex,Kurdish,15,5,0,0,5
+Newfoundland and Labrador,10,Total - Sex,Pashto,30,25,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Persian (Farsi),235,220,0,10,15
+Newfoundland and Labrador,10,Total - Sex,"Indo-Iranian languages, n.i.e.",30,30,0,0,5
+Newfoundland and Labrador,10,Total - Sex,Italic (Romance) languages,915,715,0,165,30
+Newfoundland and Labrador,10,Total - Sex,Catalan,5,0,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Italian,105,85,0,25,0
+Newfoundland and Labrador,10,Total - Sex,Portuguese,165,125,0,30,10
+Newfoundland and Labrador,10,Total - Sex,Romanian,45,25,0,20,0
+Newfoundland and Labrador,10,Total - Sex,Spanish,595,475,0,95,25
+Newfoundland and Labrador,10,Total - Sex,"Italic (Romance) languages, n.i.e.",5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Japanese,45,40,5,5,0
+Newfoundland and Labrador,10,Total - Sex,Kartvelian languages,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Georgian,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Korean,125,115,0,5,5
+Newfoundland and Labrador,10,Total - Sex,Mongolic languages,5,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Mongolian,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Niger-Congo languages,315,255,0,35,25
+Newfoundland and Labrador,10,Total - Sex,Akan (Twi),30,30,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Bamanankan,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Edo,5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Ewe,5,5,0,5,0
+Newfoundland and Labrador,10,Total - Sex,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Ga,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Ganda,10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Igbo,30,30,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Lingala,5,5,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Rundi (Kirundi),5,0,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Kinyarwanda (Rwanda),5,5,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Shona,30,30,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Swahili,55,25,0,5,20
+Newfoundland and Labrador,10,Total - Sex,Wolof,10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Yoruba,60,60,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Niger-Congo languages, n.i.e.",70,60,0,10,0
+Newfoundland and Labrador,10,Total - Sex,Nilo-Saharan languages,35,30,0,5,5
+Newfoundland and Labrador,10,Total - Sex,Dinka,10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Nilo-Saharan languages, n.i.e.",25,20,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Sign languages,120,55,0,0,65
+Newfoundland and Labrador,10,Total - Sex,American Sign Language,50,30,0,0,20
+Newfoundland and Labrador,10,Total - Sex,Quebec Sign Language,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Sign languages, n.i.e",75,25,0,0,50
+Newfoundland and Labrador,10,Total - Sex,Sino-Tibetan languages,1620,1470,0,30,115
+Newfoundland and Labrador,10,Total - Sex,Chinese languages,1595,1450,0,30,115
+Newfoundland and Labrador,10,Total - Sex,Cantonese,360,295,0,15,50
+Newfoundland and Labrador,10,Total - Sex,Hakka,10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Mandarin,990,925,0,15,50
+Newfoundland and Labrador,10,Total - Sex,Min Dong,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",35,30,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Wu (Shanghainese),10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Chinese, n.o.s.",190,170,0,0,15
+Newfoundland and Labrador,10,Total - Sex,"Chinese languages, n.i.e.",5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tibeto-Burman languages,30,25,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Burmese,10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Karenic languages,10,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tibetan,0,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Tibeto-Burman languages, n.i.e.",5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Tai-Kadai languages,50,50,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Lao,5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Thai,45,45,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Turkic languages,70,60,0,10,0
+Newfoundland and Labrador,10,Total - Sex,Azerbaijani,10,10,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Turkish,45,40,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Uyghur,0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Uzbek,15,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Turkic languages, n.i.e.",5,5,0,0,0
+Newfoundland and Labrador,10,Total - Sex,Uralic languages,90,70,0,20,0
+Newfoundland and Labrador,10,Total - Sex,Estonian,20,10,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Finnish,20,15,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Hungarian,55,45,0,10,0
+Newfoundland and Labrador,10,Total - Sex,"Uralic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Total - Sex,"Other languages, n.i.e.",20,15,0,5,0
+Newfoundland and Labrador,10,Total - Sex,Multiple responses,1700,1090,5,590,15
+Newfoundland and Labrador,10,Total - Sex,English and French,580,135,0,445,0
+Newfoundland and Labrador,10,Total - Sex,English and non-official language,1025,945,0,70,15
+Newfoundland and Labrador,10,Total - Sex,French and non-official language,55,5,5,50,0
+Newfoundland and Labrador,10,Total - Sex,"English, French and non-official language",25,5,0,20,0
+Newfoundland and Labrador,10,Male,Total - Mother tongue,252310,241310,60,10580,365
+Newfoundland and Labrador,10,Male,Single responses,251490,240755,60,10325,355
+Newfoundland and Labrador,10,Male,Official languages,245300,235260,50,9955,40
+Newfoundland and Labrador,10,Male,English,244065,235155,5,8860,40
+Newfoundland and Labrador,10,Male,French,1240,105,40,1090,0
+Newfoundland and Labrador,10,Male,Non-official languages,6185,5495,10,370,315
+Newfoundland and Labrador,10,Male,Aboriginal languages,1265,1190,5,20,50
+Newfoundland and Labrador,10,Male,Algonquian languages,1030,955,5,15,45
+Newfoundland and Labrador,10,Male,Blackfoot,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Cree-Montagnais languages,1025,955,5,20,45
+Newfoundland and Labrador,10,Male,Atikamekw,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Montagnais (Innu),725,680,5,20,25
+Newfoundland and Labrador,10,Male,Moose Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Naskapi,295,275,0,5,20
+Newfoundland and Labrador,10,Male,Northern East Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Plains Cree,0,5,0,0,0
+Newfoundland and Labrador,10,Male,Southern East Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Swampy Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Woods Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Cree, n.o.s.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Eastern Algonquian languages,5,0,0,0,0
+Newfoundland and Labrador,10,Male,Malecite,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Mi'kmaq,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Ojibway-Potawatomi languages,0,5,0,0,0
+Newfoundland and Labrador,10,Male,Algonquin,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Ojibway,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Oji-Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Ottawa (Odawa),0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Algonquian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Athabaskan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Northern Athabaskan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Babine (Wetsuwet'en),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Beaver,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Carrier,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Chilcotin,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Dene,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Dogrib (Tlicho),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Gwich'in,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Sarsi (Sarcee),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Sekani,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Slavey-Hare languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,North Slavey (Hare),0,0,0,0,0
+Newfoundland and Labrador,10,Male,South Slavey,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Slavey, n.o.s.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Tahltan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Kaska (Nahani),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Tahltan,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Tutchone languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Northern Tutchone,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Southern Tutchone,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Haida,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Inuit languages,235,230,0,0,5
+Newfoundland and Labrador,10,Male,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Inuktitut,205,200,0,0,5
+Newfoundland and Labrador,10,Male,"Inuit languages, n.i.e.",30,30,0,0,0
+Newfoundland and Labrador,10,Male,Iroquoian languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Cayuga,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Mohawk,5,0,0,5,0
+Newfoundland and Labrador,10,Male,Oneida,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Kutenai,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Michif,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Salish languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Comox,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Halkomelem,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Lillooet,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Okanagan,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Shuswap (Secwepemctsin),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Squamish,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Straits,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Thompson (Ntlakapamux),0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Salish languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Siouan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Dakota,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Stoney,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Siouan languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Tlingit,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Tsimshian languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Gitxsan (Gitksan),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Nisga'a,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Tsimshian,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Wakashan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Haisla,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Heiltsuk,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Kwakiutl (Kwak'wala),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Wakashan languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Aboriginal languages, n.o.s.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Non-Aboriginal languages,4920,4305,5,350,265
+Newfoundland and Labrador,10,Male,Afro-Asiatic languages,725,555,0,70,105
+Newfoundland and Labrador,10,Male,Berber languages,5,0,0,0,0
+Newfoundland and Labrador,10,Male,Kabyle,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Berber languages, n.i.e.",5,0,0,0,0
+Newfoundland and Labrador,10,Male,Cushitic languages,25,20,0,0,0
+Newfoundland and Labrador,10,Male,Bilen,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Oromo,20,15,0,0,0
+Newfoundland and Labrador,10,Male,Somali,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Cushitic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Semitic languages,705,530,0,65,105
+Newfoundland and Labrador,10,Male,Amharic,15,10,0,0,5
+Newfoundland and Labrador,10,Male,Arabic,650,485,0,65,100
+Newfoundland and Labrador,10,Male,Assyrian Neo-Aramaic,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Chaldean Neo-Aramaic,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Harari,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Hebrew,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Maltese,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Tigrigna,30,30,0,0,5
+Newfoundland and Labrador,10,Male,"Semitic languages, n.i.e.",0,5,0,0,0
+Newfoundland and Labrador,10,Male,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Austro-Asiatic languages,30,25,0,5,0
+Newfoundland and Labrador,10,Male,Khmer (Cambodian),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Vietnamese,30,25,0,0,0
+Newfoundland and Labrador,10,Male,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Austronesian languages,475,470,0,5,5
+Newfoundland and Labrador,10,Male,Bikol,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Cebuano,20,20,0,5,0
+Newfoundland and Labrador,10,Male,Fijian,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Hiligaynon,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Ilocano,10,10,0,0,0
+Newfoundland and Labrador,10,Male,Malagasy,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Malay,15,15,0,0,0
+Newfoundland and Labrador,10,Male,"Pampangan (Kapampangan, Pampango)",5,10,0,0,0
+Newfoundland and Labrador,10,Male,Pangasinan,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Tagalog (Pilipino, Filipino)",415,410,0,5,0
+Newfoundland and Labrador,10,Male,Waray-Waray,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Austronesian languages, n.i.e.",5,5,0,0,0
+Newfoundland and Labrador,10,Male,Creole languages,20,5,0,10,0
+Newfoundland and Labrador,10,Male,Haitian Creole,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Creole, n.o.s.",15,0,0,10,0
+Newfoundland and Labrador,10,Male,"Creole languages, n.i.e.",5,5,0,0,0
+Newfoundland and Labrador,10,Male,Dravidian languages,150,150,0,0,0
+Newfoundland and Labrador,10,Male,Kannada,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Malayalam,55,55,0,0,0
+Newfoundland and Labrador,10,Male,Tamil,70,65,0,5,0
+Newfoundland and Labrador,10,Male,Telugu,25,25,0,0,0
+Newfoundland and Labrador,10,Male,"Dravidian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Hmong-Mien languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Indo-European languages,2260,2010,0,205,45
+Newfoundland and Labrador,10,Male,Albanian,45,35,0,0,5
+Newfoundland and Labrador,10,Male,Armenian,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Balto-Slavic languages,305,270,0,30,5
+Newfoundland and Labrador,10,Male,Baltic languages,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Latvian,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Lithuanian,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Slavic languages,300,265,0,30,5
+Newfoundland and Labrador,10,Male,Belarusan,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Bosnian,10,10,0,0,0
+Newfoundland and Labrador,10,Male,Bulgarian,30,25,0,5,5
+Newfoundland and Labrador,10,Male,Croatian,15,20,0,0,0
+Newfoundland and Labrador,10,Male,Czech,20,15,0,5,0
+Newfoundland and Labrador,10,Male,Macedonian,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Polish,55,50,0,5,0
+Newfoundland and Labrador,10,Male,Russian,115,100,0,15,0
+Newfoundland and Labrador,10,Male,Serbian,20,15,0,0,0
+Newfoundland and Labrador,10,Male,Serbo-Croatian,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Slovak,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Slovene (Slovenian),5,5,0,0,0
+Newfoundland and Labrador,10,Male,Ukrainian,15,15,0,5,0
+Newfoundland and Labrador,10,Male,"Slavic languages, n.i.e.",5,0,0,0,0
+Newfoundland and Labrador,10,Male,Celtic languages,10,10,0,0,0
+Newfoundland and Labrador,10,Male,Scottish Gaelic,5,5,0,5,0
+Newfoundland and Labrador,10,Male,Welsh,5,0,0,0,0
+Newfoundland and Labrador,10,Male,"Celtic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Germanic languages,425,370,0,50,0
+Newfoundland and Labrador,10,Male,Afrikaans,30,30,0,0,0
+Newfoundland and Labrador,10,Male,Danish,30,30,0,0,0
+Newfoundland and Labrador,10,Male,Dutch,70,55,0,15,0
+Newfoundland and Labrador,10,Male,Frisian,0,0,0,0,0
+Newfoundland and Labrador,10,Male,German,210,180,0,25,5
+Newfoundland and Labrador,10,Male,Icelandic,20,20,0,0,0
+Newfoundland and Labrador,10,Male,Norwegian,45,40,0,0,0
+Newfoundland and Labrador,10,Male,Swedish,10,10,0,5,0
+Newfoundland and Labrador,10,Male,Vlaams (Flemish),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Yiddish,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Germanic languages, n.i.e.",10,5,0,0,0
+Newfoundland and Labrador,10,Male,Greek,40,35,0,0,0
+Newfoundland and Labrador,10,Male,Indo-Iranian languages,970,905,0,30,25
+Newfoundland and Labrador,10,Male,Indo-Aryan languages,800,750,0,30,20
+Newfoundland and Labrador,10,Male,Bengali,220,210,0,5,0
+Newfoundland and Labrador,10,Male,Gujarati,40,40,0,0,0
+Newfoundland and Labrador,10,Male,Hindi,100,100,0,0,0
+Newfoundland and Labrador,10,Male,Kashmiri,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Konkani,5,0,0,0,0
+Newfoundland and Labrador,10,Male,Marathi,15,10,0,5,0
+Newfoundland and Labrador,10,Male,Nepali,80,75,0,0,10
+Newfoundland and Labrador,10,Male,Oriya (Odia),5,0,0,0,0
+Newfoundland and Labrador,10,Male,Punjabi (Panjabi),130,115,0,10,0
+Newfoundland and Labrador,10,Male,Sindhi,10,10,0,5,0
+Newfoundland and Labrador,10,Male,Sinhala (Sinhalese),35,35,0,0,0
+Newfoundland and Labrador,10,Male,Urdu,165,150,0,5,5
+Newfoundland and Labrador,10,Male,Iranian languages,145,135,0,5,5
+Newfoundland and Labrador,10,Male,Kurdish,10,5,0,0,5
+Newfoundland and Labrador,10,Male,Pashto,10,10,0,0,0
+Newfoundland and Labrador,10,Male,Persian (Farsi),125,120,0,5,5
+Newfoundland and Labrador,10,Male,"Indo-Iranian languages, n.i.e.",20,20,0,0,0
+Newfoundland and Labrador,10,Male,Italic (Romance) languages,465,375,0,80,10
+Newfoundland and Labrador,10,Male,Catalan,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Italian,60,50,0,15,0
+Newfoundland and Labrador,10,Male,Portuguese,90,70,0,20,5
+Newfoundland and Labrador,10,Male,Romanian,15,10,0,10,0
+Newfoundland and Labrador,10,Male,Spanish,295,240,0,40,10
+Newfoundland and Labrador,10,Male,"Italic (Romance) languages, n.i.e.",5,0,0,0,0
+Newfoundland and Labrador,10,Male,Japanese,15,15,0,0,0
+Newfoundland and Labrador,10,Male,Kartvelian languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Georgian,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Korean,50,50,0,0,5
+Newfoundland and Labrador,10,Male,Mongolic languages,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Mongolian,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Niger-Congo languages,170,140,0,20,5
+Newfoundland and Labrador,10,Male,Akan (Twi),20,15,0,0,0
+Newfoundland and Labrador,10,Male,Bamanankan,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Edo,5,0,0,0,0
+Newfoundland and Labrador,10,Male,Ewe,5,0,0,0,0
+Newfoundland and Labrador,10,Male,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Ga,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Ganda,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Igbo,20,15,0,0,0
+Newfoundland and Labrador,10,Male,Lingala,5,0,0,0,0
+Newfoundland and Labrador,10,Male,Rundi (Kirundi),0,0,0,0,0
+Newfoundland and Labrador,10,Male,Kinyarwanda (Rwanda),5,0,0,5,0
+Newfoundland and Labrador,10,Male,Shona,15,15,0,0,0
+Newfoundland and Labrador,10,Male,Swahili,25,15,0,0,10
+Newfoundland and Labrador,10,Male,Wolof,5,0,0,0,0
+Newfoundland and Labrador,10,Male,Yoruba,35,35,0,0,0
+Newfoundland and Labrador,10,Male,"Niger-Congo languages, n.i.e.",30,30,0,0,0
+Newfoundland and Labrador,10,Male,Nilo-Saharan languages,20,15,0,0,0
+Newfoundland and Labrador,10,Male,Dinka,5,5,0,0,0
+Newfoundland and Labrador,10,Male,"Nilo-Saharan languages, n.i.e.",15,10,0,0,0
+Newfoundland and Labrador,10,Male,Sign languages,70,25,0,0,45
+Newfoundland and Labrador,10,Male,American Sign Language,25,15,0,0,10
+Newfoundland and Labrador,10,Male,Quebec Sign Language,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Sign languages, n.i.e",45,10,0,0,35
+Newfoundland and Labrador,10,Male,Sino-Tibetan languages,830,765,0,15,50
+Newfoundland and Labrador,10,Male,Chinese languages,815,750,0,20,45
+Newfoundland and Labrador,10,Male,Cantonese,195,165,0,5,20
+Newfoundland and Labrador,10,Male,Hakka,5,0,0,0,5
+Newfoundland and Labrador,10,Male,Mandarin,495,470,0,5,15
+Newfoundland and Labrador,10,Male,Min Dong,0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",10,10,0,0,0
+Newfoundland and Labrador,10,Male,Wu (Shanghainese),5,0,0,0,0
+Newfoundland and Labrador,10,Male,"Chinese, n.o.s.",100,95,0,0,10
+Newfoundland and Labrador,10,Male,"Chinese languages, n.i.e.",5,0,0,0,0
+Newfoundland and Labrador,10,Male,Tibeto-Burman languages,10,10,0,0,0
+Newfoundland and Labrador,10,Male,Burmese,5,0,0,0,0
+Newfoundland and Labrador,10,Male,Karenic languages,10,5,0,0,0
+Newfoundland and Labrador,10,Male,Tibetan,5,0,0,0,0
+Newfoundland and Labrador,10,Male,"Tibeto-Burman languages, n.i.e.",0,0,0,0,5
+Newfoundland and Labrador,10,Male,Tai-Kadai languages,20,20,0,0,0
+Newfoundland and Labrador,10,Male,Lao,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Thai,15,15,0,0,0
+Newfoundland and Labrador,10,Male,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Turkic languages,40,35,0,5,0
+Newfoundland and Labrador,10,Male,Azerbaijani,5,5,0,0,0
+Newfoundland and Labrador,10,Male,Turkish,30,30,0,5,0
+Newfoundland and Labrador,10,Male,Uyghur,0,0,0,0,0
+Newfoundland and Labrador,10,Male,Uzbek,5,5,0,0,0
+Newfoundland and Labrador,10,Male,"Turkic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,Uralic languages,25,15,0,10,0
+Newfoundland and Labrador,10,Male,Estonian,10,5,0,5,0
+Newfoundland and Labrador,10,Male,Finnish,5,0,0,0,0
+Newfoundland and Labrador,10,Male,Hungarian,10,10,0,0,0
+Newfoundland and Labrador,10,Male,"Uralic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Male,"Other languages, n.i.e.",15,10,0,5,0
+Newfoundland and Labrador,10,Male,Multiple responses,820,555,0,255,10
+Newfoundland and Labrador,10,Male,English and French,250,65,0,185,0
+Newfoundland and Labrador,10,Male,English and non-official language,525,485,0,35,10
+Newfoundland and Labrador,10,Male,French and non-official language,30,0,0,25,0
+Newfoundland and Labrador,10,Male,"English, French and non-official language",10,0,0,10,0
+Newfoundland and Labrador,10,Female,Total - Mother tongue,263365,247490,55,15365,455
+Newfoundland and Labrador,10,Female,Single responses,262490,246955,55,15030,450
+Newfoundland and Labrador,10,Female,Official languages,256755,241985,50,14685,35
+Newfoundland and Labrador,10,Female,English,255640,241855,5,13745,35
+Newfoundland and Labrador,10,Female,French,1115,125,50,940,0
+Newfoundland and Labrador,10,Female,Non-official languages,5735,4970,10,345,410
+Newfoundland and Labrador,10,Female,Aboriginal languages,1355,1255,0,20,80
+Newfoundland and Labrador,10,Female,Algonquian languages,1100,1010,0,15,75
+Newfoundland and Labrador,10,Female,Blackfoot,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Cree-Montagnais languages,1095,1005,0,15,70
+Newfoundland and Labrador,10,Female,Atikamekw,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Montagnais (Innu),785,735,0,15,30
+Newfoundland and Labrador,10,Female,Moose Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Naskapi,305,270,0,0,40
+Newfoundland and Labrador,10,Female,Northern East Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Plains Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Southern East Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Swampy Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Woods Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Cree, n.o.s.",5,5,0,0,0
+Newfoundland and Labrador,10,Female,Eastern Algonquian languages,5,0,0,5,0
+Newfoundland and Labrador,10,Female,Malecite,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Mi'kmaq,5,0,0,0,0
+Newfoundland and Labrador,10,Female,Ojibway-Potawatomi languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Algonquin,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Ojibway,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Oji-Cree,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Ottawa (Odawa),0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Algonquian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Athabaskan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Northern Athabaskan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Babine (Wetsuwet'en),0,0,0,0,0
+Newfoundland and Labrador,10,Female,Beaver,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Carrier,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Chilcotin,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Dene,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Dogrib (Tlicho),0,0,0,0,0
+Newfoundland and Labrador,10,Female,Gwich'in,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Sarsi (Sarcee),0,0,0,0,0
+Newfoundland and Labrador,10,Female,Sekani,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Slavey-Hare languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,North Slavey (Hare),0,0,0,0,0
+Newfoundland and Labrador,10,Female,South Slavey,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Slavey, n.o.s.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Tahltan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Kaska (Nahani),0,0,0,0,0
+Newfoundland and Labrador,10,Female,Tahltan,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Tutchone languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Northern Tutchone,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Southern Tutchone,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Haida,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Inuit languages,255,245,0,0,5
+Newfoundland and Labrador,10,Female,Inuinnaqtun (Inuvialuktun),0,5,0,0,0
+Newfoundland and Labrador,10,Female,Inuktitut,230,225,0,0,5
+Newfoundland and Labrador,10,Female,"Inuit languages, n.i.e.",20,20,0,0,0
+Newfoundland and Labrador,10,Female,Iroquoian languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Cayuga,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Mohawk,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Oneida,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Kutenai,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Michif,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Salish languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Comox,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Halkomelem,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Lillooet,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Okanagan,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Shuswap (Secwepemctsin),0,0,0,0,0
+Newfoundland and Labrador,10,Female,Squamish,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Straits,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Thompson (Ntlakapamux),0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Salish languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Siouan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Dakota,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Stoney,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Siouan languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Tlingit,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Tsimshian languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Gitxsan (Gitksan),0,0,0,0,0
+Newfoundland and Labrador,10,Female,Nisga'a,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Tsimshian,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Wakashan languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Haisla,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Heiltsuk,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Kwakiutl (Kwak'wala),0,0,0,0,0
+Newfoundland and Labrador,10,Female,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Wakashan languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Aboriginal languages, n.o.s.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Non-Aboriginal languages,4380,3715,5,325,335
+Newfoundland and Labrador,10,Female,Afro-Asiatic languages,570,390,5,25,150
+Newfoundland and Labrador,10,Female,Berber languages,5,0,0,0,0
+Newfoundland and Labrador,10,Female,Kabyle,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Berber languages, n.i.e.",0,5,0,0,0
+Newfoundland and Labrador,10,Female,Cushitic languages,20,20,0,0,5
+Newfoundland and Labrador,10,Female,Bilen,5,5,0,0,0
+Newfoundland and Labrador,10,Female,Oromo,15,15,0,0,0
+Newfoundland and Labrador,10,Female,Somali,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Cushitic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Semitic languages,545,365,5,20,150
+Newfoundland and Labrador,10,Female,Amharic,10,10,0,0,0
+Newfoundland and Labrador,10,Female,Arabic,490,320,5,25,140
+Newfoundland and Labrador,10,Female,Assyrian Neo-Aramaic,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Chaldean Neo-Aramaic,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Harari,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Hebrew,5,5,0,0,0
+Newfoundland and Labrador,10,Female,Maltese,5,0,0,0,0
+Newfoundland and Labrador,10,Female,Tigrigna,35,25,0,0,5
+Newfoundland and Labrador,10,Female,"Semitic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Austro-Asiatic languages,25,25,0,0,0
+Newfoundland and Labrador,10,Female,Khmer (Cambodian),5,5,0,0,0
+Newfoundland and Labrador,10,Female,Vietnamese,25,25,0,0,0
+Newfoundland and Labrador,10,Female,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Austronesian languages,645,625,0,10,5
+Newfoundland and Labrador,10,Female,Bikol,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Cebuano,40,40,0,0,0
+Newfoundland and Labrador,10,Female,Fijian,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Hiligaynon,5,0,0,0,0
+Newfoundland and Labrador,10,Female,Ilocano,20,15,0,0,0
+Newfoundland and Labrador,10,Female,Malagasy,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Malay,15,10,0,0,0
+Newfoundland and Labrador,10,Female,"Pampangan (Kapampangan, Pampango)",5,5,0,0,0
+Newfoundland and Labrador,10,Female,Pangasinan,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Tagalog (Pilipino, Filipino)",560,550,0,10,5
+Newfoundland and Labrador,10,Female,Waray-Waray,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Austronesian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Creole languages,20,10,0,10,0
+Newfoundland and Labrador,10,Female,Haitian Creole,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Creole, n.o.s.",10,0,0,5,0
+Newfoundland and Labrador,10,Female,"Creole languages, n.i.e.",10,5,0,0,0
+Newfoundland and Labrador,10,Female,Dravidian languages,120,115,0,5,5
+Newfoundland and Labrador,10,Female,Kannada,10,10,0,0,0
+Newfoundland and Labrador,10,Female,Malayalam,45,45,0,0,0
+Newfoundland and Labrador,10,Female,Tamil,40,40,0,0,0
+Newfoundland and Labrador,10,Female,Telugu,25,20,0,0,0
+Newfoundland and Labrador,10,Female,"Dravidian languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Hmong-Mien languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Indo-European languages,1760,1475,0,220,60
+Newfoundland and Labrador,10,Female,Albanian,40,35,0,0,5
+Newfoundland and Labrador,10,Female,Armenian,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Balto-Slavic languages,275,235,0,40,5
+Newfoundland and Labrador,10,Female,Baltic languages,0,5,0,0,0
+Newfoundland and Labrador,10,Female,Latvian,5,0,0,0,0
+Newfoundland and Labrador,10,Female,Lithuanian,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Slavic languages,275,235,0,40,0
+Newfoundland and Labrador,10,Female,Belarusan,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Bosnian,5,5,0,0,0
+Newfoundland and Labrador,10,Female,Bulgarian,30,25,0,0,5
+Newfoundland and Labrador,10,Female,Croatian,10,10,0,0,0
+Newfoundland and Labrador,10,Female,Czech,15,10,0,0,0
+Newfoundland and Labrador,10,Female,Macedonian,5,5,0,0,0
+Newfoundland and Labrador,10,Female,Polish,45,40,0,10,0
+Newfoundland and Labrador,10,Female,Russian,100,90,0,10,0
+Newfoundland and Labrador,10,Female,Serbian,15,15,0,5,0
+Newfoundland and Labrador,10,Female,Serbo-Croatian,5,0,0,5,0
+Newfoundland and Labrador,10,Female,Slovak,5,0,0,5,0
+Newfoundland and Labrador,10,Female,Slovene (Slovenian),5,5,0,5,0
+Newfoundland and Labrador,10,Female,Ukrainian,25,25,0,5,0
+Newfoundland and Labrador,10,Female,"Slavic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Celtic languages,10,5,0,5,0
+Newfoundland and Labrador,10,Female,Scottish Gaelic,5,5,0,0,0
+Newfoundland and Labrador,10,Female,Welsh,5,5,0,0,0
+Newfoundland and Labrador,10,Female,"Celtic languages, n.i.e.",5,0,0,5,0
+Newfoundland and Labrador,10,Female,Germanic languages,295,230,0,60,0
+Newfoundland and Labrador,10,Female,Afrikaans,25,25,0,0,0
+Newfoundland and Labrador,10,Female,Danish,25,15,0,0,5
+Newfoundland and Labrador,10,Female,Dutch,45,35,0,5,0
+Newfoundland and Labrador,10,Female,Frisian,0,0,0,0,0
+Newfoundland and Labrador,10,Female,German,170,130,0,45,0
+Newfoundland and Labrador,10,Female,Icelandic,10,10,0,0,0
+Newfoundland and Labrador,10,Female,Norwegian,15,10,0,0,0
+Newfoundland and Labrador,10,Female,Swedish,10,5,0,0,0
+Newfoundland and Labrador,10,Female,Vlaams (Flemish),0,0,0,0,0
+Newfoundland and Labrador,10,Female,Yiddish,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Germanic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Greek,15,15,0,0,0
+Newfoundland and Labrador,10,Female,Indo-Iranian languages,675,610,0,35,25
+Newfoundland and Labrador,10,Female,Indo-Aryan languages,530,480,0,30,15
+Newfoundland and Labrador,10,Female,Bengali,105,100,0,0,0
+Newfoundland and Labrador,10,Female,Gujarati,25,25,0,0,0
+Newfoundland and Labrador,10,Female,Hindi,70,65,0,5,0
+Newfoundland and Labrador,10,Female,Kashmiri,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Konkani,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Marathi,10,10,0,0,0
+Newfoundland and Labrador,10,Female,Nepali,55,50,0,5,5
+Newfoundland and Labrador,10,Female,Oriya (Odia),5,0,0,0,0
+Newfoundland and Labrador,10,Female,Punjabi (Panjabi),90,80,0,5,0
+Newfoundland and Labrador,10,Female,Sindhi,10,10,0,5,0
+Newfoundland and Labrador,10,Female,Sinhala (Sinhalese),40,35,0,0,0
+Newfoundland and Labrador,10,Female,Urdu,120,110,0,10,5
+Newfoundland and Labrador,10,Female,Iranian languages,130,120,0,5,10
+Newfoundland and Labrador,10,Female,Kurdish,5,5,0,0,0
+Newfoundland and Labrador,10,Female,Pashto,20,15,0,0,0
+Newfoundland and Labrador,10,Female,Persian (Farsi),110,100,0,5,5
+Newfoundland and Labrador,10,Female,"Indo-Iranian languages, n.i.e.",10,10,0,0,0
+Newfoundland and Labrador,10,Female,Italic (Romance) languages,450,340,0,90,25
+Newfoundland and Labrador,10,Female,Catalan,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Italian,45,30,0,10,0
+Newfoundland and Labrador,10,Female,Portuguese,75,60,0,10,5
+Newfoundland and Labrador,10,Female,Romanian,25,15,0,10,0
+Newfoundland and Labrador,10,Female,Spanish,305,230,0,50,20
+Newfoundland and Labrador,10,Female,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Japanese,30,25,0,0,0
+Newfoundland and Labrador,10,Female,Kartvelian languages,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Georgian,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Korean,80,70,0,5,5
+Newfoundland and Labrador,10,Female,Mongolic languages,0,5,0,0,0
+Newfoundland and Labrador,10,Female,Mongolian,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Niger-Congo languages,150,115,0,20,15
+Newfoundland and Labrador,10,Female,Akan (Twi),15,15,0,0,0
+Newfoundland and Labrador,10,Female,Bamanankan,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Edo,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Ewe,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Ga,5,0,0,0,0
+Newfoundland and Labrador,10,Female,Ganda,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Igbo,15,10,0,0,0
+Newfoundland and Labrador,10,Female,Lingala,5,0,0,5,0
+Newfoundland and Labrador,10,Female,Rundi (Kirundi),10,5,0,0,0
+Newfoundland and Labrador,10,Female,Kinyarwanda (Rwanda),5,0,0,5,0
+Newfoundland and Labrador,10,Female,Shona,15,15,0,0,0
+Newfoundland and Labrador,10,Female,Swahili,25,5,0,0,20
+Newfoundland and Labrador,10,Female,Wolof,5,5,0,0,0
+Newfoundland and Labrador,10,Female,Yoruba,25,20,0,0,0
+Newfoundland and Labrador,10,Female,"Niger-Congo languages, n.i.e.",35,30,0,5,0
+Newfoundland and Labrador,10,Female,Nilo-Saharan languages,20,15,5,5,5
+Newfoundland and Labrador,10,Female,Dinka,5,0,0,0,0
+Newfoundland and Labrador,10,Female,"Nilo-Saharan languages, n.i.e.",10,10,0,0,0
+Newfoundland and Labrador,10,Female,Sign languages,50,30,0,0,20
+Newfoundland and Labrador,10,Female,American Sign Language,25,20,0,0,5
+Newfoundland and Labrador,10,Female,Quebec Sign Language,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Sign languages, n.i.e",25,15,0,0,20
+Newfoundland and Labrador,10,Female,Sino-Tibetan languages,790,710,0,15,70
+Newfoundland and Labrador,10,Female,Chinese languages,775,695,0,15,65
+Newfoundland and Labrador,10,Female,Cantonese,160,135,0,5,25
+Newfoundland and Labrador,10,Female,Hakka,5,5,0,0,0
+Newfoundland and Labrador,10,Female,Mandarin,495,460,0,5,30
+Newfoundland and Labrador,10,Female,Min Dong,0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",20,20,0,0,0
+Newfoundland and Labrador,10,Female,Wu (Shanghainese),10,10,0,0,0
+Newfoundland and Labrador,10,Female,"Chinese, n.o.s.",85,75,0,5,5
+Newfoundland and Labrador,10,Female,"Chinese languages, n.i.e.",0,5,0,0,0
+Newfoundland and Labrador,10,Female,Tibeto-Burman languages,10,15,0,0,0
+Newfoundland and Labrador,10,Female,Burmese,10,5,0,0,0
+Newfoundland and Labrador,10,Female,Karenic languages,0,5,0,0,0
+Newfoundland and Labrador,10,Female,Tibetan,0,5,0,0,0
+Newfoundland and Labrador,10,Female,"Tibeto-Burman languages, n.i.e.",0,5,0,0,0
+Newfoundland and Labrador,10,Female,Tai-Kadai languages,30,30,0,0,0
+Newfoundland and Labrador,10,Female,Lao,0,5,0,0,0
+Newfoundland and Labrador,10,Female,Thai,25,30,0,0,0
+Newfoundland and Labrador,10,Female,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Newfoundland and Labrador,10,Female,Turkic languages,30,25,0,5,0
+Newfoundland and Labrador,10,Female,Azerbaijani,0,5,0,0,0
+Newfoundland and Labrador,10,Female,Turkish,15,10,0,5,0
+Newfoundland and Labrador,10,Female,Uyghur,0,0,0,0,0
+Newfoundland and Labrador,10,Female,Uzbek,5,5,0,0,0
+Newfoundland and Labrador,10,Female,"Turkic languages, n.i.e.",5,5,0,0,0
+Newfoundland and Labrador,10,Female,Uralic languages,70,55,0,15,5
+Newfoundland and Labrador,10,Female,Estonian,15,5,0,5,5
+Newfoundland and Labrador,10,Female,Finnish,15,15,0,5,0
+Newfoundland and Labrador,10,Female,Hungarian,40,35,0,5,0
+Newfoundland and Labrador,10,Female,"Uralic languages, n.i.e.",0,0,0,0,0
+Newfoundland and Labrador,10,Female,"Other languages, n.i.e.",5,5,0,0,0
+Newfoundland and Labrador,10,Female,Multiple responses,875,540,0,335,5
+Newfoundland and Labrador,10,Female,English and French,335,75,0,265,0
+Newfoundland and Labrador,10,Female,English and non-official language,495,455,0,35,5
+Newfoundland and Labrador,10,Female,French and non-official language,30,5,0,20,0
+Newfoundland and Labrador,10,Female,"English, French and non-official language",15,0,0,15,0

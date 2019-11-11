@@ -1,808 +1,808 @@
-,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
-1141905,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Total - Mother tongue,1,1.0,141020,121815,120,17835,1250
-1141906,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Single responses,2,,140025,121315,110,17350,1250
-1141907,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Official languages,3,,132865,115795,100,16945,25
-1141908,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,English,4,,128005,115395,5,12580,25
-1141909,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,French,5,,4860,405,95,4360,5
-1141910,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Non-official languages,6,,7160,5520,5,405,1225
-1141911,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Aboriginal languages,7,,50,45,0,5,0
-1141912,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Algonquian languages,8,,40,40,0,0,0
-1141913,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Blackfoot,9,,0,0,0,0,0
-1141914,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Cree-Montagnais languages,10,,5,0,0,0,0
-1141915,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Atikamekw,11,,0,0,0,0,0
-1141916,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Montagnais (Innu),12,,0,0,0,0,0
-1141917,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Moose Cree,13,,0,0,0,0,0
-1141918,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Naskapi,14,,0,0,0,0,0
-1141919,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Northern East Cree,15,,5,0,0,0,0
-1141920,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Plains Cree,16,,5,0,0,0,0
-1141921,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Southern East Cree,17,,0,0,0,0,0
-1141922,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Swampy Cree,18,,0,0,0,0,0
-1141923,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Woods Cree,19,,0,0,0,0,0
-1141924,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Cree, n.o.s.",20,,0,0,0,0,0
-1141925,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Eastern Algonquian languages,21,,40,35,0,0,0
-1141926,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Malecite,22,,0,0,0,0,0
-1141927,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Mi'kmaq,23,,35,35,0,5,0
-1141928,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Ojibway-Potawatomi languages,24,,0,5,0,0,0
-1141929,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Algonquin,25,,0,0,0,0,0
-1141930,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Ojibway,26,,5,0,0,0,0
-1141931,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Oji-Cree,27,,0,0,0,0,0
-1141932,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Ottawa (Odawa),28,,0,0,0,0,0
-1141933,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-1141934,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Athabaskan languages,30,,0,0,0,0,0
-1141935,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Northern Athabaskan languages,31,,0,0,0,0,0
-1141936,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-1141937,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Beaver,33,,0,0,0,0,0
-1141938,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Carrier,34,,0,0,0,0,0
-1141939,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Chilcotin,35,,0,0,0,0,0
-1141940,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Dene,36,,0,0,0,0,0
-1141941,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Dogrib (Tlicho),37,,0,0,0,0,0
-1141942,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Gwich'in,38,,0,0,0,0,0
-1141943,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Sarsi (Sarcee),39,,0,0,0,0,0
-1141944,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Sekani,40,,0,0,0,0,0
-1141945,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Slavey-Hare languages,41,,0,0,0,0,0
-1141946,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,North Slavey (Hare),42,,0,0,0,0,0
-1141947,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,South Slavey,43,,0,0,0,0,0
-1141948,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Slavey, n.o.s.",44,,0,0,0,0,0
-1141949,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tahltan languages,45,,0,0,0,0,0
-1141950,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Kaska (Nahani),46,,0,0,0,0,0
-1141951,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tahltan,47,,0,0,0,0,0
-1141952,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tutchone languages,48,,0,0,0,0,0
-1141953,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Northern Tutchone,49,,0,0,0,0,0
-1141954,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Southern Tutchone,50,,0,0,0,0,0
-1141955,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-1141956,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Haida,52,,0,0,0,0,0
-1141957,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Inuit languages,53,,5,5,0,0,0
-1141958,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-1141959,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Inuktitut,55,,5,5,0,5,0
-1141960,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Inuit languages, n.i.e.",56,,0,0,0,0,0
-1141961,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Iroquoian languages,57,,0,0,0,0,0
-1141962,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Cayuga,58,,0,0,0,0,0
-1141963,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Mohawk,59,,0,0,0,0,0
-1141964,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Oneida,60,,0,0,0,0,0
-1141965,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-1141966,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Kutenai,62,,0,0,0,0,0
-1141967,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Michif,63,,0,0,0,0,0
-1141968,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Salish languages,64,,0,0,0,0,0
-1141969,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Comox,65,,0,0,0,0,0
-1141970,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Halkomelem,66,,0,0,0,0,0
-1141971,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Lillooet,67,,0,0,0,0,0
-1141972,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Okanagan,68,,0,0,0,0,0
-1141973,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-1141974,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Squamish,70,,0,0,0,0,0
-1141975,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Straits,71,,0,0,0,0,0
-1141976,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-1141977,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-1141978,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Siouan languages,74,,0,0,0,0,0
-1141979,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Dakota,75,,0,0,0,0,0
-1141980,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Stoney,76,,0,0,0,0,0
-1141981,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-1141982,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tlingit,78,,0,0,0,0,0
-1141983,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tsimshian languages,79,,0,0,0,0,0
-1141984,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Gitxsan (Gitksan),80,,0,0,0,0,0
-1141985,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Nisga'a,81,,0,0,0,0,0
-1141986,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tsimshian,82,,0,0,0,0,0
-1141987,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Wakashan languages,83,,0,0,0,0,0
-1141988,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Haisla,84,,0,0,0,0,0
-1141989,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Heiltsuk,85,,0,0,0,0,0
-1141990,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-1141991,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-1141992,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-1141993,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,0,5,0,0,0
-1141994,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Non-Aboriginal languages,90,,7110,5475,10,400,1220
-1141995,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Afro-Asiatic languages,91,,660,425,0,65,165
-1141996,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Berber languages,92,,0,0,0,0,0
-1141997,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Kabyle,93,,0,0,0,0,0
-1141998,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Berber languages, n.i.e.",94,,0,0,0,0,0
-1141999,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Cushitic languages,95,,50,40,0,0,5
-1142000,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Bilen,96,,0,0,0,0,0
-1142001,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Oromo,97,,0,0,0,0,0
-1142002,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Somali,98,,50,45,0,0,5
-1142003,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-1142004,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Semitic languages,100,,605,380,5,65,160
-1142005,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Amharic,101,,5,5,0,0,0
-1142006,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Arabic,102,,575,350,0,60,160
-1142007,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-1142008,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-1142009,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Harari,105,,0,0,0,0,0
-1142010,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Hebrew,106,,30,25,0,0,0
-1142011,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Maltese,107,,5,5,0,0,0
-1142012,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tigrigna,108,,0,0,0,0,0
-1142013,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
-1142014,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-1142015,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Austro-Asiatic languages,111,,115,95,0,5,15
-1142016,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Khmer (Cambodian),112,,0,0,0,0,0
-1142017,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Vietnamese,113,,120,100,0,5,10
-1142018,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-1142019,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Austronesian languages,115,,395,390,0,0,0
-1142020,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Bikol,116,,5,5,0,0,0
-1142021,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Cebuano,117,,15,15,0,0,0
-1142022,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Fijian,118,,0,0,0,0,0
-1142023,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Hiligaynon,119,,0,0,0,0,0
-1142024,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Ilocano,120,,5,0,0,0,0
-1142025,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Malagasy,121,,0,0,0,0,0
-1142026,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Malay,122,,5,10,0,0,0
-1142027,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,0,0,0,0,0
-1142028,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Pangasinan,124,,0,0,0,0,0
-1142029,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,365,360,0,0,5
-1142030,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Waray-Waray,126,,0,0,0,0,0
-1142031,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,5,5,0,0,0
-1142032,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Creole languages,128,,10,10,0,5,0
-1142033,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Haitian Creole,129,,0,0,0,0,0
-1142034,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Creole, n.o.s.",130,,5,5,0,5,0
-1142035,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Creole languages, n.i.e.",131,,0,0,0,0,0
-1142036,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Dravidian languages,132,,110,105,0,5,5
-1142037,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Kannada,133,,15,10,0,0,0
-1142038,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Malayalam,134,,60,55,0,0,0
-1142039,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tamil,135,,20,15,0,0,0
-1142040,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Telugu,136,,20,20,0,0,0
-1142041,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,5,0,0,0,0
-1142042,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Hmong-Mien languages,138,,0,0,0,0,0
-1142043,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Indo-European languages,139,,2580,2200,0,230,140
-1142044,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Albanian,140,,100,85,0,0,10
-1142045,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Armenian,141,,0,0,0,5,0
-1142046,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Balto-Slavic languages,142,,385,335,0,40,15
-1142047,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Baltic languages,143,,5,5,0,5,0
-1142048,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Latvian,144,,5,0,0,0,0
-1142049,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Lithuanian,145,,5,0,0,0,0
-1142050,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Slavic languages,146,,385,330,5,35,15
-1142051,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Belarusan,147,,0,0,0,0,0
-1142052,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Bosnian,148,,30,25,0,0,0
-1142053,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Bulgarian,149,,5,10,0,0,0
-1142054,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Croatian,150,,20,20,0,5,0
-1142055,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Czech,151,,15,10,0,5,0
-1142056,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Macedonian,152,,5,5,0,0,0
-1142057,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Polish,153,,70,55,5,15,0
-1142058,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Russian,154,,140,120,0,10,10
-1142059,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Serbian,155,,20,15,0,5,0
-1142060,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Serbo-Croatian,156,,10,5,0,0,0
-1142061,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Slovak,157,,5,5,0,0,5
-1142062,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Slovene (Slovenian),158,,10,10,0,0,0
-1142063,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Ukrainian,159,,45,45,0,5,0
-1142064,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Slavic languages, n.i.e.",160,,5,0,0,0,0
-1142065,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Celtic languages,161,,20,15,0,5,5
-1142066,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Scottish Gaelic,162,,10,5,0,0,0
-1142067,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Welsh,163,,5,5,0,0,0
-1142068,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Celtic languages, n.i.e.",164,,5,0,0,0,0
-1142069,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Germanic languages,165,,900,815,0,75,5
-1142070,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Afrikaans,166,,20,20,0,0,0
-1142071,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Danish,167,,25,20,0,0,0
-1142072,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Dutch,168,,465,440,0,25,5
-1142073,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Frisian,169,,30,30,0,0,0
-1142074,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,German,170,,320,270,5,45,0
-1142075,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Icelandic,171,,5,5,0,0,0
-1142076,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Norwegian,172,,5,0,0,0,0
-1142077,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Swedish,173,,5,10,0,0,0
-1142078,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Vlaams (Flemish),174,,25,25,0,0,0
-1142079,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Yiddish,175,,0,0,0,0,0
-1142080,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Germanic languages, n.i.e.",176,,0,0,0,0,0
-1142081,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Greek,177,,15,10,0,0,0
-1142082,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Indo-Iranian languages,178,,685,570,0,25,90
-1142083,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Indo-Aryan languages,179,,500,405,0,15,80
-1142084,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Bengali,180,,40,40,0,0,0
-1142085,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Gujarati,181,,5,5,0,0,0
-1142086,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Hindi,182,,50,50,0,0,5
-1142087,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Kashmiri,183,,0,0,0,0,0
-1142088,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Konkani,184,,0,0,0,0,0
-1142089,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Marathi,185,,5,0,0,0,0
-1142090,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Nepali,186,,200,140,0,0,65
-1142091,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Oriya (Odia),187,,0,0,0,0,0
-1142092,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Punjabi (Panjabi),188,,105,90,0,0,10
-1142093,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Sindhi,189,,0,0,0,0,0
-1142094,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Sinhala (Sinhalese),190,,45,45,0,5,0
-1142095,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Urdu,191,,50,50,0,5,0
-1142096,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Iranian languages,192,,180,155,0,10,10
-1142097,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Kurdish,193,,0,0,0,0,0
-1142098,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Pashto,194,,0,0,0,0,0
-1142099,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Persian (Farsi),195,,180,155,0,10,10
-1142100,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,5,5,0,0,0
-1142101,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Italic (Romance) languages,197,,475,365,0,80,25
-1142102,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Catalan,198,,0,0,0,0,0
-1142103,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Italian,199,,65,40,0,20,0
-1142104,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Portuguese,200,,80,70,0,10,5
-1142105,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Romanian,201,,25,15,0,5,0
-1142106,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Spanish,202,,305,235,0,50,25
-1142107,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-1142108,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Japanese,204,,95,85,0,5,10
-1142109,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Kartvelian languages,205,,0,0,0,0,0
-1142110,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Georgian,206,,0,0,0,0,0
-1142111,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Korean,207,,115,105,0,5,10
-1142112,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Mongolic languages,208,,0,0,0,0,0
-1142113,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Mongolian,209,,0,0,0,0,0
-1142114,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Niger-Congo languages,210,,80,65,0,20,0
-1142115,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Akan (Twi),211,,0,0,0,0,0
-1142116,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Bamanankan,212,,0,0,0,0,0
-1142117,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Edo,213,,0,0,0,0,0
-1142118,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Ewe,214,,0,0,0,0,0
-1142119,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-1142120,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Ga,216,,0,0,0,0,0
-1142121,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Ganda,217,,0,0,0,0,0
-1142122,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Igbo,218,,5,5,0,0,0
-1142123,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Lingala,219,,5,0,0,0,0
-1142124,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Rundi (Kirundi),220,,10,5,0,10,0
-1142125,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Kinyarwanda (Rwanda),221,,0,0,0,0,0
-1142126,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Shona,222,,5,0,0,0,0
-1142127,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Swahili,223,,20,15,0,5,0
-1142128,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Wolof,224,,0,0,0,0,0
-1142129,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Yoruba,225,,20,25,0,0,0
-1142130,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,20,15,0,5,0
-1142131,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Nilo-Saharan languages,227,,0,0,0,0,0
-1142132,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Dinka,228,,0,0,0,0,0
-1142133,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
-1142134,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Sign languages,230,,10,5,0,0,10
-1142135,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,American Sign Language,231,,0,0,0,0,0
-1142136,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Quebec Sign Language,232,,0,0,0,0,0
-1142137,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Sign languages, n.i.e",233,,10,5,0,0,5
-1142138,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Sino-Tibetan languages,234,,2785,1870,0,50,865
-1142139,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Chinese languages,235,,2745,1835,0,50,860
-1142140,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Cantonese,236,,205,165,0,10,35
-1142141,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Hakka,237,,0,0,0,0,0
-1142142,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Mandarin,238,,2165,1450,0,40,680
-1142143,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Min Dong,239,,0,0,0,0,0
-1142144,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,20,15,0,0,0
-1142145,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Wu (Shanghainese),241,,45,35,0,0,10
-1142146,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Chinese, n.o.s.",242,,295,165,0,5,135
-1142147,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Chinese languages, n.i.e.",243,,5,5,0,0,0
-1142148,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tibeto-Burman languages,244,,45,40,0,0,5
-1142149,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Burmese,245,,20,15,0,0,5
-1142150,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Karenic languages,246,,20,15,0,0,0
-1142151,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tibetan,247,,0,0,0,0,0
-1142152,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,5,5,0,0,0
-1142153,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Tai-Kadai languages,249,,20,20,0,0,0
-1142154,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Lao,250,,0,0,0,0,0
-1142155,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Thai,251,,20,15,0,0,0
-1142156,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-1142157,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Turkic languages,253,,20,20,0,0,0
-1142158,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Azerbaijani,254,,0,0,0,0,0
-1142159,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Turkish,255,,20,15,0,0,0
-1142160,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Uyghur,256,,0,0,0,0,0
-1142161,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Uzbek,257,,0,0,0,0,0
-1142162,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Turkic languages, n.i.e.",258,,0,0,0,0,0
-1142163,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Uralic languages,259,,85,70,0,15,0
-1142164,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Estonian,260,,5,5,0,0,0
-1142165,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Finnish,261,,20,20,0,5,0
-1142166,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Hungarian,262,,60,50,0,10,5
-1142167,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-1142168,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"Other languages, n.i.e.",264,,10,10,0,0,0
-1142169,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,Multiple responses,265,,995,500,5,490,0
-1142170,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,English and French,266,,485,85,0,395,0
-1142171,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,English and non-official language,267,,460,410,0,50,5
-1142172,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,French and non-official language,268,,30,0,5,25,0
-1142173,2016,11,1,Prince Edward Island,4.1,0, ,11,Total - Sex,1,,"English, French and non-official language",269,,20,0,0,20,0
-1142174,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Total - Mother tongue,1,1.0,68540,60295,55,7540,650
-1142175,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Single responses,2,,68085,60060,45,7335,650
-1142176,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Official languages,3,,64480,57280,45,7135,15
-1142177,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,English,4,,62235,57110,5,5110,15
-1142178,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,French,5,,2240,170,45,2025,0
-1142179,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Non-official languages,6,,3605,2775,0,195,635
-1142180,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Aboriginal languages,7,,30,25,0,5,0
-1142181,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Algonquian languages,8,,20,25,0,0,0
-1142182,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Blackfoot,9,,0,0,0,0,0
-1142183,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Cree-Montagnais languages,10,,5,5,0,0,0
-1142184,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Atikamekw,11,,0,0,0,0,0
-1142185,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Montagnais (Innu),12,,0,0,0,0,0
-1142186,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Moose Cree,13,,0,0,0,0,0
-1142187,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Naskapi,14,,0,0,0,0,0
-1142188,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Northern East Cree,15,,0,0,0,0,0
-1142189,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Plains Cree,16,,0,0,0,0,0
-1142190,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Southern East Cree,17,,0,0,0,0,0
-1142191,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Swampy Cree,18,,0,0,0,0,0
-1142192,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Woods Cree,19,,0,0,0,0,0
-1142193,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Cree, n.o.s.",20,,0,0,0,0,0
-1142194,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Eastern Algonquian languages,21,,20,20,0,5,0
-1142195,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Malecite,22,,0,0,0,0,0
-1142196,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Mi'kmaq,23,,20,20,0,0,0
-1142197,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Ojibway-Potawatomi languages,24,,0,0,0,0,0
-1142198,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Algonquin,25,,0,0,0,0,0
-1142199,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Ojibway,26,,0,0,0,0,0
-1142200,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Oji-Cree,27,,0,0,0,0,0
-1142201,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Ottawa (Odawa),28,,0,0,0,0,0
-1142202,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-1142203,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Athabaskan languages,30,,0,0,0,0,0
-1142204,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Northern Athabaskan languages,31,,0,0,0,0,0
-1142205,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-1142206,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Beaver,33,,0,0,0,0,0
-1142207,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Carrier,34,,0,0,0,0,0
-1142208,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Chilcotin,35,,0,0,0,0,0
-1142209,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Dene,36,,0,0,0,0,0
-1142210,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Dogrib (Tlicho),37,,0,0,0,0,0
-1142211,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Gwich'in,38,,0,0,0,0,0
-1142212,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Sarsi (Sarcee),39,,0,0,0,0,0
-1142213,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Sekani,40,,0,0,0,0,0
-1142214,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Slavey-Hare languages,41,,0,0,0,0,0
-1142215,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,North Slavey (Hare),42,,0,0,0,0,0
-1142216,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,South Slavey,43,,0,0,0,0,0
-1142217,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Slavey, n.o.s.",44,,0,0,0,0,0
-1142218,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tahltan languages,45,,0,0,0,0,0
-1142219,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Kaska (Nahani),46,,0,0,0,0,0
-1142220,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tahltan,47,,0,0,0,0,0
-1142221,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tutchone languages,48,,0,0,0,0,0
-1142222,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Northern Tutchone,49,,0,0,0,0,0
-1142223,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Southern Tutchone,50,,0,0,0,0,0
-1142224,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-1142225,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Haida,52,,0,0,0,0,0
-1142226,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Inuit languages,53,,5,0,0,0,0
-1142227,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-1142228,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Inuktitut,55,,5,0,0,5,0
-1142229,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Inuit languages, n.i.e.",56,,0,0,0,0,0
-1142230,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Iroquoian languages,57,,0,0,0,0,0
-1142231,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Cayuga,58,,0,0,0,0,0
-1142232,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Mohawk,59,,0,0,0,0,0
-1142233,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Oneida,60,,0,0,0,0,0
-1142234,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-1142235,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Kutenai,62,,0,0,0,0,0
-1142236,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Michif,63,,0,0,0,0,0
-1142237,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Salish languages,64,,0,0,0,0,0
-1142238,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Comox,65,,0,0,0,0,0
-1142239,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Halkomelem,66,,0,0,0,0,0
-1142240,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Lillooet,67,,0,0,0,0,0
-1142241,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Okanagan,68,,0,0,0,0,0
-1142242,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-1142243,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Squamish,70,,0,0,0,0,0
-1142244,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Straits,71,,0,0,0,0,0
-1142245,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-1142246,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-1142247,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Siouan languages,74,,0,0,0,0,0
-1142248,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Dakota,75,,0,0,0,0,0
-1142249,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Stoney,76,,0,0,0,0,0
-1142250,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-1142251,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tlingit,78,,0,0,0,0,0
-1142252,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tsimshian languages,79,,0,0,0,0,0
-1142253,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Gitxsan (Gitksan),80,,0,0,0,0,0
-1142254,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Nisga'a,81,,0,0,0,0,0
-1142255,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tsimshian,82,,0,0,0,0,0
-1142256,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Wakashan languages,83,,0,0,0,0,0
-1142257,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Haisla,84,,0,0,0,0,0
-1142258,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Heiltsuk,85,,0,0,0,0,0
-1142259,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-1142260,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-1142261,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-1142262,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Aboriginal languages, n.o.s.",89,,0,5,0,0,0
-1142263,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Non-Aboriginal languages,90,,3585,2750,5,195,635
-1142264,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Afro-Asiatic languages,91,,365,235,0,45,85
-1142265,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Berber languages,92,,0,0,0,0,0
-1142266,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Kabyle,93,,0,0,0,0,0
-1142267,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Berber languages, n.i.e.",94,,0,0,0,0,0
-1142268,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Cushitic languages,95,,25,25,0,0,5
-1142269,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Bilen,96,,0,0,0,0,0
-1142270,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Oromo,97,,0,0,0,0,0
-1142271,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Somali,98,,25,25,0,0,5
-1142272,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-1142273,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Semitic languages,100,,335,210,0,40,80
-1142274,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Amharic,101,,0,0,0,0,0
-1142275,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Arabic,102,,315,190,0,45,80
-1142276,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-1142277,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-1142278,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Harari,105,,0,0,0,0,0
-1142279,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Hebrew,106,,15,15,0,0,0
-1142280,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Maltese,107,,0,5,0,0,0
-1142281,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tigrigna,108,,0,0,0,0,0
-1142282,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
-1142283,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-1142284,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Austro-Asiatic languages,111,,60,50,0,0,5
-1142285,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Khmer (Cambodian),112,,0,0,0,0,0
-1142286,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Vietnamese,113,,65,50,0,5,5
-1142287,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-1142288,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Austronesian languages,115,,160,155,0,0,0
-1142289,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Bikol,116,,0,0,0,0,0
-1142290,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Cebuano,117,,5,10,0,0,0
-1142291,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Fijian,118,,0,0,0,0,0
-1142292,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Hiligaynon,119,,0,0,0,0,0
-1142293,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Ilocano,120,,0,0,0,0,0
-1142294,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Malagasy,121,,0,0,0,0,0
-1142295,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Malay,122,,5,5,0,0,0
-1142296,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,0,0,0,0,0
-1142297,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Pangasinan,124,,0,0,0,0,0
-1142298,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Tagalog (Pilipino, Filipino)",125,,145,145,0,0,0
-1142299,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Waray-Waray,126,,0,0,0,0,0
-1142300,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Austronesian languages, n.i.e.",127,,0,0,0,0,0
-1142301,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Creole languages,128,,5,5,0,0,0
-1142302,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Haitian Creole,129,,0,0,0,0,0
-1142303,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Creole, n.o.s.",130,,5,0,0,5,0
-1142304,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Creole languages, n.i.e.",131,,0,0,0,0,0
-1142305,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Dravidian languages,132,,60,60,0,0,5
-1142306,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Kannada,133,,10,10,0,0,5
-1142307,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Malayalam,134,,35,30,0,0,0
-1142308,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tamil,135,,10,10,0,0,0
-1142309,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Telugu,136,,5,10,0,0,0
-1142310,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Dravidian languages, n.i.e.",137,,0,5,0,0,0
-1142311,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Hmong-Mien languages,138,,0,0,0,0,0
-1142312,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Indo-European languages,139,,1315,1150,0,100,60
-1142313,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Albanian,140,,55,50,0,0,0
-1142314,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Armenian,141,,0,5,0,0,0
-1142315,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Balto-Slavic languages,142,,190,165,0,20,5
-1142316,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Baltic languages,143,,5,5,0,0,0
-1142317,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Latvian,144,,0,0,0,5,0
-1142318,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Lithuanian,145,,0,0,0,0,0
-1142319,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Slavic languages,146,,185,165,0,15,0
-1142320,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Belarusan,147,,0,0,0,0,0
-1142321,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Bosnian,148,,15,10,0,0,0
-1142322,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Bulgarian,149,,5,5,0,0,0
-1142323,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Croatian,150,,10,10,0,0,0
-1142324,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Czech,151,,10,10,0,5,0
-1142325,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Macedonian,152,,0,0,0,0,0
-1142326,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Polish,153,,30,25,0,0,0
-1142327,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Russian,154,,70,60,0,5,5
-1142328,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Serbian,155,,10,10,0,5,0
-1142329,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Serbo-Croatian,156,,5,5,0,0,0
-1142330,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Slovak,157,,0,0,0,0,0
-1142331,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Slovene (Slovenian),158,,5,5,0,0,0
-1142332,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Ukrainian,159,,20,20,0,0,0
-1142333,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Slavic languages, n.i.e.",160,,5,5,0,0,0
-1142334,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Celtic languages,161,,10,10,0,0,0
-1142335,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Scottish Gaelic,162,,5,5,0,5,0
-1142336,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Welsh,163,,5,5,0,0,0
-1142337,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Celtic languages, n.i.e.",164,,0,5,0,0,0
-1142338,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Germanic languages,165,,465,430,0,35,0
-1142339,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Afrikaans,166,,15,15,0,0,0
-1142340,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Danish,167,,15,15,0,0,0
-1142341,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Dutch,168,,240,225,0,15,5
-1142342,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Frisian,169,,20,20,0,0,0
-1142343,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,German,170,,155,140,0,15,0
-1142344,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Icelandic,171,,5,0,0,0,0
-1142345,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Norwegian,172,,0,0,0,0,0
-1142346,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Swedish,173,,0,5,0,0,0
-1142347,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Vlaams (Flemish),174,,10,10,0,0,0
-1142348,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Yiddish,175,,0,0,0,0,0
-1142349,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Germanic languages, n.i.e.",176,,0,0,0,0,0
-1142350,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Greek,177,,5,5,0,0,0
-1142351,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Indo-Iranian languages,178,,340,295,0,10,35
-1142352,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Indo-Aryan languages,179,,245,205,0,5,35
-1142353,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Bengali,180,,20,20,0,0,0
-1142354,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Gujarati,181,,5,5,0,0,0
-1142355,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Hindi,182,,30,25,0,0,5
-1142356,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Kashmiri,183,,0,0,0,0,0
-1142357,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Konkani,184,,0,0,0,0,0
-1142358,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Marathi,185,,5,0,0,0,0
-1142359,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Nepali,186,,80,55,0,0,25
-1142360,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Oriya (Odia),187,,0,0,0,0,0
-1142361,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Punjabi (Panjabi),188,,55,50,0,0,5
-1142362,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Sindhi,189,,0,0,0,0,0
-1142363,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Sinhala (Sinhalese),190,,25,25,0,0,0
-1142364,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Urdu,191,,25,25,0,5,0
-1142365,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Iranian languages,192,,95,85,0,10,5
-1142366,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Kurdish,193,,0,0,0,0,0
-1142367,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Pashto,194,,0,0,0,0,0
-1142368,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Persian (Farsi),195,,90,80,0,5,5
-1142369,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Indo-Iranian languages, n.i.e.",196,,0,5,0,0,0
-1142370,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Italic (Romance) languages,197,,250,195,0,40,15
-1142371,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Catalan,198,,0,0,0,0,0
-1142372,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Italian,199,,40,30,0,15,0
-1142373,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Portuguese,200,,40,35,0,5,5
-1142374,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Romanian,201,,15,10,0,5,0
-1142375,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Spanish,202,,155,120,0,20,15
-1142376,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-1142377,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Japanese,204,,20,15,0,0,10
-1142378,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Kartvelian languages,205,,0,0,0,0,0
-1142379,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Georgian,206,,0,0,0,0,0
-1142380,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Korean,207,,50,45,0,0,5
-1142381,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Mongolic languages,208,,0,0,0,0,0
-1142382,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Mongolian,209,,0,0,0,0,0
-1142383,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Niger-Congo languages,210,,45,35,0,10,0
-1142384,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Akan (Twi),211,,0,0,0,0,0
-1142385,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Bamanankan,212,,0,0,0,0,0
-1142386,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Edo,213,,0,0,0,0,0
-1142387,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Ewe,214,,0,0,0,0,0
-1142388,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-1142389,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Ga,216,,0,0,0,0,0
-1142390,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Ganda,217,,0,0,0,0,0
-1142391,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Igbo,218,,0,0,0,0,0
-1142392,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Lingala,219,,5,0,0,5,0
-1142393,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Rundi (Kirundi),220,,5,0,0,5,0
-1142394,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Kinyarwanda (Rwanda),221,,0,0,0,0,0
-1142395,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Shona,222,,0,0,0,0,0
-1142396,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Swahili,223,,15,10,0,0,0
-1142397,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Wolof,224,,0,0,0,0,0
-1142398,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Yoruba,225,,10,10,0,0,0
-1142399,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Niger-Congo languages, n.i.e.",226,,10,10,0,0,0
-1142400,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Nilo-Saharan languages,227,,0,0,0,0,0
-1142401,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Dinka,228,,0,0,0,0,0
-1142402,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
-1142403,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Sign languages,230,,5,5,0,0,0
-1142404,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,American Sign Language,231,,0,5,0,0,0
-1142405,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Quebec Sign Language,232,,0,0,0,0,0
-1142406,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Sign languages, n.i.e",233,,5,0,0,0,0
-1142407,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Sino-Tibetan languages,234,,1420,940,0,20,460
-1142408,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Chinese languages,235,,1400,920,0,20,460
-1142409,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Cantonese,236,,95,80,0,5,20
-1142410,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Hakka,237,,0,0,0,0,0
-1142411,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Mandarin,238,,1170,740,0,15,415
-1142412,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Min Dong,239,,0,0,0,0,0
-1142413,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,10,5,0,0,5
-1142414,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Wu (Shanghainese),241,,20,15,0,0,5
-1142415,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Chinese, n.o.s.",242,,100,80,0,0,20
-1142416,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Chinese languages, n.i.e.",243,,0,0,0,0,0
-1142417,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tibeto-Burman languages,244,,20,20,0,0,5
-1142418,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Burmese,245,,5,10,0,0,0
-1142419,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Karenic languages,246,,10,10,0,0,0
-1142420,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tibetan,247,,0,0,0,0,0
-1142421,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,5,5,0,0,0
-1142422,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Tai-Kadai languages,249,,5,0,0,0,0
-1142423,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Lao,250,,0,0,0,0,0
-1142424,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Thai,251,,0,0,0,0,0
-1142425,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-1142426,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Turkic languages,253,,10,5,0,0,0
-1142427,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Azerbaijani,254,,0,0,0,0,0
-1142428,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Turkish,255,,10,5,0,0,0
-1142429,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Uyghur,256,,0,0,0,0,0
-1142430,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Uzbek,257,,0,0,0,0,0
-1142431,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Turkic languages, n.i.e.",258,,0,0,0,0,0
-1142432,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Uralic languages,259,,45,40,0,5,0
-1142433,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Estonian,260,,5,5,0,0,0
-1142434,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Finnish,261,,10,5,0,0,0
-1142435,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Hungarian,262,,35,30,0,5,5
-1142436,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-1142437,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"Other languages, n.i.e.",264,,5,5,0,0,0
-1142438,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,Multiple responses,265,,450,235,5,210,5
-1142439,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,English and French,266,,205,35,5,165,0
-1142440,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,English and non-official language,267,,220,195,0,25,0
-1142441,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,French and non-official language,268,,15,0,0,15,0
-1142442,2016,11,1,Prince Edward Island,4.1,0, ,11,Male,2,,"English, French and non-official language",269,,10,5,0,5,0
-1142443,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Total - Mother tongue,1,1.0,72480,61520,65,10295,600
-1142444,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Single responses,2,,71940,61255,60,10020,600
-1142445,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Official languages,3,,68390,58515,55,9805,10
-1142446,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,English,4,,65770,58285,5,7470,5
-1142447,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,French,5,,2620,225,55,2335,5
-1142448,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Non-official languages,6,,3545,2740,5,210,590
-1142449,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Aboriginal languages,7,,25,20,0,0,0
-1142450,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Algonquian languages,8,,20,20,0,0,0
-1142451,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Blackfoot,9,,0,0,0,0,0
-1142452,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Cree-Montagnais languages,10,,0,0,0,0,0
-1142453,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Atikamekw,11,,0,0,0,0,0
-1142454,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Montagnais (Innu),12,,0,0,0,0,0
-1142455,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Moose Cree,13,,0,0,0,0,0
-1142456,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Naskapi,14,,0,0,0,0,0
-1142457,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Northern East Cree,15,,0,0,0,5,0
-1142458,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Plains Cree,16,,0,0,0,0,0
-1142459,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Southern East Cree,17,,0,0,0,0,0
-1142460,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Swampy Cree,18,,0,0,0,0,0
-1142461,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Woods Cree,19,,0,0,0,0,0
-1142462,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Cree, n.o.s.",20,,0,0,0,0,0
-1142463,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Eastern Algonquian languages,21,,15,15,0,0,0
-1142464,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Malecite,22,,0,0,0,0,0
-1142465,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Mi'kmaq,23,,15,20,0,0,0
-1142466,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Ojibway-Potawatomi languages,24,,5,0,0,0,0
-1142467,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Algonquin,25,,0,0,0,0,0
-1142468,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Ojibway,26,,0,0,0,0,0
-1142469,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Oji-Cree,27,,0,0,0,0,0
-1142470,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Ottawa (Odawa),28,,0,0,0,0,0
-1142471,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-1142472,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Athabaskan languages,30,,0,0,0,0,0
-1142473,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Northern Athabaskan languages,31,,0,0,0,0,0
-1142474,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-1142475,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Beaver,33,,0,0,0,0,0
-1142476,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Carrier,34,,0,0,0,0,0
-1142477,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Chilcotin,35,,0,0,0,0,0
-1142478,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Dene,36,,0,0,0,0,0
-1142479,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Dogrib (Tlicho),37,,0,0,0,0,0
-1142480,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Gwich'in,38,,0,0,0,0,0
-1142481,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Sarsi (Sarcee),39,,0,0,0,0,0
-1142482,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Sekani,40,,0,0,0,0,0
-1142483,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Slavey-Hare languages,41,,0,0,0,0,0
-1142484,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,North Slavey (Hare),42,,0,0,0,0,0
-1142485,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,South Slavey,43,,0,0,0,0,0
-1142486,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Slavey, n.o.s.",44,,0,0,0,0,0
-1142487,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tahltan languages,45,,0,0,0,0,0
-1142488,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Kaska (Nahani),46,,0,0,0,0,0
-1142489,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tahltan,47,,0,0,0,0,0
-1142490,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tutchone languages,48,,0,0,0,0,0
-1142491,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Northern Tutchone,49,,0,0,0,0,0
-1142492,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Southern Tutchone,50,,0,0,0,0,0
-1142493,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-1142494,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Haida,52,,0,0,0,0,0
-1142495,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Inuit languages,53,,0,0,0,0,0
-1142496,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-1142497,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Inuktitut,55,,5,0,0,0,0
-1142498,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Inuit languages, n.i.e.",56,,0,0,0,0,0
-1142499,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Iroquoian languages,57,,0,0,0,0,0
-1142500,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Cayuga,58,,0,0,0,0,0
-1142501,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Mohawk,59,,0,0,0,0,0
-1142502,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Oneida,60,,0,0,0,0,0
-1142503,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-1142504,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Kutenai,62,,0,0,0,0,0
-1142505,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Michif,63,,0,0,0,0,0
-1142506,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Salish languages,64,,0,0,0,0,0
-1142507,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Comox,65,,0,0,0,0,0
-1142508,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Halkomelem,66,,0,0,0,0,0
-1142509,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Lillooet,67,,0,0,0,0,0
-1142510,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Okanagan,68,,0,0,0,0,0
-1142511,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-1142512,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Squamish,70,,0,0,0,0,0
-1142513,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Straits,71,,0,0,0,0,0
-1142514,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-1142515,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-1142516,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Siouan languages,74,,0,0,0,0,0
-1142517,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Dakota,75,,0,0,0,0,0
-1142518,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Stoney,76,,0,0,0,0,0
-1142519,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-1142520,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tlingit,78,,0,0,0,0,0
-1142521,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tsimshian languages,79,,0,0,0,0,0
-1142522,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Gitxsan (Gitksan),80,,0,0,0,0,0
-1142523,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Nisga'a,81,,0,0,0,0,0
-1142524,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tsimshian,82,,0,0,0,0,0
-1142525,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Wakashan languages,83,,0,0,0,0,0
-1142526,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Haisla,84,,0,0,0,0,0
-1142527,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Heiltsuk,85,,0,0,0,0,0
-1142528,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-1142529,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-1142530,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-1142531,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-1142532,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Non-Aboriginal languages,90,,3525,2725,5,210,590
-1142533,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Afro-Asiatic languages,91,,290,190,5,20,80
-1142534,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Berber languages,92,,0,0,0,0,0
-1142535,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Kabyle,93,,0,0,0,0,0
-1142536,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Berber languages, n.i.e.",94,,0,0,0,0,0
-1142537,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Cushitic languages,95,,25,25,0,0,5
-1142538,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Bilen,96,,0,0,0,0,0
-1142539,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Oromo,97,,0,0,0,0,0
-1142540,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Somali,98,,25,20,0,0,5
-1142541,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-1142542,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Semitic languages,100,,270,165,0,20,80
-1142543,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Amharic,101,,0,0,0,0,0
-1142544,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Arabic,102,,260,160,0,20,80
-1142545,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-1142546,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-1142547,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Harari,105,,0,0,0,0,0
-1142548,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Hebrew,106,,10,10,0,0,0
-1142549,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Maltese,107,,0,0,0,0,0
-1142550,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tigrigna,108,,0,0,0,0,0
-1142551,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
-1142552,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-1142553,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Austro-Asiatic languages,111,,55,45,0,0,10
-1142554,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Khmer (Cambodian),112,,0,0,0,0,0
-1142555,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Vietnamese,113,,55,45,0,5,5
-1142556,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-1142557,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Austronesian languages,115,,235,240,0,0,0
-1142558,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Bikol,116,,0,0,0,0,0
-1142559,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Cebuano,117,,10,10,0,0,0
-1142560,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Fijian,118,,0,0,0,0,0
-1142561,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Hiligaynon,119,,0,0,0,0,0
-1142562,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Ilocano,120,,0,0,0,0,0
-1142563,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Malagasy,121,,0,0,0,0,0
-1142564,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Malay,122,,5,5,0,0,0
-1142565,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,0,0,0,0,0
-1142566,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Pangasinan,124,,0,0,0,0,0
-1142567,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Tagalog (Pilipino, Filipino)",125,,220,215,0,0,0
-1142568,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Waray-Waray,126,,0,0,0,0,0
-1142569,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Austronesian languages, n.i.e.",127,,0,0,0,0,0
-1142570,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Creole languages,128,,5,0,0,5,0
-1142571,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Haitian Creole,129,,5,0,0,5,0
-1142572,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Creole, n.o.s.",130,,5,5,0,5,0
-1142573,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Creole languages, n.i.e.",131,,0,0,0,0,0
-1142574,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Dravidian languages,132,,50,45,0,0,0
-1142575,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Kannada,133,,5,5,0,0,0
-1142576,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Malayalam,134,,20,25,0,0,0
-1142577,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tamil,135,,10,10,0,0,0
-1142578,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Telugu,136,,5,10,0,0,0
-1142579,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
-1142580,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Hmong-Mien languages,138,,0,0,0,0,0
-1142581,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Indo-European languages,139,,1260,1055,0,130,80
-1142582,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Albanian,140,,45,35,0,0,5
-1142583,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Armenian,141,,0,0,0,5,0
-1142584,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Balto-Slavic languages,142,,195,165,0,25,10
-1142585,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Baltic languages,143,,0,0,0,5,0
-1142586,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Latvian,144,,0,0,0,0,0
-1142587,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Lithuanian,145,,0,0,0,0,0
-1142588,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Slavic languages,146,,195,165,0,20,5
-1142589,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Belarusan,147,,0,0,0,0,0
-1142590,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Bosnian,148,,15,15,0,0,5
-1142591,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Bulgarian,149,,5,5,0,0,0
-1142592,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Croatian,150,,10,10,0,5,0
-1142593,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Czech,151,,10,5,0,0,0
-1142594,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Macedonian,152,,0,0,0,0,0
-1142595,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Polish,153,,40,30,5,10,0
-1142596,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Russian,154,,70,65,0,5,0
-1142597,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Serbian,155,,5,5,0,0,0
-1142598,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Serbo-Croatian,156,,5,5,0,0,0
-1142599,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Slovak,157,,5,0,0,0,0
-1142600,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Slovene (Slovenian),158,,5,5,0,0,0
-1142601,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Ukrainian,159,,25,20,0,5,0
-1142602,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
-1142603,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Celtic languages,161,,10,5,0,5,0
-1142604,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Scottish Gaelic,162,,5,0,0,0,0
-1142605,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Welsh,163,,0,5,0,0,0
-1142606,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Celtic languages, n.i.e.",164,,5,0,0,0,0
-1142607,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Germanic languages,165,,435,390,0,45,0
-1142608,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Afrikaans,166,,5,5,0,0,0
-1142609,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Danish,167,,5,10,0,0,0
-1142610,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Dutch,168,,220,210,0,10,0
-1142611,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Frisian,169,,15,10,0,5,0
-1142612,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,German,170,,160,130,0,30,0
-1142613,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Icelandic,171,,0,0,0,0,0
-1142614,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Norwegian,172,,0,0,0,0,0
-1142615,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Swedish,173,,0,5,0,0,0
-1142616,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Vlaams (Flemish),174,,10,15,0,0,0
-1142617,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Yiddish,175,,0,0,0,0,0
-1142618,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Germanic languages, n.i.e.",176,,0,0,0,0,0
-1142619,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Greek,177,,5,5,0,0,0
-1142620,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Indo-Iranian languages,178,,345,280,0,15,55
-1142621,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Indo-Aryan languages,179,,255,205,0,10,45
-1142622,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Bengali,180,,15,15,0,0,0
-1142623,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Gujarati,181,,0,5,0,0,0
-1142624,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Hindi,182,,25,20,0,0,0
-1142625,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Kashmiri,183,,0,0,0,0,0
-1142626,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Konkani,184,,0,0,0,0,0
-1142627,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Marathi,185,,0,0,0,0,0
-1142628,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Nepali,186,,120,85,0,0,35
-1142629,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Oriya (Odia),187,,0,0,0,0,0
-1142630,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Punjabi (Panjabi),188,,50,40,0,0,10
-1142631,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Sindhi,189,,0,0,0,0,0
-1142632,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Sinhala (Sinhalese),190,,25,20,0,0,0
-1142633,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Urdu,191,,25,25,0,5,0
-1142634,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Iranian languages,192,,85,75,0,5,5
-1142635,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Kurdish,193,,0,0,0,0,0
-1142636,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Pashto,194,,0,0,0,0,0
-1142637,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Persian (Farsi),195,,85,75,0,5,10
-1142638,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Indo-Iranian languages, n.i.e.",196,,5,0,0,0,5
-1142639,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Italic (Romance) languages,197,,225,170,0,45,10
-1142640,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Catalan,198,,0,0,0,0,0
-1142641,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Italian,199,,25,15,0,10,0
-1142642,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Portuguese,200,,40,35,0,5,0
-1142643,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Romanian,201,,10,5,0,5,0
-1142644,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Spanish,202,,155,110,0,30,10
-1142645,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-1142646,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Japanese,204,,70,70,0,0,5
-1142647,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Kartvelian languages,205,,0,0,0,0,0
-1142648,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Georgian,206,,0,0,0,0,0
-1142649,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Korean,207,,65,60,0,5,0
-1142650,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Mongolic languages,208,,0,0,0,0,0
-1142651,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Mongolian,209,,0,0,0,0,0
-1142652,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Niger-Congo languages,210,,35,25,5,10,0
-1142653,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Akan (Twi),211,,0,0,0,0,0
-1142654,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Bamanankan,212,,0,0,0,0,0
-1142655,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Edo,213,,0,0,0,0,0
-1142656,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Ewe,214,,0,0,0,0,0
-1142657,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-1142658,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Ga,216,,0,0,0,0,0
-1142659,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Ganda,217,,0,0,0,0,0
-1142660,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Igbo,218,,0,0,0,0,0
-1142661,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Lingala,219,,0,0,0,0,0
-1142662,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Rundi (Kirundi),220,,5,0,0,5,0
-1142663,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Kinyarwanda (Rwanda),221,,0,0,0,0,0
-1142664,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Shona,222,,0,0,0,0,0
-1142665,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Swahili,223,,10,5,5,0,0
-1142666,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Wolof,224,,0,0,0,0,0
-1142667,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Yoruba,225,,15,15,0,0,0
-1142668,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Niger-Congo languages, n.i.e.",226,,15,10,0,5,0
-1142669,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Nilo-Saharan languages,227,,0,0,0,0,0
-1142670,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Dinka,228,,0,0,0,0,0
-1142671,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
-1142672,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Sign languages,230,,10,0,0,0,5
-1142673,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,American Sign Language,231,,0,0,0,0,0
-1142674,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Quebec Sign Language,232,,0,0,0,0,0
-1142675,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Sign languages, n.i.e",233,,5,5,0,0,0
-1142676,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Sino-Tibetan languages,234,,1365,935,0,30,400
-1142677,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Chinese languages,235,,1345,910,0,30,400
-1142678,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Cantonese,236,,110,85,0,10,15
-1142679,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Hakka,237,,0,0,0,0,0
-1142680,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Mandarin,238,,995,710,0,15,270
-1142681,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Min Dong,239,,0,0,0,0,0
-1142682,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,10,10,0,0,5
-1142683,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Wu (Shanghainese),241,,30,20,0,0,5
-1142684,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Chinese, n.o.s.",242,,195,85,0,0,110
-1142685,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Chinese languages, n.i.e.",243,,5,0,0,0,0
-1142686,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tibeto-Burman languages,244,,25,20,0,0,0
-1142687,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Burmese,245,,15,15,0,0,5
-1142688,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Karenic languages,246,,10,5,0,0,5
-1142689,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tibetan,247,,0,0,0,0,0
-1142690,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,0,0,0,0,0
-1142691,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Tai-Kadai languages,249,,15,20,0,0,0
-1142692,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Lao,250,,0,0,0,0,0
-1142693,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Thai,251,,15,20,0,0,5
-1142694,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-1142695,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Turkic languages,253,,15,10,0,0,0
-1142696,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Azerbaijani,254,,0,0,0,0,0
-1142697,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Turkish,255,,10,10,0,0,0
-1142698,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Uyghur,256,,0,0,0,0,0
-1142699,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Uzbek,257,,5,0,0,0,0
-1142700,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Turkic languages, n.i.e.",258,,0,0,0,0,0
-1142701,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Uralic languages,259,,40,30,0,10,0
-1142702,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Estonian,260,,5,0,0,0,0
-1142703,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Finnish,261,,10,5,0,0,0
-1142704,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Hungarian,262,,25,20,0,5,0
-1142705,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-1142706,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"Other languages, n.i.e.",264,,5,5,0,0,0
-1142707,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,Multiple responses,265,,545,265,5,275,0
-1142708,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,English and French,266,,280,50,5,230,0
-1142709,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,English and non-official language,267,,240,215,5,20,0
-1142710,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,French and non-official language,268,,15,0,0,15,0
-1142711,2016,11,1,Prince Edward Island,4.1,0, ,11,Female,3,,"English, French and non-official language",269,,15,0,0,10,0
+GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+Prince Edward Island,11,Total - Sex,Total - Mother tongue,141020,121815,120,17835,1250
+Prince Edward Island,11,Total - Sex,Single responses,140025,121315,110,17350,1250
+Prince Edward Island,11,Total - Sex,Official languages,132865,115795,100,16945,25
+Prince Edward Island,11,Total - Sex,English,128005,115395,5,12580,25
+Prince Edward Island,11,Total - Sex,French,4860,405,95,4360,5
+Prince Edward Island,11,Total - Sex,Non-official languages,7160,5520,5,405,1225
+Prince Edward Island,11,Total - Sex,Aboriginal languages,50,45,0,5,0
+Prince Edward Island,11,Total - Sex,Algonquian languages,40,40,0,0,0
+Prince Edward Island,11,Total - Sex,Blackfoot,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Cree-Montagnais languages,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Atikamekw,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Montagnais (Innu),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Moose Cree,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Naskapi,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Northern East Cree,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Plains Cree,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Southern East Cree,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Swampy Cree,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Woods Cree,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Cree, n.o.s.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Eastern Algonquian languages,40,35,0,0,0
+Prince Edward Island,11,Total - Sex,Malecite,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Mi'kmaq,35,35,0,5,0
+Prince Edward Island,11,Total - Sex,Ojibway-Potawatomi languages,0,5,0,0,0
+Prince Edward Island,11,Total - Sex,Algonquin,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Ojibway,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Oji-Cree,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Ottawa (Odawa),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Algonquian languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Athabaskan languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Northern Athabaskan languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Babine (Wetsuwet'en),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Beaver,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Carrier,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Chilcotin,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Dene,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Dogrib (Tlicho),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Gwich'in,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Sarsi (Sarcee),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Sekani,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Slavey-Hare languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,North Slavey (Hare),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,South Slavey,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Slavey, n.o.s.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Tahltan languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Kaska (Nahani),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Tahltan,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Tutchone languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Northern Tutchone,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Southern Tutchone,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Haida,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Inuit languages,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Inuktitut,5,5,0,5,0
+Prince Edward Island,11,Total - Sex,"Inuit languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Iroquoian languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Cayuga,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Mohawk,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Oneida,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Kutenai,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Michif,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Salish languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Comox,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Halkomelem,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Lillooet,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Okanagan,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Shuswap (Secwepemctsin),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Squamish,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Straits,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Thompson (Ntlakapamux),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Salish languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Siouan languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Dakota,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Stoney,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Siouan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Tlingit,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Tsimshian languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Gitxsan (Gitksan),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Nisga'a,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Tsimshian,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Wakashan languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Haisla,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Heiltsuk,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Kwakiutl (Kwak'wala),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Wakashan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Aboriginal languages, n.o.s.",0,5,0,0,0
+Prince Edward Island,11,Total - Sex,Non-Aboriginal languages,7110,5475,10,400,1220
+Prince Edward Island,11,Total - Sex,Afro-Asiatic languages,660,425,0,65,165
+Prince Edward Island,11,Total - Sex,Berber languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Kabyle,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Berber languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Cushitic languages,50,40,0,0,5
+Prince Edward Island,11,Total - Sex,Bilen,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Oromo,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Somali,50,45,0,0,5
+Prince Edward Island,11,Total - Sex,"Cushitic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Semitic languages,605,380,5,65,160
+Prince Edward Island,11,Total - Sex,Amharic,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Arabic,575,350,0,60,160
+Prince Edward Island,11,Total - Sex,Assyrian Neo-Aramaic,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Chaldean Neo-Aramaic,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Harari,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Hebrew,30,25,0,0,0
+Prince Edward Island,11,Total - Sex,Maltese,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Tigrigna,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Semitic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Austro-Asiatic languages,115,95,0,5,15
+Prince Edward Island,11,Total - Sex,Khmer (Cambodian),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Vietnamese,120,100,0,5,10
+Prince Edward Island,11,Total - Sex,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Austronesian languages,395,390,0,0,0
+Prince Edward Island,11,Total - Sex,Bikol,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Cebuano,15,15,0,0,0
+Prince Edward Island,11,Total - Sex,Fijian,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Hiligaynon,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Ilocano,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Malagasy,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Malay,5,10,0,0,0
+Prince Edward Island,11,Total - Sex,"Pampangan (Kapampangan, Pampango)",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Pangasinan,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Tagalog (Pilipino, Filipino)",365,360,0,0,5
+Prince Edward Island,11,Total - Sex,Waray-Waray,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Austronesian languages, n.i.e.",5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Creole languages,10,10,0,5,0
+Prince Edward Island,11,Total - Sex,Haitian Creole,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Creole, n.o.s.",5,5,0,5,0
+Prince Edward Island,11,Total - Sex,"Creole languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Dravidian languages,110,105,0,5,5
+Prince Edward Island,11,Total - Sex,Kannada,15,10,0,0,0
+Prince Edward Island,11,Total - Sex,Malayalam,60,55,0,0,0
+Prince Edward Island,11,Total - Sex,Tamil,20,15,0,0,0
+Prince Edward Island,11,Total - Sex,Telugu,20,20,0,0,0
+Prince Edward Island,11,Total - Sex,"Dravidian languages, n.i.e.",5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Hmong-Mien languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Indo-European languages,2580,2200,0,230,140
+Prince Edward Island,11,Total - Sex,Albanian,100,85,0,0,10
+Prince Edward Island,11,Total - Sex,Armenian,0,0,0,5,0
+Prince Edward Island,11,Total - Sex,Balto-Slavic languages,385,335,0,40,15
+Prince Edward Island,11,Total - Sex,Baltic languages,5,5,0,5,0
+Prince Edward Island,11,Total - Sex,Latvian,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Lithuanian,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Slavic languages,385,330,5,35,15
+Prince Edward Island,11,Total - Sex,Belarusan,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Bosnian,30,25,0,0,0
+Prince Edward Island,11,Total - Sex,Bulgarian,5,10,0,0,0
+Prince Edward Island,11,Total - Sex,Croatian,20,20,0,5,0
+Prince Edward Island,11,Total - Sex,Czech,15,10,0,5,0
+Prince Edward Island,11,Total - Sex,Macedonian,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Polish,70,55,5,15,0
+Prince Edward Island,11,Total - Sex,Russian,140,120,0,10,10
+Prince Edward Island,11,Total - Sex,Serbian,20,15,0,5,0
+Prince Edward Island,11,Total - Sex,Serbo-Croatian,10,5,0,0,0
+Prince Edward Island,11,Total - Sex,Slovak,5,5,0,0,5
+Prince Edward Island,11,Total - Sex,Slovene (Slovenian),10,10,0,0,0
+Prince Edward Island,11,Total - Sex,Ukrainian,45,45,0,5,0
+Prince Edward Island,11,Total - Sex,"Slavic languages, n.i.e.",5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Celtic languages,20,15,0,5,5
+Prince Edward Island,11,Total - Sex,Scottish Gaelic,10,5,0,0,0
+Prince Edward Island,11,Total - Sex,Welsh,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,"Celtic languages, n.i.e.",5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Germanic languages,900,815,0,75,5
+Prince Edward Island,11,Total - Sex,Afrikaans,20,20,0,0,0
+Prince Edward Island,11,Total - Sex,Danish,25,20,0,0,0
+Prince Edward Island,11,Total - Sex,Dutch,465,440,0,25,5
+Prince Edward Island,11,Total - Sex,Frisian,30,30,0,0,0
+Prince Edward Island,11,Total - Sex,German,320,270,5,45,0
+Prince Edward Island,11,Total - Sex,Icelandic,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Norwegian,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Swedish,5,10,0,0,0
+Prince Edward Island,11,Total - Sex,Vlaams (Flemish),25,25,0,0,0
+Prince Edward Island,11,Total - Sex,Yiddish,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Germanic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Greek,15,10,0,0,0
+Prince Edward Island,11,Total - Sex,Indo-Iranian languages,685,570,0,25,90
+Prince Edward Island,11,Total - Sex,Indo-Aryan languages,500,405,0,15,80
+Prince Edward Island,11,Total - Sex,Bengali,40,40,0,0,0
+Prince Edward Island,11,Total - Sex,Gujarati,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Hindi,50,50,0,0,5
+Prince Edward Island,11,Total - Sex,Kashmiri,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Konkani,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Marathi,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Nepali,200,140,0,0,65
+Prince Edward Island,11,Total - Sex,Oriya (Odia),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Punjabi (Panjabi),105,90,0,0,10
+Prince Edward Island,11,Total - Sex,Sindhi,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Sinhala (Sinhalese),45,45,0,5,0
+Prince Edward Island,11,Total - Sex,Urdu,50,50,0,5,0
+Prince Edward Island,11,Total - Sex,Iranian languages,180,155,0,10,10
+Prince Edward Island,11,Total - Sex,Kurdish,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Pashto,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Persian (Farsi),180,155,0,10,10
+Prince Edward Island,11,Total - Sex,"Indo-Iranian languages, n.i.e.",5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Italic (Romance) languages,475,365,0,80,25
+Prince Edward Island,11,Total - Sex,Catalan,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Italian,65,40,0,20,0
+Prince Edward Island,11,Total - Sex,Portuguese,80,70,0,10,5
+Prince Edward Island,11,Total - Sex,Romanian,25,15,0,5,0
+Prince Edward Island,11,Total - Sex,Spanish,305,235,0,50,25
+Prince Edward Island,11,Total - Sex,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Japanese,95,85,0,5,10
+Prince Edward Island,11,Total - Sex,Kartvelian languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Georgian,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Korean,115,105,0,5,10
+Prince Edward Island,11,Total - Sex,Mongolic languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Mongolian,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Niger-Congo languages,80,65,0,20,0
+Prince Edward Island,11,Total - Sex,Akan (Twi),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Bamanankan,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Edo,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Ewe,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Ga,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Ganda,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Igbo,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Lingala,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Rundi (Kirundi),10,5,0,10,0
+Prince Edward Island,11,Total - Sex,Kinyarwanda (Rwanda),0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Shona,5,0,0,0,0
+Prince Edward Island,11,Total - Sex,Swahili,20,15,0,5,0
+Prince Edward Island,11,Total - Sex,Wolof,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Yoruba,20,25,0,0,0
+Prince Edward Island,11,Total - Sex,"Niger-Congo languages, n.i.e.",20,15,0,5,0
+Prince Edward Island,11,Total - Sex,Nilo-Saharan languages,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Dinka,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Nilo-Saharan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Sign languages,10,5,0,0,10
+Prince Edward Island,11,Total - Sex,American Sign Language,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Quebec Sign Language,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Sign languages, n.i.e",10,5,0,0,5
+Prince Edward Island,11,Total - Sex,Sino-Tibetan languages,2785,1870,0,50,865
+Prince Edward Island,11,Total - Sex,Chinese languages,2745,1835,0,50,860
+Prince Edward Island,11,Total - Sex,Cantonese,205,165,0,10,35
+Prince Edward Island,11,Total - Sex,Hakka,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Mandarin,2165,1450,0,40,680
+Prince Edward Island,11,Total - Sex,Min Dong,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",20,15,0,0,0
+Prince Edward Island,11,Total - Sex,Wu (Shanghainese),45,35,0,0,10
+Prince Edward Island,11,Total - Sex,"Chinese, n.o.s.",295,165,0,5,135
+Prince Edward Island,11,Total - Sex,"Chinese languages, n.i.e.",5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Tibeto-Burman languages,45,40,0,0,5
+Prince Edward Island,11,Total - Sex,Burmese,20,15,0,0,5
+Prince Edward Island,11,Total - Sex,Karenic languages,20,15,0,0,0
+Prince Edward Island,11,Total - Sex,Tibetan,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Tibeto-Burman languages, n.i.e.",5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Tai-Kadai languages,20,20,0,0,0
+Prince Edward Island,11,Total - Sex,Lao,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Thai,20,15,0,0,0
+Prince Edward Island,11,Total - Sex,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Turkic languages,20,20,0,0,0
+Prince Edward Island,11,Total - Sex,Azerbaijani,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Turkish,20,15,0,0,0
+Prince Edward Island,11,Total - Sex,Uyghur,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Uzbek,0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Turkic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,Uralic languages,85,70,0,15,0
+Prince Edward Island,11,Total - Sex,Estonian,5,5,0,0,0
+Prince Edward Island,11,Total - Sex,Finnish,20,20,0,5,0
+Prince Edward Island,11,Total - Sex,Hungarian,60,50,0,10,5
+Prince Edward Island,11,Total - Sex,"Uralic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Total - Sex,"Other languages, n.i.e.",10,10,0,0,0
+Prince Edward Island,11,Total - Sex,Multiple responses,995,500,5,490,0
+Prince Edward Island,11,Total - Sex,English and French,485,85,0,395,0
+Prince Edward Island,11,Total - Sex,English and non-official language,460,410,0,50,5
+Prince Edward Island,11,Total - Sex,French and non-official language,30,0,5,25,0
+Prince Edward Island,11,Total - Sex,"English, French and non-official language",20,0,0,20,0
+Prince Edward Island,11,Male,Total - Mother tongue,68540,60295,55,7540,650
+Prince Edward Island,11,Male,Single responses,68085,60060,45,7335,650
+Prince Edward Island,11,Male,Official languages,64480,57280,45,7135,15
+Prince Edward Island,11,Male,English,62235,57110,5,5110,15
+Prince Edward Island,11,Male,French,2240,170,45,2025,0
+Prince Edward Island,11,Male,Non-official languages,3605,2775,0,195,635
+Prince Edward Island,11,Male,Aboriginal languages,30,25,0,5,0
+Prince Edward Island,11,Male,Algonquian languages,20,25,0,0,0
+Prince Edward Island,11,Male,Blackfoot,0,0,0,0,0
+Prince Edward Island,11,Male,Cree-Montagnais languages,5,5,0,0,0
+Prince Edward Island,11,Male,Atikamekw,0,0,0,0,0
+Prince Edward Island,11,Male,Montagnais (Innu),0,0,0,0,0
+Prince Edward Island,11,Male,Moose Cree,0,0,0,0,0
+Prince Edward Island,11,Male,Naskapi,0,0,0,0,0
+Prince Edward Island,11,Male,Northern East Cree,0,0,0,0,0
+Prince Edward Island,11,Male,Plains Cree,0,0,0,0,0
+Prince Edward Island,11,Male,Southern East Cree,0,0,0,0,0
+Prince Edward Island,11,Male,Swampy Cree,0,0,0,0,0
+Prince Edward Island,11,Male,Woods Cree,0,0,0,0,0
+Prince Edward Island,11,Male,"Cree, n.o.s.",0,0,0,0,0
+Prince Edward Island,11,Male,Eastern Algonquian languages,20,20,0,5,0
+Prince Edward Island,11,Male,Malecite,0,0,0,0,0
+Prince Edward Island,11,Male,Mi'kmaq,20,20,0,0,0
+Prince Edward Island,11,Male,Ojibway-Potawatomi languages,0,0,0,0,0
+Prince Edward Island,11,Male,Algonquin,0,0,0,0,0
+Prince Edward Island,11,Male,Ojibway,0,0,0,0,0
+Prince Edward Island,11,Male,Oji-Cree,0,0,0,0,0
+Prince Edward Island,11,Male,Ottawa (Odawa),0,0,0,0,0
+Prince Edward Island,11,Male,"Algonquian languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Athabaskan languages,0,0,0,0,0
+Prince Edward Island,11,Male,Northern Athabaskan languages,0,0,0,0,0
+Prince Edward Island,11,Male,Babine (Wetsuwet'en),0,0,0,0,0
+Prince Edward Island,11,Male,Beaver,0,0,0,0,0
+Prince Edward Island,11,Male,Carrier,0,0,0,0,0
+Prince Edward Island,11,Male,Chilcotin,0,0,0,0,0
+Prince Edward Island,11,Male,Dene,0,0,0,0,0
+Prince Edward Island,11,Male,Dogrib (Tlicho),0,0,0,0,0
+Prince Edward Island,11,Male,Gwich'in,0,0,0,0,0
+Prince Edward Island,11,Male,Sarsi (Sarcee),0,0,0,0,0
+Prince Edward Island,11,Male,Sekani,0,0,0,0,0
+Prince Edward Island,11,Male,Slavey-Hare languages,0,0,0,0,0
+Prince Edward Island,11,Male,North Slavey (Hare),0,0,0,0,0
+Prince Edward Island,11,Male,South Slavey,0,0,0,0,0
+Prince Edward Island,11,Male,"Slavey, n.o.s.",0,0,0,0,0
+Prince Edward Island,11,Male,Tahltan languages,0,0,0,0,0
+Prince Edward Island,11,Male,Kaska (Nahani),0,0,0,0,0
+Prince Edward Island,11,Male,Tahltan,0,0,0,0,0
+Prince Edward Island,11,Male,Tutchone languages,0,0,0,0,0
+Prince Edward Island,11,Male,Northern Tutchone,0,0,0,0,0
+Prince Edward Island,11,Male,Southern Tutchone,0,0,0,0,0
+Prince Edward Island,11,Male,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Haida,0,0,0,0,0
+Prince Edward Island,11,Male,Inuit languages,5,0,0,0,0
+Prince Edward Island,11,Male,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Prince Edward Island,11,Male,Inuktitut,5,0,0,5,0
+Prince Edward Island,11,Male,"Inuit languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Iroquoian languages,0,0,0,0,0
+Prince Edward Island,11,Male,Cayuga,0,0,0,0,0
+Prince Edward Island,11,Male,Mohawk,0,0,0,0,0
+Prince Edward Island,11,Male,Oneida,0,0,0,0,0
+Prince Edward Island,11,Male,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Kutenai,0,0,0,0,0
+Prince Edward Island,11,Male,Michif,0,0,0,0,0
+Prince Edward Island,11,Male,Salish languages,0,0,0,0,0
+Prince Edward Island,11,Male,Comox,0,0,0,0,0
+Prince Edward Island,11,Male,Halkomelem,0,0,0,0,0
+Prince Edward Island,11,Male,Lillooet,0,0,0,0,0
+Prince Edward Island,11,Male,Okanagan,0,0,0,0,0
+Prince Edward Island,11,Male,Shuswap (Secwepemctsin),0,0,0,0,0
+Prince Edward Island,11,Male,Squamish,0,0,0,0,0
+Prince Edward Island,11,Male,Straits,0,0,0,0,0
+Prince Edward Island,11,Male,Thompson (Ntlakapamux),0,0,0,0,0
+Prince Edward Island,11,Male,"Salish languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Siouan languages,0,0,0,0,0
+Prince Edward Island,11,Male,Dakota,0,0,0,0,0
+Prince Edward Island,11,Male,Stoney,0,0,0,0,0
+Prince Edward Island,11,Male,"Siouan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Tlingit,0,0,0,0,0
+Prince Edward Island,11,Male,Tsimshian languages,0,0,0,0,0
+Prince Edward Island,11,Male,Gitxsan (Gitksan),0,0,0,0,0
+Prince Edward Island,11,Male,Nisga'a,0,0,0,0,0
+Prince Edward Island,11,Male,Tsimshian,0,0,0,0,0
+Prince Edward Island,11,Male,Wakashan languages,0,0,0,0,0
+Prince Edward Island,11,Male,Haisla,0,0,0,0,0
+Prince Edward Island,11,Male,Heiltsuk,0,0,0,0,0
+Prince Edward Island,11,Male,Kwakiutl (Kwak'wala),0,0,0,0,0
+Prince Edward Island,11,Male,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Prince Edward Island,11,Male,"Wakashan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,"Aboriginal languages, n.o.s.",0,5,0,0,0
+Prince Edward Island,11,Male,Non-Aboriginal languages,3585,2750,5,195,635
+Prince Edward Island,11,Male,Afro-Asiatic languages,365,235,0,45,85
+Prince Edward Island,11,Male,Berber languages,0,0,0,0,0
+Prince Edward Island,11,Male,Kabyle,0,0,0,0,0
+Prince Edward Island,11,Male,"Berber languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Cushitic languages,25,25,0,0,5
+Prince Edward Island,11,Male,Bilen,0,0,0,0,0
+Prince Edward Island,11,Male,Oromo,0,0,0,0,0
+Prince Edward Island,11,Male,Somali,25,25,0,0,5
+Prince Edward Island,11,Male,"Cushitic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Semitic languages,335,210,0,40,80
+Prince Edward Island,11,Male,Amharic,0,0,0,0,0
+Prince Edward Island,11,Male,Arabic,315,190,0,45,80
+Prince Edward Island,11,Male,Assyrian Neo-Aramaic,0,0,0,0,0
+Prince Edward Island,11,Male,Chaldean Neo-Aramaic,0,0,0,0,0
+Prince Edward Island,11,Male,Harari,0,0,0,0,0
+Prince Edward Island,11,Male,Hebrew,15,15,0,0,0
+Prince Edward Island,11,Male,Maltese,0,5,0,0,0
+Prince Edward Island,11,Male,Tigrigna,0,0,0,0,0
+Prince Edward Island,11,Male,"Semitic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Austro-Asiatic languages,60,50,0,0,5
+Prince Edward Island,11,Male,Khmer (Cambodian),0,0,0,0,0
+Prince Edward Island,11,Male,Vietnamese,65,50,0,5,5
+Prince Edward Island,11,Male,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Prince Edward Island,11,Male,Austronesian languages,160,155,0,0,0
+Prince Edward Island,11,Male,Bikol,0,0,0,0,0
+Prince Edward Island,11,Male,Cebuano,5,10,0,0,0
+Prince Edward Island,11,Male,Fijian,0,0,0,0,0
+Prince Edward Island,11,Male,Hiligaynon,0,0,0,0,0
+Prince Edward Island,11,Male,Ilocano,0,0,0,0,0
+Prince Edward Island,11,Male,Malagasy,0,0,0,0,0
+Prince Edward Island,11,Male,Malay,5,5,0,0,0
+Prince Edward Island,11,Male,"Pampangan (Kapampangan, Pampango)",0,0,0,0,0
+Prince Edward Island,11,Male,Pangasinan,0,0,0,0,0
+Prince Edward Island,11,Male,"Tagalog (Pilipino, Filipino)",145,145,0,0,0
+Prince Edward Island,11,Male,Waray-Waray,0,0,0,0,0
+Prince Edward Island,11,Male,"Austronesian languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Creole languages,5,5,0,0,0
+Prince Edward Island,11,Male,Haitian Creole,0,0,0,0,0
+Prince Edward Island,11,Male,"Creole, n.o.s.",5,0,0,5,0
+Prince Edward Island,11,Male,"Creole languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Dravidian languages,60,60,0,0,5
+Prince Edward Island,11,Male,Kannada,10,10,0,0,5
+Prince Edward Island,11,Male,Malayalam,35,30,0,0,0
+Prince Edward Island,11,Male,Tamil,10,10,0,0,0
+Prince Edward Island,11,Male,Telugu,5,10,0,0,0
+Prince Edward Island,11,Male,"Dravidian languages, n.i.e.",0,5,0,0,0
+Prince Edward Island,11,Male,Hmong-Mien languages,0,0,0,0,0
+Prince Edward Island,11,Male,Indo-European languages,1315,1150,0,100,60
+Prince Edward Island,11,Male,Albanian,55,50,0,0,0
+Prince Edward Island,11,Male,Armenian,0,5,0,0,0
+Prince Edward Island,11,Male,Balto-Slavic languages,190,165,0,20,5
+Prince Edward Island,11,Male,Baltic languages,5,5,0,0,0
+Prince Edward Island,11,Male,Latvian,0,0,0,5,0
+Prince Edward Island,11,Male,Lithuanian,0,0,0,0,0
+Prince Edward Island,11,Male,Slavic languages,185,165,0,15,0
+Prince Edward Island,11,Male,Belarusan,0,0,0,0,0
+Prince Edward Island,11,Male,Bosnian,15,10,0,0,0
+Prince Edward Island,11,Male,Bulgarian,5,5,0,0,0
+Prince Edward Island,11,Male,Croatian,10,10,0,0,0
+Prince Edward Island,11,Male,Czech,10,10,0,5,0
+Prince Edward Island,11,Male,Macedonian,0,0,0,0,0
+Prince Edward Island,11,Male,Polish,30,25,0,0,0
+Prince Edward Island,11,Male,Russian,70,60,0,5,5
+Prince Edward Island,11,Male,Serbian,10,10,0,5,0
+Prince Edward Island,11,Male,Serbo-Croatian,5,5,0,0,0
+Prince Edward Island,11,Male,Slovak,0,0,0,0,0
+Prince Edward Island,11,Male,Slovene (Slovenian),5,5,0,0,0
+Prince Edward Island,11,Male,Ukrainian,20,20,0,0,0
+Prince Edward Island,11,Male,"Slavic languages, n.i.e.",5,5,0,0,0
+Prince Edward Island,11,Male,Celtic languages,10,10,0,0,0
+Prince Edward Island,11,Male,Scottish Gaelic,5,5,0,5,0
+Prince Edward Island,11,Male,Welsh,5,5,0,0,0
+Prince Edward Island,11,Male,"Celtic languages, n.i.e.",0,5,0,0,0
+Prince Edward Island,11,Male,Germanic languages,465,430,0,35,0
+Prince Edward Island,11,Male,Afrikaans,15,15,0,0,0
+Prince Edward Island,11,Male,Danish,15,15,0,0,0
+Prince Edward Island,11,Male,Dutch,240,225,0,15,5
+Prince Edward Island,11,Male,Frisian,20,20,0,0,0
+Prince Edward Island,11,Male,German,155,140,0,15,0
+Prince Edward Island,11,Male,Icelandic,5,0,0,0,0
+Prince Edward Island,11,Male,Norwegian,0,0,0,0,0
+Prince Edward Island,11,Male,Swedish,0,5,0,0,0
+Prince Edward Island,11,Male,Vlaams (Flemish),10,10,0,0,0
+Prince Edward Island,11,Male,Yiddish,0,0,0,0,0
+Prince Edward Island,11,Male,"Germanic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Greek,5,5,0,0,0
+Prince Edward Island,11,Male,Indo-Iranian languages,340,295,0,10,35
+Prince Edward Island,11,Male,Indo-Aryan languages,245,205,0,5,35
+Prince Edward Island,11,Male,Bengali,20,20,0,0,0
+Prince Edward Island,11,Male,Gujarati,5,5,0,0,0
+Prince Edward Island,11,Male,Hindi,30,25,0,0,5
+Prince Edward Island,11,Male,Kashmiri,0,0,0,0,0
+Prince Edward Island,11,Male,Konkani,0,0,0,0,0
+Prince Edward Island,11,Male,Marathi,5,0,0,0,0
+Prince Edward Island,11,Male,Nepali,80,55,0,0,25
+Prince Edward Island,11,Male,Oriya (Odia),0,0,0,0,0
+Prince Edward Island,11,Male,Punjabi (Panjabi),55,50,0,0,5
+Prince Edward Island,11,Male,Sindhi,0,0,0,0,0
+Prince Edward Island,11,Male,Sinhala (Sinhalese),25,25,0,0,0
+Prince Edward Island,11,Male,Urdu,25,25,0,5,0
+Prince Edward Island,11,Male,Iranian languages,95,85,0,10,5
+Prince Edward Island,11,Male,Kurdish,0,0,0,0,0
+Prince Edward Island,11,Male,Pashto,0,0,0,0,0
+Prince Edward Island,11,Male,Persian (Farsi),90,80,0,5,5
+Prince Edward Island,11,Male,"Indo-Iranian languages, n.i.e.",0,5,0,0,0
+Prince Edward Island,11,Male,Italic (Romance) languages,250,195,0,40,15
+Prince Edward Island,11,Male,Catalan,0,0,0,0,0
+Prince Edward Island,11,Male,Italian,40,30,0,15,0
+Prince Edward Island,11,Male,Portuguese,40,35,0,5,5
+Prince Edward Island,11,Male,Romanian,15,10,0,5,0
+Prince Edward Island,11,Male,Spanish,155,120,0,20,15
+Prince Edward Island,11,Male,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Japanese,20,15,0,0,10
+Prince Edward Island,11,Male,Kartvelian languages,0,0,0,0,0
+Prince Edward Island,11,Male,Georgian,0,0,0,0,0
+Prince Edward Island,11,Male,Korean,50,45,0,0,5
+Prince Edward Island,11,Male,Mongolic languages,0,0,0,0,0
+Prince Edward Island,11,Male,Mongolian,0,0,0,0,0
+Prince Edward Island,11,Male,Niger-Congo languages,45,35,0,10,0
+Prince Edward Island,11,Male,Akan (Twi),0,0,0,0,0
+Prince Edward Island,11,Male,Bamanankan,0,0,0,0,0
+Prince Edward Island,11,Male,Edo,0,0,0,0,0
+Prince Edward Island,11,Male,Ewe,0,0,0,0,0
+Prince Edward Island,11,Male,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Prince Edward Island,11,Male,Ga,0,0,0,0,0
+Prince Edward Island,11,Male,Ganda,0,0,0,0,0
+Prince Edward Island,11,Male,Igbo,0,0,0,0,0
+Prince Edward Island,11,Male,Lingala,5,0,0,5,0
+Prince Edward Island,11,Male,Rundi (Kirundi),5,0,0,5,0
+Prince Edward Island,11,Male,Kinyarwanda (Rwanda),0,0,0,0,0
+Prince Edward Island,11,Male,Shona,0,0,0,0,0
+Prince Edward Island,11,Male,Swahili,15,10,0,0,0
+Prince Edward Island,11,Male,Wolof,0,0,0,0,0
+Prince Edward Island,11,Male,Yoruba,10,10,0,0,0
+Prince Edward Island,11,Male,"Niger-Congo languages, n.i.e.",10,10,0,0,0
+Prince Edward Island,11,Male,Nilo-Saharan languages,0,0,0,0,0
+Prince Edward Island,11,Male,Dinka,0,0,0,0,0
+Prince Edward Island,11,Male,"Nilo-Saharan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Sign languages,5,5,0,0,0
+Prince Edward Island,11,Male,American Sign Language,0,5,0,0,0
+Prince Edward Island,11,Male,Quebec Sign Language,0,0,0,0,0
+Prince Edward Island,11,Male,"Sign languages, n.i.e",5,0,0,0,0
+Prince Edward Island,11,Male,Sino-Tibetan languages,1420,940,0,20,460
+Prince Edward Island,11,Male,Chinese languages,1400,920,0,20,460
+Prince Edward Island,11,Male,Cantonese,95,80,0,5,20
+Prince Edward Island,11,Male,Hakka,0,0,0,0,0
+Prince Edward Island,11,Male,Mandarin,1170,740,0,15,415
+Prince Edward Island,11,Male,Min Dong,0,0,0,0,0
+Prince Edward Island,11,Male,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",10,5,0,0,5
+Prince Edward Island,11,Male,Wu (Shanghainese),20,15,0,0,5
+Prince Edward Island,11,Male,"Chinese, n.o.s.",100,80,0,0,20
+Prince Edward Island,11,Male,"Chinese languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Tibeto-Burman languages,20,20,0,0,5
+Prince Edward Island,11,Male,Burmese,5,10,0,0,0
+Prince Edward Island,11,Male,Karenic languages,10,10,0,0,0
+Prince Edward Island,11,Male,Tibetan,0,0,0,0,0
+Prince Edward Island,11,Male,"Tibeto-Burman languages, n.i.e.",5,5,0,0,0
+Prince Edward Island,11,Male,Tai-Kadai languages,5,0,0,0,0
+Prince Edward Island,11,Male,Lao,0,0,0,0,0
+Prince Edward Island,11,Male,Thai,0,0,0,0,0
+Prince Edward Island,11,Male,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Prince Edward Island,11,Male,Turkic languages,10,5,0,0,0
+Prince Edward Island,11,Male,Azerbaijani,0,0,0,0,0
+Prince Edward Island,11,Male,Turkish,10,5,0,0,0
+Prince Edward Island,11,Male,Uyghur,0,0,0,0,0
+Prince Edward Island,11,Male,Uzbek,0,0,0,0,0
+Prince Edward Island,11,Male,"Turkic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,Uralic languages,45,40,0,5,0
+Prince Edward Island,11,Male,Estonian,5,5,0,0,0
+Prince Edward Island,11,Male,Finnish,10,5,0,0,0
+Prince Edward Island,11,Male,Hungarian,35,30,0,5,5
+Prince Edward Island,11,Male,"Uralic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Male,"Other languages, n.i.e.",5,5,0,0,0
+Prince Edward Island,11,Male,Multiple responses,450,235,5,210,5
+Prince Edward Island,11,Male,English and French,205,35,5,165,0
+Prince Edward Island,11,Male,English and non-official language,220,195,0,25,0
+Prince Edward Island,11,Male,French and non-official language,15,0,0,15,0
+Prince Edward Island,11,Male,"English, French and non-official language",10,5,0,5,0
+Prince Edward Island,11,Female,Total - Mother tongue,72480,61520,65,10295,600
+Prince Edward Island,11,Female,Single responses,71940,61255,60,10020,600
+Prince Edward Island,11,Female,Official languages,68390,58515,55,9805,10
+Prince Edward Island,11,Female,English,65770,58285,5,7470,5
+Prince Edward Island,11,Female,French,2620,225,55,2335,5
+Prince Edward Island,11,Female,Non-official languages,3545,2740,5,210,590
+Prince Edward Island,11,Female,Aboriginal languages,25,20,0,0,0
+Prince Edward Island,11,Female,Algonquian languages,20,20,0,0,0
+Prince Edward Island,11,Female,Blackfoot,0,0,0,0,0
+Prince Edward Island,11,Female,Cree-Montagnais languages,0,0,0,0,0
+Prince Edward Island,11,Female,Atikamekw,0,0,0,0,0
+Prince Edward Island,11,Female,Montagnais (Innu),0,0,0,0,0
+Prince Edward Island,11,Female,Moose Cree,0,0,0,0,0
+Prince Edward Island,11,Female,Naskapi,0,0,0,0,0
+Prince Edward Island,11,Female,Northern East Cree,0,0,0,5,0
+Prince Edward Island,11,Female,Plains Cree,0,0,0,0,0
+Prince Edward Island,11,Female,Southern East Cree,0,0,0,0,0
+Prince Edward Island,11,Female,Swampy Cree,0,0,0,0,0
+Prince Edward Island,11,Female,Woods Cree,0,0,0,0,0
+Prince Edward Island,11,Female,"Cree, n.o.s.",0,0,0,0,0
+Prince Edward Island,11,Female,Eastern Algonquian languages,15,15,0,0,0
+Prince Edward Island,11,Female,Malecite,0,0,0,0,0
+Prince Edward Island,11,Female,Mi'kmaq,15,20,0,0,0
+Prince Edward Island,11,Female,Ojibway-Potawatomi languages,5,0,0,0,0
+Prince Edward Island,11,Female,Algonquin,0,0,0,0,0
+Prince Edward Island,11,Female,Ojibway,0,0,0,0,0
+Prince Edward Island,11,Female,Oji-Cree,0,0,0,0,0
+Prince Edward Island,11,Female,Ottawa (Odawa),0,0,0,0,0
+Prince Edward Island,11,Female,"Algonquian languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Athabaskan languages,0,0,0,0,0
+Prince Edward Island,11,Female,Northern Athabaskan languages,0,0,0,0,0
+Prince Edward Island,11,Female,Babine (Wetsuwet'en),0,0,0,0,0
+Prince Edward Island,11,Female,Beaver,0,0,0,0,0
+Prince Edward Island,11,Female,Carrier,0,0,0,0,0
+Prince Edward Island,11,Female,Chilcotin,0,0,0,0,0
+Prince Edward Island,11,Female,Dene,0,0,0,0,0
+Prince Edward Island,11,Female,Dogrib (Tlicho),0,0,0,0,0
+Prince Edward Island,11,Female,Gwich'in,0,0,0,0,0
+Prince Edward Island,11,Female,Sarsi (Sarcee),0,0,0,0,0
+Prince Edward Island,11,Female,Sekani,0,0,0,0,0
+Prince Edward Island,11,Female,Slavey-Hare languages,0,0,0,0,0
+Prince Edward Island,11,Female,North Slavey (Hare),0,0,0,0,0
+Prince Edward Island,11,Female,South Slavey,0,0,0,0,0
+Prince Edward Island,11,Female,"Slavey, n.o.s.",0,0,0,0,0
+Prince Edward Island,11,Female,Tahltan languages,0,0,0,0,0
+Prince Edward Island,11,Female,Kaska (Nahani),0,0,0,0,0
+Prince Edward Island,11,Female,Tahltan,0,0,0,0,0
+Prince Edward Island,11,Female,Tutchone languages,0,0,0,0,0
+Prince Edward Island,11,Female,Northern Tutchone,0,0,0,0,0
+Prince Edward Island,11,Female,Southern Tutchone,0,0,0,0,0
+Prince Edward Island,11,Female,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Haida,0,0,0,0,0
+Prince Edward Island,11,Female,Inuit languages,0,0,0,0,0
+Prince Edward Island,11,Female,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Prince Edward Island,11,Female,Inuktitut,5,0,0,0,0
+Prince Edward Island,11,Female,"Inuit languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Iroquoian languages,0,0,0,0,0
+Prince Edward Island,11,Female,Cayuga,0,0,0,0,0
+Prince Edward Island,11,Female,Mohawk,0,0,0,0,0
+Prince Edward Island,11,Female,Oneida,0,0,0,0,0
+Prince Edward Island,11,Female,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Kutenai,0,0,0,0,0
+Prince Edward Island,11,Female,Michif,0,0,0,0,0
+Prince Edward Island,11,Female,Salish languages,0,0,0,0,0
+Prince Edward Island,11,Female,Comox,0,0,0,0,0
+Prince Edward Island,11,Female,Halkomelem,0,0,0,0,0
+Prince Edward Island,11,Female,Lillooet,0,0,0,0,0
+Prince Edward Island,11,Female,Okanagan,0,0,0,0,0
+Prince Edward Island,11,Female,Shuswap (Secwepemctsin),0,0,0,0,0
+Prince Edward Island,11,Female,Squamish,0,0,0,0,0
+Prince Edward Island,11,Female,Straits,0,0,0,0,0
+Prince Edward Island,11,Female,Thompson (Ntlakapamux),0,0,0,0,0
+Prince Edward Island,11,Female,"Salish languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Siouan languages,0,0,0,0,0
+Prince Edward Island,11,Female,Dakota,0,0,0,0,0
+Prince Edward Island,11,Female,Stoney,0,0,0,0,0
+Prince Edward Island,11,Female,"Siouan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Tlingit,0,0,0,0,0
+Prince Edward Island,11,Female,Tsimshian languages,0,0,0,0,0
+Prince Edward Island,11,Female,Gitxsan (Gitksan),0,0,0,0,0
+Prince Edward Island,11,Female,Nisga'a,0,0,0,0,0
+Prince Edward Island,11,Female,Tsimshian,0,0,0,0,0
+Prince Edward Island,11,Female,Wakashan languages,0,0,0,0,0
+Prince Edward Island,11,Female,Haisla,0,0,0,0,0
+Prince Edward Island,11,Female,Heiltsuk,0,0,0,0,0
+Prince Edward Island,11,Female,Kwakiutl (Kwak'wala),0,0,0,0,0
+Prince Edward Island,11,Female,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Prince Edward Island,11,Female,"Wakashan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,"Aboriginal languages, n.o.s.",0,0,0,0,0
+Prince Edward Island,11,Female,Non-Aboriginal languages,3525,2725,5,210,590
+Prince Edward Island,11,Female,Afro-Asiatic languages,290,190,5,20,80
+Prince Edward Island,11,Female,Berber languages,0,0,0,0,0
+Prince Edward Island,11,Female,Kabyle,0,0,0,0,0
+Prince Edward Island,11,Female,"Berber languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Cushitic languages,25,25,0,0,5
+Prince Edward Island,11,Female,Bilen,0,0,0,0,0
+Prince Edward Island,11,Female,Oromo,0,0,0,0,0
+Prince Edward Island,11,Female,Somali,25,20,0,0,5
+Prince Edward Island,11,Female,"Cushitic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Semitic languages,270,165,0,20,80
+Prince Edward Island,11,Female,Amharic,0,0,0,0,0
+Prince Edward Island,11,Female,Arabic,260,160,0,20,80
+Prince Edward Island,11,Female,Assyrian Neo-Aramaic,0,0,0,0,0
+Prince Edward Island,11,Female,Chaldean Neo-Aramaic,0,0,0,0,0
+Prince Edward Island,11,Female,Harari,0,0,0,0,0
+Prince Edward Island,11,Female,Hebrew,10,10,0,0,0
+Prince Edward Island,11,Female,Maltese,0,0,0,0,0
+Prince Edward Island,11,Female,Tigrigna,0,0,0,0,0
+Prince Edward Island,11,Female,"Semitic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Austro-Asiatic languages,55,45,0,0,10
+Prince Edward Island,11,Female,Khmer (Cambodian),0,0,0,0,0
+Prince Edward Island,11,Female,Vietnamese,55,45,0,5,5
+Prince Edward Island,11,Female,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Prince Edward Island,11,Female,Austronesian languages,235,240,0,0,0
+Prince Edward Island,11,Female,Bikol,0,0,0,0,0
+Prince Edward Island,11,Female,Cebuano,10,10,0,0,0
+Prince Edward Island,11,Female,Fijian,0,0,0,0,0
+Prince Edward Island,11,Female,Hiligaynon,0,0,0,0,0
+Prince Edward Island,11,Female,Ilocano,0,0,0,0,0
+Prince Edward Island,11,Female,Malagasy,0,0,0,0,0
+Prince Edward Island,11,Female,Malay,5,5,0,0,0
+Prince Edward Island,11,Female,"Pampangan (Kapampangan, Pampango)",0,0,0,0,0
+Prince Edward Island,11,Female,Pangasinan,0,0,0,0,0
+Prince Edward Island,11,Female,"Tagalog (Pilipino, Filipino)",220,215,0,0,0
+Prince Edward Island,11,Female,Waray-Waray,0,0,0,0,0
+Prince Edward Island,11,Female,"Austronesian languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Creole languages,5,0,0,5,0
+Prince Edward Island,11,Female,Haitian Creole,5,0,0,5,0
+Prince Edward Island,11,Female,"Creole, n.o.s.",5,5,0,5,0
+Prince Edward Island,11,Female,"Creole languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Dravidian languages,50,45,0,0,0
+Prince Edward Island,11,Female,Kannada,5,5,0,0,0
+Prince Edward Island,11,Female,Malayalam,20,25,0,0,0
+Prince Edward Island,11,Female,Tamil,10,10,0,0,0
+Prince Edward Island,11,Female,Telugu,5,10,0,0,0
+Prince Edward Island,11,Female,"Dravidian languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Hmong-Mien languages,0,0,0,0,0
+Prince Edward Island,11,Female,Indo-European languages,1260,1055,0,130,80
+Prince Edward Island,11,Female,Albanian,45,35,0,0,5
+Prince Edward Island,11,Female,Armenian,0,0,0,5,0
+Prince Edward Island,11,Female,Balto-Slavic languages,195,165,0,25,10
+Prince Edward Island,11,Female,Baltic languages,0,0,0,5,0
+Prince Edward Island,11,Female,Latvian,0,0,0,0,0
+Prince Edward Island,11,Female,Lithuanian,0,0,0,0,0
+Prince Edward Island,11,Female,Slavic languages,195,165,0,20,5
+Prince Edward Island,11,Female,Belarusan,0,0,0,0,0
+Prince Edward Island,11,Female,Bosnian,15,15,0,0,5
+Prince Edward Island,11,Female,Bulgarian,5,5,0,0,0
+Prince Edward Island,11,Female,Croatian,10,10,0,5,0
+Prince Edward Island,11,Female,Czech,10,5,0,0,0
+Prince Edward Island,11,Female,Macedonian,0,0,0,0,0
+Prince Edward Island,11,Female,Polish,40,30,5,10,0
+Prince Edward Island,11,Female,Russian,70,65,0,5,0
+Prince Edward Island,11,Female,Serbian,5,5,0,0,0
+Prince Edward Island,11,Female,Serbo-Croatian,5,5,0,0,0
+Prince Edward Island,11,Female,Slovak,5,0,0,0,0
+Prince Edward Island,11,Female,Slovene (Slovenian),5,5,0,0,0
+Prince Edward Island,11,Female,Ukrainian,25,20,0,5,0
+Prince Edward Island,11,Female,"Slavic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Celtic languages,10,5,0,5,0
+Prince Edward Island,11,Female,Scottish Gaelic,5,0,0,0,0
+Prince Edward Island,11,Female,Welsh,0,5,0,0,0
+Prince Edward Island,11,Female,"Celtic languages, n.i.e.",5,0,0,0,0
+Prince Edward Island,11,Female,Germanic languages,435,390,0,45,0
+Prince Edward Island,11,Female,Afrikaans,5,5,0,0,0
+Prince Edward Island,11,Female,Danish,5,10,0,0,0
+Prince Edward Island,11,Female,Dutch,220,210,0,10,0
+Prince Edward Island,11,Female,Frisian,15,10,0,5,0
+Prince Edward Island,11,Female,German,160,130,0,30,0
+Prince Edward Island,11,Female,Icelandic,0,0,0,0,0
+Prince Edward Island,11,Female,Norwegian,0,0,0,0,0
+Prince Edward Island,11,Female,Swedish,0,5,0,0,0
+Prince Edward Island,11,Female,Vlaams (Flemish),10,15,0,0,0
+Prince Edward Island,11,Female,Yiddish,0,0,0,0,0
+Prince Edward Island,11,Female,"Germanic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Greek,5,5,0,0,0
+Prince Edward Island,11,Female,Indo-Iranian languages,345,280,0,15,55
+Prince Edward Island,11,Female,Indo-Aryan languages,255,205,0,10,45
+Prince Edward Island,11,Female,Bengali,15,15,0,0,0
+Prince Edward Island,11,Female,Gujarati,0,5,0,0,0
+Prince Edward Island,11,Female,Hindi,25,20,0,0,0
+Prince Edward Island,11,Female,Kashmiri,0,0,0,0,0
+Prince Edward Island,11,Female,Konkani,0,0,0,0,0
+Prince Edward Island,11,Female,Marathi,0,0,0,0,0
+Prince Edward Island,11,Female,Nepali,120,85,0,0,35
+Prince Edward Island,11,Female,Oriya (Odia),0,0,0,0,0
+Prince Edward Island,11,Female,Punjabi (Panjabi),50,40,0,0,10
+Prince Edward Island,11,Female,Sindhi,0,0,0,0,0
+Prince Edward Island,11,Female,Sinhala (Sinhalese),25,20,0,0,0
+Prince Edward Island,11,Female,Urdu,25,25,0,5,0
+Prince Edward Island,11,Female,Iranian languages,85,75,0,5,5
+Prince Edward Island,11,Female,Kurdish,0,0,0,0,0
+Prince Edward Island,11,Female,Pashto,0,0,0,0,0
+Prince Edward Island,11,Female,Persian (Farsi),85,75,0,5,10
+Prince Edward Island,11,Female,"Indo-Iranian languages, n.i.e.",5,0,0,0,5
+Prince Edward Island,11,Female,Italic (Romance) languages,225,170,0,45,10
+Prince Edward Island,11,Female,Catalan,0,0,0,0,0
+Prince Edward Island,11,Female,Italian,25,15,0,10,0
+Prince Edward Island,11,Female,Portuguese,40,35,0,5,0
+Prince Edward Island,11,Female,Romanian,10,5,0,5,0
+Prince Edward Island,11,Female,Spanish,155,110,0,30,10
+Prince Edward Island,11,Female,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Japanese,70,70,0,0,5
+Prince Edward Island,11,Female,Kartvelian languages,0,0,0,0,0
+Prince Edward Island,11,Female,Georgian,0,0,0,0,0
+Prince Edward Island,11,Female,Korean,65,60,0,5,0
+Prince Edward Island,11,Female,Mongolic languages,0,0,0,0,0
+Prince Edward Island,11,Female,Mongolian,0,0,0,0,0
+Prince Edward Island,11,Female,Niger-Congo languages,35,25,5,10,0
+Prince Edward Island,11,Female,Akan (Twi),0,0,0,0,0
+Prince Edward Island,11,Female,Bamanankan,0,0,0,0,0
+Prince Edward Island,11,Female,Edo,0,0,0,0,0
+Prince Edward Island,11,Female,Ewe,0,0,0,0,0
+Prince Edward Island,11,Female,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Prince Edward Island,11,Female,Ga,0,0,0,0,0
+Prince Edward Island,11,Female,Ganda,0,0,0,0,0
+Prince Edward Island,11,Female,Igbo,0,0,0,0,0
+Prince Edward Island,11,Female,Lingala,0,0,0,0,0
+Prince Edward Island,11,Female,Rundi (Kirundi),5,0,0,5,0
+Prince Edward Island,11,Female,Kinyarwanda (Rwanda),0,0,0,0,0
+Prince Edward Island,11,Female,Shona,0,0,0,0,0
+Prince Edward Island,11,Female,Swahili,10,5,5,0,0
+Prince Edward Island,11,Female,Wolof,0,0,0,0,0
+Prince Edward Island,11,Female,Yoruba,15,15,0,0,0
+Prince Edward Island,11,Female,"Niger-Congo languages, n.i.e.",15,10,0,5,0
+Prince Edward Island,11,Female,Nilo-Saharan languages,0,0,0,0,0
+Prince Edward Island,11,Female,Dinka,0,0,0,0,0
+Prince Edward Island,11,Female,"Nilo-Saharan languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Sign languages,10,0,0,0,5
+Prince Edward Island,11,Female,American Sign Language,0,0,0,0,0
+Prince Edward Island,11,Female,Quebec Sign Language,0,0,0,0,0
+Prince Edward Island,11,Female,"Sign languages, n.i.e",5,5,0,0,0
+Prince Edward Island,11,Female,Sino-Tibetan languages,1365,935,0,30,400
+Prince Edward Island,11,Female,Chinese languages,1345,910,0,30,400
+Prince Edward Island,11,Female,Cantonese,110,85,0,10,15
+Prince Edward Island,11,Female,Hakka,0,0,0,0,0
+Prince Edward Island,11,Female,Mandarin,995,710,0,15,270
+Prince Edward Island,11,Female,Min Dong,0,0,0,0,0
+Prince Edward Island,11,Female,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",10,10,0,0,5
+Prince Edward Island,11,Female,Wu (Shanghainese),30,20,0,0,5
+Prince Edward Island,11,Female,"Chinese, n.o.s.",195,85,0,0,110
+Prince Edward Island,11,Female,"Chinese languages, n.i.e.",5,0,0,0,0
+Prince Edward Island,11,Female,Tibeto-Burman languages,25,20,0,0,0
+Prince Edward Island,11,Female,Burmese,15,15,0,0,5
+Prince Edward Island,11,Female,Karenic languages,10,5,0,0,5
+Prince Edward Island,11,Female,Tibetan,0,0,0,0,0
+Prince Edward Island,11,Female,"Tibeto-Burman languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Tai-Kadai languages,15,20,0,0,0
+Prince Edward Island,11,Female,Lao,0,0,0,0,0
+Prince Edward Island,11,Female,Thai,15,20,0,0,5
+Prince Edward Island,11,Female,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Prince Edward Island,11,Female,Turkic languages,15,10,0,0,0
+Prince Edward Island,11,Female,Azerbaijani,0,0,0,0,0
+Prince Edward Island,11,Female,Turkish,10,10,0,0,0
+Prince Edward Island,11,Female,Uyghur,0,0,0,0,0
+Prince Edward Island,11,Female,Uzbek,5,0,0,0,0
+Prince Edward Island,11,Female,"Turkic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,Uralic languages,40,30,0,10,0
+Prince Edward Island,11,Female,Estonian,5,0,0,0,0
+Prince Edward Island,11,Female,Finnish,10,5,0,0,0
+Prince Edward Island,11,Female,Hungarian,25,20,0,5,0
+Prince Edward Island,11,Female,"Uralic languages, n.i.e.",0,0,0,0,0
+Prince Edward Island,11,Female,"Other languages, n.i.e.",5,5,0,0,0
+Prince Edward Island,11,Female,Multiple responses,545,265,5,275,0
+Prince Edward Island,11,Female,English and French,280,50,5,230,0
+Prince Edward Island,11,Female,English and non-official language,240,215,5,20,0
+Prince Edward Island,11,Female,French and non-official language,15,0,0,15,0
+Prince Edward Island,11,Female,"English, French and non-official language",15,0,0,10,0

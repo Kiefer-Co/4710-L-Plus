@@ -1,808 +1,808 @@
-,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
-32610063,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Total - Mother tongue,1,1.0,1261620,1135395,1485,108455,16285
-32610064,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Single responses,2,,1230120,1109185,1405,103375,16155
-32610065,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Official languages,3,,941130,843790,1105,95920,310
-32610066,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,English,4,,900605,840765,30,59510,305
-32610067,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,French,5,,40525,3025,1075,36410,5
-32610068,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Non-official languages,6,,288990,265395,300,7450,15845
-32610069,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Aboriginal languages,7,,29710,29245,10,135,320
-32610070,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Algonquian languages,8,,28070,27655,15,105,295
-32610071,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Blackfoot,9,,0,5,0,0,0
-32610072,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Cree-Montagnais languages,10,,14825,14610,5,60,145
-32610073,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Atikamekw,11,,0,0,0,0,0
-32610074,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Montagnais (Innu),12,,0,0,0,0,0
-32610075,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Moose Cree,13,,0,5,0,0,0
-32610076,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Naskapi,14,,0,0,0,0,0
-32610077,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Northern East Cree,15,,30,25,0,0,0
-32610078,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Plains Cree,16,,70,60,0,5,0
-32610079,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Southern East Cree,17,,0,0,0,0,0
-32610080,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Swampy Cree,18,,740,730,0,5,5
-32610081,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Woods Cree,19,,65,65,0,0,5
-32610082,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Cree, n.o.s.",20,,13920,13725,5,50,140
-32610083,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Eastern Algonquian languages,21,,10,10,0,5,0
-32610084,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Malecite,22,,0,0,0,0,0
-32610085,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Mi'kmaq,23,,10,5,0,0,0
-32610086,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Ojibway-Potawatomi languages,24,,13240,13035,5,45,150
-32610087,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Algonquin,25,,0,0,0,0,0
-32610088,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Ojibway,26,,6730,6630,0,40,65
-32610089,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Oji-Cree,27,,6505,6405,5,5,85
-32610090,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Ottawa (Odawa),28,,0,0,0,0,0
-32610091,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-32610092,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Athabaskan languages,30,,815,790,5,5,20
-32610093,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Northern Athabaskan languages,31,,815,785,5,0,25
-32610094,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-32610095,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Beaver,33,,0,0,0,0,0
-32610096,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Carrier,34,,0,0,0,0,0
-32610097,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Chilcotin,35,,0,0,0,0,0
-32610098,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Dene,36,,810,785,0,0,25
-32610099,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Dogrib (Tlicho),37,,0,0,0,0,0
-32610100,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Gwich'in,38,,0,0,0,0,0
-32610101,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Sarsi (Sarcee),39,,0,0,0,0,0
-32610102,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Sekani,40,,0,0,0,0,0
-32610103,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Slavey-Hare languages,41,,5,0,0,0,0
-32610104,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,North Slavey (Hare),42,,0,0,0,0,0
-32610105,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,South Slavey,43,,0,0,0,0,0
-32610106,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Slavey, n.o.s.",44,,0,0,0,0,0
-32610107,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tahltan languages,45,,0,0,0,0,0
-32610108,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Kaska (Nahani),46,,0,0,0,0,0
-32610109,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tahltan,47,,0,0,0,0,0
-32610110,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tutchone languages,48,,0,0,0,0,0
-32610111,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Northern Tutchone,49,,0,0,0,0,0
-32610112,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Southern Tutchone,50,,0,0,0,0,0
-32610113,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-32610114,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Haida,52,,0,0,0,0,0
-32610115,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Inuit languages,53,,85,85,0,5,0
-32610116,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-32610117,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Inuktitut,55,,65,65,0,0,0
-32610118,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Inuit languages, n.i.e.",56,,15,15,0,0,0
-32610119,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Iroquoian languages,57,,0,5,0,0,0
-32610120,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Cayuga,58,,0,0,0,0,0
-32610121,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Mohawk,59,,5,0,0,0,0
-32610122,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Oneida,60,,0,0,0,0,0
-32610123,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-32610124,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Kutenai,62,,0,0,0,0,0
-32610125,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Michif,63,,80,60,0,20,0
-32610126,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Salish languages,64,,0,5,0,0,0
-32610127,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Comox,65,,0,0,0,0,0
-32610128,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Halkomelem,66,,0,0,0,0,0
-32610129,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Lillooet,67,,0,0,0,0,0
-32610130,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Okanagan,68,,0,0,0,0,0
-32610131,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-32610132,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Squamish,70,,0,0,0,0,0
-32610133,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Straits,71,,0,0,0,0,0
-32610134,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-32610135,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-32610136,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Siouan languages,74,,630,630,0,5,5
-32610137,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Dakota,75,,630,630,0,5,5
-32610138,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Stoney,76,,0,0,0,0,0
-32610139,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-32610140,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tlingit,78,,0,0,0,0,0
-32610141,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tsimshian languages,79,,5,0,0,0,0
-32610142,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Gitxsan (Gitksan),80,,0,5,0,0,0
-32610143,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Nisga'a,81,,0,0,0,0,0
-32610144,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tsimshian,82,,0,0,0,0,0
-32610145,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Wakashan languages,83,,0,0,0,0,0
-32610146,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Haisla,84,,0,0,0,0,0
-32610147,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Heiltsuk,85,,0,0,0,0,0
-32610148,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-32610149,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-32610150,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-32610151,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,15,15,0,0,0
-32610152,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Non-Aboriginal languages,90,,259280,236150,285,7315,15525
-32610153,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Afro-Asiatic languages,91,,10700,8480,50,670,1500
-32610154,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Berber languages,92,,40,15,0,20,5
-32610155,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Kabyle,93,,30,10,0,15,5
-32610156,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Berber languages, n.i.e.",94,,10,0,5,5,0
-32610157,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Cushitic languages,95,,1750,1510,0,45,200
-32610158,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Bilen,96,,155,140,0,0,15
-32610159,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Oromo,97,,340,315,0,0,25
-32610160,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Somali,98,,1245,1055,0,40,150
-32610161,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,10,5,0,0,10
-32610162,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Semitic languages,100,,8840,6910,35,600,1300
-32610163,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Amharic,101,,1770,1680,0,15,70
-32610164,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Arabic,102,,4695,3135,35,540,990
-32610165,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Assyrian Neo-Aramaic,103,,5,5,0,0,0
-32610166,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-32610167,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Harari,105,,0,0,0,0,0
-32610168,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Hebrew,106,,550,505,0,25,15
-32610169,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Maltese,107,,40,40,0,0,0
-32610170,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tigrigna,108,,1770,1530,0,15,225
-32610171,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Semitic languages, n.i.e.",109,,10,10,0,0,0
-32610172,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,65,50,5,5,0
-32610173,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Austro-Asiatic languages,111,,4180,3495,10,95,585
-32610174,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Khmer (Cambodian),112,,280,220,0,10,50
-32610175,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Vietnamese,113,,3895,3265,5,90,535
-32610176,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,0,5,0,0,0
-32610177,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Austronesian languages,115,,52905,51700,10,600,600
-32610178,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Bikol,116,,175,170,0,0,5
-32610179,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Cebuano,117,,1245,1235,0,0,5
-32610180,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Fijian,118,,35,35,0,0,0
-32610181,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Hiligaynon,119,,390,385,0,5,5
-32610182,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Ilocano,120,,1365,1330,0,10,20
-32610183,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Malagasy,121,,0,0,0,5,0
-32610184,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Malay,122,,170,165,0,0,5
-32610185,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,655,645,0,5,10
-32610186,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Pangasinan,124,,135,130,0,0,0
-32610187,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,48530,47400,5,580,545
-32610188,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Waray-Waray,126,,55,55,0,0,0
-32610189,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,155,150,0,0,0
-32610190,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Creole languages,128,,575,345,15,195,20
-32610191,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Haitian Creole,129,,20,0,5,15,0
-32610192,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Creole, n.o.s.",130,,290,120,10,150,10
-32610193,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Creole languages, n.i.e.",131,,265,220,5,30,10
-32610194,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Dravidian languages,132,,1570,1495,5,15,55
-32610195,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Kannada,133,,90,90,0,0,0
-32610196,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Malayalam,134,,790,750,0,0,35
-32610197,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tamil,135,,485,460,5,5,15
-32610198,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Telugu,136,,195,190,0,5,0
-32610199,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,5,5,0,0,0
-32610200,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Hmong-Mien languages,138,,0,0,0,0,0
-32610201,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Indo-European languages,139,,158350,145740,60,4140,8420
-32610202,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Albanian,140,,350,325,0,10,15
-32610203,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Armenian,141,,65,60,0,5,0
-32610204,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Balto-Slavic languages,142,,34445,32100,5,935,1405
-32610205,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Baltic languages,143,,165,155,0,5,0
-32610206,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Latvian,144,,85,80,0,5,0
-32610207,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Lithuanian,145,,80,80,0,5,0
-32610208,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Slavic languages,146,,34280,31940,5,930,1405
-32610209,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Belarusan,147,,45,40,0,0,5
-32610210,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Bosnian,148,,575,535,0,20,20
-32610211,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Bulgarian,149,,140,120,0,10,5
-32610212,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Croatian,150,,1035,980,0,35,15
-32610213,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Czech,151,,615,575,0,35,5
-32610214,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Macedonian,152,,145,125,0,5,5
-32610215,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Polish,153,,6455,5980,5,250,225
-32610216,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Russian,154,,9130,8060,0,195,875
-32610217,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Serbian,155,,655,590,0,30,25
-32610218,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Serbo-Croatian,156,,240,225,0,15,0
-32610219,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Slovak,157,,405,375,0,30,5
-32610220,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Slovene (Slovenian),158,,265,260,0,10,0
-32610221,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Ukrainian,159,,14505,14000,0,295,210
-32610222,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Slavic languages, n.i.e.",160,,75,65,0,5,5
-32610223,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Celtic languages,161,,115,105,0,10,0
-32610224,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Scottish Gaelic,162,,45,40,0,5,0
-32610225,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Welsh,163,,60,55,0,10,0
-32610226,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Celtic languages, n.i.e.",164,,10,10,0,0,0
-32610227,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Germanic languages,165,,68670,64965,20,1030,2650
-32610228,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Afrikaans,166,,420,405,0,15,0
-32610229,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Danish,167,,280,260,0,15,5
-32610230,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Dutch,168,,2675,2520,0,145,5
-32610231,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Frisian,169,,60,55,0,0,0
-32610232,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,German,170,,63825,60405,20,760,2640
-32610233,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Icelandic,171,,470,465,0,5,0
-32610234,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Norwegian,172,,115,110,0,5,0
-32610235,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Swedish,173,,140,130,0,15,0
-32610236,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Vlaams (Flemish),174,,305,255,0,50,5
-32610237,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Yiddish,175,,355,340,0,15,0
-32610238,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Germanic languages, n.i.e.",176,,25,25,0,0,5
-32610239,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Greek,177,,1285,1185,0,70,30
-32610240,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Indo-Iranian languages,178,,32325,28755,15,650,2910
-32610241,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Indo-Aryan languages,179,,29520,26355,15,535,2625
-32610242,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Bengali,180,,1175,1090,0,45,40
-32610243,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Gujarati,181,,3110,2860,5,35,215
-32610244,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Hindi,182,,2270,2130,0,60,75
-32610245,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Kashmiri,183,,5,5,0,0,0
-32610246,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Konkani,184,,30,30,0,0,0
-32610247,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Marathi,185,,135,130,0,5,0
-32610248,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Nepali,186,,720,595,0,5,130
-32610249,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Oriya (Odia),187,,5,10,0,0,0
-32610250,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Punjabi (Panjabi),188,,18315,16000,10,315,1995
-32610251,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Sindhi,189,,60,55,0,5,0
-32610252,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Sinhala (Sinhalese),190,,670,625,0,15,25
-32610253,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Urdu,191,,3015,2815,0,60,140
-32610254,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Iranian languages,192,,2705,2320,0,110,280
-32610255,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Kurdish,193,,410,320,0,5,85
-32610256,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Pashto,194,,275,230,0,5,45
-32610257,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Persian (Farsi),195,,2020,1770,0,100,150
-32610258,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,100,90,0,5,10
-32610259,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Italic (Romance) languages,197,,21100,18250,15,1420,1405
-32610260,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Catalan,198,,5,0,0,0,0
-32610261,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Italian,199,,3835,3430,5,260,150
-32610262,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Portuguese,200,,6585,5545,5,415,620
-32610263,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Romanian,201,,650,510,0,120,20
-32610264,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Spanish,202,,10005,8745,10,630,615
-32610265,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,15,15,0,0,0
-32610266,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Japanese,204,,535,495,0,20,25
-32610267,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Kartvelian languages,205,,20,15,0,0,0
-32610268,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Georgian,206,,15,15,0,0,0
-32610269,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Korean,207,,3760,3225,0,110,425
-32610270,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Mongolic languages,208,,25,20,0,0,0
-32610271,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Mongolian,209,,20,25,0,0,0
-32610272,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Niger-Congo languages,210,,3895,2655,145,960,140
-32610273,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Akan (Twi),211,,155,135,0,10,5
-32610274,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Bamanankan,212,,75,0,10,60,0
-32610275,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Edo,213,,35,40,0,0,0
-32610276,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Ewe,214,,35,5,0,20,0
-32610277,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,65,5,10,40,5
-32610278,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Ga,216,,15,15,0,0,0
-32610279,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Ganda,217,,50,45,0,5,0
-32610280,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Igbo,218,,280,270,0,5,5
-32610281,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Lingala,219,,75,5,20,40,5
-32610282,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Rundi (Kirundi),220,,130,40,5,60,25
-32610283,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Kinyarwanda (Rwanda),221,,250,90,10,140,15
-32610284,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Shona,222,,110,110,0,0,0
-32610285,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Swahili,223,,870,435,40,345,50
-32610286,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Wolof,224,,75,0,5,70,0
-32610287,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Yoruba,225,,1030,1005,0,15,10
-32610288,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,645,445,40,140,20
-32610289,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Nilo-Saharan languages,227,,395,370,0,10,10
-32610290,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Dinka,228,,170,165,0,0,5
-32610291,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,225,205,0,10,10
-32610292,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Sign languages,230,,440,255,0,10,175
-32610293,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,American Sign Language,231,,240,170,0,5,65
-32610294,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Quebec Sign Language,232,,0,0,0,0,0
-32610295,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Sign languages, n.i.e",233,,195,85,0,5,110
-32610296,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Sino-Tibetan languages,234,,18880,15120,5,335,3425
-32610297,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Chinese languages,235,,18305,14720,0,335,3250
-32610298,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Cantonese,236,,6625,4870,5,120,1635
-32610299,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Hakka,237,,60,40,0,5,10
-32610300,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Mandarin,238,,10170,8590,5,175,1405
-32610301,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Min Dong,239,,5,5,0,0,0
-32610302,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,325,265,0,10,50
-32610303,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Wu (Shanghainese),241,,105,90,0,0,15
-32610304,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Chinese, n.o.s.",242,,1010,860,0,20,130
-32610305,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Chinese languages, n.i.e.",243,,10,5,0,0,5
-32610306,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tibeto-Burman languages,244,,575,400,0,0,175
-32610307,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Burmese,245,,85,70,0,0,15
-32610308,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Karenic languages,246,,430,285,0,0,145
-32610309,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tibetan,247,,10,5,0,5,0
-32610310,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,55,40,0,0,15
-32610311,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Tai-Kadai languages,249,,1125,950,0,60,115
-32610312,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Lao,250,,875,730,0,55,95
-32610313,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Thai,251,,240,220,0,0,20
-32610314,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,5,0,0,0,0
-32610315,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Turkic languages,253,,340,310,0,20,10
-32610316,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Azerbaijani,254,,30,30,0,0,0
-32610317,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Turkish,255,,215,195,0,15,5
-32610318,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Uyghur,256,,15,10,0,0,0
-32610319,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Uzbek,257,,45,40,0,0,0
-32610320,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Turkic languages, n.i.e.",258,,40,30,0,0,5
-32610321,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Uralic languages,259,,1445,1345,0,75,15
-32610322,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Estonian,260,,30,30,0,0,0
-32610323,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Finnish,261,,225,210,0,15,0
-32610324,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Hungarian,262,,1185,1105,0,65,15
-32610325,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-32610326,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"Other languages, n.i.e.",264,,150,140,5,5,0
-32610327,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,Multiple responses,265,,31500,26210,75,5085,130
-32610328,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,English and French,266,,4365,980,10,3365,5
-32610329,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,English and non-official language,267,,25965,24980,5,860,120
-32610330,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,French and non-official language,268,,695,125,55,510,5
-32610331,2016,46,1,Manitoba,4.3,0, ,46,Total - Sex,1,,"English, French and non-official language",269,,475,120,5,345,0
-32610332,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Total - Mother tongue,1,1.0,624095,566980,675,49200,7235
-32610333,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Single responses,2,,608820,554340,645,46670,7165
-32610334,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Official languages,3,,468425,424465,520,43265,175
-32610335,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,English,4,,448960,423015,10,25760,175
-32610336,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,French,5,,19465,1450,505,17505,5
-32610337,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Non-official languages,6,,140390,129875,125,3400,6990
-32610338,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Aboriginal languages,7,,14265,14035,5,60,160
-32610339,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Algonquian languages,8,,13505,13305,10,45,145
-32610340,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Blackfoot,9,,0,0,0,0,0
-32610341,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Cree-Montagnais languages,10,,7085,6980,5,25,75
-32610342,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Atikamekw,11,,0,0,0,0,0
-32610343,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Montagnais (Innu),12,,0,0,0,0,0
-32610344,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Moose Cree,13,,0,0,0,0,0
-32610345,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Naskapi,14,,0,0,0,0,0
-32610346,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Northern East Cree,15,,5,10,0,0,0
-32610347,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Plains Cree,16,,25,20,0,0,0
-32610348,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Southern East Cree,17,,0,0,0,0,0
-32610349,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Swampy Cree,18,,305,300,0,0,0
-32610350,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Woods Cree,19,,25,25,0,0,0
-32610351,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Cree, n.o.s.",20,,6725,6630,5,20,70
-32610352,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Eastern Algonquian languages,21,,10,10,0,0,0
-32610353,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Malecite,22,,5,5,0,0,0
-32610354,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Mi'kmaq,23,,5,0,0,5,0
-32610355,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Ojibway-Potawatomi languages,24,,6415,6320,5,25,65
-32610356,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Algonquin,25,,0,0,0,0,0
-32610357,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Ojibway,26,,3175,3130,0,20,30
-32610358,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Oji-Cree,27,,3235,3195,5,5,35
-32610359,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Ottawa (Odawa),28,,0,0,0,0,0
-32610360,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-32610361,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Athabaskan languages,30,,375,365,0,0,15
-32610362,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Northern Athabaskan languages,31,,375,360,0,0,15
-32610363,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-32610364,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Beaver,33,,0,0,0,0,0
-32610365,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Carrier,34,,0,0,0,0,0
-32610366,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Chilcotin,35,,0,0,0,0,0
-32610367,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Dene,36,,375,360,0,0,15
-32610368,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Dogrib (Tlicho),37,,0,0,0,0,0
-32610369,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Gwich'in,38,,0,0,0,0,0
-32610370,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Sarsi (Sarcee),39,,0,0,0,0,0
-32610371,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Sekani,40,,0,0,0,0,0
-32610372,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Slavey-Hare languages,41,,0,0,0,0,0
-32610373,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,North Slavey (Hare),42,,0,0,0,0,0
-32610374,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,South Slavey,43,,0,0,0,0,0
-32610375,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Slavey, n.o.s.",44,,0,0,0,0,0
-32610376,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tahltan languages,45,,0,0,0,0,0
-32610377,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Kaska (Nahani),46,,0,0,0,0,0
-32610378,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tahltan,47,,0,0,0,0,0
-32610379,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tutchone languages,48,,0,0,0,0,0
-32610380,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Northern Tutchone,49,,0,0,0,0,0
-32610381,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Southern Tutchone,50,,0,0,0,0,0
-32610382,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Athabaskan languages, n.i.e.",51,,0,5,0,0,0
-32610383,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Haida,52,,0,0,0,0,0
-32610384,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Inuit languages,53,,20,25,0,0,0
-32610385,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Inuinnaqtun (Inuvialuktun),54,,5,0,0,0,0
-32610386,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Inuktitut,55,,20,20,0,0,0
-32610387,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Inuit languages, n.i.e.",56,,5,5,0,0,0
-32610388,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Iroquoian languages,57,,0,0,0,0,0
-32610389,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Cayuga,58,,0,0,0,0,0
-32610390,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Mohawk,59,,5,0,0,0,0
-32610391,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Oneida,60,,0,0,0,0,0
-32610392,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-32610393,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Kutenai,62,,0,0,0,0,0
-32610394,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Michif,63,,40,25,0,10,0
-32610395,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Salish languages,64,,0,0,0,0,0
-32610396,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Comox,65,,0,0,0,0,0
-32610397,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Halkomelem,66,,0,0,0,0,0
-32610398,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Lillooet,67,,0,0,0,0,0
-32610399,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Okanagan,68,,0,0,0,0,0
-32610400,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-32610401,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Squamish,70,,0,0,0,0,0
-32610402,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Straits,71,,0,0,0,0,0
-32610403,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-32610404,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-32610405,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Siouan languages,74,,305,300,0,0,5
-32610406,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Dakota,75,,300,300,0,0,5
-32610407,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Stoney,76,,0,0,0,0,0
-32610408,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-32610409,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tlingit,78,,0,0,0,0,0
-32610410,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tsimshian languages,79,,0,0,0,0,0
-32610411,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Gitxsan (Gitksan),80,,0,0,0,0,0
-32610412,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Nisga'a,81,,0,0,0,0,0
-32610413,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tsimshian,82,,0,0,0,0,0
-32610414,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Wakashan languages,83,,5,0,0,0,0
-32610415,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Haisla,84,,0,0,0,0,0
-32610416,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Heiltsuk,85,,0,5,0,0,0
-32610417,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-32610418,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-32610419,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-32610420,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Aboriginal languages, n.o.s.",89,,10,10,0,0,0
-32610421,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Non-Aboriginal languages,90,,126130,115840,120,3345,6830
-32610422,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Afro-Asiatic languages,91,,5580,4465,20,380,710
-32610423,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Berber languages,92,,25,5,0,15,0
-32610424,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Kabyle,93,,20,5,0,10,0
-32610425,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Berber languages, n.i.e.",94,,10,0,0,5,0
-32610426,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Cushitic languages,95,,880,790,0,15,70
-32610427,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Bilen,96,,85,80,0,0,5
-32610428,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Oromo,97,,175,165,0,5,10
-32610429,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Somali,98,,605,545,0,10,55
-32610430,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Cushitic languages, n.i.e.",99,,10,0,0,0,5
-32610431,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Semitic languages,100,,4640,3640,10,345,640
-32610432,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Amharic,101,,885,835,0,10,35
-32610433,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Arabic,102,,2505,1685,10,315,490
-32610434,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-32610435,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-32610436,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Harari,105,,0,0,0,0,0
-32610437,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Hebrew,106,,320,300,0,10,10
-32610438,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Maltese,107,,20,20,0,0,0
-32610439,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tigrigna,108,,905,800,0,10,100
-32610440,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Semitic languages, n.i.e.",109,,10,5,0,0,0
-32610441,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,35,25,5,5,5
-32610442,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Austro-Asiatic languages,111,,1970,1720,5,40,210
-32610443,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Khmer (Cambodian),112,,135,115,0,0,15
-32610444,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Vietnamese,113,,1840,1600,5,40,190
-32610445,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-32610446,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Austronesian languages,115,,24680,24210,0,230,245
-32610447,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Bikol,116,,80,80,0,0,0
-32610448,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Cebuano,117,,570,560,0,0,5
-32610449,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Fijian,118,,20,20,0,0,0
-32610450,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Hiligaynon,119,,170,165,0,0,5
-32610451,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Ilocano,120,,630,615,0,5,10
-32610452,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Malagasy,121,,5,0,0,0,0
-32610453,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Malay,122,,65,65,0,5,0
-32610454,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,315,310,0,5,5
-32610455,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Pangasinan,124,,65,65,0,0,0
-32610456,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Tagalog (Pilipino, Filipino)",125,,22670,22225,5,215,225
-32610457,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Waray-Waray,126,,30,25,0,0,0
-32610458,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Austronesian languages, n.i.e.",127,,70,70,0,0,0
-32610459,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Creole languages,128,,270,160,5,105,0
-32610460,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Haitian Creole,129,,10,0,0,10,0
-32610461,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Creole, n.o.s.",130,,145,65,5,75,5
-32610462,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Creole languages, n.i.e.",131,,115,100,5,20,5
-32610463,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Dravidian languages,132,,830,790,0,10,25
-32610464,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Kannada,133,,50,45,0,5,0
-32610465,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Malayalam,134,,410,390,0,0,15
-32610466,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tamil,135,,255,245,0,5,5
-32610467,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Telugu,136,,110,110,0,5,0
-32610468,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Dravidian languages, n.i.e.",137,,5,0,0,0,0
-32610469,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Hmong-Mien languages,138,,5,0,0,0,0
-32610470,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Indo-European languages,139,,77605,72180,25,1785,3620
-32610471,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Albanian,140,,170,160,0,5,5
-32610472,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Armenian,141,,35,30,0,5,0
-32610473,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Balto-Slavic languages,142,,15845,14865,5,395,585
-32610474,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Baltic languages,143,,65,70,0,0,0
-32610475,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Latvian,144,,35,30,0,5,0
-32610476,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Lithuanian,145,,30,30,0,0,0
-32610477,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Slavic languages,146,,15775,14800,0,390,585
-32610478,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Belarusan,147,,20,20,0,0,0
-32610479,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Bosnian,148,,290,275,0,10,5
-32610480,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Bulgarian,149,,70,60,0,5,0
-32610481,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Croatian,150,,500,485,0,15,5
-32610482,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Czech,151,,310,290,0,15,5
-32610483,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Macedonian,152,,70,60,0,5,0
-32610484,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Polish,153,,2910,2745,0,95,70
-32610485,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Russian,154,,4495,4025,0,80,385
-32610486,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Serbian,155,,335,310,0,15,15
-32610487,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Serbo-Croatian,156,,110,110,0,5,0
-32610488,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Slovak,157,,175,165,0,10,0
-32610489,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Slovene (Slovenian),158,,125,120,0,5,0
-32610490,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Ukrainian,159,,6325,6100,0,130,95
-32610491,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Slavic languages, n.i.e.",160,,40,35,0,5,0
-32610492,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Celtic languages,161,,65,55,0,5,0
-32610493,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Scottish Gaelic,162,,25,20,0,5,0
-32610494,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Welsh,163,,30,25,0,5,0
-32610495,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Celtic languages, n.i.e.",164,,5,5,0,0,0
-32610496,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Germanic languages,165,,33310,31620,10,430,1245
-32610497,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Afrikaans,166,,215,205,0,15,0
-32610498,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Danish,167,,145,140,0,5,5
-32610499,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Dutch,168,,1335,1265,0,65,0
-32610500,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Frisian,169,,30,30,0,0,0
-32610501,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,German,170,,30940,29375,10,315,1235
-32610502,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Icelandic,171,,210,210,0,0,0
-32610503,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Norwegian,172,,45,40,0,5,0
-32610504,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Swedish,173,,65,60,0,0,0
-32610505,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Vlaams (Flemish),174,,125,105,0,25,0
-32610506,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Yiddish,175,,175,170,0,5,0
-32610507,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Germanic languages, n.i.e.",176,,15,10,0,0,0
-32610508,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Greek,177,,665,620,0,30,15
-32610509,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Indo-Iranian languages,178,,17130,15620,5,285,1220
-32610510,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Indo-Aryan languages,179,,15705,14355,5,235,1110
-32610511,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Bengali,180,,675,635,0,20,20
-32610512,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Gujarati,181,,1660,1575,0,15,70
-32610513,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Hindi,182,,1215,1160,0,30,25
-32610514,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Kashmiri,183,,5,5,0,0,0
-32610515,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Konkani,184,,20,15,0,0,0
-32610516,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Marathi,185,,80,75,0,0,0
-32610517,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Nepali,186,,360,305,0,5,55
-32610518,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Oriya (Odia),187,,5,5,0,0,0
-32610519,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Punjabi (Panjabi),188,,9645,8665,5,130,850
-32610520,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Sindhi,189,,35,30,0,5,5
-32610521,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Sinhala (Sinhalese),190,,350,330,0,5,15
-32610522,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Urdu,191,,1655,1555,5,30,70
-32610523,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Iranian languages,192,,1370,1210,0,45,110
-32610524,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Kurdish,193,,210,175,0,0,35
-32610525,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Pashto,194,,125,115,0,5,15
-32610526,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Persian (Farsi),195,,1030,930,0,45,60
-32610527,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Indo-Iranian languages, n.i.e.",196,,60,55,0,0,0
-32610528,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Italic (Romance) languages,197,,10390,9205,5,625,550
-32610529,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Catalan,198,,0,0,0,0,0
-32610530,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Italian,199,,1915,1760,0,105,45
-32610531,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Portuguese,200,,3195,2780,0,180,230
-32610532,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Romanian,201,,310,245,0,60,5
-32610533,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Spanish,202,,4965,4415,5,280,270
-32610534,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Italic (Romance) languages, n.i.e.",203,,5,5,0,0,0
-32610535,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Japanese,204,,185,165,5,5,20
-32610536,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Kartvelian languages,205,,5,10,0,0,0
-32610537,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Georgian,206,,5,10,0,0,0
-32610538,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Korean,207,,1810,1560,5,55,190
-32610539,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Mongolic languages,208,,5,5,0,0,0
-32610540,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Mongolian,209,,5,5,0,0,0
-32610541,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Niger-Congo languages,210,,1965,1340,55,520,55
-32610542,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Akan (Twi),211,,90,80,0,5,5
-32610543,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Bamanankan,212,,25,0,0,25,0
-32610544,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Edo,213,,25,20,0,0,0
-32610545,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Ewe,214,,25,5,0,15,0
-32610546,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,35,0,5,25,5
-32610547,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Ga,216,,10,5,0,0,0
-32610548,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Ganda,217,,20,15,0,0,0
-32610549,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Igbo,218,,155,150,0,5,0
-32610550,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Lingala,219,,30,5,10,20,5
-32610551,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Rundi (Kirundi),220,,65,20,5,35,5
-32610552,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Kinyarwanda (Rwanda),221,,130,45,5,75,5
-32610553,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Shona,222,,50,50,0,0,0
-32610554,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Swahili,223,,420,205,15,180,20
-32610555,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Wolof,224,,50,5,0,45,0
-32610556,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Yoruba,225,,525,510,0,10,5
-32610557,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Niger-Congo languages, n.i.e.",226,,315,220,15,75,5
-32610558,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Nilo-Saharan languages,227,,215,205,0,5,5
-32610559,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Dinka,228,,90,90,0,0,0
-32610560,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,125,115,0,5,5
-32610561,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Sign languages,230,,225,140,0,5,90
-32610562,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,American Sign Language,231,,125,90,0,5,35
-32610563,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Quebec Sign Language,232,,0,0,0,0,0
-32610564,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Sign languages, n.i.e",233,,105,50,0,5,55
-32610565,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Sino-Tibetan languages,234,,9315,7570,0,135,1610
-32610566,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Chinese languages,235,,9025,7370,0,130,1520
-32610567,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Cantonese,236,,3140,2360,0,35,740
-32610568,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Hakka,237,,30,20,0,5,5
-32610569,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Mandarin,238,,5110,4345,0,75,690
-32610570,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Min Dong,239,,5,5,0,0,0
-32610571,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,150,130,0,0,20
-32610572,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Wu (Shanghainese),241,,55,45,0,0,5
-32610573,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Chinese, n.o.s.",242,,530,460,0,15,55
-32610574,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Chinese languages, n.i.e.",243,,5,0,0,0,5
-32610575,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tibeto-Burman languages,244,,295,195,0,0,90
-32610576,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Burmese,245,,55,45,0,0,5
-32610577,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Karenic languages,246,,215,135,0,0,75
-32610578,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tibetan,247,,0,5,0,0,0
-32610579,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,20,10,0,0,10
-32610580,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Tai-Kadai languages,249,,530,460,0,30,45
-32610581,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Lao,250,,445,380,0,25,35
-32610582,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Thai,251,,85,75,0,0,10
-32610583,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Tai-Kadai languages, n.i.e",252,,5,5,0,0,0
-32610584,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Turkic languages,253,,190,175,0,5,0
-32610585,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Azerbaijani,254,,20,20,0,5,0
-32610586,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Turkish,255,,115,115,0,5,0
-32610587,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Uyghur,256,,5,5,0,0,0
-32610588,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Uzbek,257,,25,25,0,0,0
-32610589,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Turkic languages, n.i.e.",258,,20,15,0,0,5
-32610590,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Uralic languages,259,,650,620,0,30,0
-32610591,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Estonian,260,,15,15,0,0,0
-32610592,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Finnish,261,,90,85,0,5,0
-32610593,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Hungarian,262,,550,520,0,25,5
-32610594,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-32610595,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"Other languages, n.i.e.",264,,85,70,5,10,0
-32610596,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,Multiple responses,265,,15280,12640,35,2535,70
-32610597,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,English and French,266,,2135,450,0,1685,5
-32610598,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,English and non-official language,267,,12530,12065,5,395,65
-32610599,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,French and non-official language,268,,380,70,25,285,5
-32610600,2016,46,1,Manitoba,4.3,0, ,46,Male,2,,"English, French and non-official language",269,,230,60,5,165,5
-32610601,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Total - Mother tongue,1,1.0,637520,568410,800,59250,9055
-32610602,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Single responses,2,,621295,554845,760,56700,8990
-32610603,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Official languages,3,,472700,419325,585,52655,135
-32610604,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,English,4,,451645,417750,15,33745,135
-32610605,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,French,5,,21060,1580,570,18905,5
-32610606,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Non-official languages,6,,148595,135515,170,4050,8855
-32610607,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Aboriginal languages,7,,15445,15205,5,75,160
-32610608,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Algonquian languages,8,,14565,14355,5,55,150
-32610609,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Blackfoot,9,,0,0,0,0,0
-32610610,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Cree-Montagnais languages,10,,7735,7630,0,35,70
-32610611,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Atikamekw,11,,0,0,0,0,0
-32610612,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Montagnais (Innu),12,,5,0,0,0,0
-32610613,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Moose Cree,13,,0,5,0,0,0
-32610614,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Naskapi,14,,0,0,0,0,0
-32610615,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Northern East Cree,15,,25,20,0,0,0
-32610616,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Plains Cree,16,,40,40,0,0,0
-32610617,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Southern East Cree,17,,0,0,0,0,0
-32610618,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Swampy Cree,18,,435,435,0,0,0
-32610619,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Woods Cree,19,,45,40,0,0,0
-32610620,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Cree, n.o.s.",20,,7190,7095,0,25,65
-32610621,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Eastern Algonquian languages,21,,0,0,0,0,0
-32610622,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Malecite,22,,0,0,0,0,0
-32610623,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Mi'kmaq,23,,5,5,0,0,0
-32610624,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Ojibway-Potawatomi languages,24,,6825,6710,5,25,80
-32610625,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Algonquin,25,,0,0,0,0,0
-32610626,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Ojibway,26,,3555,3500,0,20,30
-32610627,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Oji-Cree,27,,3270,3210,5,5,50
-32610628,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Ottawa (Odawa),28,,0,0,0,0,0
-32610629,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-32610630,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Athabaskan languages,30,,445,430,0,0,10
-32610631,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Northern Athabaskan languages,31,,440,430,0,0,10
-32610632,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-32610633,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Beaver,33,,0,0,0,0,0
-32610634,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Carrier,34,,0,0,0,0,0
-32610635,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Chilcotin,35,,0,0,0,0,0
-32610636,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Dene,36,,435,425,0,0,5
-32610637,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Dogrib (Tlicho),37,,0,0,0,0,0
-32610638,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Gwich'in,38,,0,0,0,0,0
-32610639,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Sarsi (Sarcee),39,,0,0,0,0,0
-32610640,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Sekani,40,,0,0,0,0,0
-32610641,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Slavey-Hare languages,41,,0,0,0,0,0
-32610642,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,North Slavey (Hare),42,,0,0,0,0,0
-32610643,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,South Slavey,43,,0,0,0,0,0
-32610644,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Slavey, n.o.s.",44,,0,0,0,0,0
-32610645,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tahltan languages,45,,0,0,0,0,0
-32610646,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Kaska (Nahani),46,,0,0,0,0,0
-32610647,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tahltan,47,,0,0,0,0,0
-32610648,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tutchone languages,48,,0,0,0,0,0
-32610649,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Northern Tutchone,49,,0,0,0,0,0
-32610650,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Southern Tutchone,50,,0,0,0,0,0
-32610651,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Athabaskan languages, n.i.e.",51,,5,0,0,0,0
-32610652,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Haida,52,,0,0,0,0,0
-32610653,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Inuit languages,53,,60,60,0,5,0
-32610654,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-32610655,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Inuktitut,55,,50,50,0,0,0
-32610656,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Inuit languages, n.i.e.",56,,10,15,0,0,0
-32610657,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Iroquoian languages,57,,5,0,0,0,0
-32610658,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Cayuga,58,,0,0,0,0,0
-32610659,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Mohawk,59,,5,0,0,0,0
-32610660,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Oneida,60,,0,0,0,0,0
-32610661,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-32610662,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Kutenai,62,,0,0,0,0,0
-32610663,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Michif,63,,40,30,0,10,0
-32610664,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Salish languages,64,,0,0,0,0,0
-32610665,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Comox,65,,0,0,0,0,0
-32610666,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Halkomelem,66,,0,0,0,0,0
-32610667,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Lillooet,67,,0,0,0,0,0
-32610668,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Okanagan,68,,0,0,0,0,0
-32610669,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-32610670,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Squamish,70,,0,0,0,0,0
-32610671,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Straits,71,,0,0,0,0,0
-32610672,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-32610673,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-32610674,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Siouan languages,74,,330,330,0,0,0
-32610675,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Dakota,75,,330,330,0,0,0
-32610676,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Stoney,76,,0,0,0,0,0
-32610677,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Siouan languages, n.i.e.",77,,5,0,0,0,0
-32610678,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tlingit,78,,0,0,0,0,0
-32610679,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tsimshian languages,79,,5,0,0,0,0
-32610680,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Gitxsan (Gitksan),80,,0,0,0,0,0
-32610681,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Nisga'a,81,,0,0,0,0,0
-32610682,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tsimshian,82,,0,0,0,0,0
-32610683,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Wakashan languages,83,,0,0,0,0,0
-32610684,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Haisla,84,,0,0,0,0,0
-32610685,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Heiltsuk,85,,0,0,0,0,0
-32610686,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-32610687,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-32610688,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-32610689,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-32610690,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Non-Aboriginal languages,90,,133150,120315,170,3975,8695
-32610691,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Afro-Asiatic languages,91,,5120,4015,25,290,785
-32610692,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Berber languages,92,,15,5,0,5,0
-32610693,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Kabyle,93,,15,5,0,5,5
-32610694,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Berber languages, n.i.e.",94,,0,0,5,0,0
-32610695,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Cushitic languages,95,,875,715,0,30,130
-32610696,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Bilen,96,,65,55,0,0,10
-32610697,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Oromo,97,,165,150,0,0,15
-32610698,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Somali,98,,635,510,0,25,100
-32610699,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Cushitic languages, n.i.e.",99,,5,0,0,0,5
-32610700,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Semitic languages,100,,4200,3270,20,250,655
-32610701,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Amharic,101,,885,850,0,5,35
-32610702,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Arabic,102,,2190,1450,20,225,495
-32610703,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Assyrian Neo-Aramaic,103,,0,5,0,5,0
-32610704,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-32610705,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Harari,105,,0,0,0,0,0
-32610706,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Hebrew,106,,225,210,0,10,10
-32610707,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Maltese,107,,25,20,0,0,0
-32610708,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tigrigna,108,,860,730,0,5,125
-32610709,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Semitic languages, n.i.e.",109,,5,0,0,0,0
-32610710,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,30,25,0,5,0
-32610711,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Austro-Asiatic languages,111,,2205,1775,0,55,375
-32610712,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Khmer (Cambodian),112,,145,110,0,5,30
-32610713,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Vietnamese,113,,2060,1665,5,50,340
-32610714,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-32610715,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Austronesian languages,115,,28225,27490,5,370,355
-32610716,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Bikol,116,,95,95,0,0,0
-32610717,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Cebuano,117,,675,675,0,0,5
-32610718,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Fijian,118,,15,15,0,0,0
-32610719,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Hiligaynon,119,,220,215,0,0,5
-32610720,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Ilocano,120,,730,715,0,5,15
-32610721,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Malagasy,121,,0,0,0,0,0
-32610722,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Malay,122,,105,100,0,5,5
-32610723,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,335,330,0,0,5
-32610724,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Pangasinan,124,,70,65,0,0,5
-32610725,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Tagalog (Pilipino, Filipino)",125,,25860,25170,0,360,320
-32610726,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Waray-Waray,126,,25,30,0,0,0
-32610727,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Austronesian languages, n.i.e.",127,,85,85,0,0,0
-32610728,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Creole languages,128,,300,180,10,95,15
-32610729,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Haitian Creole,129,,10,0,5,5,0
-32610730,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Creole, n.o.s.",130,,145,55,5,75,10
-32610731,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Creole languages, n.i.e.",131,,145,125,0,10,10
-32610732,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Dravidian languages,132,,740,700,0,10,30
-32610733,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Kannada,133,,40,40,0,0,0
-32610734,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Malayalam,134,,380,365,0,0,20
-32610735,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tamil,135,,225,215,0,5,5
-32610736,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Telugu,136,,80,80,0,0,5
-32610737,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Dravidian languages, n.i.e.",137,,5,5,0,0,0
-32610738,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Hmong-Mien languages,138,,0,0,0,0,0
-32610739,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Indo-European languages,139,,80745,73560,35,2350,4805
-32610740,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Albanian,140,,175,165,0,10,10
-32610741,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Armenian,141,,30,25,0,0,0
-32610742,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Balto-Slavic languages,142,,18600,17230,5,545,820
-32610743,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Baltic languages,143,,100,90,0,5,5
-32610744,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Latvian,144,,45,45,0,0,0
-32610745,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Lithuanian,145,,50,45,0,0,0
-32610746,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Slavic languages,146,,18505,17145,5,540,820
-32610747,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Belarusan,147,,25,25,0,0,0
-32610748,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Bosnian,148,,290,260,0,15,10
-32610749,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Bulgarian,149,,65,60,0,5,5
-32610750,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Croatian,150,,530,495,0,20,10
-32610751,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Czech,151,,305,285,0,15,5
-32610752,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Macedonian,152,,70,65,0,0,5
-32610753,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Polish,153,,3550,3235,0,155,155
-32610754,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Russian,154,,4635,4035,0,120,485
-32610755,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Serbian,155,,320,285,0,15,15
-32610756,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Serbo-Croatian,156,,130,120,0,10,0
-32610757,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Slovak,157,,230,210,0,15,5
-32610758,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Slovene (Slovenian),158,,140,140,0,5,0
-32610759,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Ukrainian,159,,8180,7895,0,165,115
-32610760,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Slavic languages, n.i.e.",160,,30,25,0,5,0
-32610761,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Celtic languages,161,,55,50,0,5,0
-32610762,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Scottish Gaelic,162,,20,20,0,0,0
-32610763,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Welsh,163,,30,30,0,5,0
-32610764,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Celtic languages, n.i.e.",164,,5,0,0,0,0
-32610765,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Germanic languages,165,,35360,33345,10,600,1410
-32610766,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Afrikaans,166,,200,200,0,5,0
-32610767,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Danish,167,,135,120,0,10,0
-32610768,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Dutch,168,,1335,1250,0,80,0
-32610769,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Frisian,169,,25,25,0,0,0
-32610770,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,German,170,,32890,31030,10,445,1400
-32610771,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Icelandic,171,,260,255,0,10,0
-32610772,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Norwegian,172,,70,65,0,0,0
-32610773,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Swedish,173,,75,60,0,5,0
-32610774,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Vlaams (Flemish),174,,185,150,0,30,0
-32610775,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Yiddish,175,,180,170,0,10,0
-32610776,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Germanic languages, n.i.e.",176,,10,15,0,0,0
-32610777,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Greek,177,,620,565,0,35,15
-32610778,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Indo-Iranian languages,178,,15195,13135,5,360,1690
-32610779,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Indo-Aryan languages,179,,13815,11995,10,295,1515
-32610780,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Bengali,180,,500,455,0,25,20
-32610781,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Gujarati,181,,1455,1285,0,25,145
-32610782,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Hindi,182,,1060,975,0,35,50
-32610783,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Kashmiri,183,,0,0,0,0,0
-32610784,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Konkani,184,,15,15,0,5,0
-32610785,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Marathi,185,,55,55,0,0,0
-32610786,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Nepali,186,,360,290,0,0,70
-32610787,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Oriya (Odia),187,,5,0,0,0,0
-32610788,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Punjabi (Panjabi),188,,8670,7335,5,185,1150
-32610789,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Sindhi,189,,30,30,0,0,0
-32610790,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Sinhala (Sinhalese),190,,320,300,0,5,10
-32610791,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Urdu,191,,1360,1260,0,25,70
-32610792,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Iranian languages,192,,1340,1105,0,60,170
-32610793,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Kurdish,193,,200,150,0,5,50
-32610794,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Pashto,194,,150,120,0,0,25
-32610795,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Persian (Farsi),195,,990,845,0,55,90
-32610796,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Indo-Iranian languages, n.i.e.",196,,40,35,0,5,5
-32610797,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Italic (Romance) languages,197,,10705,9040,15,795,860
-32610798,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Catalan,198,,5,5,0,0,0
-32610799,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Italian,199,,1925,1670,5,155,105
-32610800,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Portuguese,200,,3390,2770,0,235,390
-32610801,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Romanian,201,,335,270,0,60,15
-32610802,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Spanish,202,,5040,4330,5,350,355
-32610803,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Italic (Romance) languages, n.i.e.",203,,5,5,0,0,0
-32610804,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Japanese,204,,355,330,0,10,10
-32610805,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Kartvelian languages,205,,5,5,0,5,0
-32610806,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Georgian,206,,10,10,0,0,0
-32610807,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Korean,207,,1950,1665,0,55,230
-32610808,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Mongolic languages,208,,15,15,0,0,0
-32610809,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Mongolian,209,,20,20,0,0,0
-32610810,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Niger-Congo languages,210,,1930,1315,90,440,90
-32610811,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Akan (Twi),211,,65,55,0,0,5
-32610812,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Bamanankan,212,,50,0,15,35,0
-32610813,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Edo,213,,15,15,0,0,0
-32610814,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Ewe,214,,10,0,0,10,0
-32610815,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,30,5,10,20,5
-32610816,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Ga,216,,5,5,0,0,0
-32610817,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Ganda,217,,30,25,0,5,0
-32610818,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Igbo,218,,130,120,0,5,0
-32610819,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Lingala,219,,40,5,15,20,0
-32610820,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Rundi (Kirundi),220,,65,20,5,30,20
-32610821,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Kinyarwanda (Rwanda),221,,125,50,5,60,10
-32610822,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Shona,222,,60,60,0,0,0
-32610823,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Swahili,223,,450,235,25,165,30
-32610824,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Wolof,224,,25,0,0,20,0
-32610825,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Yoruba,225,,505,490,0,10,5
-32610826,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Niger-Congo languages, n.i.e.",226,,325,225,20,60,15
-32610827,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Nilo-Saharan languages,227,,180,170,0,5,5
-32610828,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Dinka,228,,80,80,0,0,0
-32610829,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,100,90,0,5,5
-32610830,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Sign languages,230,,205,115,0,0,90
-32610831,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,American Sign Language,231,,115,80,0,0,35
-32610832,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Quebec Sign Language,232,,0,0,0,0,0
-32610833,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Sign languages, n.i.e",233,,95,35,0,0,55
-32610834,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Sino-Tibetan languages,234,,9565,7550,0,205,1815
-32610835,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Chinese languages,235,,9280,7350,0,205,1725
-32610836,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Cantonese,236,,3485,2510,0,85,890
-32610837,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Hakka,237,,25,20,0,0,5
-32610838,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Mandarin,238,,5060,4245,0,100,715
-32610839,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Min Dong,239,,0,5,0,0,0
-32610840,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,170,135,0,5,30
-32610841,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Wu (Shanghainese),241,,55,40,0,0,10
-32610842,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Chinese, n.o.s.",242,,480,395,0,10,70
-32610843,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Chinese languages, n.i.e.",243,,0,5,0,0,0
-32610844,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tibeto-Burman languages,244,,290,200,0,0,85
-32610845,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Burmese,245,,30,25,0,0,5
-32610846,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Karenic languages,246,,215,150,0,0,65
-32610847,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tibetan,247,,5,5,0,0,0
-32610848,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,35,25,0,0,5
-32610849,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Tai-Kadai languages,249,,595,495,0,30,75
-32610850,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Lao,250,,435,345,0,25,65
-32610851,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Thai,251,,160,150,0,0,10
-32610852,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Tai-Kadai languages, n.i.e",252,,5,5,0,0,0
-32610853,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Turkic languages,253,,150,135,0,15,5
-32610854,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Azerbaijani,254,,15,10,0,0,5
-32610855,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Turkish,255,,95,85,0,10,0
-32610856,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Uyghur,256,,5,10,0,0,0
-32610857,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Uzbek,257,,20,20,0,0,0
-32610858,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Turkic languages, n.i.e.",258,,20,15,0,0,0
-32610859,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Uralic languages,259,,785,730,0,45,10
-32610860,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Estonian,260,,20,15,0,0,0
-32610861,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Finnish,261,,135,130,0,5,0
-32610862,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Hungarian,262,,635,590,0,40,10
-32610863,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Uralic languages, n.i.e.",263,,0,5,0,0,0
-32610864,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"Other languages, n.i.e.",264,,70,70,0,0,0
-32610865,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,Multiple responses,265,,16220,13575,40,2550,60
-32610866,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,English and French,266,,2225,530,10,1685,0
-32610867,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,English and non-official language,267,,13440,12910,5,465,55
-32610868,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,French and non-official language,268,,315,60,30,220,0
-32610869,2016,46,1,Manitoba,4.3,0, ,46,Female,3,,"English, French and non-official language",269,,245,65,5,180,0
+GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+Manitoba,46,Total - Sex,Total - Mother tongue,1261620,1135395,1485,108455,16285
+Manitoba,46,Total - Sex,Single responses,1230120,1109185,1405,103375,16155
+Manitoba,46,Total - Sex,Official languages,941130,843790,1105,95920,310
+Manitoba,46,Total - Sex,English,900605,840765,30,59510,305
+Manitoba,46,Total - Sex,French,40525,3025,1075,36410,5
+Manitoba,46,Total - Sex,Non-official languages,288990,265395,300,7450,15845
+Manitoba,46,Total - Sex,Aboriginal languages,29710,29245,10,135,320
+Manitoba,46,Total - Sex,Algonquian languages,28070,27655,15,105,295
+Manitoba,46,Total - Sex,Blackfoot,0,5,0,0,0
+Manitoba,46,Total - Sex,Cree-Montagnais languages,14825,14610,5,60,145
+Manitoba,46,Total - Sex,Atikamekw,0,0,0,0,0
+Manitoba,46,Total - Sex,Montagnais (Innu),0,0,0,0,0
+Manitoba,46,Total - Sex,Moose Cree,0,5,0,0,0
+Manitoba,46,Total - Sex,Naskapi,0,0,0,0,0
+Manitoba,46,Total - Sex,Northern East Cree,30,25,0,0,0
+Manitoba,46,Total - Sex,Plains Cree,70,60,0,5,0
+Manitoba,46,Total - Sex,Southern East Cree,0,0,0,0,0
+Manitoba,46,Total - Sex,Swampy Cree,740,730,0,5,5
+Manitoba,46,Total - Sex,Woods Cree,65,65,0,0,5
+Manitoba,46,Total - Sex,"Cree, n.o.s.",13920,13725,5,50,140
+Manitoba,46,Total - Sex,Eastern Algonquian languages,10,10,0,5,0
+Manitoba,46,Total - Sex,Malecite,0,0,0,0,0
+Manitoba,46,Total - Sex,Mi'kmaq,10,5,0,0,0
+Manitoba,46,Total - Sex,Ojibway-Potawatomi languages,13240,13035,5,45,150
+Manitoba,46,Total - Sex,Algonquin,0,0,0,0,0
+Manitoba,46,Total - Sex,Ojibway,6730,6630,0,40,65
+Manitoba,46,Total - Sex,Oji-Cree,6505,6405,5,5,85
+Manitoba,46,Total - Sex,Ottawa (Odawa),0,0,0,0,0
+Manitoba,46,Total - Sex,"Algonquian languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Total - Sex,Athabaskan languages,815,790,5,5,20
+Manitoba,46,Total - Sex,Northern Athabaskan languages,815,785,5,0,25
+Manitoba,46,Total - Sex,Babine (Wetsuwet'en),0,0,0,0,0
+Manitoba,46,Total - Sex,Beaver,0,0,0,0,0
+Manitoba,46,Total - Sex,Carrier,0,0,0,0,0
+Manitoba,46,Total - Sex,Chilcotin,0,0,0,0,0
+Manitoba,46,Total - Sex,Dene,810,785,0,0,25
+Manitoba,46,Total - Sex,Dogrib (Tlicho),0,0,0,0,0
+Manitoba,46,Total - Sex,Gwich'in,0,0,0,0,0
+Manitoba,46,Total - Sex,Sarsi (Sarcee),0,0,0,0,0
+Manitoba,46,Total - Sex,Sekani,0,0,0,0,0
+Manitoba,46,Total - Sex,Slavey-Hare languages,5,0,0,0,0
+Manitoba,46,Total - Sex,North Slavey (Hare),0,0,0,0,0
+Manitoba,46,Total - Sex,South Slavey,0,0,0,0,0
+Manitoba,46,Total - Sex,"Slavey, n.o.s.",0,0,0,0,0
+Manitoba,46,Total - Sex,Tahltan languages,0,0,0,0,0
+Manitoba,46,Total - Sex,Kaska (Nahani),0,0,0,0,0
+Manitoba,46,Total - Sex,Tahltan,0,0,0,0,0
+Manitoba,46,Total - Sex,Tutchone languages,0,0,0,0,0
+Manitoba,46,Total - Sex,Northern Tutchone,0,0,0,0,0
+Manitoba,46,Total - Sex,Southern Tutchone,0,0,0,0,0
+Manitoba,46,Total - Sex,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Total - Sex,Haida,0,0,0,0,0
+Manitoba,46,Total - Sex,Inuit languages,85,85,0,5,0
+Manitoba,46,Total - Sex,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Manitoba,46,Total - Sex,Inuktitut,65,65,0,0,0
+Manitoba,46,Total - Sex,"Inuit languages, n.i.e.",15,15,0,0,0
+Manitoba,46,Total - Sex,Iroquoian languages,0,5,0,0,0
+Manitoba,46,Total - Sex,Cayuga,0,0,0,0,0
+Manitoba,46,Total - Sex,Mohawk,5,0,0,0,0
+Manitoba,46,Total - Sex,Oneida,0,0,0,0,0
+Manitoba,46,Total - Sex,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Total - Sex,Kutenai,0,0,0,0,0
+Manitoba,46,Total - Sex,Michif,80,60,0,20,0
+Manitoba,46,Total - Sex,Salish languages,0,5,0,0,0
+Manitoba,46,Total - Sex,Comox,0,0,0,0,0
+Manitoba,46,Total - Sex,Halkomelem,0,0,0,0,0
+Manitoba,46,Total - Sex,Lillooet,0,0,0,0,0
+Manitoba,46,Total - Sex,Okanagan,0,0,0,0,0
+Manitoba,46,Total - Sex,Shuswap (Secwepemctsin),0,0,0,0,0
+Manitoba,46,Total - Sex,Squamish,0,0,0,0,0
+Manitoba,46,Total - Sex,Straits,0,0,0,0,0
+Manitoba,46,Total - Sex,Thompson (Ntlakapamux),0,0,0,0,0
+Manitoba,46,Total - Sex,"Salish languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Total - Sex,Siouan languages,630,630,0,5,5
+Manitoba,46,Total - Sex,Dakota,630,630,0,5,5
+Manitoba,46,Total - Sex,Stoney,0,0,0,0,0
+Manitoba,46,Total - Sex,"Siouan languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Total - Sex,Tlingit,0,0,0,0,0
+Manitoba,46,Total - Sex,Tsimshian languages,5,0,0,0,0
+Manitoba,46,Total - Sex,Gitxsan (Gitksan),0,5,0,0,0
+Manitoba,46,Total - Sex,Nisga'a,0,0,0,0,0
+Manitoba,46,Total - Sex,Tsimshian,0,0,0,0,0
+Manitoba,46,Total - Sex,Wakashan languages,0,0,0,0,0
+Manitoba,46,Total - Sex,Haisla,0,0,0,0,0
+Manitoba,46,Total - Sex,Heiltsuk,0,0,0,0,0
+Manitoba,46,Total - Sex,Kwakiutl (Kwak'wala),0,0,0,0,0
+Manitoba,46,Total - Sex,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Manitoba,46,Total - Sex,"Wakashan languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Total - Sex,"Aboriginal languages, n.o.s.",15,15,0,0,0
+Manitoba,46,Total - Sex,Non-Aboriginal languages,259280,236150,285,7315,15525
+Manitoba,46,Total - Sex,Afro-Asiatic languages,10700,8480,50,670,1500
+Manitoba,46,Total - Sex,Berber languages,40,15,0,20,5
+Manitoba,46,Total - Sex,Kabyle,30,10,0,15,5
+Manitoba,46,Total - Sex,"Berber languages, n.i.e.",10,0,5,5,0
+Manitoba,46,Total - Sex,Cushitic languages,1750,1510,0,45,200
+Manitoba,46,Total - Sex,Bilen,155,140,0,0,15
+Manitoba,46,Total - Sex,Oromo,340,315,0,0,25
+Manitoba,46,Total - Sex,Somali,1245,1055,0,40,150
+Manitoba,46,Total - Sex,"Cushitic languages, n.i.e.",10,5,0,0,10
+Manitoba,46,Total - Sex,Semitic languages,8840,6910,35,600,1300
+Manitoba,46,Total - Sex,Amharic,1770,1680,0,15,70
+Manitoba,46,Total - Sex,Arabic,4695,3135,35,540,990
+Manitoba,46,Total - Sex,Assyrian Neo-Aramaic,5,5,0,0,0
+Manitoba,46,Total - Sex,Chaldean Neo-Aramaic,0,0,0,0,0
+Manitoba,46,Total - Sex,Harari,0,0,0,0,0
+Manitoba,46,Total - Sex,Hebrew,550,505,0,25,15
+Manitoba,46,Total - Sex,Maltese,40,40,0,0,0
+Manitoba,46,Total - Sex,Tigrigna,1770,1530,0,15,225
+Manitoba,46,Total - Sex,"Semitic languages, n.i.e.",10,10,0,0,0
+Manitoba,46,Total - Sex,"Afro-Asiatic languages, n.i.e.",65,50,5,5,0
+Manitoba,46,Total - Sex,Austro-Asiatic languages,4180,3495,10,95,585
+Manitoba,46,Total - Sex,Khmer (Cambodian),280,220,0,10,50
+Manitoba,46,Total - Sex,Vietnamese,3895,3265,5,90,535
+Manitoba,46,Total - Sex,"Austro-Asiatic languages, n.i.e",0,5,0,0,0
+Manitoba,46,Total - Sex,Austronesian languages,52905,51700,10,600,600
+Manitoba,46,Total - Sex,Bikol,175,170,0,0,5
+Manitoba,46,Total - Sex,Cebuano,1245,1235,0,0,5
+Manitoba,46,Total - Sex,Fijian,35,35,0,0,0
+Manitoba,46,Total - Sex,Hiligaynon,390,385,0,5,5
+Manitoba,46,Total - Sex,Ilocano,1365,1330,0,10,20
+Manitoba,46,Total - Sex,Malagasy,0,0,0,5,0
+Manitoba,46,Total - Sex,Malay,170,165,0,0,5
+Manitoba,46,Total - Sex,"Pampangan (Kapampangan, Pampango)",655,645,0,5,10
+Manitoba,46,Total - Sex,Pangasinan,135,130,0,0,0
+Manitoba,46,Total - Sex,"Tagalog (Pilipino, Filipino)",48530,47400,5,580,545
+Manitoba,46,Total - Sex,Waray-Waray,55,55,0,0,0
+Manitoba,46,Total - Sex,"Austronesian languages, n.i.e.",155,150,0,0,0
+Manitoba,46,Total - Sex,Creole languages,575,345,15,195,20
+Manitoba,46,Total - Sex,Haitian Creole,20,0,5,15,0
+Manitoba,46,Total - Sex,"Creole, n.o.s.",290,120,10,150,10
+Manitoba,46,Total - Sex,"Creole languages, n.i.e.",265,220,5,30,10
+Manitoba,46,Total - Sex,Dravidian languages,1570,1495,5,15,55
+Manitoba,46,Total - Sex,Kannada,90,90,0,0,0
+Manitoba,46,Total - Sex,Malayalam,790,750,0,0,35
+Manitoba,46,Total - Sex,Tamil,485,460,5,5,15
+Manitoba,46,Total - Sex,Telugu,195,190,0,5,0
+Manitoba,46,Total - Sex,"Dravidian languages, n.i.e.",5,5,0,0,0
+Manitoba,46,Total - Sex,Hmong-Mien languages,0,0,0,0,0
+Manitoba,46,Total - Sex,Indo-European languages,158350,145740,60,4140,8420
+Manitoba,46,Total - Sex,Albanian,350,325,0,10,15
+Manitoba,46,Total - Sex,Armenian,65,60,0,5,0
+Manitoba,46,Total - Sex,Balto-Slavic languages,34445,32100,5,935,1405
+Manitoba,46,Total - Sex,Baltic languages,165,155,0,5,0
+Manitoba,46,Total - Sex,Latvian,85,80,0,5,0
+Manitoba,46,Total - Sex,Lithuanian,80,80,0,5,0
+Manitoba,46,Total - Sex,Slavic languages,34280,31940,5,930,1405
+Manitoba,46,Total - Sex,Belarusan,45,40,0,0,5
+Manitoba,46,Total - Sex,Bosnian,575,535,0,20,20
+Manitoba,46,Total - Sex,Bulgarian,140,120,0,10,5
+Manitoba,46,Total - Sex,Croatian,1035,980,0,35,15
+Manitoba,46,Total - Sex,Czech,615,575,0,35,5
+Manitoba,46,Total - Sex,Macedonian,145,125,0,5,5
+Manitoba,46,Total - Sex,Polish,6455,5980,5,250,225
+Manitoba,46,Total - Sex,Russian,9130,8060,0,195,875
+Manitoba,46,Total - Sex,Serbian,655,590,0,30,25
+Manitoba,46,Total - Sex,Serbo-Croatian,240,225,0,15,0
+Manitoba,46,Total - Sex,Slovak,405,375,0,30,5
+Manitoba,46,Total - Sex,Slovene (Slovenian),265,260,0,10,0
+Manitoba,46,Total - Sex,Ukrainian,14505,14000,0,295,210
+Manitoba,46,Total - Sex,"Slavic languages, n.i.e.",75,65,0,5,5
+Manitoba,46,Total - Sex,Celtic languages,115,105,0,10,0
+Manitoba,46,Total - Sex,Scottish Gaelic,45,40,0,5,0
+Manitoba,46,Total - Sex,Welsh,60,55,0,10,0
+Manitoba,46,Total - Sex,"Celtic languages, n.i.e.",10,10,0,0,0
+Manitoba,46,Total - Sex,Germanic languages,68670,64965,20,1030,2650
+Manitoba,46,Total - Sex,Afrikaans,420,405,0,15,0
+Manitoba,46,Total - Sex,Danish,280,260,0,15,5
+Manitoba,46,Total - Sex,Dutch,2675,2520,0,145,5
+Manitoba,46,Total - Sex,Frisian,60,55,0,0,0
+Manitoba,46,Total - Sex,German,63825,60405,20,760,2640
+Manitoba,46,Total - Sex,Icelandic,470,465,0,5,0
+Manitoba,46,Total - Sex,Norwegian,115,110,0,5,0
+Manitoba,46,Total - Sex,Swedish,140,130,0,15,0
+Manitoba,46,Total - Sex,Vlaams (Flemish),305,255,0,50,5
+Manitoba,46,Total - Sex,Yiddish,355,340,0,15,0
+Manitoba,46,Total - Sex,"Germanic languages, n.i.e.",25,25,0,0,5
+Manitoba,46,Total - Sex,Greek,1285,1185,0,70,30
+Manitoba,46,Total - Sex,Indo-Iranian languages,32325,28755,15,650,2910
+Manitoba,46,Total - Sex,Indo-Aryan languages,29520,26355,15,535,2625
+Manitoba,46,Total - Sex,Bengali,1175,1090,0,45,40
+Manitoba,46,Total - Sex,Gujarati,3110,2860,5,35,215
+Manitoba,46,Total - Sex,Hindi,2270,2130,0,60,75
+Manitoba,46,Total - Sex,Kashmiri,5,5,0,0,0
+Manitoba,46,Total - Sex,Konkani,30,30,0,0,0
+Manitoba,46,Total - Sex,Marathi,135,130,0,5,0
+Manitoba,46,Total - Sex,Nepali,720,595,0,5,130
+Manitoba,46,Total - Sex,Oriya (Odia),5,10,0,0,0
+Manitoba,46,Total - Sex,Punjabi (Panjabi),18315,16000,10,315,1995
+Manitoba,46,Total - Sex,Sindhi,60,55,0,5,0
+Manitoba,46,Total - Sex,Sinhala (Sinhalese),670,625,0,15,25
+Manitoba,46,Total - Sex,Urdu,3015,2815,0,60,140
+Manitoba,46,Total - Sex,Iranian languages,2705,2320,0,110,280
+Manitoba,46,Total - Sex,Kurdish,410,320,0,5,85
+Manitoba,46,Total - Sex,Pashto,275,230,0,5,45
+Manitoba,46,Total - Sex,Persian (Farsi),2020,1770,0,100,150
+Manitoba,46,Total - Sex,"Indo-Iranian languages, n.i.e.",100,90,0,5,10
+Manitoba,46,Total - Sex,Italic (Romance) languages,21100,18250,15,1420,1405
+Manitoba,46,Total - Sex,Catalan,5,0,0,0,0
+Manitoba,46,Total - Sex,Italian,3835,3430,5,260,150
+Manitoba,46,Total - Sex,Portuguese,6585,5545,5,415,620
+Manitoba,46,Total - Sex,Romanian,650,510,0,120,20
+Manitoba,46,Total - Sex,Spanish,10005,8745,10,630,615
+Manitoba,46,Total - Sex,"Italic (Romance) languages, n.i.e.",15,15,0,0,0
+Manitoba,46,Total - Sex,Japanese,535,495,0,20,25
+Manitoba,46,Total - Sex,Kartvelian languages,20,15,0,0,0
+Manitoba,46,Total - Sex,Georgian,15,15,0,0,0
+Manitoba,46,Total - Sex,Korean,3760,3225,0,110,425
+Manitoba,46,Total - Sex,Mongolic languages,25,20,0,0,0
+Manitoba,46,Total - Sex,Mongolian,20,25,0,0,0
+Manitoba,46,Total - Sex,Niger-Congo languages,3895,2655,145,960,140
+Manitoba,46,Total - Sex,Akan (Twi),155,135,0,10,5
+Manitoba,46,Total - Sex,Bamanankan,75,0,10,60,0
+Manitoba,46,Total - Sex,Edo,35,40,0,0,0
+Manitoba,46,Total - Sex,Ewe,35,5,0,20,0
+Manitoba,46,Total - Sex,"Fulah (Pular, Pulaar, Fulfulde)",65,5,10,40,5
+Manitoba,46,Total - Sex,Ga,15,15,0,0,0
+Manitoba,46,Total - Sex,Ganda,50,45,0,5,0
+Manitoba,46,Total - Sex,Igbo,280,270,0,5,5
+Manitoba,46,Total - Sex,Lingala,75,5,20,40,5
+Manitoba,46,Total - Sex,Rundi (Kirundi),130,40,5,60,25
+Manitoba,46,Total - Sex,Kinyarwanda (Rwanda),250,90,10,140,15
+Manitoba,46,Total - Sex,Shona,110,110,0,0,0
+Manitoba,46,Total - Sex,Swahili,870,435,40,345,50
+Manitoba,46,Total - Sex,Wolof,75,0,5,70,0
+Manitoba,46,Total - Sex,Yoruba,1030,1005,0,15,10
+Manitoba,46,Total - Sex,"Niger-Congo languages, n.i.e.",645,445,40,140,20
+Manitoba,46,Total - Sex,Nilo-Saharan languages,395,370,0,10,10
+Manitoba,46,Total - Sex,Dinka,170,165,0,0,5
+Manitoba,46,Total - Sex,"Nilo-Saharan languages, n.i.e.",225,205,0,10,10
+Manitoba,46,Total - Sex,Sign languages,440,255,0,10,175
+Manitoba,46,Total - Sex,American Sign Language,240,170,0,5,65
+Manitoba,46,Total - Sex,Quebec Sign Language,0,0,0,0,0
+Manitoba,46,Total - Sex,"Sign languages, n.i.e",195,85,0,5,110
+Manitoba,46,Total - Sex,Sino-Tibetan languages,18880,15120,5,335,3425
+Manitoba,46,Total - Sex,Chinese languages,18305,14720,0,335,3250
+Manitoba,46,Total - Sex,Cantonese,6625,4870,5,120,1635
+Manitoba,46,Total - Sex,Hakka,60,40,0,5,10
+Manitoba,46,Total - Sex,Mandarin,10170,8590,5,175,1405
+Manitoba,46,Total - Sex,Min Dong,5,5,0,0,0
+Manitoba,46,Total - Sex,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",325,265,0,10,50
+Manitoba,46,Total - Sex,Wu (Shanghainese),105,90,0,0,15
+Manitoba,46,Total - Sex,"Chinese, n.o.s.",1010,860,0,20,130
+Manitoba,46,Total - Sex,"Chinese languages, n.i.e.",10,5,0,0,5
+Manitoba,46,Total - Sex,Tibeto-Burman languages,575,400,0,0,175
+Manitoba,46,Total - Sex,Burmese,85,70,0,0,15
+Manitoba,46,Total - Sex,Karenic languages,430,285,0,0,145
+Manitoba,46,Total - Sex,Tibetan,10,5,0,5,0
+Manitoba,46,Total - Sex,"Tibeto-Burman languages, n.i.e.",55,40,0,0,15
+Manitoba,46,Total - Sex,Tai-Kadai languages,1125,950,0,60,115
+Manitoba,46,Total - Sex,Lao,875,730,0,55,95
+Manitoba,46,Total - Sex,Thai,240,220,0,0,20
+Manitoba,46,Total - Sex,"Tai-Kadai languages, n.i.e",5,0,0,0,0
+Manitoba,46,Total - Sex,Turkic languages,340,310,0,20,10
+Manitoba,46,Total - Sex,Azerbaijani,30,30,0,0,0
+Manitoba,46,Total - Sex,Turkish,215,195,0,15,5
+Manitoba,46,Total - Sex,Uyghur,15,10,0,0,0
+Manitoba,46,Total - Sex,Uzbek,45,40,0,0,0
+Manitoba,46,Total - Sex,"Turkic languages, n.i.e.",40,30,0,0,5
+Manitoba,46,Total - Sex,Uralic languages,1445,1345,0,75,15
+Manitoba,46,Total - Sex,Estonian,30,30,0,0,0
+Manitoba,46,Total - Sex,Finnish,225,210,0,15,0
+Manitoba,46,Total - Sex,Hungarian,1185,1105,0,65,15
+Manitoba,46,Total - Sex,"Uralic languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Total - Sex,"Other languages, n.i.e.",150,140,5,5,0
+Manitoba,46,Total - Sex,Multiple responses,31500,26210,75,5085,130
+Manitoba,46,Total - Sex,English and French,4365,980,10,3365,5
+Manitoba,46,Total - Sex,English and non-official language,25965,24980,5,860,120
+Manitoba,46,Total - Sex,French and non-official language,695,125,55,510,5
+Manitoba,46,Total - Sex,"English, French and non-official language",475,120,5,345,0
+Manitoba,46,Male,Total - Mother tongue,624095,566980,675,49200,7235
+Manitoba,46,Male,Single responses,608820,554340,645,46670,7165
+Manitoba,46,Male,Official languages,468425,424465,520,43265,175
+Manitoba,46,Male,English,448960,423015,10,25760,175
+Manitoba,46,Male,French,19465,1450,505,17505,5
+Manitoba,46,Male,Non-official languages,140390,129875,125,3400,6990
+Manitoba,46,Male,Aboriginal languages,14265,14035,5,60,160
+Manitoba,46,Male,Algonquian languages,13505,13305,10,45,145
+Manitoba,46,Male,Blackfoot,0,0,0,0,0
+Manitoba,46,Male,Cree-Montagnais languages,7085,6980,5,25,75
+Manitoba,46,Male,Atikamekw,0,0,0,0,0
+Manitoba,46,Male,Montagnais (Innu),0,0,0,0,0
+Manitoba,46,Male,Moose Cree,0,0,0,0,0
+Manitoba,46,Male,Naskapi,0,0,0,0,0
+Manitoba,46,Male,Northern East Cree,5,10,0,0,0
+Manitoba,46,Male,Plains Cree,25,20,0,0,0
+Manitoba,46,Male,Southern East Cree,0,0,0,0,0
+Manitoba,46,Male,Swampy Cree,305,300,0,0,0
+Manitoba,46,Male,Woods Cree,25,25,0,0,0
+Manitoba,46,Male,"Cree, n.o.s.",6725,6630,5,20,70
+Manitoba,46,Male,Eastern Algonquian languages,10,10,0,0,0
+Manitoba,46,Male,Malecite,5,5,0,0,0
+Manitoba,46,Male,Mi'kmaq,5,0,0,5,0
+Manitoba,46,Male,Ojibway-Potawatomi languages,6415,6320,5,25,65
+Manitoba,46,Male,Algonquin,0,0,0,0,0
+Manitoba,46,Male,Ojibway,3175,3130,0,20,30
+Manitoba,46,Male,Oji-Cree,3235,3195,5,5,35
+Manitoba,46,Male,Ottawa (Odawa),0,0,0,0,0
+Manitoba,46,Male,"Algonquian languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Male,Athabaskan languages,375,365,0,0,15
+Manitoba,46,Male,Northern Athabaskan languages,375,360,0,0,15
+Manitoba,46,Male,Babine (Wetsuwet'en),0,0,0,0,0
+Manitoba,46,Male,Beaver,0,0,0,0,0
+Manitoba,46,Male,Carrier,0,0,0,0,0
+Manitoba,46,Male,Chilcotin,0,0,0,0,0
+Manitoba,46,Male,Dene,375,360,0,0,15
+Manitoba,46,Male,Dogrib (Tlicho),0,0,0,0,0
+Manitoba,46,Male,Gwich'in,0,0,0,0,0
+Manitoba,46,Male,Sarsi (Sarcee),0,0,0,0,0
+Manitoba,46,Male,Sekani,0,0,0,0,0
+Manitoba,46,Male,Slavey-Hare languages,0,0,0,0,0
+Manitoba,46,Male,North Slavey (Hare),0,0,0,0,0
+Manitoba,46,Male,South Slavey,0,0,0,0,0
+Manitoba,46,Male,"Slavey, n.o.s.",0,0,0,0,0
+Manitoba,46,Male,Tahltan languages,0,0,0,0,0
+Manitoba,46,Male,Kaska (Nahani),0,0,0,0,0
+Manitoba,46,Male,Tahltan,0,0,0,0,0
+Manitoba,46,Male,Tutchone languages,0,0,0,0,0
+Manitoba,46,Male,Northern Tutchone,0,0,0,0,0
+Manitoba,46,Male,Southern Tutchone,0,0,0,0,0
+Manitoba,46,Male,"Athabaskan languages, n.i.e.",0,5,0,0,0
+Manitoba,46,Male,Haida,0,0,0,0,0
+Manitoba,46,Male,Inuit languages,20,25,0,0,0
+Manitoba,46,Male,Inuinnaqtun (Inuvialuktun),5,0,0,0,0
+Manitoba,46,Male,Inuktitut,20,20,0,0,0
+Manitoba,46,Male,"Inuit languages, n.i.e.",5,5,0,0,0
+Manitoba,46,Male,Iroquoian languages,0,0,0,0,0
+Manitoba,46,Male,Cayuga,0,0,0,0,0
+Manitoba,46,Male,Mohawk,5,0,0,0,0
+Manitoba,46,Male,Oneida,0,0,0,0,0
+Manitoba,46,Male,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Male,Kutenai,0,0,0,0,0
+Manitoba,46,Male,Michif,40,25,0,10,0
+Manitoba,46,Male,Salish languages,0,0,0,0,0
+Manitoba,46,Male,Comox,0,0,0,0,0
+Manitoba,46,Male,Halkomelem,0,0,0,0,0
+Manitoba,46,Male,Lillooet,0,0,0,0,0
+Manitoba,46,Male,Okanagan,0,0,0,0,0
+Manitoba,46,Male,Shuswap (Secwepemctsin),0,0,0,0,0
+Manitoba,46,Male,Squamish,0,0,0,0,0
+Manitoba,46,Male,Straits,0,0,0,0,0
+Manitoba,46,Male,Thompson (Ntlakapamux),0,0,0,0,0
+Manitoba,46,Male,"Salish languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Male,Siouan languages,305,300,0,0,5
+Manitoba,46,Male,Dakota,300,300,0,0,5
+Manitoba,46,Male,Stoney,0,0,0,0,0
+Manitoba,46,Male,"Siouan languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Male,Tlingit,0,0,0,0,0
+Manitoba,46,Male,Tsimshian languages,0,0,0,0,0
+Manitoba,46,Male,Gitxsan (Gitksan),0,0,0,0,0
+Manitoba,46,Male,Nisga'a,0,0,0,0,0
+Manitoba,46,Male,Tsimshian,0,0,0,0,0
+Manitoba,46,Male,Wakashan languages,5,0,0,0,0
+Manitoba,46,Male,Haisla,0,0,0,0,0
+Manitoba,46,Male,Heiltsuk,0,5,0,0,0
+Manitoba,46,Male,Kwakiutl (Kwak'wala),0,0,0,0,0
+Manitoba,46,Male,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Manitoba,46,Male,"Wakashan languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Male,"Aboriginal languages, n.o.s.",10,10,0,0,0
+Manitoba,46,Male,Non-Aboriginal languages,126130,115840,120,3345,6830
+Manitoba,46,Male,Afro-Asiatic languages,5580,4465,20,380,710
+Manitoba,46,Male,Berber languages,25,5,0,15,0
+Manitoba,46,Male,Kabyle,20,5,0,10,0
+Manitoba,46,Male,"Berber languages, n.i.e.",10,0,0,5,0
+Manitoba,46,Male,Cushitic languages,880,790,0,15,70
+Manitoba,46,Male,Bilen,85,80,0,0,5
+Manitoba,46,Male,Oromo,175,165,0,5,10
+Manitoba,46,Male,Somali,605,545,0,10,55
+Manitoba,46,Male,"Cushitic languages, n.i.e.",10,0,0,0,5
+Manitoba,46,Male,Semitic languages,4640,3640,10,345,640
+Manitoba,46,Male,Amharic,885,835,0,10,35
+Manitoba,46,Male,Arabic,2505,1685,10,315,490
+Manitoba,46,Male,Assyrian Neo-Aramaic,0,0,0,0,0
+Manitoba,46,Male,Chaldean Neo-Aramaic,0,0,0,0,0
+Manitoba,46,Male,Harari,0,0,0,0,0
+Manitoba,46,Male,Hebrew,320,300,0,10,10
+Manitoba,46,Male,Maltese,20,20,0,0,0
+Manitoba,46,Male,Tigrigna,905,800,0,10,100
+Manitoba,46,Male,"Semitic languages, n.i.e.",10,5,0,0,0
+Manitoba,46,Male,"Afro-Asiatic languages, n.i.e.",35,25,5,5,5
+Manitoba,46,Male,Austro-Asiatic languages,1970,1720,5,40,210
+Manitoba,46,Male,Khmer (Cambodian),135,115,0,0,15
+Manitoba,46,Male,Vietnamese,1840,1600,5,40,190
+Manitoba,46,Male,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Manitoba,46,Male,Austronesian languages,24680,24210,0,230,245
+Manitoba,46,Male,Bikol,80,80,0,0,0
+Manitoba,46,Male,Cebuano,570,560,0,0,5
+Manitoba,46,Male,Fijian,20,20,0,0,0
+Manitoba,46,Male,Hiligaynon,170,165,0,0,5
+Manitoba,46,Male,Ilocano,630,615,0,5,10
+Manitoba,46,Male,Malagasy,5,0,0,0,0
+Manitoba,46,Male,Malay,65,65,0,5,0
+Manitoba,46,Male,"Pampangan (Kapampangan, Pampango)",315,310,0,5,5
+Manitoba,46,Male,Pangasinan,65,65,0,0,0
+Manitoba,46,Male,"Tagalog (Pilipino, Filipino)",22670,22225,5,215,225
+Manitoba,46,Male,Waray-Waray,30,25,0,0,0
+Manitoba,46,Male,"Austronesian languages, n.i.e.",70,70,0,0,0
+Manitoba,46,Male,Creole languages,270,160,5,105,0
+Manitoba,46,Male,Haitian Creole,10,0,0,10,0
+Manitoba,46,Male,"Creole, n.o.s.",145,65,5,75,5
+Manitoba,46,Male,"Creole languages, n.i.e.",115,100,5,20,5
+Manitoba,46,Male,Dravidian languages,830,790,0,10,25
+Manitoba,46,Male,Kannada,50,45,0,5,0
+Manitoba,46,Male,Malayalam,410,390,0,0,15
+Manitoba,46,Male,Tamil,255,245,0,5,5
+Manitoba,46,Male,Telugu,110,110,0,5,0
+Manitoba,46,Male,"Dravidian languages, n.i.e.",5,0,0,0,0
+Manitoba,46,Male,Hmong-Mien languages,5,0,0,0,0
+Manitoba,46,Male,Indo-European languages,77605,72180,25,1785,3620
+Manitoba,46,Male,Albanian,170,160,0,5,5
+Manitoba,46,Male,Armenian,35,30,0,5,0
+Manitoba,46,Male,Balto-Slavic languages,15845,14865,5,395,585
+Manitoba,46,Male,Baltic languages,65,70,0,0,0
+Manitoba,46,Male,Latvian,35,30,0,5,0
+Manitoba,46,Male,Lithuanian,30,30,0,0,0
+Manitoba,46,Male,Slavic languages,15775,14800,0,390,585
+Manitoba,46,Male,Belarusan,20,20,0,0,0
+Manitoba,46,Male,Bosnian,290,275,0,10,5
+Manitoba,46,Male,Bulgarian,70,60,0,5,0
+Manitoba,46,Male,Croatian,500,485,0,15,5
+Manitoba,46,Male,Czech,310,290,0,15,5
+Manitoba,46,Male,Macedonian,70,60,0,5,0
+Manitoba,46,Male,Polish,2910,2745,0,95,70
+Manitoba,46,Male,Russian,4495,4025,0,80,385
+Manitoba,46,Male,Serbian,335,310,0,15,15
+Manitoba,46,Male,Serbo-Croatian,110,110,0,5,0
+Manitoba,46,Male,Slovak,175,165,0,10,0
+Manitoba,46,Male,Slovene (Slovenian),125,120,0,5,0
+Manitoba,46,Male,Ukrainian,6325,6100,0,130,95
+Manitoba,46,Male,"Slavic languages, n.i.e.",40,35,0,5,0
+Manitoba,46,Male,Celtic languages,65,55,0,5,0
+Manitoba,46,Male,Scottish Gaelic,25,20,0,5,0
+Manitoba,46,Male,Welsh,30,25,0,5,0
+Manitoba,46,Male,"Celtic languages, n.i.e.",5,5,0,0,0
+Manitoba,46,Male,Germanic languages,33310,31620,10,430,1245
+Manitoba,46,Male,Afrikaans,215,205,0,15,0
+Manitoba,46,Male,Danish,145,140,0,5,5
+Manitoba,46,Male,Dutch,1335,1265,0,65,0
+Manitoba,46,Male,Frisian,30,30,0,0,0
+Manitoba,46,Male,German,30940,29375,10,315,1235
+Manitoba,46,Male,Icelandic,210,210,0,0,0
+Manitoba,46,Male,Norwegian,45,40,0,5,0
+Manitoba,46,Male,Swedish,65,60,0,0,0
+Manitoba,46,Male,Vlaams (Flemish),125,105,0,25,0
+Manitoba,46,Male,Yiddish,175,170,0,5,0
+Manitoba,46,Male,"Germanic languages, n.i.e.",15,10,0,0,0
+Manitoba,46,Male,Greek,665,620,0,30,15
+Manitoba,46,Male,Indo-Iranian languages,17130,15620,5,285,1220
+Manitoba,46,Male,Indo-Aryan languages,15705,14355,5,235,1110
+Manitoba,46,Male,Bengali,675,635,0,20,20
+Manitoba,46,Male,Gujarati,1660,1575,0,15,70
+Manitoba,46,Male,Hindi,1215,1160,0,30,25
+Manitoba,46,Male,Kashmiri,5,5,0,0,0
+Manitoba,46,Male,Konkani,20,15,0,0,0
+Manitoba,46,Male,Marathi,80,75,0,0,0
+Manitoba,46,Male,Nepali,360,305,0,5,55
+Manitoba,46,Male,Oriya (Odia),5,5,0,0,0
+Manitoba,46,Male,Punjabi (Panjabi),9645,8665,5,130,850
+Manitoba,46,Male,Sindhi,35,30,0,5,5
+Manitoba,46,Male,Sinhala (Sinhalese),350,330,0,5,15
+Manitoba,46,Male,Urdu,1655,1555,5,30,70
+Manitoba,46,Male,Iranian languages,1370,1210,0,45,110
+Manitoba,46,Male,Kurdish,210,175,0,0,35
+Manitoba,46,Male,Pashto,125,115,0,5,15
+Manitoba,46,Male,Persian (Farsi),1030,930,0,45,60
+Manitoba,46,Male,"Indo-Iranian languages, n.i.e.",60,55,0,0,0
+Manitoba,46,Male,Italic (Romance) languages,10390,9205,5,625,550
+Manitoba,46,Male,Catalan,0,0,0,0,0
+Manitoba,46,Male,Italian,1915,1760,0,105,45
+Manitoba,46,Male,Portuguese,3195,2780,0,180,230
+Manitoba,46,Male,Romanian,310,245,0,60,5
+Manitoba,46,Male,Spanish,4965,4415,5,280,270
+Manitoba,46,Male,"Italic (Romance) languages, n.i.e.",5,5,0,0,0
+Manitoba,46,Male,Japanese,185,165,5,5,20
+Manitoba,46,Male,Kartvelian languages,5,10,0,0,0
+Manitoba,46,Male,Georgian,5,10,0,0,0
+Manitoba,46,Male,Korean,1810,1560,5,55,190
+Manitoba,46,Male,Mongolic languages,5,5,0,0,0
+Manitoba,46,Male,Mongolian,5,5,0,0,0
+Manitoba,46,Male,Niger-Congo languages,1965,1340,55,520,55
+Manitoba,46,Male,Akan (Twi),90,80,0,5,5
+Manitoba,46,Male,Bamanankan,25,0,0,25,0
+Manitoba,46,Male,Edo,25,20,0,0,0
+Manitoba,46,Male,Ewe,25,5,0,15,0
+Manitoba,46,Male,"Fulah (Pular, Pulaar, Fulfulde)",35,0,5,25,5
+Manitoba,46,Male,Ga,10,5,0,0,0
+Manitoba,46,Male,Ganda,20,15,0,0,0
+Manitoba,46,Male,Igbo,155,150,0,5,0
+Manitoba,46,Male,Lingala,30,5,10,20,5
+Manitoba,46,Male,Rundi (Kirundi),65,20,5,35,5
+Manitoba,46,Male,Kinyarwanda (Rwanda),130,45,5,75,5
+Manitoba,46,Male,Shona,50,50,0,0,0
+Manitoba,46,Male,Swahili,420,205,15,180,20
+Manitoba,46,Male,Wolof,50,5,0,45,0
+Manitoba,46,Male,Yoruba,525,510,0,10,5
+Manitoba,46,Male,"Niger-Congo languages, n.i.e.",315,220,15,75,5
+Manitoba,46,Male,Nilo-Saharan languages,215,205,0,5,5
+Manitoba,46,Male,Dinka,90,90,0,0,0
+Manitoba,46,Male,"Nilo-Saharan languages, n.i.e.",125,115,0,5,5
+Manitoba,46,Male,Sign languages,225,140,0,5,90
+Manitoba,46,Male,American Sign Language,125,90,0,5,35
+Manitoba,46,Male,Quebec Sign Language,0,0,0,0,0
+Manitoba,46,Male,"Sign languages, n.i.e",105,50,0,5,55
+Manitoba,46,Male,Sino-Tibetan languages,9315,7570,0,135,1610
+Manitoba,46,Male,Chinese languages,9025,7370,0,130,1520
+Manitoba,46,Male,Cantonese,3140,2360,0,35,740
+Manitoba,46,Male,Hakka,30,20,0,5,5
+Manitoba,46,Male,Mandarin,5110,4345,0,75,690
+Manitoba,46,Male,Min Dong,5,5,0,0,0
+Manitoba,46,Male,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",150,130,0,0,20
+Manitoba,46,Male,Wu (Shanghainese),55,45,0,0,5
+Manitoba,46,Male,"Chinese, n.o.s.",530,460,0,15,55
+Manitoba,46,Male,"Chinese languages, n.i.e.",5,0,0,0,5
+Manitoba,46,Male,Tibeto-Burman languages,295,195,0,0,90
+Manitoba,46,Male,Burmese,55,45,0,0,5
+Manitoba,46,Male,Karenic languages,215,135,0,0,75
+Manitoba,46,Male,Tibetan,0,5,0,0,0
+Manitoba,46,Male,"Tibeto-Burman languages, n.i.e.",20,10,0,0,10
+Manitoba,46,Male,Tai-Kadai languages,530,460,0,30,45
+Manitoba,46,Male,Lao,445,380,0,25,35
+Manitoba,46,Male,Thai,85,75,0,0,10
+Manitoba,46,Male,"Tai-Kadai languages, n.i.e",5,5,0,0,0
+Manitoba,46,Male,Turkic languages,190,175,0,5,0
+Manitoba,46,Male,Azerbaijani,20,20,0,5,0
+Manitoba,46,Male,Turkish,115,115,0,5,0
+Manitoba,46,Male,Uyghur,5,5,0,0,0
+Manitoba,46,Male,Uzbek,25,25,0,0,0
+Manitoba,46,Male,"Turkic languages, n.i.e.",20,15,0,0,5
+Manitoba,46,Male,Uralic languages,650,620,0,30,0
+Manitoba,46,Male,Estonian,15,15,0,0,0
+Manitoba,46,Male,Finnish,90,85,0,5,0
+Manitoba,46,Male,Hungarian,550,520,0,25,5
+Manitoba,46,Male,"Uralic languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Male,"Other languages, n.i.e.",85,70,5,10,0
+Manitoba,46,Male,Multiple responses,15280,12640,35,2535,70
+Manitoba,46,Male,English and French,2135,450,0,1685,5
+Manitoba,46,Male,English and non-official language,12530,12065,5,395,65
+Manitoba,46,Male,French and non-official language,380,70,25,285,5
+Manitoba,46,Male,"English, French and non-official language",230,60,5,165,5
+Manitoba,46,Female,Total - Mother tongue,637520,568410,800,59250,9055
+Manitoba,46,Female,Single responses,621295,554845,760,56700,8990
+Manitoba,46,Female,Official languages,472700,419325,585,52655,135
+Manitoba,46,Female,English,451645,417750,15,33745,135
+Manitoba,46,Female,French,21060,1580,570,18905,5
+Manitoba,46,Female,Non-official languages,148595,135515,170,4050,8855
+Manitoba,46,Female,Aboriginal languages,15445,15205,5,75,160
+Manitoba,46,Female,Algonquian languages,14565,14355,5,55,150
+Manitoba,46,Female,Blackfoot,0,0,0,0,0
+Manitoba,46,Female,Cree-Montagnais languages,7735,7630,0,35,70
+Manitoba,46,Female,Atikamekw,0,0,0,0,0
+Manitoba,46,Female,Montagnais (Innu),5,0,0,0,0
+Manitoba,46,Female,Moose Cree,0,5,0,0,0
+Manitoba,46,Female,Naskapi,0,0,0,0,0
+Manitoba,46,Female,Northern East Cree,25,20,0,0,0
+Manitoba,46,Female,Plains Cree,40,40,0,0,0
+Manitoba,46,Female,Southern East Cree,0,0,0,0,0
+Manitoba,46,Female,Swampy Cree,435,435,0,0,0
+Manitoba,46,Female,Woods Cree,45,40,0,0,0
+Manitoba,46,Female,"Cree, n.o.s.",7190,7095,0,25,65
+Manitoba,46,Female,Eastern Algonquian languages,0,0,0,0,0
+Manitoba,46,Female,Malecite,0,0,0,0,0
+Manitoba,46,Female,Mi'kmaq,5,5,0,0,0
+Manitoba,46,Female,Ojibway-Potawatomi languages,6825,6710,5,25,80
+Manitoba,46,Female,Algonquin,0,0,0,0,0
+Manitoba,46,Female,Ojibway,3555,3500,0,20,30
+Manitoba,46,Female,Oji-Cree,3270,3210,5,5,50
+Manitoba,46,Female,Ottawa (Odawa),0,0,0,0,0
+Manitoba,46,Female,"Algonquian languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Female,Athabaskan languages,445,430,0,0,10
+Manitoba,46,Female,Northern Athabaskan languages,440,430,0,0,10
+Manitoba,46,Female,Babine (Wetsuwet'en),0,0,0,0,0
+Manitoba,46,Female,Beaver,0,0,0,0,0
+Manitoba,46,Female,Carrier,0,0,0,0,0
+Manitoba,46,Female,Chilcotin,0,0,0,0,0
+Manitoba,46,Female,Dene,435,425,0,0,5
+Manitoba,46,Female,Dogrib (Tlicho),0,0,0,0,0
+Manitoba,46,Female,Gwich'in,0,0,0,0,0
+Manitoba,46,Female,Sarsi (Sarcee),0,0,0,0,0
+Manitoba,46,Female,Sekani,0,0,0,0,0
+Manitoba,46,Female,Slavey-Hare languages,0,0,0,0,0
+Manitoba,46,Female,North Slavey (Hare),0,0,0,0,0
+Manitoba,46,Female,South Slavey,0,0,0,0,0
+Manitoba,46,Female,"Slavey, n.o.s.",0,0,0,0,0
+Manitoba,46,Female,Tahltan languages,0,0,0,0,0
+Manitoba,46,Female,Kaska (Nahani),0,0,0,0,0
+Manitoba,46,Female,Tahltan,0,0,0,0,0
+Manitoba,46,Female,Tutchone languages,0,0,0,0,0
+Manitoba,46,Female,Northern Tutchone,0,0,0,0,0
+Manitoba,46,Female,Southern Tutchone,0,0,0,0,0
+Manitoba,46,Female,"Athabaskan languages, n.i.e.",5,0,0,0,0
+Manitoba,46,Female,Haida,0,0,0,0,0
+Manitoba,46,Female,Inuit languages,60,60,0,5,0
+Manitoba,46,Female,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Manitoba,46,Female,Inuktitut,50,50,0,0,0
+Manitoba,46,Female,"Inuit languages, n.i.e.",10,15,0,0,0
+Manitoba,46,Female,Iroquoian languages,5,0,0,0,0
+Manitoba,46,Female,Cayuga,0,0,0,0,0
+Manitoba,46,Female,Mohawk,5,0,0,0,0
+Manitoba,46,Female,Oneida,0,0,0,0,0
+Manitoba,46,Female,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Female,Kutenai,0,0,0,0,0
+Manitoba,46,Female,Michif,40,30,0,10,0
+Manitoba,46,Female,Salish languages,0,0,0,0,0
+Manitoba,46,Female,Comox,0,0,0,0,0
+Manitoba,46,Female,Halkomelem,0,0,0,0,0
+Manitoba,46,Female,Lillooet,0,0,0,0,0
+Manitoba,46,Female,Okanagan,0,0,0,0,0
+Manitoba,46,Female,Shuswap (Secwepemctsin),0,0,0,0,0
+Manitoba,46,Female,Squamish,0,0,0,0,0
+Manitoba,46,Female,Straits,0,0,0,0,0
+Manitoba,46,Female,Thompson (Ntlakapamux),0,0,0,0,0
+Manitoba,46,Female,"Salish languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Female,Siouan languages,330,330,0,0,0
+Manitoba,46,Female,Dakota,330,330,0,0,0
+Manitoba,46,Female,Stoney,0,0,0,0,0
+Manitoba,46,Female,"Siouan languages, n.i.e.",5,0,0,0,0
+Manitoba,46,Female,Tlingit,0,0,0,0,0
+Manitoba,46,Female,Tsimshian languages,5,0,0,0,0
+Manitoba,46,Female,Gitxsan (Gitksan),0,0,0,0,0
+Manitoba,46,Female,Nisga'a,0,0,0,0,0
+Manitoba,46,Female,Tsimshian,0,0,0,0,0
+Manitoba,46,Female,Wakashan languages,0,0,0,0,0
+Manitoba,46,Female,Haisla,0,0,0,0,0
+Manitoba,46,Female,Heiltsuk,0,0,0,0,0
+Manitoba,46,Female,Kwakiutl (Kwak'wala),0,0,0,0,0
+Manitoba,46,Female,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Manitoba,46,Female,"Wakashan languages, n.i.e.",0,0,0,0,0
+Manitoba,46,Female,"Aboriginal languages, n.o.s.",0,0,0,0,0
+Manitoba,46,Female,Non-Aboriginal languages,133150,120315,170,3975,8695
+Manitoba,46,Female,Afro-Asiatic languages,5120,4015,25,290,785
+Manitoba,46,Female,Berber languages,15,5,0,5,0
+Manitoba,46,Female,Kabyle,15,5,0,5,5
+Manitoba,46,Female,"Berber languages, n.i.e.",0,0,5,0,0
+Manitoba,46,Female,Cushitic languages,875,715,0,30,130
+Manitoba,46,Female,Bilen,65,55,0,0,10
+Manitoba,46,Female,Oromo,165,150,0,0,15
+Manitoba,46,Female,Somali,635,510,0,25,100
+Manitoba,46,Female,"Cushitic languages, n.i.e.",5,0,0,0,5
+Manitoba,46,Female,Semitic languages,4200,3270,20,250,655
+Manitoba,46,Female,Amharic,885,850,0,5,35
+Manitoba,46,Female,Arabic,2190,1450,20,225,495
+Manitoba,46,Female,Assyrian Neo-Aramaic,0,5,0,5,0
+Manitoba,46,Female,Chaldean Neo-Aramaic,0,0,0,0,0
+Manitoba,46,Female,Harari,0,0,0,0,0
+Manitoba,46,Female,Hebrew,225,210,0,10,10
+Manitoba,46,Female,Maltese,25,20,0,0,0
+Manitoba,46,Female,Tigrigna,860,730,0,5,125
+Manitoba,46,Female,"Semitic languages, n.i.e.",5,0,0,0,0
+Manitoba,46,Female,"Afro-Asiatic languages, n.i.e.",30,25,0,5,0
+Manitoba,46,Female,Austro-Asiatic languages,2205,1775,0,55,375
+Manitoba,46,Female,Khmer (Cambodian),145,110,0,5,30
+Manitoba,46,Female,Vietnamese,2060,1665,5,50,340
+Manitoba,46,Female,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Manitoba,46,Female,Austronesian languages,28225,27490,5,370,355
+Manitoba,46,Female,Bikol,95,95,0,0,0
+Manitoba,46,Female,Cebuano,675,675,0,0,5
+Manitoba,46,Female,Fijian,15,15,0,0,0
+Manitoba,46,Female,Hiligaynon,220,215,0,0,5
+Manitoba,46,Female,Ilocano,730,715,0,5,15
+Manitoba,46,Female,Malagasy,0,0,0,0,0
+Manitoba,46,Female,Malay,105,100,0,5,5
+Manitoba,46,Female,"Pampangan (Kapampangan, Pampango)",335,330,0,0,5
+Manitoba,46,Female,Pangasinan,70,65,0,0,5
+Manitoba,46,Female,"Tagalog (Pilipino, Filipino)",25860,25170,0,360,320
+Manitoba,46,Female,Waray-Waray,25,30,0,0,0
+Manitoba,46,Female,"Austronesian languages, n.i.e.",85,85,0,0,0
+Manitoba,46,Female,Creole languages,300,180,10,95,15
+Manitoba,46,Female,Haitian Creole,10,0,5,5,0
+Manitoba,46,Female,"Creole, n.o.s.",145,55,5,75,10
+Manitoba,46,Female,"Creole languages, n.i.e.",145,125,0,10,10
+Manitoba,46,Female,Dravidian languages,740,700,0,10,30
+Manitoba,46,Female,Kannada,40,40,0,0,0
+Manitoba,46,Female,Malayalam,380,365,0,0,20
+Manitoba,46,Female,Tamil,225,215,0,5,5
+Manitoba,46,Female,Telugu,80,80,0,0,5
+Manitoba,46,Female,"Dravidian languages, n.i.e.",5,5,0,0,0
+Manitoba,46,Female,Hmong-Mien languages,0,0,0,0,0
+Manitoba,46,Female,Indo-European languages,80745,73560,35,2350,4805
+Manitoba,46,Female,Albanian,175,165,0,10,10
+Manitoba,46,Female,Armenian,30,25,0,0,0
+Manitoba,46,Female,Balto-Slavic languages,18600,17230,5,545,820
+Manitoba,46,Female,Baltic languages,100,90,0,5,5
+Manitoba,46,Female,Latvian,45,45,0,0,0
+Manitoba,46,Female,Lithuanian,50,45,0,0,0
+Manitoba,46,Female,Slavic languages,18505,17145,5,540,820
+Manitoba,46,Female,Belarusan,25,25,0,0,0
+Manitoba,46,Female,Bosnian,290,260,0,15,10
+Manitoba,46,Female,Bulgarian,65,60,0,5,5
+Manitoba,46,Female,Croatian,530,495,0,20,10
+Manitoba,46,Female,Czech,305,285,0,15,5
+Manitoba,46,Female,Macedonian,70,65,0,0,5
+Manitoba,46,Female,Polish,3550,3235,0,155,155
+Manitoba,46,Female,Russian,4635,4035,0,120,485
+Manitoba,46,Female,Serbian,320,285,0,15,15
+Manitoba,46,Female,Serbo-Croatian,130,120,0,10,0
+Manitoba,46,Female,Slovak,230,210,0,15,5
+Manitoba,46,Female,Slovene (Slovenian),140,140,0,5,0
+Manitoba,46,Female,Ukrainian,8180,7895,0,165,115
+Manitoba,46,Female,"Slavic languages, n.i.e.",30,25,0,5,0
+Manitoba,46,Female,Celtic languages,55,50,0,5,0
+Manitoba,46,Female,Scottish Gaelic,20,20,0,0,0
+Manitoba,46,Female,Welsh,30,30,0,5,0
+Manitoba,46,Female,"Celtic languages, n.i.e.",5,0,0,0,0
+Manitoba,46,Female,Germanic languages,35360,33345,10,600,1410
+Manitoba,46,Female,Afrikaans,200,200,0,5,0
+Manitoba,46,Female,Danish,135,120,0,10,0
+Manitoba,46,Female,Dutch,1335,1250,0,80,0
+Manitoba,46,Female,Frisian,25,25,0,0,0
+Manitoba,46,Female,German,32890,31030,10,445,1400
+Manitoba,46,Female,Icelandic,260,255,0,10,0
+Manitoba,46,Female,Norwegian,70,65,0,0,0
+Manitoba,46,Female,Swedish,75,60,0,5,0
+Manitoba,46,Female,Vlaams (Flemish),185,150,0,30,0
+Manitoba,46,Female,Yiddish,180,170,0,10,0
+Manitoba,46,Female,"Germanic languages, n.i.e.",10,15,0,0,0
+Manitoba,46,Female,Greek,620,565,0,35,15
+Manitoba,46,Female,Indo-Iranian languages,15195,13135,5,360,1690
+Manitoba,46,Female,Indo-Aryan languages,13815,11995,10,295,1515
+Manitoba,46,Female,Bengali,500,455,0,25,20
+Manitoba,46,Female,Gujarati,1455,1285,0,25,145
+Manitoba,46,Female,Hindi,1060,975,0,35,50
+Manitoba,46,Female,Kashmiri,0,0,0,0,0
+Manitoba,46,Female,Konkani,15,15,0,5,0
+Manitoba,46,Female,Marathi,55,55,0,0,0
+Manitoba,46,Female,Nepali,360,290,0,0,70
+Manitoba,46,Female,Oriya (Odia),5,0,0,0,0
+Manitoba,46,Female,Punjabi (Panjabi),8670,7335,5,185,1150
+Manitoba,46,Female,Sindhi,30,30,0,0,0
+Manitoba,46,Female,Sinhala (Sinhalese),320,300,0,5,10
+Manitoba,46,Female,Urdu,1360,1260,0,25,70
+Manitoba,46,Female,Iranian languages,1340,1105,0,60,170
+Manitoba,46,Female,Kurdish,200,150,0,5,50
+Manitoba,46,Female,Pashto,150,120,0,0,25
+Manitoba,46,Female,Persian (Farsi),990,845,0,55,90
+Manitoba,46,Female,"Indo-Iranian languages, n.i.e.",40,35,0,5,5
+Manitoba,46,Female,Italic (Romance) languages,10705,9040,15,795,860
+Manitoba,46,Female,Catalan,5,5,0,0,0
+Manitoba,46,Female,Italian,1925,1670,5,155,105
+Manitoba,46,Female,Portuguese,3390,2770,0,235,390
+Manitoba,46,Female,Romanian,335,270,0,60,15
+Manitoba,46,Female,Spanish,5040,4330,5,350,355
+Manitoba,46,Female,"Italic (Romance) languages, n.i.e.",5,5,0,0,0
+Manitoba,46,Female,Japanese,355,330,0,10,10
+Manitoba,46,Female,Kartvelian languages,5,5,0,5,0
+Manitoba,46,Female,Georgian,10,10,0,0,0
+Manitoba,46,Female,Korean,1950,1665,0,55,230
+Manitoba,46,Female,Mongolic languages,15,15,0,0,0
+Manitoba,46,Female,Mongolian,20,20,0,0,0
+Manitoba,46,Female,Niger-Congo languages,1930,1315,90,440,90
+Manitoba,46,Female,Akan (Twi),65,55,0,0,5
+Manitoba,46,Female,Bamanankan,50,0,15,35,0
+Manitoba,46,Female,Edo,15,15,0,0,0
+Manitoba,46,Female,Ewe,10,0,0,10,0
+Manitoba,46,Female,"Fulah (Pular, Pulaar, Fulfulde)",30,5,10,20,5
+Manitoba,46,Female,Ga,5,5,0,0,0
+Manitoba,46,Female,Ganda,30,25,0,5,0
+Manitoba,46,Female,Igbo,130,120,0,5,0
+Manitoba,46,Female,Lingala,40,5,15,20,0
+Manitoba,46,Female,Rundi (Kirundi),65,20,5,30,20
+Manitoba,46,Female,Kinyarwanda (Rwanda),125,50,5,60,10
+Manitoba,46,Female,Shona,60,60,0,0,0
+Manitoba,46,Female,Swahili,450,235,25,165,30
+Manitoba,46,Female,Wolof,25,0,0,20,0
+Manitoba,46,Female,Yoruba,505,490,0,10,5
+Manitoba,46,Female,"Niger-Congo languages, n.i.e.",325,225,20,60,15
+Manitoba,46,Female,Nilo-Saharan languages,180,170,0,5,5
+Manitoba,46,Female,Dinka,80,80,0,0,0
+Manitoba,46,Female,"Nilo-Saharan languages, n.i.e.",100,90,0,5,5
+Manitoba,46,Female,Sign languages,205,115,0,0,90
+Manitoba,46,Female,American Sign Language,115,80,0,0,35
+Manitoba,46,Female,Quebec Sign Language,0,0,0,0,0
+Manitoba,46,Female,"Sign languages, n.i.e",95,35,0,0,55
+Manitoba,46,Female,Sino-Tibetan languages,9565,7550,0,205,1815
+Manitoba,46,Female,Chinese languages,9280,7350,0,205,1725
+Manitoba,46,Female,Cantonese,3485,2510,0,85,890
+Manitoba,46,Female,Hakka,25,20,0,0,5
+Manitoba,46,Female,Mandarin,5060,4245,0,100,715
+Manitoba,46,Female,Min Dong,0,5,0,0,0
+Manitoba,46,Female,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",170,135,0,5,30
+Manitoba,46,Female,Wu (Shanghainese),55,40,0,0,10
+Manitoba,46,Female,"Chinese, n.o.s.",480,395,0,10,70
+Manitoba,46,Female,"Chinese languages, n.i.e.",0,5,0,0,0
+Manitoba,46,Female,Tibeto-Burman languages,290,200,0,0,85
+Manitoba,46,Female,Burmese,30,25,0,0,5
+Manitoba,46,Female,Karenic languages,215,150,0,0,65
+Manitoba,46,Female,Tibetan,5,5,0,0,0
+Manitoba,46,Female,"Tibeto-Burman languages, n.i.e.",35,25,0,0,5
+Manitoba,46,Female,Tai-Kadai languages,595,495,0,30,75
+Manitoba,46,Female,Lao,435,345,0,25,65
+Manitoba,46,Female,Thai,160,150,0,0,10
+Manitoba,46,Female,"Tai-Kadai languages, n.i.e",5,5,0,0,0
+Manitoba,46,Female,Turkic languages,150,135,0,15,5
+Manitoba,46,Female,Azerbaijani,15,10,0,0,5
+Manitoba,46,Female,Turkish,95,85,0,10,0
+Manitoba,46,Female,Uyghur,5,10,0,0,0
+Manitoba,46,Female,Uzbek,20,20,0,0,0
+Manitoba,46,Female,"Turkic languages, n.i.e.",20,15,0,0,0
+Manitoba,46,Female,Uralic languages,785,730,0,45,10
+Manitoba,46,Female,Estonian,20,15,0,0,0
+Manitoba,46,Female,Finnish,135,130,0,5,0
+Manitoba,46,Female,Hungarian,635,590,0,40,10
+Manitoba,46,Female,"Uralic languages, n.i.e.",0,5,0,0,0
+Manitoba,46,Female,"Other languages, n.i.e.",70,70,0,0,0
+Manitoba,46,Female,Multiple responses,16220,13575,40,2550,60
+Manitoba,46,Female,English and French,2225,530,10,1685,0
+Manitoba,46,Female,English and non-official language,13440,12910,5,465,55
+Manitoba,46,Female,French and non-official language,315,60,30,220,0
+Manitoba,46,Female,"English, French and non-official language",245,65,5,180,0

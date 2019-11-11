@@ -1,808 +1,808 @@
-,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
-48277968,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Total - Mother tongue,1,1.0,35690,32065,55,1520,2050
-48277969,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Single responses,2,,34955,31380,55,1480,2045
-48277970,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Official languages,3,,11615,10285,50,1265,15
-48277971,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,English,4,,11020,10255,0,755,15
-48277972,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,French,5,,595,30,50,515,0
-48277973,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Non-official languages,6,,23345,21095,5,215,2025
-48277974,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Aboriginal languages,7,,22615,20480,5,110,2015
-48277975,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Algonquian languages,8,,15,10,0,0,0
-48277976,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Blackfoot,9,,0,0,0,0,0
-48277977,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Cree-Montagnais languages,10,,0,5,0,0,0
-48277978,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Atikamekw,11,,0,0,0,0,0
-48277979,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Montagnais (Innu),12,,0,0,0,0,0
-48277980,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Moose Cree,13,,0,0,0,0,0
-48277981,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Naskapi,14,,0,0,0,0,0
-48277982,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Northern East Cree,15,,0,0,0,0,0
-48277983,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Plains Cree,16,,0,0,0,0,0
-48277984,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Southern East Cree,17,,0,0,0,0,0
-48277985,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Swampy Cree,18,,0,0,0,0,0
-48277986,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Woods Cree,19,,0,0,0,0,0
-48277987,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Cree, n.o.s.",20,,5,0,0,0,0
-48277988,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Eastern Algonquian languages,21,,5,5,0,0,0
-48277989,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Malecite,22,,0,0,0,0,0
-48277990,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Mi'kmaq,23,,5,0,0,5,0
-48277991,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Ojibway-Potawatomi languages,24,,0,5,0,0,0
-48277992,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Algonquin,25,,0,0,0,0,0
-48277993,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Ojibway,26,,5,5,0,0,0
-48277994,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Oji-Cree,27,,0,0,0,0,0
-48277995,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Ottawa (Odawa),28,,0,0,0,0,0
-48277996,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-48277997,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Athabaskan languages,30,,5,0,0,0,0
-48277998,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Northern Athabaskan languages,31,,0,0,0,0,0
-48277999,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-48278000,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Beaver,33,,0,0,0,0,0
-48278001,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Carrier,34,,0,0,0,0,0
-48278002,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Chilcotin,35,,0,0,0,0,0
-48278003,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Dene,36,,0,0,0,0,0
-48278004,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Dogrib (Tlicho),37,,0,0,0,0,0
-48278005,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Gwich'in,38,,0,0,0,0,0
-48278006,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Sarsi (Sarcee),39,,0,0,0,0,0
-48278007,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Sekani,40,,0,0,0,0,0
-48278008,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Slavey-Hare languages,41,,0,0,0,0,0
-48278009,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,North Slavey (Hare),42,,0,0,0,0,0
-48278010,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,South Slavey,43,,0,0,0,0,0
-48278011,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Slavey, n.o.s.",44,,0,0,0,0,0
-48278012,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tahltan languages,45,,0,0,0,0,0
-48278013,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Kaska (Nahani),46,,0,0,0,0,0
-48278014,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tahltan,47,,0,0,0,0,0
-48278015,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tutchone languages,48,,0,0,0,0,0
-48278016,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Northern Tutchone,49,,0,0,0,0,0
-48278017,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Southern Tutchone,50,,0,0,0,0,0
-48278018,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-48278019,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Haida,52,,0,0,0,0,0
-48278020,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Inuit languages,53,,22600,20470,5,110,2015
-48278021,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,495,480,0,5,10
-48278022,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Inuktitut,55,,22070,19960,5,105,1995
-48278023,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Inuit languages, n.i.e.",56,,35,30,0,5,0
-48278024,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Iroquoian languages,57,,0,0,0,0,0
-48278025,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Cayuga,58,,0,0,0,0,0
-48278026,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Mohawk,59,,0,0,0,0,0
-48278027,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Oneida,60,,0,0,0,0,0
-48278028,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-48278029,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Kutenai,62,,0,0,0,0,0
-48278030,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Michif,63,,0,0,0,0,0
-48278031,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Salish languages,64,,0,0,0,0,0
-48278032,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Comox,65,,0,0,0,0,0
-48278033,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Halkomelem,66,,0,0,0,0,0
-48278034,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Lillooet,67,,0,0,0,0,0
-48278035,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Okanagan,68,,0,0,0,0,0
-48278036,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-48278037,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Squamish,70,,0,0,0,0,0
-48278038,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Straits,71,,0,0,0,0,0
-48278039,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-48278040,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-48278041,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Siouan languages,74,,0,0,0,0,0
-48278042,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Dakota,75,,0,0,0,0,0
-48278043,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Stoney,76,,0,0,0,0,0
-48278044,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-48278045,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tlingit,78,,0,0,0,0,0
-48278046,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tsimshian languages,79,,0,0,0,0,0
-48278047,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Gitxsan (Gitksan),80,,0,0,0,0,0
-48278048,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Nisga'a,81,,0,0,0,0,0
-48278049,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tsimshian,82,,0,0,0,0,0
-48278050,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Wakashan languages,83,,0,0,0,0,0
-48278051,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Haisla,84,,0,0,0,0,0
-48278052,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Heiltsuk,85,,0,0,0,0,0
-48278053,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-48278054,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-48278055,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-48278056,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-48278057,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Non-Aboriginal languages,90,,735,615,0,105,10
-48278058,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Afro-Asiatic languages,91,,75,65,0,10,0
-48278059,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Berber languages,92,,0,0,0,0,0
-48278060,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Kabyle,93,,0,0,0,0,0
-48278061,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Berber languages, n.i.e.",94,,0,0,0,0,0
-48278062,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Cushitic languages,95,,15,10,0,0,0
-48278063,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Bilen,96,,0,0,0,0,0
-48278064,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Oromo,97,,5,0,0,0,0
-48278065,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Somali,98,,10,10,0,0,0
-48278066,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-48278067,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Semitic languages,100,,60,50,0,15,0
-48278068,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Amharic,101,,20,20,0,0,0
-48278069,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Arabic,102,,35,25,0,15,0
-48278070,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-48278071,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-48278072,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Harari,105,,0,0,0,0,0
-48278073,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Hebrew,106,,0,0,0,0,0
-48278074,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Maltese,107,,0,0,0,0,0
-48278075,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tigrigna,108,,5,0,0,0,0
-48278076,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
-48278077,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-48278078,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Austro-Asiatic languages,111,,0,0,0,0,0
-48278079,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Khmer (Cambodian),112,,0,0,0,0,0
-48278080,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Vietnamese,113,,0,0,0,0,0
-48278081,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-48278082,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Austronesian languages,115,,175,170,0,5,0
-48278083,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Bikol,116,,5,0,0,0,0
-48278084,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Cebuano,117,,5,5,0,0,0
-48278085,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Fijian,118,,0,0,0,0,0
-48278086,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Hiligaynon,119,,10,5,0,0,0
-48278087,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Ilocano,120,,25,20,0,0,0
-48278088,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Malagasy,121,,0,0,0,0,0
-48278089,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Malay,122,,5,0,0,0,0
-48278090,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,0,0,0,0,0
-48278091,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Pangasinan,124,,0,0,0,0,0
-48278092,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,135,135,0,5,0
-48278093,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Waray-Waray,126,,0,0,0,0,0
-48278094,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,0,0,0,0,0
-48278095,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Creole languages,128,,0,5,0,5,0
-48278096,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Haitian Creole,129,,0,0,0,0,0
-48278097,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Creole, n.o.s.",130,,5,0,0,5,0
-48278098,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Creole languages, n.i.e.",131,,0,0,0,0,0
-48278099,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Dravidian languages,132,,20,20,0,0,0
-48278100,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Kannada,133,,0,0,0,0,0
-48278101,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Malayalam,134,,5,5,0,0,0
-48278102,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tamil,135,,20,15,0,0,0
-48278103,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Telugu,136,,0,0,0,0,0
-48278104,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
-48278105,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Hmong-Mien languages,138,,0,0,0,0,0
-48278106,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Indo-European languages,139,,270,210,5,55,5
-48278107,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Albanian,140,,0,0,0,0,0
-48278108,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Armenian,141,,0,0,0,5,0
-48278109,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Balto-Slavic languages,142,,45,35,0,10,0
-48278110,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Baltic languages,143,,0,0,0,0,0
-48278111,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Latvian,144,,0,0,0,0,0
-48278112,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Lithuanian,145,,0,0,0,0,0
-48278113,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Slavic languages,146,,45,30,0,10,0
-48278114,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Belarusan,147,,0,0,0,0,0
-48278115,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Bosnian,148,,0,0,0,0,0
-48278116,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Bulgarian,149,,0,5,0,0,0
-48278117,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Croatian,150,,0,0,0,0,0
-48278118,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Czech,151,,5,5,0,0,0
-48278119,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Macedonian,152,,0,0,0,0,0
-48278120,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Polish,153,,15,10,0,0,0
-48278121,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Russian,154,,10,10,0,0,0
-48278122,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Serbian,155,,0,0,0,0,0
-48278123,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Serbo-Croatian,156,,0,0,0,0,0
-48278124,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Slovak,157,,0,0,0,0,0
-48278125,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Slovene (Slovenian),158,,0,0,0,0,0
-48278126,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Ukrainian,159,,5,5,0,5,0
-48278127,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
-48278128,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Celtic languages,161,,0,5,0,0,0
-48278129,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Scottish Gaelic,162,,0,0,0,0,0
-48278130,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Welsh,163,,0,0,0,0,0
-48278131,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Celtic languages, n.i.e.",164,,0,0,0,0,0
-48278132,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Germanic languages,165,,70,50,0,20,0
-48278133,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Afrikaans,166,,0,0,0,0,0
-48278134,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Danish,167,,5,5,0,0,0
-48278135,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Dutch,168,,10,10,0,0,0
-48278136,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Frisian,169,,5,5,0,0,0
-48278137,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,German,170,,40,25,0,10,0
-48278138,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Icelandic,171,,0,0,0,0,0
-48278139,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Norwegian,172,,10,10,0,0,0
-48278140,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Swedish,173,,0,0,0,0,0
-48278141,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Vlaams (Flemish),174,,0,0,0,0,0
-48278142,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Yiddish,175,,0,0,0,0,0
-48278143,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Germanic languages, n.i.e.",176,,0,0,0,5,0
-48278144,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Greek,177,,5,5,0,5,0
-48278145,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Indo-Iranian languages,178,,85,80,0,10,0
-48278146,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Indo-Aryan languages,179,,80,70,0,5,0
-48278147,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Bengali,180,,30,25,0,5,0
-48278148,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Gujarati,181,,5,5,0,0,0
-48278149,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Hindi,182,,10,5,0,0,0
-48278150,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Kashmiri,183,,0,0,0,0,0
-48278151,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Konkani,184,,0,0,0,0,0
-48278152,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Marathi,185,,5,5,0,0,0
-48278153,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Nepali,186,,0,0,0,0,0
-48278154,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Oriya (Odia),187,,0,0,0,0,0
-48278155,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Punjabi (Panjabi),188,,5,5,0,0,0
-48278156,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Sindhi,189,,0,0,0,0,0
-48278157,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Sinhala (Sinhalese),190,,5,0,0,0,0
-48278158,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Urdu,191,,25,25,0,0,0
-48278159,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Iranian languages,192,,10,10,0,0,0
-48278160,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Kurdish,193,,0,0,0,0,0
-48278161,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Pashto,194,,0,0,0,0,0
-48278162,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Persian (Farsi),195,,5,5,0,0,0
-48278163,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,0,0,0,0,0
-48278164,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Italic (Romance) languages,197,,60,45,0,15,5
-48278165,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Catalan,198,,0,0,0,0,0
-48278166,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Italian,199,,10,5,0,0,0
-48278167,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Portuguese,200,,5,5,0,0,0
-48278168,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Romanian,201,,5,5,0,0,0
-48278169,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Spanish,202,,45,35,0,10,5
-48278170,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-48278171,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Japanese,204,,5,5,0,0,0
-48278172,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Kartvelian languages,205,,0,0,0,0,0
-48278173,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Georgian,206,,0,0,0,0,0
-48278174,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Korean,207,,5,5,0,0,0
-48278175,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Mongolic languages,208,,0,0,0,0,0
-48278176,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Mongolian,209,,0,0,0,0,0
-48278177,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Niger-Congo languages,210,,75,60,0,15,0
-48278178,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Akan (Twi),211,,5,5,0,0,0
-48278179,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Bamanankan,212,,0,0,0,0,0
-48278180,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Edo,213,,0,0,0,0,0
-48278181,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Ewe,214,,0,0,0,0,0
-48278182,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-48278183,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Ga,216,,0,0,0,0,0
-48278184,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Ganda,217,,0,0,0,0,0
-48278185,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Igbo,218,,5,5,0,0,0
-48278186,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Lingala,219,,0,0,0,0,0
-48278187,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Rundi (Kirundi),220,,0,0,0,0,0
-48278188,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Kinyarwanda (Rwanda),221,,0,0,0,0,0
-48278189,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Shona,222,,15,15,0,0,0
-48278190,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Swahili,223,,5,5,0,0,0
-48278191,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Wolof,224,,0,0,0,0,0
-48278192,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Yoruba,225,,10,10,0,5,0
-48278193,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,30,25,0,10,0
-48278194,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Nilo-Saharan languages,227,,0,0,0,0,0
-48278195,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Dinka,228,,0,0,0,0,0
-48278196,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
-48278197,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Sign languages,230,,20,15,0,0,10
-48278198,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,American Sign Language,231,,5,5,0,0,0
-48278199,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Quebec Sign Language,232,,0,0,0,0,0
-48278200,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Sign languages, n.i.e",233,,15,10,0,0,5
-48278201,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Sino-Tibetan languages,234,,50,40,0,10,0
-48278202,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Chinese languages,235,,50,35,0,10,5
-48278203,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Cantonese,236,,20,15,0,5,0
-48278204,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Hakka,237,,0,0,0,0,0
-48278205,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Mandarin,238,,10,10,0,5,0
-48278206,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Min Dong,239,,0,0,0,0,0
-48278207,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,0,0,0,0,0
-48278208,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Wu (Shanghainese),241,,0,0,0,0,0
-48278209,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Chinese, n.o.s.",242,,20,15,0,0,5
-48278210,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Chinese languages, n.i.e.",243,,0,0,0,0,0
-48278211,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tibeto-Burman languages,244,,0,0,0,0,0
-48278212,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Burmese,245,,0,5,0,0,0
-48278213,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Karenic languages,246,,0,0,0,0,0
-48278214,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tibetan,247,,0,0,0,0,0
-48278215,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,0,0,0,0,0
-48278216,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Tai-Kadai languages,249,,5,0,0,0,0
-48278217,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Lao,250,,0,0,0,0,0
-48278218,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Thai,251,,0,0,0,0,0
-48278219,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-48278220,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Turkic languages,253,,5,5,0,0,0
-48278221,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Azerbaijani,254,,0,0,0,0,0
-48278222,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Turkish,255,,0,5,0,0,0
-48278223,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Uyghur,256,,0,0,0,0,0
-48278224,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Uzbek,257,,0,0,0,0,0
-48278225,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Turkic languages, n.i.e.",258,,0,0,0,0,0
-48278226,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Uralic languages,259,,20,10,0,5,0
-48278227,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Estonian,260,,0,0,0,0,0
-48278228,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Finnish,261,,10,5,0,0,0
-48278229,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Hungarian,262,,10,5,0,0,0
-48278230,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-48278231,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"Other languages, n.i.e.",264,,10,5,0,0,0
-48278232,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,Multiple responses,265,,735,685,0,45,5
-48278233,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,English and French,266,,25,0,0,20,0
-48278234,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,English and non-official language,267,,690,675,0,10,5
-48278235,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,French and non-official language,268,,10,10,0,0,0
-48278236,2016,62,1,Nunavut,7.9,100, ,62,Total - Sex,1,,"English, French and non-official language",269,,10,0,0,5,0
-48278237,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Total - Mother tongue,1,1.0,18200,16350,35,795,1025
-48278238,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Single responses,2,,17830,15995,35,775,1020
-48278239,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Official languages,3,,6090,5380,35,665,5
-48278240,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,English,4,,5740,5365,0,365,5
-48278241,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,French,5,,350,15,30,300,0
-48278242,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Non-official languages,6,,11740,10615,5,110,1015
-48278243,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Aboriginal languages,7,,11360,10305,0,50,1010
-48278244,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Algonquian languages,8,,5,5,0,0,0
-48278245,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Blackfoot,9,,0,0,0,0,0
-48278246,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Cree-Montagnais languages,10,,0,5,0,0,0
-48278247,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Atikamekw,11,,0,0,0,0,0
-48278248,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Montagnais (Innu),12,,0,0,0,0,0
-48278249,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Moose Cree,13,,0,0,0,0,0
-48278250,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Naskapi,14,,0,0,0,0,0
-48278251,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Northern East Cree,15,,0,0,0,0,0
-48278252,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Plains Cree,16,,0,0,0,0,0
-48278253,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Southern East Cree,17,,0,0,0,0,0
-48278254,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Swampy Cree,18,,0,0,0,0,0
-48278255,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Woods Cree,19,,0,0,0,0,0
-48278256,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Cree, n.o.s.",20,,0,0,0,0,0
-48278257,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Eastern Algonquian languages,21,,0,5,0,0,0
-48278258,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Malecite,22,,0,0,0,0,0
-48278259,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Mi'kmaq,23,,0,5,0,5,0
-48278260,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Ojibway-Potawatomi languages,24,,0,0,0,0,0
-48278261,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Algonquin,25,,0,0,0,0,0
-48278262,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Ojibway,26,,0,0,0,0,0
-48278263,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Oji-Cree,27,,0,0,0,0,0
-48278264,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Ottawa (Odawa),28,,0,0,0,0,0
-48278265,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-48278266,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Athabaskan languages,30,,0,0,0,0,0
-48278267,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Northern Athabaskan languages,31,,0,0,0,0,0
-48278268,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-48278269,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Beaver,33,,0,0,0,0,0
-48278270,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Carrier,34,,0,0,0,0,0
-48278271,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Chilcotin,35,,0,0,0,0,0
-48278272,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Dene,36,,0,0,0,0,0
-48278273,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Dogrib (Tlicho),37,,0,0,0,0,0
-48278274,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Gwich'in,38,,0,0,0,0,0
-48278275,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Sarsi (Sarcee),39,,0,0,0,0,0
-48278276,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Sekani,40,,0,0,0,0,0
-48278277,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Slavey-Hare languages,41,,0,0,0,0,0
-48278278,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,North Slavey (Hare),42,,0,0,0,0,0
-48278279,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,South Slavey,43,,0,0,0,0,0
-48278280,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Slavey, n.o.s.",44,,0,0,0,0,0
-48278281,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tahltan languages,45,,0,0,0,0,0
-48278282,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Kaska (Nahani),46,,0,0,0,0,0
-48278283,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tahltan,47,,0,0,0,0,0
-48278284,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tutchone languages,48,,0,0,0,0,0
-48278285,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Northern Tutchone,49,,0,0,0,0,0
-48278286,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Southern Tutchone,50,,0,0,0,0,0
-48278287,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-48278288,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Haida,52,,0,0,0,0,0
-48278289,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Inuit languages,53,,11355,10295,0,50,1005
-48278290,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Inuinnaqtun (Inuvialuktun),54,,220,210,0,5,0
-48278291,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Inuktitut,55,,11125,10075,0,45,1005
-48278292,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Inuit languages, n.i.e.",56,,15,10,0,0,0
-48278293,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Iroquoian languages,57,,0,0,0,0,0
-48278294,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Cayuga,58,,0,0,0,0,0
-48278295,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Mohawk,59,,0,0,0,0,0
-48278296,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Oneida,60,,0,0,0,0,0
-48278297,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-48278298,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Kutenai,62,,0,0,0,0,0
-48278299,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Michif,63,,0,0,0,0,0
-48278300,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Salish languages,64,,0,0,0,0,0
-48278301,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Comox,65,,0,0,0,0,0
-48278302,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Halkomelem,66,,0,0,0,0,0
-48278303,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Lillooet,67,,0,0,0,0,0
-48278304,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Okanagan,68,,0,0,0,0,0
-48278305,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-48278306,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Squamish,70,,0,0,0,0,0
-48278307,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Straits,71,,0,0,0,0,0
-48278308,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-48278309,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-48278310,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Siouan languages,74,,0,0,0,0,0
-48278311,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Dakota,75,,0,0,0,0,0
-48278312,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Stoney,76,,0,0,0,0,0
-48278313,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-48278314,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tlingit,78,,0,0,0,0,0
-48278315,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tsimshian languages,79,,0,0,0,0,0
-48278316,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Gitxsan (Gitksan),80,,0,0,0,0,0
-48278317,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Nisga'a,81,,0,0,0,0,0
-48278318,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tsimshian,82,,0,0,0,0,0
-48278319,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Wakashan languages,83,,0,0,0,0,0
-48278320,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Haisla,84,,0,0,0,0,0
-48278321,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Heiltsuk,85,,0,0,0,0,0
-48278322,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-48278323,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-48278324,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-48278325,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-48278326,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Non-Aboriginal languages,90,,380,315,0,60,5
-48278327,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Afro-Asiatic languages,91,,55,45,0,15,0
-48278328,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Berber languages,92,,0,0,0,0,0
-48278329,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Kabyle,93,,0,0,0,0,0
-48278330,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Berber languages, n.i.e.",94,,0,0,0,0,0
-48278331,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Cushitic languages,95,,10,10,0,0,0
-48278332,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Bilen,96,,0,0,0,0,0
-48278333,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Oromo,97,,0,0,0,0,0
-48278334,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Somali,98,,5,5,0,0,0
-48278335,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-48278336,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Semitic languages,100,,45,35,0,15,0
-48278337,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Amharic,101,,10,10,0,0,0
-48278338,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Arabic,102,,30,20,0,10,0
-48278339,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-48278340,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-48278341,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Harari,105,,0,0,0,0,0
-48278342,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Hebrew,106,,0,0,0,0,0
-48278343,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Maltese,107,,0,0,0,0,0
-48278344,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tigrigna,108,,5,0,0,0,0
-48278345,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
-48278346,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-48278347,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Austro-Asiatic languages,111,,0,0,0,0,0
-48278348,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Khmer (Cambodian),112,,0,0,0,0,0
-48278349,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Vietnamese,113,,0,0,0,0,0
-48278350,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-48278351,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Austronesian languages,115,,65,65,0,0,0
-48278352,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Bikol,116,,0,0,0,0,0
-48278353,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Cebuano,117,,5,5,0,0,0
-48278354,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Fijian,118,,0,0,0,0,0
-48278355,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Hiligaynon,119,,5,5,0,0,0
-48278356,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Ilocano,120,,5,10,0,0,0
-48278357,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Malagasy,121,,0,0,0,0,0
-48278358,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Malay,122,,0,0,0,0,0
-48278359,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,0,0,0,0,0
-48278360,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Pangasinan,124,,0,0,0,0,0
-48278361,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Tagalog (Pilipino, Filipino)",125,,55,55,0,0,0
-48278362,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Waray-Waray,126,,0,0,0,0,0
-48278363,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Austronesian languages, n.i.e.",127,,0,0,0,0,0
-48278364,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Creole languages,128,,5,0,0,0,0
-48278365,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Haitian Creole,129,,0,0,0,0,0
-48278366,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Creole, n.o.s.",130,,0,0,0,0,0
-48278367,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Creole languages, n.i.e.",131,,0,0,0,0,0
-48278368,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Dravidian languages,132,,15,15,0,0,0
-48278369,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Kannada,133,,0,0,0,0,0
-48278370,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Malayalam,134,,0,0,0,0,0
-48278371,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tamil,135,,10,10,0,0,0
-48278372,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Telugu,136,,0,0,0,0,0
-48278373,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
-48278374,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Hmong-Mien languages,138,,0,0,0,0,0
-48278375,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Indo-European languages,139,,145,115,0,30,0
-48278376,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Albanian,140,,0,0,0,0,0
-48278377,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Armenian,141,,5,0,0,0,0
-48278378,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Balto-Slavic languages,142,,30,20,0,5,0
-48278379,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Baltic languages,143,,0,0,0,0,0
-48278380,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Latvian,144,,0,0,0,0,0
-48278381,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Lithuanian,145,,0,0,0,0,0
-48278382,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Slavic languages,146,,30,20,0,5,0
-48278383,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Belarusan,147,,0,0,0,0,0
-48278384,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Bosnian,148,,0,0,0,0,0
-48278385,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Bulgarian,149,,0,0,0,0,0
-48278386,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Croatian,150,,5,5,0,0,0
-48278387,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Czech,151,,0,5,0,0,0
-48278388,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Macedonian,152,,0,0,0,0,0
-48278389,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Polish,153,,15,10,0,5,0
-48278390,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Russian,154,,0,5,0,0,0
-48278391,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Serbian,155,,0,0,0,0,0
-48278392,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Serbo-Croatian,156,,0,0,0,0,0
-48278393,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Slovak,157,,0,0,0,0,0
-48278394,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Slovene (Slovenian),158,,0,0,0,0,0
-48278395,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Ukrainian,159,,5,5,0,5,0
-48278396,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
-48278397,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Celtic languages,161,,0,0,0,0,0
-48278398,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Scottish Gaelic,162,,0,0,0,0,0
-48278399,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Welsh,163,,0,0,0,0,0
-48278400,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Celtic languages, n.i.e.",164,,0,0,0,0,0
-48278401,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Germanic languages,165,,40,30,0,5,0
-48278402,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Afrikaans,166,,5,0,0,0,0
-48278403,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Danish,167,,5,5,0,0,0
-48278404,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Dutch,168,,10,5,0,5,0
-48278405,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Frisian,169,,0,0,0,0,0
-48278406,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,German,170,,25,15,0,10,0
-48278407,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Icelandic,171,,0,0,0,0,0
-48278408,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Norwegian,172,,0,5,0,0,0
-48278409,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Swedish,173,,5,0,0,5,0
-48278410,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Vlaams (Flemish),174,,0,0,0,0,0
-48278411,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Yiddish,175,,0,0,0,0,0
-48278412,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Germanic languages, n.i.e.",176,,0,0,0,0,0
-48278413,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Greek,177,,0,0,0,5,0
-48278414,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Indo-Iranian languages,178,,45,40,0,5,0
-48278415,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Indo-Aryan languages,179,,40,35,0,5,0
-48278416,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Bengali,180,,15,15,0,0,0
-48278417,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Gujarati,181,,5,5,0,0,0
-48278418,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Hindi,182,,5,5,0,0,0
-48278419,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Kashmiri,183,,0,0,0,0,0
-48278420,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Konkani,184,,0,0,0,0,0
-48278421,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Marathi,185,,0,0,0,0,0
-48278422,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Nepali,186,,0,0,0,0,0
-48278423,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Oriya (Odia),187,,0,0,0,0,0
-48278424,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Punjabi (Panjabi),188,,0,5,0,0,0
-48278425,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Sindhi,189,,0,0,0,0,0
-48278426,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Sinhala (Sinhalese),190,,0,0,0,0,0
-48278427,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Urdu,191,,15,15,0,0,0
-48278428,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Iranian languages,192,,5,5,0,5,0
-48278429,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Kurdish,193,,5,0,0,0,0
-48278430,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Pashto,194,,0,0,0,0,0
-48278431,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Persian (Farsi),195,,5,0,0,0,0
-48278432,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Indo-Iranian languages, n.i.e.",196,,0,0,0,0,0
-48278433,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Italic (Romance) languages,197,,30,20,0,10,0
-48278434,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Catalan,198,,0,0,0,0,0
-48278435,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Italian,199,,5,0,0,5,0
-48278436,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Portuguese,200,,5,5,0,0,0
-48278437,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Romanian,201,,5,0,0,0,0
-48278438,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Spanish,202,,20,15,0,0,0
-48278439,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-48278440,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Japanese,204,,5,0,0,0,0
-48278441,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Kartvelian languages,205,,0,0,0,0,0
-48278442,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Georgian,206,,0,0,0,0,0
-48278443,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Korean,207,,5,5,0,0,0
-48278444,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Mongolic languages,208,,0,0,0,0,0
-48278445,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Mongolian,209,,0,0,0,0,0
-48278446,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Niger-Congo languages,210,,45,40,0,5,0
-48278447,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Akan (Twi),211,,5,0,0,0,0
-48278448,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Bamanankan,212,,0,0,0,0,0
-48278449,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Edo,213,,0,0,0,0,0
-48278450,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Ewe,214,,0,0,0,0,0
-48278451,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-48278452,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Ga,216,,0,0,0,0,0
-48278453,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Ganda,217,,0,0,0,0,0
-48278454,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Igbo,218,,5,5,0,0,0
-48278455,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Lingala,219,,0,0,0,0,0
-48278456,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Rundi (Kirundi),220,,0,0,0,0,0
-48278457,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Kinyarwanda (Rwanda),221,,0,0,0,0,0
-48278458,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Shona,222,,10,10,0,0,0
-48278459,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Swahili,223,,0,0,0,0,0
-48278460,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Wolof,224,,5,0,0,0,0
-48278461,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Yoruba,225,,5,5,0,0,0
-48278462,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Niger-Congo languages, n.i.e.",226,,15,15,0,5,0
-48278463,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Nilo-Saharan languages,227,,0,0,0,0,0
-48278464,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Dinka,228,,0,0,0,0,0
-48278465,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
-48278466,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Sign languages,230,,10,5,0,0,0
-48278467,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,American Sign Language,231,,5,0,0,0,0
-48278468,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Quebec Sign Language,232,,0,0,0,0,0
-48278469,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Sign languages, n.i.e",233,,10,5,0,0,5
-48278470,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Sino-Tibetan languages,234,,20,20,0,0,0
-48278471,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Chinese languages,235,,20,20,0,5,0
-48278472,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Cantonese,236,,10,5,0,0,0
-48278473,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Hakka,237,,0,0,0,0,0
-48278474,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Mandarin,238,,5,0,0,5,0
-48278475,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Min Dong,239,,0,0,0,0,0
-48278476,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,0,0,0,0,0
-48278477,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Wu (Shanghainese),241,,0,0,0,0,0
-48278478,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Chinese, n.o.s.",242,,10,10,0,0,0
-48278479,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Chinese languages, n.i.e.",243,,0,0,0,0,0
-48278480,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tibeto-Burman languages,244,,0,0,0,0,0
-48278481,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Burmese,245,,0,0,0,0,0
-48278482,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Karenic languages,246,,0,0,0,0,0
-48278483,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tibetan,247,,0,0,0,0,0
-48278484,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,0,0,0,0,0
-48278485,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Tai-Kadai languages,249,,0,0,0,0,0
-48278486,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Lao,250,,0,0,0,0,0
-48278487,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Thai,251,,0,0,0,0,0
-48278488,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-48278489,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Turkic languages,253,,0,0,0,0,0
-48278490,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Azerbaijani,254,,0,0,0,0,0
-48278491,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Turkish,255,,0,5,0,0,0
-48278492,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Uyghur,256,,0,0,0,0,0
-48278493,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Uzbek,257,,0,0,0,0,0
-48278494,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Turkic languages, n.i.e.",258,,0,0,0,0,0
-48278495,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Uralic languages,259,,10,10,0,5,0
-48278496,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Estonian,260,,0,0,0,0,0
-48278497,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Finnish,261,,5,5,0,0,0
-48278498,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Hungarian,262,,5,5,0,0,0
-48278499,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-48278500,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"Other languages, n.i.e.",264,,0,0,0,0,0
-48278501,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,Multiple responses,265,,375,350,0,15,5
-48278502,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,English and French,266,,5,0,0,10,0
-48278503,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,English and non-official language,267,,355,350,0,5,0
-48278504,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,French and non-official language,268,,0,0,0,0,0
-48278505,2016,62,1,Nunavut,7.9,100, ,62,Male,2,,"English, French and non-official language",269,,5,5,0,5,0
-48278506,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Total - Mother tongue,1,1.0,17495,15715,20,730,1025
-48278507,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Single responses,2,,17130,15380,20,705,1020
-48278508,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Official languages,3,,5525,4905,20,595,5
-48278509,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,English,4,,5285,4890,0,385,10
-48278510,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,French,5,,240,15,15,215,0
-48278511,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Non-official languages,6,,11605,10475,5,110,1015
-48278512,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Aboriginal languages,7,,11250,10180,0,60,1005
-48278513,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Algonquian languages,8,,10,5,0,0,0
-48278514,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Blackfoot,9,,0,0,0,0,0
-48278515,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Cree-Montagnais languages,10,,0,0,0,0,0
-48278516,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Atikamekw,11,,0,0,0,0,0
-48278517,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Montagnais (Innu),12,,0,0,0,0,0
-48278518,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Moose Cree,13,,0,0,0,0,0
-48278519,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Naskapi,14,,0,0,0,0,0
-48278520,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Northern East Cree,15,,0,0,0,0,0
-48278521,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Plains Cree,16,,0,0,0,0,0
-48278522,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Southern East Cree,17,,0,0,0,0,0
-48278523,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Swampy Cree,18,,0,0,0,0,0
-48278524,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Woods Cree,19,,0,0,0,0,0
-48278525,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Cree, n.o.s.",20,,5,0,0,0,0
-48278526,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Eastern Algonquian languages,21,,0,0,0,0,0
-48278527,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Malecite,22,,0,0,0,0,0
-48278528,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Mi'kmaq,23,,0,0,0,0,0
-48278529,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Ojibway-Potawatomi languages,24,,5,5,0,0,0
-48278530,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Algonquin,25,,0,0,0,0,0
-48278531,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Ojibway,26,,5,0,0,0,0
-48278532,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Oji-Cree,27,,0,0,0,0,0
-48278533,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Ottawa (Odawa),28,,0,0,0,0,0
-48278534,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-48278535,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Athabaskan languages,30,,0,0,0,0,0
-48278536,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Northern Athabaskan languages,31,,5,0,0,0,0
-48278537,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-48278538,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Beaver,33,,0,0,0,0,0
-48278539,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Carrier,34,,0,0,0,0,0
-48278540,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Chilcotin,35,,0,0,0,0,0
-48278541,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Dene,36,,0,0,0,0,0
-48278542,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Dogrib (Tlicho),37,,5,0,0,0,0
-48278543,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Gwich'in,38,,0,0,0,0,0
-48278544,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Sarsi (Sarcee),39,,0,0,0,0,0
-48278545,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Sekani,40,,0,0,0,0,0
-48278546,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Slavey-Hare languages,41,,0,0,0,0,0
-48278547,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,North Slavey (Hare),42,,0,0,0,0,0
-48278548,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,South Slavey,43,,0,0,0,0,0
-48278549,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Slavey, n.o.s.",44,,0,0,0,0,0
-48278550,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tahltan languages,45,,0,0,0,0,0
-48278551,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Kaska (Nahani),46,,0,0,0,0,0
-48278552,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tahltan,47,,0,0,0,0,0
-48278553,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tutchone languages,48,,0,0,0,0,0
-48278554,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Northern Tutchone,49,,0,0,0,0,0
-48278555,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Southern Tutchone,50,,0,0,0,0,0
-48278556,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-48278557,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Haida,52,,0,0,0,0,0
-48278558,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Inuit languages,53,,11240,10175,0,60,1005
-48278559,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Inuinnaqtun (Inuvialuktun),54,,280,270,0,0,10
-48278560,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Inuktitut,55,,10945,9890,0,60,995
-48278561,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Inuit languages, n.i.e.",56,,20,20,0,0,0
-48278562,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Iroquoian languages,57,,0,0,0,0,0
-48278563,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Cayuga,58,,0,0,0,0,0
-48278564,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Mohawk,59,,0,0,0,0,0
-48278565,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Oneida,60,,0,0,0,0,0
-48278566,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-48278567,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Kutenai,62,,0,0,0,0,0
-48278568,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Michif,63,,0,0,0,0,0
-48278569,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Salish languages,64,,0,0,0,0,0
-48278570,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Comox,65,,0,0,0,0,0
-48278571,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Halkomelem,66,,0,0,0,0,0
-48278572,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Lillooet,67,,0,0,0,0,0
-48278573,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Okanagan,68,,0,0,0,0,0
-48278574,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-48278575,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Squamish,70,,0,0,0,0,0
-48278576,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Straits,71,,0,0,0,0,0
-48278577,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-48278578,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-48278579,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Siouan languages,74,,0,0,0,0,0
-48278580,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Dakota,75,,0,0,0,0,0
-48278581,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Stoney,76,,0,0,0,0,0
-48278582,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-48278583,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tlingit,78,,0,0,0,0,0
-48278584,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tsimshian languages,79,,0,0,0,0,0
-48278585,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Gitxsan (Gitksan),80,,0,0,0,0,0
-48278586,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Nisga'a,81,,0,0,0,0,0
-48278587,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tsimshian,82,,0,0,0,0,0
-48278588,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Wakashan languages,83,,0,0,0,0,0
-48278589,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Haisla,84,,0,0,0,0,0
-48278590,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Heiltsuk,85,,0,0,0,0,0
-48278591,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-48278592,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-48278593,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-48278594,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-48278595,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Non-Aboriginal languages,90,,350,300,0,45,10
-48278596,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Afro-Asiatic languages,91,,20,15,0,0,0
-48278597,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Berber languages,92,,0,0,0,0,0
-48278598,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Kabyle,93,,0,0,0,0,0
-48278599,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Berber languages, n.i.e.",94,,0,0,0,0,0
-48278600,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Cushitic languages,95,,0,0,0,0,0
-48278601,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Bilen,96,,0,0,0,0,0
-48278602,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Oromo,97,,0,0,0,0,0
-48278603,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Somali,98,,5,5,0,0,0
-48278604,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Cushitic languages, n.i.e.",99,,0,0,0,0,0
-48278605,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Semitic languages,100,,15,15,0,0,0
-48278606,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Amharic,101,,10,5,0,0,0
-48278607,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Arabic,102,,5,5,0,0,0
-48278608,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Assyrian Neo-Aramaic,103,,0,0,0,0,0
-48278609,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-48278610,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Harari,105,,0,0,0,0,0
-48278611,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Hebrew,106,,0,0,0,0,0
-48278612,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Maltese,107,,5,0,0,0,0
-48278613,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tigrigna,108,,0,0,0,0,0
-48278614,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Semitic languages, n.i.e.",109,,0,0,0,0,0
-48278615,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-48278616,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Austro-Asiatic languages,111,,0,0,0,0,0
-48278617,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Khmer (Cambodian),112,,0,0,0,0,0
-48278618,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Vietnamese,113,,0,0,0,0,0
-48278619,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-48278620,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Austronesian languages,115,,110,105,0,5,0
-48278621,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Bikol,116,,0,5,0,0,0
-48278622,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Cebuano,117,,0,0,0,0,0
-48278623,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Fijian,118,,0,0,0,0,0
-48278624,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Hiligaynon,119,,5,5,0,0,0
-48278625,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Ilocano,120,,15,10,0,0,0
-48278626,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Malagasy,121,,0,0,0,0,0
-48278627,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Malay,122,,0,5,0,0,0
-48278628,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,5,5,0,0,0
-48278629,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Pangasinan,124,,0,0,0,0,0
-48278630,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Tagalog (Pilipino, Filipino)",125,,85,80,0,5,0
-48278631,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Waray-Waray,126,,0,0,0,0,0
-48278632,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Austronesian languages, n.i.e.",127,,0,0,0,0,0
-48278633,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Creole languages,128,,0,5,0,0,0
-48278634,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Haitian Creole,129,,0,0,0,0,0
-48278635,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Creole, n.o.s.",130,,0,0,0,0,0
-48278636,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Creole languages, n.i.e.",131,,0,5,0,0,0
-48278637,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Dravidian languages,132,,5,5,0,0,0
-48278638,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Kannada,133,,0,0,0,0,0
-48278639,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Malayalam,134,,0,0,0,0,0
-48278640,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tamil,135,,5,5,0,0,0
-48278641,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Telugu,136,,0,0,0,0,0
-48278642,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Dravidian languages, n.i.e.",137,,0,0,0,0,0
-48278643,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Hmong-Mien languages,138,,0,0,0,0,0
-48278644,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Indo-European languages,139,,120,95,0,25,5
-48278645,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Albanian,140,,0,0,0,0,0
-48278646,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Armenian,141,,0,0,0,0,0
-48278647,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Balto-Slavic languages,142,,15,15,0,5,0
-48278648,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Baltic languages,143,,0,0,0,0,0
-48278649,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Latvian,144,,0,0,0,0,0
-48278650,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Lithuanian,145,,0,0,0,0,0
-48278651,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Slavic languages,146,,15,10,0,0,0
-48278652,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Belarusan,147,,0,0,0,0,0
-48278653,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Bosnian,148,,0,0,0,0,0
-48278654,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Bulgarian,149,,0,0,0,0,0
-48278655,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Croatian,150,,0,0,0,0,0
-48278656,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Czech,151,,0,0,0,0,0
-48278657,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Macedonian,152,,0,0,0,0,0
-48278658,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Polish,153,,5,0,0,0,0
-48278659,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Russian,154,,5,5,0,0,0
-48278660,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Serbian,155,,0,0,0,0,0
-48278661,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Serbo-Croatian,156,,0,0,0,0,0
-48278662,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Slovak,157,,5,0,0,0,0
-48278663,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Slovene (Slovenian),158,,5,0,0,0,0
-48278664,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Ukrainian,159,,5,0,0,0,0
-48278665,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Slavic languages, n.i.e.",160,,0,0,0,0,0
-48278666,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Celtic languages,161,,0,0,0,0,0
-48278667,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Scottish Gaelic,162,,0,0,0,0,0
-48278668,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Welsh,163,,0,0,0,0,0
-48278669,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Celtic languages, n.i.e.",164,,0,0,0,0,0
-48278670,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Germanic languages,165,,30,25,0,10,0
-48278671,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Afrikaans,166,,0,0,0,0,0
-48278672,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Danish,167,,0,0,0,0,0
-48278673,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Dutch,168,,5,5,0,5,0
-48278674,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Frisian,169,,0,0,0,0,0
-48278675,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,German,170,,20,10,0,5,0
-48278676,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Icelandic,171,,0,0,0,0,0
-48278677,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Norwegian,172,,5,0,0,0,0
-48278678,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Swedish,173,,0,0,0,0,0
-48278679,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Vlaams (Flemish),174,,0,0,0,0,0
-48278680,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Yiddish,175,,0,0,0,0,0
-48278681,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Germanic languages, n.i.e.",176,,0,0,0,0,0
-48278682,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Greek,177,,0,0,0,0,0
-48278683,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Indo-Iranian languages,178,,45,40,0,5,0
-48278684,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Indo-Aryan languages,179,,40,35,0,5,0
-48278685,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Bengali,180,,15,15,0,5,0
-48278686,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Gujarati,181,,0,5,0,0,0
-48278687,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Hindi,182,,5,0,0,5,0
-48278688,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Kashmiri,183,,0,0,0,0,0
-48278689,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Konkani,184,,0,0,0,0,0
-48278690,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Marathi,185,,0,0,0,0,0
-48278691,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Nepali,186,,0,0,0,0,0
-48278692,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Oriya (Odia),187,,0,0,0,0,0
-48278693,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Punjabi (Panjabi),188,,5,0,0,0,0
-48278694,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Sindhi,189,,0,0,0,0,0
-48278695,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Sinhala (Sinhalese),190,,0,0,0,0,0
-48278696,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Urdu,191,,10,15,0,0,0
-48278697,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Iranian languages,192,,5,5,0,0,0
-48278698,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Kurdish,193,,0,0,0,0,0
-48278699,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Pashto,194,,0,0,0,0,0
-48278700,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Persian (Farsi),195,,0,0,0,0,0
-48278701,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Indo-Iranian languages, n.i.e.",196,,0,0,0,0,0
-48278702,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Italic (Romance) languages,197,,30,25,0,10,5
-48278703,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Catalan,198,,0,0,0,0,0
-48278704,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Italian,199,,0,5,0,5,0
-48278705,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Portuguese,200,,0,0,0,0,0
-48278706,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Romanian,201,,5,0,0,5,0
-48278707,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Spanish,202,,25,15,0,5,0
-48278708,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-48278709,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Japanese,204,,5,0,0,0,0
-48278710,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Kartvelian languages,205,,0,0,0,0,0
-48278711,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Georgian,206,,0,0,0,0,0
-48278712,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Korean,207,,0,5,0,0,0
-48278713,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Mongolic languages,208,,0,0,0,0,0
-48278714,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Mongolian,209,,0,0,0,0,0
-48278715,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Niger-Congo languages,210,,30,25,0,5,0
-48278716,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Akan (Twi),211,,0,0,0,0,0
-48278717,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Bamanankan,212,,0,0,0,0,0
-48278718,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Edo,213,,0,0,0,0,0
-48278719,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Ewe,214,,0,0,0,0,0
-48278720,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-48278721,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Ga,216,,0,0,0,0,0
-48278722,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Ganda,217,,0,0,0,0,0
-48278723,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Igbo,218,,0,0,0,0,0
-48278724,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Lingala,219,,0,0,0,0,0
-48278725,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Rundi (Kirundi),220,,0,0,0,0,0
-48278726,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Kinyarwanda (Rwanda),221,,0,0,0,5,0
-48278727,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Shona,222,,5,5,0,0,0
-48278728,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Swahili,223,,0,5,0,0,0
-48278729,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Wolof,224,,0,0,0,0,0
-48278730,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Yoruba,225,,5,5,0,5,0
-48278731,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Niger-Congo languages, n.i.e.",226,,10,10,0,0,0
-48278732,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Nilo-Saharan languages,227,,0,0,0,0,0
-48278733,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Dinka,228,,0,0,0,0,0
-48278734,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,0,0,0,0,0
-48278735,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Sign languages,230,,10,5,0,0,5
-48278736,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,American Sign Language,231,,5,0,0,0,5
-48278737,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Quebec Sign Language,232,,0,0,0,0,0
-48278738,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Sign languages, n.i.e",233,,5,0,0,0,5
-48278739,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Sino-Tibetan languages,234,,30,20,0,10,5
-48278740,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Chinese languages,235,,25,20,0,5,5
-48278741,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Cantonese,236,,10,5,0,5,0
-48278742,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Hakka,237,,0,0,0,0,0
-48278743,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Mandarin,238,,10,5,0,0,0
-48278744,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Min Dong,239,,0,0,0,0,0
-48278745,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,0,0,0,0,0
-48278746,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Wu (Shanghainese),241,,0,0,0,0,0
-48278747,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Chinese, n.o.s.",242,,10,5,0,5,0
-48278748,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Chinese languages, n.i.e.",243,,0,0,0,0,0
-48278749,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tibeto-Burman languages,244,,5,0,0,0,0
-48278750,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Burmese,245,,0,0,0,0,0
-48278751,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Karenic languages,246,,0,0,0,0,0
-48278752,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tibetan,247,,0,0,0,0,0
-48278753,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,0,0,0,0,0
-48278754,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Tai-Kadai languages,249,,0,5,0,0,0
-48278755,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Lao,250,,0,0,0,0,0
-48278756,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Thai,251,,5,0,0,0,0
-48278757,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-48278758,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Turkic languages,253,,5,0,0,0,0
-48278759,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Azerbaijani,254,,0,0,0,0,0
-48278760,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Turkish,255,,0,5,0,0,0
-48278761,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Uyghur,256,,0,0,0,0,0
-48278762,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Uzbek,257,,0,0,0,0,0
-48278763,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Turkic languages, n.i.e.",258,,0,5,0,0,0
-48278764,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Uralic languages,259,,5,0,0,5,0
-48278765,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Estonian,260,,0,0,0,0,0
-48278766,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Finnish,261,,5,0,0,5,0
-48278767,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Hungarian,262,,0,5,0,0,0
-48278768,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-48278769,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"Other languages, n.i.e.",264,,5,5,0,0,0
-48278770,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,Multiple responses,265,,360,335,0,25,0
-48278771,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,English and French,266,,15,0,0,15,0
-48278772,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,English and non-official language,267,,335,330,0,5,0
-48278773,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,French and non-official language,268,,5,5,0,5,0
-48278774,2016,62,1,Nunavut,7.9,100, ,62,Female,3,,"English, French and non-official language",269,,5,0,0,0,0
+GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+Nunavut,62,Total - Sex,Total - Mother tongue,35690,32065,55,1520,2050
+Nunavut,62,Total - Sex,Single responses,34955,31380,55,1480,2045
+Nunavut,62,Total - Sex,Official languages,11615,10285,50,1265,15
+Nunavut,62,Total - Sex,English,11020,10255,0,755,15
+Nunavut,62,Total - Sex,French,595,30,50,515,0
+Nunavut,62,Total - Sex,Non-official languages,23345,21095,5,215,2025
+Nunavut,62,Total - Sex,Aboriginal languages,22615,20480,5,110,2015
+Nunavut,62,Total - Sex,Algonquian languages,15,10,0,0,0
+Nunavut,62,Total - Sex,Blackfoot,0,0,0,0,0
+Nunavut,62,Total - Sex,Cree-Montagnais languages,0,5,0,0,0
+Nunavut,62,Total - Sex,Atikamekw,0,0,0,0,0
+Nunavut,62,Total - Sex,Montagnais (Innu),0,0,0,0,0
+Nunavut,62,Total - Sex,Moose Cree,0,0,0,0,0
+Nunavut,62,Total - Sex,Naskapi,0,0,0,0,0
+Nunavut,62,Total - Sex,Northern East Cree,0,0,0,0,0
+Nunavut,62,Total - Sex,Plains Cree,0,0,0,0,0
+Nunavut,62,Total - Sex,Southern East Cree,0,0,0,0,0
+Nunavut,62,Total - Sex,Swampy Cree,0,0,0,0,0
+Nunavut,62,Total - Sex,Woods Cree,0,0,0,0,0
+Nunavut,62,Total - Sex,"Cree, n.o.s.",5,0,0,0,0
+Nunavut,62,Total - Sex,Eastern Algonquian languages,5,5,0,0,0
+Nunavut,62,Total - Sex,Malecite,0,0,0,0,0
+Nunavut,62,Total - Sex,Mi'kmaq,5,0,0,5,0
+Nunavut,62,Total - Sex,Ojibway-Potawatomi languages,0,5,0,0,0
+Nunavut,62,Total - Sex,Algonquin,0,0,0,0,0
+Nunavut,62,Total - Sex,Ojibway,5,5,0,0,0
+Nunavut,62,Total - Sex,Oji-Cree,0,0,0,0,0
+Nunavut,62,Total - Sex,Ottawa (Odawa),0,0,0,0,0
+Nunavut,62,Total - Sex,"Algonquian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Athabaskan languages,5,0,0,0,0
+Nunavut,62,Total - Sex,Northern Athabaskan languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Babine (Wetsuwet'en),0,0,0,0,0
+Nunavut,62,Total - Sex,Beaver,0,0,0,0,0
+Nunavut,62,Total - Sex,Carrier,0,0,0,0,0
+Nunavut,62,Total - Sex,Chilcotin,0,0,0,0,0
+Nunavut,62,Total - Sex,Dene,0,0,0,0,0
+Nunavut,62,Total - Sex,Dogrib (Tlicho),0,0,0,0,0
+Nunavut,62,Total - Sex,Gwich'in,0,0,0,0,0
+Nunavut,62,Total - Sex,Sarsi (Sarcee),0,0,0,0,0
+Nunavut,62,Total - Sex,Sekani,0,0,0,0,0
+Nunavut,62,Total - Sex,Slavey-Hare languages,0,0,0,0,0
+Nunavut,62,Total - Sex,North Slavey (Hare),0,0,0,0,0
+Nunavut,62,Total - Sex,South Slavey,0,0,0,0,0
+Nunavut,62,Total - Sex,"Slavey, n.o.s.",0,0,0,0,0
+Nunavut,62,Total - Sex,Tahltan languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Kaska (Nahani),0,0,0,0,0
+Nunavut,62,Total - Sex,Tahltan,0,0,0,0,0
+Nunavut,62,Total - Sex,Tutchone languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Northern Tutchone,0,0,0,0,0
+Nunavut,62,Total - Sex,Southern Tutchone,0,0,0,0,0
+Nunavut,62,Total - Sex,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Haida,0,0,0,0,0
+Nunavut,62,Total - Sex,Inuit languages,22600,20470,5,110,2015
+Nunavut,62,Total - Sex,Inuinnaqtun (Inuvialuktun),495,480,0,5,10
+Nunavut,62,Total - Sex,Inuktitut,22070,19960,5,105,1995
+Nunavut,62,Total - Sex,"Inuit languages, n.i.e.",35,30,0,5,0
+Nunavut,62,Total - Sex,Iroquoian languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Cayuga,0,0,0,0,0
+Nunavut,62,Total - Sex,Mohawk,0,0,0,0,0
+Nunavut,62,Total - Sex,Oneida,0,0,0,0,0
+Nunavut,62,Total - Sex,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Kutenai,0,0,0,0,0
+Nunavut,62,Total - Sex,Michif,0,0,0,0,0
+Nunavut,62,Total - Sex,Salish languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Comox,0,0,0,0,0
+Nunavut,62,Total - Sex,Halkomelem,0,0,0,0,0
+Nunavut,62,Total - Sex,Lillooet,0,0,0,0,0
+Nunavut,62,Total - Sex,Okanagan,0,0,0,0,0
+Nunavut,62,Total - Sex,Shuswap (Secwepemctsin),0,0,0,0,0
+Nunavut,62,Total - Sex,Squamish,0,0,0,0,0
+Nunavut,62,Total - Sex,Straits,0,0,0,0,0
+Nunavut,62,Total - Sex,Thompson (Ntlakapamux),0,0,0,0,0
+Nunavut,62,Total - Sex,"Salish languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Siouan languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Dakota,0,0,0,0,0
+Nunavut,62,Total - Sex,Stoney,0,0,0,0,0
+Nunavut,62,Total - Sex,"Siouan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Tlingit,0,0,0,0,0
+Nunavut,62,Total - Sex,Tsimshian languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Gitxsan (Gitksan),0,0,0,0,0
+Nunavut,62,Total - Sex,Nisga'a,0,0,0,0,0
+Nunavut,62,Total - Sex,Tsimshian,0,0,0,0,0
+Nunavut,62,Total - Sex,Wakashan languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Haisla,0,0,0,0,0
+Nunavut,62,Total - Sex,Heiltsuk,0,0,0,0,0
+Nunavut,62,Total - Sex,Kwakiutl (Kwak'wala),0,0,0,0,0
+Nunavut,62,Total - Sex,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Nunavut,62,Total - Sex,"Wakashan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,"Aboriginal languages, n.o.s.",0,0,0,0,0
+Nunavut,62,Total - Sex,Non-Aboriginal languages,735,615,0,105,10
+Nunavut,62,Total - Sex,Afro-Asiatic languages,75,65,0,10,0
+Nunavut,62,Total - Sex,Berber languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Kabyle,0,0,0,0,0
+Nunavut,62,Total - Sex,"Berber languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Cushitic languages,15,10,0,0,0
+Nunavut,62,Total - Sex,Bilen,0,0,0,0,0
+Nunavut,62,Total - Sex,Oromo,5,0,0,0,0
+Nunavut,62,Total - Sex,Somali,10,10,0,0,0
+Nunavut,62,Total - Sex,"Cushitic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Semitic languages,60,50,0,15,0
+Nunavut,62,Total - Sex,Amharic,20,20,0,0,0
+Nunavut,62,Total - Sex,Arabic,35,25,0,15,0
+Nunavut,62,Total - Sex,Assyrian Neo-Aramaic,0,0,0,0,0
+Nunavut,62,Total - Sex,Chaldean Neo-Aramaic,0,0,0,0,0
+Nunavut,62,Total - Sex,Harari,0,0,0,0,0
+Nunavut,62,Total - Sex,Hebrew,0,0,0,0,0
+Nunavut,62,Total - Sex,Maltese,0,0,0,0,0
+Nunavut,62,Total - Sex,Tigrigna,5,0,0,0,0
+Nunavut,62,Total - Sex,"Semitic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Austro-Asiatic languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Khmer (Cambodian),0,0,0,0,0
+Nunavut,62,Total - Sex,Vietnamese,0,0,0,0,0
+Nunavut,62,Total - Sex,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Nunavut,62,Total - Sex,Austronesian languages,175,170,0,5,0
+Nunavut,62,Total - Sex,Bikol,5,0,0,0,0
+Nunavut,62,Total - Sex,Cebuano,5,5,0,0,0
+Nunavut,62,Total - Sex,Fijian,0,0,0,0,0
+Nunavut,62,Total - Sex,Hiligaynon,10,5,0,0,0
+Nunavut,62,Total - Sex,Ilocano,25,20,0,0,0
+Nunavut,62,Total - Sex,Malagasy,0,0,0,0,0
+Nunavut,62,Total - Sex,Malay,5,0,0,0,0
+Nunavut,62,Total - Sex,"Pampangan (Kapampangan, Pampango)",0,0,0,0,0
+Nunavut,62,Total - Sex,Pangasinan,0,0,0,0,0
+Nunavut,62,Total - Sex,"Tagalog (Pilipino, Filipino)",135,135,0,5,0
+Nunavut,62,Total - Sex,Waray-Waray,0,0,0,0,0
+Nunavut,62,Total - Sex,"Austronesian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Creole languages,0,5,0,5,0
+Nunavut,62,Total - Sex,Haitian Creole,0,0,0,0,0
+Nunavut,62,Total - Sex,"Creole, n.o.s.",5,0,0,5,0
+Nunavut,62,Total - Sex,"Creole languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Dravidian languages,20,20,0,0,0
+Nunavut,62,Total - Sex,Kannada,0,0,0,0,0
+Nunavut,62,Total - Sex,Malayalam,5,5,0,0,0
+Nunavut,62,Total - Sex,Tamil,20,15,0,0,0
+Nunavut,62,Total - Sex,Telugu,0,0,0,0,0
+Nunavut,62,Total - Sex,"Dravidian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Hmong-Mien languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Indo-European languages,270,210,5,55,5
+Nunavut,62,Total - Sex,Albanian,0,0,0,0,0
+Nunavut,62,Total - Sex,Armenian,0,0,0,5,0
+Nunavut,62,Total - Sex,Balto-Slavic languages,45,35,0,10,0
+Nunavut,62,Total - Sex,Baltic languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Latvian,0,0,0,0,0
+Nunavut,62,Total - Sex,Lithuanian,0,0,0,0,0
+Nunavut,62,Total - Sex,Slavic languages,45,30,0,10,0
+Nunavut,62,Total - Sex,Belarusan,0,0,0,0,0
+Nunavut,62,Total - Sex,Bosnian,0,0,0,0,0
+Nunavut,62,Total - Sex,Bulgarian,0,5,0,0,0
+Nunavut,62,Total - Sex,Croatian,0,0,0,0,0
+Nunavut,62,Total - Sex,Czech,5,5,0,0,0
+Nunavut,62,Total - Sex,Macedonian,0,0,0,0,0
+Nunavut,62,Total - Sex,Polish,15,10,0,0,0
+Nunavut,62,Total - Sex,Russian,10,10,0,0,0
+Nunavut,62,Total - Sex,Serbian,0,0,0,0,0
+Nunavut,62,Total - Sex,Serbo-Croatian,0,0,0,0,0
+Nunavut,62,Total - Sex,Slovak,0,0,0,0,0
+Nunavut,62,Total - Sex,Slovene (Slovenian),0,0,0,0,0
+Nunavut,62,Total - Sex,Ukrainian,5,5,0,5,0
+Nunavut,62,Total - Sex,"Slavic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Celtic languages,0,5,0,0,0
+Nunavut,62,Total - Sex,Scottish Gaelic,0,0,0,0,0
+Nunavut,62,Total - Sex,Welsh,0,0,0,0,0
+Nunavut,62,Total - Sex,"Celtic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Germanic languages,70,50,0,20,0
+Nunavut,62,Total - Sex,Afrikaans,0,0,0,0,0
+Nunavut,62,Total - Sex,Danish,5,5,0,0,0
+Nunavut,62,Total - Sex,Dutch,10,10,0,0,0
+Nunavut,62,Total - Sex,Frisian,5,5,0,0,0
+Nunavut,62,Total - Sex,German,40,25,0,10,0
+Nunavut,62,Total - Sex,Icelandic,0,0,0,0,0
+Nunavut,62,Total - Sex,Norwegian,10,10,0,0,0
+Nunavut,62,Total - Sex,Swedish,0,0,0,0,0
+Nunavut,62,Total - Sex,Vlaams (Flemish),0,0,0,0,0
+Nunavut,62,Total - Sex,Yiddish,0,0,0,0,0
+Nunavut,62,Total - Sex,"Germanic languages, n.i.e.",0,0,0,5,0
+Nunavut,62,Total - Sex,Greek,5,5,0,5,0
+Nunavut,62,Total - Sex,Indo-Iranian languages,85,80,0,10,0
+Nunavut,62,Total - Sex,Indo-Aryan languages,80,70,0,5,0
+Nunavut,62,Total - Sex,Bengali,30,25,0,5,0
+Nunavut,62,Total - Sex,Gujarati,5,5,0,0,0
+Nunavut,62,Total - Sex,Hindi,10,5,0,0,0
+Nunavut,62,Total - Sex,Kashmiri,0,0,0,0,0
+Nunavut,62,Total - Sex,Konkani,0,0,0,0,0
+Nunavut,62,Total - Sex,Marathi,5,5,0,0,0
+Nunavut,62,Total - Sex,Nepali,0,0,0,0,0
+Nunavut,62,Total - Sex,Oriya (Odia),0,0,0,0,0
+Nunavut,62,Total - Sex,Punjabi (Panjabi),5,5,0,0,0
+Nunavut,62,Total - Sex,Sindhi,0,0,0,0,0
+Nunavut,62,Total - Sex,Sinhala (Sinhalese),5,0,0,0,0
+Nunavut,62,Total - Sex,Urdu,25,25,0,0,0
+Nunavut,62,Total - Sex,Iranian languages,10,10,0,0,0
+Nunavut,62,Total - Sex,Kurdish,0,0,0,0,0
+Nunavut,62,Total - Sex,Pashto,0,0,0,0,0
+Nunavut,62,Total - Sex,Persian (Farsi),5,5,0,0,0
+Nunavut,62,Total - Sex,"Indo-Iranian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Italic (Romance) languages,60,45,0,15,5
+Nunavut,62,Total - Sex,Catalan,0,0,0,0,0
+Nunavut,62,Total - Sex,Italian,10,5,0,0,0
+Nunavut,62,Total - Sex,Portuguese,5,5,0,0,0
+Nunavut,62,Total - Sex,Romanian,5,5,0,0,0
+Nunavut,62,Total - Sex,Spanish,45,35,0,10,5
+Nunavut,62,Total - Sex,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Japanese,5,5,0,0,0
+Nunavut,62,Total - Sex,Kartvelian languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Georgian,0,0,0,0,0
+Nunavut,62,Total - Sex,Korean,5,5,0,0,0
+Nunavut,62,Total - Sex,Mongolic languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Mongolian,0,0,0,0,0
+Nunavut,62,Total - Sex,Niger-Congo languages,75,60,0,15,0
+Nunavut,62,Total - Sex,Akan (Twi),5,5,0,0,0
+Nunavut,62,Total - Sex,Bamanankan,0,0,0,0,0
+Nunavut,62,Total - Sex,Edo,0,0,0,0,0
+Nunavut,62,Total - Sex,Ewe,0,0,0,0,0
+Nunavut,62,Total - Sex,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Nunavut,62,Total - Sex,Ga,0,0,0,0,0
+Nunavut,62,Total - Sex,Ganda,0,0,0,0,0
+Nunavut,62,Total - Sex,Igbo,5,5,0,0,0
+Nunavut,62,Total - Sex,Lingala,0,0,0,0,0
+Nunavut,62,Total - Sex,Rundi (Kirundi),0,0,0,0,0
+Nunavut,62,Total - Sex,Kinyarwanda (Rwanda),0,0,0,0,0
+Nunavut,62,Total - Sex,Shona,15,15,0,0,0
+Nunavut,62,Total - Sex,Swahili,5,5,0,0,0
+Nunavut,62,Total - Sex,Wolof,0,0,0,0,0
+Nunavut,62,Total - Sex,Yoruba,10,10,0,5,0
+Nunavut,62,Total - Sex,"Niger-Congo languages, n.i.e.",30,25,0,10,0
+Nunavut,62,Total - Sex,Nilo-Saharan languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Dinka,0,0,0,0,0
+Nunavut,62,Total - Sex,"Nilo-Saharan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Sign languages,20,15,0,0,10
+Nunavut,62,Total - Sex,American Sign Language,5,5,0,0,0
+Nunavut,62,Total - Sex,Quebec Sign Language,0,0,0,0,0
+Nunavut,62,Total - Sex,"Sign languages, n.i.e",15,10,0,0,5
+Nunavut,62,Total - Sex,Sino-Tibetan languages,50,40,0,10,0
+Nunavut,62,Total - Sex,Chinese languages,50,35,0,10,5
+Nunavut,62,Total - Sex,Cantonese,20,15,0,5,0
+Nunavut,62,Total - Sex,Hakka,0,0,0,0,0
+Nunavut,62,Total - Sex,Mandarin,10,10,0,5,0
+Nunavut,62,Total - Sex,Min Dong,0,0,0,0,0
+Nunavut,62,Total - Sex,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",0,0,0,0,0
+Nunavut,62,Total - Sex,Wu (Shanghainese),0,0,0,0,0
+Nunavut,62,Total - Sex,"Chinese, n.o.s.",20,15,0,0,5
+Nunavut,62,Total - Sex,"Chinese languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Tibeto-Burman languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Burmese,0,5,0,0,0
+Nunavut,62,Total - Sex,Karenic languages,0,0,0,0,0
+Nunavut,62,Total - Sex,Tibetan,0,0,0,0,0
+Nunavut,62,Total - Sex,"Tibeto-Burman languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Tai-Kadai languages,5,0,0,0,0
+Nunavut,62,Total - Sex,Lao,0,0,0,0,0
+Nunavut,62,Total - Sex,Thai,0,0,0,0,0
+Nunavut,62,Total - Sex,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Nunavut,62,Total - Sex,Turkic languages,5,5,0,0,0
+Nunavut,62,Total - Sex,Azerbaijani,0,0,0,0,0
+Nunavut,62,Total - Sex,Turkish,0,5,0,0,0
+Nunavut,62,Total - Sex,Uyghur,0,0,0,0,0
+Nunavut,62,Total - Sex,Uzbek,0,0,0,0,0
+Nunavut,62,Total - Sex,"Turkic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,Uralic languages,20,10,0,5,0
+Nunavut,62,Total - Sex,Estonian,0,0,0,0,0
+Nunavut,62,Total - Sex,Finnish,10,5,0,0,0
+Nunavut,62,Total - Sex,Hungarian,10,5,0,0,0
+Nunavut,62,Total - Sex,"Uralic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Total - Sex,"Other languages, n.i.e.",10,5,0,0,0
+Nunavut,62,Total - Sex,Multiple responses,735,685,0,45,5
+Nunavut,62,Total - Sex,English and French,25,0,0,20,0
+Nunavut,62,Total - Sex,English and non-official language,690,675,0,10,5
+Nunavut,62,Total - Sex,French and non-official language,10,10,0,0,0
+Nunavut,62,Total - Sex,"English, French and non-official language",10,0,0,5,0
+Nunavut,62,Male,Total - Mother tongue,18200,16350,35,795,1025
+Nunavut,62,Male,Single responses,17830,15995,35,775,1020
+Nunavut,62,Male,Official languages,6090,5380,35,665,5
+Nunavut,62,Male,English,5740,5365,0,365,5
+Nunavut,62,Male,French,350,15,30,300,0
+Nunavut,62,Male,Non-official languages,11740,10615,5,110,1015
+Nunavut,62,Male,Aboriginal languages,11360,10305,0,50,1010
+Nunavut,62,Male,Algonquian languages,5,5,0,0,0
+Nunavut,62,Male,Blackfoot,0,0,0,0,0
+Nunavut,62,Male,Cree-Montagnais languages,0,5,0,0,0
+Nunavut,62,Male,Atikamekw,0,0,0,0,0
+Nunavut,62,Male,Montagnais (Innu),0,0,0,0,0
+Nunavut,62,Male,Moose Cree,0,0,0,0,0
+Nunavut,62,Male,Naskapi,0,0,0,0,0
+Nunavut,62,Male,Northern East Cree,0,0,0,0,0
+Nunavut,62,Male,Plains Cree,0,0,0,0,0
+Nunavut,62,Male,Southern East Cree,0,0,0,0,0
+Nunavut,62,Male,Swampy Cree,0,0,0,0,0
+Nunavut,62,Male,Woods Cree,0,0,0,0,0
+Nunavut,62,Male,"Cree, n.o.s.",0,0,0,0,0
+Nunavut,62,Male,Eastern Algonquian languages,0,5,0,0,0
+Nunavut,62,Male,Malecite,0,0,0,0,0
+Nunavut,62,Male,Mi'kmaq,0,5,0,5,0
+Nunavut,62,Male,Ojibway-Potawatomi languages,0,0,0,0,0
+Nunavut,62,Male,Algonquin,0,0,0,0,0
+Nunavut,62,Male,Ojibway,0,0,0,0,0
+Nunavut,62,Male,Oji-Cree,0,0,0,0,0
+Nunavut,62,Male,Ottawa (Odawa),0,0,0,0,0
+Nunavut,62,Male,"Algonquian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Athabaskan languages,0,0,0,0,0
+Nunavut,62,Male,Northern Athabaskan languages,0,0,0,0,0
+Nunavut,62,Male,Babine (Wetsuwet'en),0,0,0,0,0
+Nunavut,62,Male,Beaver,0,0,0,0,0
+Nunavut,62,Male,Carrier,0,0,0,0,0
+Nunavut,62,Male,Chilcotin,0,0,0,0,0
+Nunavut,62,Male,Dene,0,0,0,0,0
+Nunavut,62,Male,Dogrib (Tlicho),0,0,0,0,0
+Nunavut,62,Male,Gwich'in,0,0,0,0,0
+Nunavut,62,Male,Sarsi (Sarcee),0,0,0,0,0
+Nunavut,62,Male,Sekani,0,0,0,0,0
+Nunavut,62,Male,Slavey-Hare languages,0,0,0,0,0
+Nunavut,62,Male,North Slavey (Hare),0,0,0,0,0
+Nunavut,62,Male,South Slavey,0,0,0,0,0
+Nunavut,62,Male,"Slavey, n.o.s.",0,0,0,0,0
+Nunavut,62,Male,Tahltan languages,0,0,0,0,0
+Nunavut,62,Male,Kaska (Nahani),0,0,0,0,0
+Nunavut,62,Male,Tahltan,0,0,0,0,0
+Nunavut,62,Male,Tutchone languages,0,0,0,0,0
+Nunavut,62,Male,Northern Tutchone,0,0,0,0,0
+Nunavut,62,Male,Southern Tutchone,0,0,0,0,0
+Nunavut,62,Male,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Haida,0,0,0,0,0
+Nunavut,62,Male,Inuit languages,11355,10295,0,50,1005
+Nunavut,62,Male,Inuinnaqtun (Inuvialuktun),220,210,0,5,0
+Nunavut,62,Male,Inuktitut,11125,10075,0,45,1005
+Nunavut,62,Male,"Inuit languages, n.i.e.",15,10,0,0,0
+Nunavut,62,Male,Iroquoian languages,0,0,0,0,0
+Nunavut,62,Male,Cayuga,0,0,0,0,0
+Nunavut,62,Male,Mohawk,0,0,0,0,0
+Nunavut,62,Male,Oneida,0,0,0,0,0
+Nunavut,62,Male,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Kutenai,0,0,0,0,0
+Nunavut,62,Male,Michif,0,0,0,0,0
+Nunavut,62,Male,Salish languages,0,0,0,0,0
+Nunavut,62,Male,Comox,0,0,0,0,0
+Nunavut,62,Male,Halkomelem,0,0,0,0,0
+Nunavut,62,Male,Lillooet,0,0,0,0,0
+Nunavut,62,Male,Okanagan,0,0,0,0,0
+Nunavut,62,Male,Shuswap (Secwepemctsin),0,0,0,0,0
+Nunavut,62,Male,Squamish,0,0,0,0,0
+Nunavut,62,Male,Straits,0,0,0,0,0
+Nunavut,62,Male,Thompson (Ntlakapamux),0,0,0,0,0
+Nunavut,62,Male,"Salish languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Siouan languages,0,0,0,0,0
+Nunavut,62,Male,Dakota,0,0,0,0,0
+Nunavut,62,Male,Stoney,0,0,0,0,0
+Nunavut,62,Male,"Siouan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Tlingit,0,0,0,0,0
+Nunavut,62,Male,Tsimshian languages,0,0,0,0,0
+Nunavut,62,Male,Gitxsan (Gitksan),0,0,0,0,0
+Nunavut,62,Male,Nisga'a,0,0,0,0,0
+Nunavut,62,Male,Tsimshian,0,0,0,0,0
+Nunavut,62,Male,Wakashan languages,0,0,0,0,0
+Nunavut,62,Male,Haisla,0,0,0,0,0
+Nunavut,62,Male,Heiltsuk,0,0,0,0,0
+Nunavut,62,Male,Kwakiutl (Kwak'wala),0,0,0,0,0
+Nunavut,62,Male,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Nunavut,62,Male,"Wakashan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,"Aboriginal languages, n.o.s.",0,0,0,0,0
+Nunavut,62,Male,Non-Aboriginal languages,380,315,0,60,5
+Nunavut,62,Male,Afro-Asiatic languages,55,45,0,15,0
+Nunavut,62,Male,Berber languages,0,0,0,0,0
+Nunavut,62,Male,Kabyle,0,0,0,0,0
+Nunavut,62,Male,"Berber languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Cushitic languages,10,10,0,0,0
+Nunavut,62,Male,Bilen,0,0,0,0,0
+Nunavut,62,Male,Oromo,0,0,0,0,0
+Nunavut,62,Male,Somali,5,5,0,0,0
+Nunavut,62,Male,"Cushitic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Semitic languages,45,35,0,15,0
+Nunavut,62,Male,Amharic,10,10,0,0,0
+Nunavut,62,Male,Arabic,30,20,0,10,0
+Nunavut,62,Male,Assyrian Neo-Aramaic,0,0,0,0,0
+Nunavut,62,Male,Chaldean Neo-Aramaic,0,0,0,0,0
+Nunavut,62,Male,Harari,0,0,0,0,0
+Nunavut,62,Male,Hebrew,0,0,0,0,0
+Nunavut,62,Male,Maltese,0,0,0,0,0
+Nunavut,62,Male,Tigrigna,5,0,0,0,0
+Nunavut,62,Male,"Semitic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Austro-Asiatic languages,0,0,0,0,0
+Nunavut,62,Male,Khmer (Cambodian),0,0,0,0,0
+Nunavut,62,Male,Vietnamese,0,0,0,0,0
+Nunavut,62,Male,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Nunavut,62,Male,Austronesian languages,65,65,0,0,0
+Nunavut,62,Male,Bikol,0,0,0,0,0
+Nunavut,62,Male,Cebuano,5,5,0,0,0
+Nunavut,62,Male,Fijian,0,0,0,0,0
+Nunavut,62,Male,Hiligaynon,5,5,0,0,0
+Nunavut,62,Male,Ilocano,5,10,0,0,0
+Nunavut,62,Male,Malagasy,0,0,0,0,0
+Nunavut,62,Male,Malay,0,0,0,0,0
+Nunavut,62,Male,"Pampangan (Kapampangan, Pampango)",0,0,0,0,0
+Nunavut,62,Male,Pangasinan,0,0,0,0,0
+Nunavut,62,Male,"Tagalog (Pilipino, Filipino)",55,55,0,0,0
+Nunavut,62,Male,Waray-Waray,0,0,0,0,0
+Nunavut,62,Male,"Austronesian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Creole languages,5,0,0,0,0
+Nunavut,62,Male,Haitian Creole,0,0,0,0,0
+Nunavut,62,Male,"Creole, n.o.s.",0,0,0,0,0
+Nunavut,62,Male,"Creole languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Dravidian languages,15,15,0,0,0
+Nunavut,62,Male,Kannada,0,0,0,0,0
+Nunavut,62,Male,Malayalam,0,0,0,0,0
+Nunavut,62,Male,Tamil,10,10,0,0,0
+Nunavut,62,Male,Telugu,0,0,0,0,0
+Nunavut,62,Male,"Dravidian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Hmong-Mien languages,0,0,0,0,0
+Nunavut,62,Male,Indo-European languages,145,115,0,30,0
+Nunavut,62,Male,Albanian,0,0,0,0,0
+Nunavut,62,Male,Armenian,5,0,0,0,0
+Nunavut,62,Male,Balto-Slavic languages,30,20,0,5,0
+Nunavut,62,Male,Baltic languages,0,0,0,0,0
+Nunavut,62,Male,Latvian,0,0,0,0,0
+Nunavut,62,Male,Lithuanian,0,0,0,0,0
+Nunavut,62,Male,Slavic languages,30,20,0,5,0
+Nunavut,62,Male,Belarusan,0,0,0,0,0
+Nunavut,62,Male,Bosnian,0,0,0,0,0
+Nunavut,62,Male,Bulgarian,0,0,0,0,0
+Nunavut,62,Male,Croatian,5,5,0,0,0
+Nunavut,62,Male,Czech,0,5,0,0,0
+Nunavut,62,Male,Macedonian,0,0,0,0,0
+Nunavut,62,Male,Polish,15,10,0,5,0
+Nunavut,62,Male,Russian,0,5,0,0,0
+Nunavut,62,Male,Serbian,0,0,0,0,0
+Nunavut,62,Male,Serbo-Croatian,0,0,0,0,0
+Nunavut,62,Male,Slovak,0,0,0,0,0
+Nunavut,62,Male,Slovene (Slovenian),0,0,0,0,0
+Nunavut,62,Male,Ukrainian,5,5,0,5,0
+Nunavut,62,Male,"Slavic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Celtic languages,0,0,0,0,0
+Nunavut,62,Male,Scottish Gaelic,0,0,0,0,0
+Nunavut,62,Male,Welsh,0,0,0,0,0
+Nunavut,62,Male,"Celtic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Germanic languages,40,30,0,5,0
+Nunavut,62,Male,Afrikaans,5,0,0,0,0
+Nunavut,62,Male,Danish,5,5,0,0,0
+Nunavut,62,Male,Dutch,10,5,0,5,0
+Nunavut,62,Male,Frisian,0,0,0,0,0
+Nunavut,62,Male,German,25,15,0,10,0
+Nunavut,62,Male,Icelandic,0,0,0,0,0
+Nunavut,62,Male,Norwegian,0,5,0,0,0
+Nunavut,62,Male,Swedish,5,0,0,5,0
+Nunavut,62,Male,Vlaams (Flemish),0,0,0,0,0
+Nunavut,62,Male,Yiddish,0,0,0,0,0
+Nunavut,62,Male,"Germanic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Greek,0,0,0,5,0
+Nunavut,62,Male,Indo-Iranian languages,45,40,0,5,0
+Nunavut,62,Male,Indo-Aryan languages,40,35,0,5,0
+Nunavut,62,Male,Bengali,15,15,0,0,0
+Nunavut,62,Male,Gujarati,5,5,0,0,0
+Nunavut,62,Male,Hindi,5,5,0,0,0
+Nunavut,62,Male,Kashmiri,0,0,0,0,0
+Nunavut,62,Male,Konkani,0,0,0,0,0
+Nunavut,62,Male,Marathi,0,0,0,0,0
+Nunavut,62,Male,Nepali,0,0,0,0,0
+Nunavut,62,Male,Oriya (Odia),0,0,0,0,0
+Nunavut,62,Male,Punjabi (Panjabi),0,5,0,0,0
+Nunavut,62,Male,Sindhi,0,0,0,0,0
+Nunavut,62,Male,Sinhala (Sinhalese),0,0,0,0,0
+Nunavut,62,Male,Urdu,15,15,0,0,0
+Nunavut,62,Male,Iranian languages,5,5,0,5,0
+Nunavut,62,Male,Kurdish,5,0,0,0,0
+Nunavut,62,Male,Pashto,0,0,0,0,0
+Nunavut,62,Male,Persian (Farsi),5,0,0,0,0
+Nunavut,62,Male,"Indo-Iranian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Italic (Romance) languages,30,20,0,10,0
+Nunavut,62,Male,Catalan,0,0,0,0,0
+Nunavut,62,Male,Italian,5,0,0,5,0
+Nunavut,62,Male,Portuguese,5,5,0,0,0
+Nunavut,62,Male,Romanian,5,0,0,0,0
+Nunavut,62,Male,Spanish,20,15,0,0,0
+Nunavut,62,Male,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Japanese,5,0,0,0,0
+Nunavut,62,Male,Kartvelian languages,0,0,0,0,0
+Nunavut,62,Male,Georgian,0,0,0,0,0
+Nunavut,62,Male,Korean,5,5,0,0,0
+Nunavut,62,Male,Mongolic languages,0,0,0,0,0
+Nunavut,62,Male,Mongolian,0,0,0,0,0
+Nunavut,62,Male,Niger-Congo languages,45,40,0,5,0
+Nunavut,62,Male,Akan (Twi),5,0,0,0,0
+Nunavut,62,Male,Bamanankan,0,0,0,0,0
+Nunavut,62,Male,Edo,0,0,0,0,0
+Nunavut,62,Male,Ewe,0,0,0,0,0
+Nunavut,62,Male,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Nunavut,62,Male,Ga,0,0,0,0,0
+Nunavut,62,Male,Ganda,0,0,0,0,0
+Nunavut,62,Male,Igbo,5,5,0,0,0
+Nunavut,62,Male,Lingala,0,0,0,0,0
+Nunavut,62,Male,Rundi (Kirundi),0,0,0,0,0
+Nunavut,62,Male,Kinyarwanda (Rwanda),0,0,0,0,0
+Nunavut,62,Male,Shona,10,10,0,0,0
+Nunavut,62,Male,Swahili,0,0,0,0,0
+Nunavut,62,Male,Wolof,5,0,0,0,0
+Nunavut,62,Male,Yoruba,5,5,0,0,0
+Nunavut,62,Male,"Niger-Congo languages, n.i.e.",15,15,0,5,0
+Nunavut,62,Male,Nilo-Saharan languages,0,0,0,0,0
+Nunavut,62,Male,Dinka,0,0,0,0,0
+Nunavut,62,Male,"Nilo-Saharan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Sign languages,10,5,0,0,0
+Nunavut,62,Male,American Sign Language,5,0,0,0,0
+Nunavut,62,Male,Quebec Sign Language,0,0,0,0,0
+Nunavut,62,Male,"Sign languages, n.i.e",10,5,0,0,5
+Nunavut,62,Male,Sino-Tibetan languages,20,20,0,0,0
+Nunavut,62,Male,Chinese languages,20,20,0,5,0
+Nunavut,62,Male,Cantonese,10,5,0,0,0
+Nunavut,62,Male,Hakka,0,0,0,0,0
+Nunavut,62,Male,Mandarin,5,0,0,5,0
+Nunavut,62,Male,Min Dong,0,0,0,0,0
+Nunavut,62,Male,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",0,0,0,0,0
+Nunavut,62,Male,Wu (Shanghainese),0,0,0,0,0
+Nunavut,62,Male,"Chinese, n.o.s.",10,10,0,0,0
+Nunavut,62,Male,"Chinese languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Tibeto-Burman languages,0,0,0,0,0
+Nunavut,62,Male,Burmese,0,0,0,0,0
+Nunavut,62,Male,Karenic languages,0,0,0,0,0
+Nunavut,62,Male,Tibetan,0,0,0,0,0
+Nunavut,62,Male,"Tibeto-Burman languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Tai-Kadai languages,0,0,0,0,0
+Nunavut,62,Male,Lao,0,0,0,0,0
+Nunavut,62,Male,Thai,0,0,0,0,0
+Nunavut,62,Male,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Nunavut,62,Male,Turkic languages,0,0,0,0,0
+Nunavut,62,Male,Azerbaijani,0,0,0,0,0
+Nunavut,62,Male,Turkish,0,5,0,0,0
+Nunavut,62,Male,Uyghur,0,0,0,0,0
+Nunavut,62,Male,Uzbek,0,0,0,0,0
+Nunavut,62,Male,"Turkic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Uralic languages,10,10,0,5,0
+Nunavut,62,Male,Estonian,0,0,0,0,0
+Nunavut,62,Male,Finnish,5,5,0,0,0
+Nunavut,62,Male,Hungarian,5,5,0,0,0
+Nunavut,62,Male,"Uralic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,"Other languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Male,Multiple responses,375,350,0,15,5
+Nunavut,62,Male,English and French,5,0,0,10,0
+Nunavut,62,Male,English and non-official language,355,350,0,5,0
+Nunavut,62,Male,French and non-official language,0,0,0,0,0
+Nunavut,62,Male,"English, French and non-official language",5,5,0,5,0
+Nunavut,62,Female,Total - Mother tongue,17495,15715,20,730,1025
+Nunavut,62,Female,Single responses,17130,15380,20,705,1020
+Nunavut,62,Female,Official languages,5525,4905,20,595,5
+Nunavut,62,Female,English,5285,4890,0,385,10
+Nunavut,62,Female,French,240,15,15,215,0
+Nunavut,62,Female,Non-official languages,11605,10475,5,110,1015
+Nunavut,62,Female,Aboriginal languages,11250,10180,0,60,1005
+Nunavut,62,Female,Algonquian languages,10,5,0,0,0
+Nunavut,62,Female,Blackfoot,0,0,0,0,0
+Nunavut,62,Female,Cree-Montagnais languages,0,0,0,0,0
+Nunavut,62,Female,Atikamekw,0,0,0,0,0
+Nunavut,62,Female,Montagnais (Innu),0,0,0,0,0
+Nunavut,62,Female,Moose Cree,0,0,0,0,0
+Nunavut,62,Female,Naskapi,0,0,0,0,0
+Nunavut,62,Female,Northern East Cree,0,0,0,0,0
+Nunavut,62,Female,Plains Cree,0,0,0,0,0
+Nunavut,62,Female,Southern East Cree,0,0,0,0,0
+Nunavut,62,Female,Swampy Cree,0,0,0,0,0
+Nunavut,62,Female,Woods Cree,0,0,0,0,0
+Nunavut,62,Female,"Cree, n.o.s.",5,0,0,0,0
+Nunavut,62,Female,Eastern Algonquian languages,0,0,0,0,0
+Nunavut,62,Female,Malecite,0,0,0,0,0
+Nunavut,62,Female,Mi'kmaq,0,0,0,0,0
+Nunavut,62,Female,Ojibway-Potawatomi languages,5,5,0,0,0
+Nunavut,62,Female,Algonquin,0,0,0,0,0
+Nunavut,62,Female,Ojibway,5,0,0,0,0
+Nunavut,62,Female,Oji-Cree,0,0,0,0,0
+Nunavut,62,Female,Ottawa (Odawa),0,0,0,0,0
+Nunavut,62,Female,"Algonquian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Athabaskan languages,0,0,0,0,0
+Nunavut,62,Female,Northern Athabaskan languages,5,0,0,0,0
+Nunavut,62,Female,Babine (Wetsuwet'en),0,0,0,0,0
+Nunavut,62,Female,Beaver,0,0,0,0,0
+Nunavut,62,Female,Carrier,0,0,0,0,0
+Nunavut,62,Female,Chilcotin,0,0,0,0,0
+Nunavut,62,Female,Dene,0,0,0,0,0
+Nunavut,62,Female,Dogrib (Tlicho),5,0,0,0,0
+Nunavut,62,Female,Gwich'in,0,0,0,0,0
+Nunavut,62,Female,Sarsi (Sarcee),0,0,0,0,0
+Nunavut,62,Female,Sekani,0,0,0,0,0
+Nunavut,62,Female,Slavey-Hare languages,0,0,0,0,0
+Nunavut,62,Female,North Slavey (Hare),0,0,0,0,0
+Nunavut,62,Female,South Slavey,0,0,0,0,0
+Nunavut,62,Female,"Slavey, n.o.s.",0,0,0,0,0
+Nunavut,62,Female,Tahltan languages,0,0,0,0,0
+Nunavut,62,Female,Kaska (Nahani),0,0,0,0,0
+Nunavut,62,Female,Tahltan,0,0,0,0,0
+Nunavut,62,Female,Tutchone languages,0,0,0,0,0
+Nunavut,62,Female,Northern Tutchone,0,0,0,0,0
+Nunavut,62,Female,Southern Tutchone,0,0,0,0,0
+Nunavut,62,Female,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Haida,0,0,0,0,0
+Nunavut,62,Female,Inuit languages,11240,10175,0,60,1005
+Nunavut,62,Female,Inuinnaqtun (Inuvialuktun),280,270,0,0,10
+Nunavut,62,Female,Inuktitut,10945,9890,0,60,995
+Nunavut,62,Female,"Inuit languages, n.i.e.",20,20,0,0,0
+Nunavut,62,Female,Iroquoian languages,0,0,0,0,0
+Nunavut,62,Female,Cayuga,0,0,0,0,0
+Nunavut,62,Female,Mohawk,0,0,0,0,0
+Nunavut,62,Female,Oneida,0,0,0,0,0
+Nunavut,62,Female,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Kutenai,0,0,0,0,0
+Nunavut,62,Female,Michif,0,0,0,0,0
+Nunavut,62,Female,Salish languages,0,0,0,0,0
+Nunavut,62,Female,Comox,0,0,0,0,0
+Nunavut,62,Female,Halkomelem,0,0,0,0,0
+Nunavut,62,Female,Lillooet,0,0,0,0,0
+Nunavut,62,Female,Okanagan,0,0,0,0,0
+Nunavut,62,Female,Shuswap (Secwepemctsin),0,0,0,0,0
+Nunavut,62,Female,Squamish,0,0,0,0,0
+Nunavut,62,Female,Straits,0,0,0,0,0
+Nunavut,62,Female,Thompson (Ntlakapamux),0,0,0,0,0
+Nunavut,62,Female,"Salish languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Siouan languages,0,0,0,0,0
+Nunavut,62,Female,Dakota,0,0,0,0,0
+Nunavut,62,Female,Stoney,0,0,0,0,0
+Nunavut,62,Female,"Siouan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Tlingit,0,0,0,0,0
+Nunavut,62,Female,Tsimshian languages,0,0,0,0,0
+Nunavut,62,Female,Gitxsan (Gitksan),0,0,0,0,0
+Nunavut,62,Female,Nisga'a,0,0,0,0,0
+Nunavut,62,Female,Tsimshian,0,0,0,0,0
+Nunavut,62,Female,Wakashan languages,0,0,0,0,0
+Nunavut,62,Female,Haisla,0,0,0,0,0
+Nunavut,62,Female,Heiltsuk,0,0,0,0,0
+Nunavut,62,Female,Kwakiutl (Kwak'wala),0,0,0,0,0
+Nunavut,62,Female,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Nunavut,62,Female,"Wakashan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,"Aboriginal languages, n.o.s.",0,0,0,0,0
+Nunavut,62,Female,Non-Aboriginal languages,350,300,0,45,10
+Nunavut,62,Female,Afro-Asiatic languages,20,15,0,0,0
+Nunavut,62,Female,Berber languages,0,0,0,0,0
+Nunavut,62,Female,Kabyle,0,0,0,0,0
+Nunavut,62,Female,"Berber languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Cushitic languages,0,0,0,0,0
+Nunavut,62,Female,Bilen,0,0,0,0,0
+Nunavut,62,Female,Oromo,0,0,0,0,0
+Nunavut,62,Female,Somali,5,5,0,0,0
+Nunavut,62,Female,"Cushitic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Semitic languages,15,15,0,0,0
+Nunavut,62,Female,Amharic,10,5,0,0,0
+Nunavut,62,Female,Arabic,5,5,0,0,0
+Nunavut,62,Female,Assyrian Neo-Aramaic,0,0,0,0,0
+Nunavut,62,Female,Chaldean Neo-Aramaic,0,0,0,0,0
+Nunavut,62,Female,Harari,0,0,0,0,0
+Nunavut,62,Female,Hebrew,0,0,0,0,0
+Nunavut,62,Female,Maltese,5,0,0,0,0
+Nunavut,62,Female,Tigrigna,0,0,0,0,0
+Nunavut,62,Female,"Semitic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Austro-Asiatic languages,0,0,0,0,0
+Nunavut,62,Female,Khmer (Cambodian),0,0,0,0,0
+Nunavut,62,Female,Vietnamese,0,0,0,0,0
+Nunavut,62,Female,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Nunavut,62,Female,Austronesian languages,110,105,0,5,0
+Nunavut,62,Female,Bikol,0,5,0,0,0
+Nunavut,62,Female,Cebuano,0,0,0,0,0
+Nunavut,62,Female,Fijian,0,0,0,0,0
+Nunavut,62,Female,Hiligaynon,5,5,0,0,0
+Nunavut,62,Female,Ilocano,15,10,0,0,0
+Nunavut,62,Female,Malagasy,0,0,0,0,0
+Nunavut,62,Female,Malay,0,5,0,0,0
+Nunavut,62,Female,"Pampangan (Kapampangan, Pampango)",5,5,0,0,0
+Nunavut,62,Female,Pangasinan,0,0,0,0,0
+Nunavut,62,Female,"Tagalog (Pilipino, Filipino)",85,80,0,5,0
+Nunavut,62,Female,Waray-Waray,0,0,0,0,0
+Nunavut,62,Female,"Austronesian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Creole languages,0,5,0,0,0
+Nunavut,62,Female,Haitian Creole,0,0,0,0,0
+Nunavut,62,Female,"Creole, n.o.s.",0,0,0,0,0
+Nunavut,62,Female,"Creole languages, n.i.e.",0,5,0,0,0
+Nunavut,62,Female,Dravidian languages,5,5,0,0,0
+Nunavut,62,Female,Kannada,0,0,0,0,0
+Nunavut,62,Female,Malayalam,0,0,0,0,0
+Nunavut,62,Female,Tamil,5,5,0,0,0
+Nunavut,62,Female,Telugu,0,0,0,0,0
+Nunavut,62,Female,"Dravidian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Hmong-Mien languages,0,0,0,0,0
+Nunavut,62,Female,Indo-European languages,120,95,0,25,5
+Nunavut,62,Female,Albanian,0,0,0,0,0
+Nunavut,62,Female,Armenian,0,0,0,0,0
+Nunavut,62,Female,Balto-Slavic languages,15,15,0,5,0
+Nunavut,62,Female,Baltic languages,0,0,0,0,0
+Nunavut,62,Female,Latvian,0,0,0,0,0
+Nunavut,62,Female,Lithuanian,0,0,0,0,0
+Nunavut,62,Female,Slavic languages,15,10,0,0,0
+Nunavut,62,Female,Belarusan,0,0,0,0,0
+Nunavut,62,Female,Bosnian,0,0,0,0,0
+Nunavut,62,Female,Bulgarian,0,0,0,0,0
+Nunavut,62,Female,Croatian,0,0,0,0,0
+Nunavut,62,Female,Czech,0,0,0,0,0
+Nunavut,62,Female,Macedonian,0,0,0,0,0
+Nunavut,62,Female,Polish,5,0,0,0,0
+Nunavut,62,Female,Russian,5,5,0,0,0
+Nunavut,62,Female,Serbian,0,0,0,0,0
+Nunavut,62,Female,Serbo-Croatian,0,0,0,0,0
+Nunavut,62,Female,Slovak,5,0,0,0,0
+Nunavut,62,Female,Slovene (Slovenian),5,0,0,0,0
+Nunavut,62,Female,Ukrainian,5,0,0,0,0
+Nunavut,62,Female,"Slavic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Celtic languages,0,0,0,0,0
+Nunavut,62,Female,Scottish Gaelic,0,0,0,0,0
+Nunavut,62,Female,Welsh,0,0,0,0,0
+Nunavut,62,Female,"Celtic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Germanic languages,30,25,0,10,0
+Nunavut,62,Female,Afrikaans,0,0,0,0,0
+Nunavut,62,Female,Danish,0,0,0,0,0
+Nunavut,62,Female,Dutch,5,5,0,5,0
+Nunavut,62,Female,Frisian,0,0,0,0,0
+Nunavut,62,Female,German,20,10,0,5,0
+Nunavut,62,Female,Icelandic,0,0,0,0,0
+Nunavut,62,Female,Norwegian,5,0,0,0,0
+Nunavut,62,Female,Swedish,0,0,0,0,0
+Nunavut,62,Female,Vlaams (Flemish),0,0,0,0,0
+Nunavut,62,Female,Yiddish,0,0,0,0,0
+Nunavut,62,Female,"Germanic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Greek,0,0,0,0,0
+Nunavut,62,Female,Indo-Iranian languages,45,40,0,5,0
+Nunavut,62,Female,Indo-Aryan languages,40,35,0,5,0
+Nunavut,62,Female,Bengali,15,15,0,5,0
+Nunavut,62,Female,Gujarati,0,5,0,0,0
+Nunavut,62,Female,Hindi,5,0,0,5,0
+Nunavut,62,Female,Kashmiri,0,0,0,0,0
+Nunavut,62,Female,Konkani,0,0,0,0,0
+Nunavut,62,Female,Marathi,0,0,0,0,0
+Nunavut,62,Female,Nepali,0,0,0,0,0
+Nunavut,62,Female,Oriya (Odia),0,0,0,0,0
+Nunavut,62,Female,Punjabi (Panjabi),5,0,0,0,0
+Nunavut,62,Female,Sindhi,0,0,0,0,0
+Nunavut,62,Female,Sinhala (Sinhalese),0,0,0,0,0
+Nunavut,62,Female,Urdu,10,15,0,0,0
+Nunavut,62,Female,Iranian languages,5,5,0,0,0
+Nunavut,62,Female,Kurdish,0,0,0,0,0
+Nunavut,62,Female,Pashto,0,0,0,0,0
+Nunavut,62,Female,Persian (Farsi),0,0,0,0,0
+Nunavut,62,Female,"Indo-Iranian languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Italic (Romance) languages,30,25,0,10,5
+Nunavut,62,Female,Catalan,0,0,0,0,0
+Nunavut,62,Female,Italian,0,5,0,5,0
+Nunavut,62,Female,Portuguese,0,0,0,0,0
+Nunavut,62,Female,Romanian,5,0,0,5,0
+Nunavut,62,Female,Spanish,25,15,0,5,0
+Nunavut,62,Female,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Japanese,5,0,0,0,0
+Nunavut,62,Female,Kartvelian languages,0,0,0,0,0
+Nunavut,62,Female,Georgian,0,0,0,0,0
+Nunavut,62,Female,Korean,0,5,0,0,0
+Nunavut,62,Female,Mongolic languages,0,0,0,0,0
+Nunavut,62,Female,Mongolian,0,0,0,0,0
+Nunavut,62,Female,Niger-Congo languages,30,25,0,5,0
+Nunavut,62,Female,Akan (Twi),0,0,0,0,0
+Nunavut,62,Female,Bamanankan,0,0,0,0,0
+Nunavut,62,Female,Edo,0,0,0,0,0
+Nunavut,62,Female,Ewe,0,0,0,0,0
+Nunavut,62,Female,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Nunavut,62,Female,Ga,0,0,0,0,0
+Nunavut,62,Female,Ganda,0,0,0,0,0
+Nunavut,62,Female,Igbo,0,0,0,0,0
+Nunavut,62,Female,Lingala,0,0,0,0,0
+Nunavut,62,Female,Rundi (Kirundi),0,0,0,0,0
+Nunavut,62,Female,Kinyarwanda (Rwanda),0,0,0,5,0
+Nunavut,62,Female,Shona,5,5,0,0,0
+Nunavut,62,Female,Swahili,0,5,0,0,0
+Nunavut,62,Female,Wolof,0,0,0,0,0
+Nunavut,62,Female,Yoruba,5,5,0,5,0
+Nunavut,62,Female,"Niger-Congo languages, n.i.e.",10,10,0,0,0
+Nunavut,62,Female,Nilo-Saharan languages,0,0,0,0,0
+Nunavut,62,Female,Dinka,0,0,0,0,0
+Nunavut,62,Female,"Nilo-Saharan languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Sign languages,10,5,0,0,5
+Nunavut,62,Female,American Sign Language,5,0,0,0,5
+Nunavut,62,Female,Quebec Sign Language,0,0,0,0,0
+Nunavut,62,Female,"Sign languages, n.i.e",5,0,0,0,5
+Nunavut,62,Female,Sino-Tibetan languages,30,20,0,10,5
+Nunavut,62,Female,Chinese languages,25,20,0,5,5
+Nunavut,62,Female,Cantonese,10,5,0,5,0
+Nunavut,62,Female,Hakka,0,0,0,0,0
+Nunavut,62,Female,Mandarin,10,5,0,0,0
+Nunavut,62,Female,Min Dong,0,0,0,0,0
+Nunavut,62,Female,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",0,0,0,0,0
+Nunavut,62,Female,Wu (Shanghainese),0,0,0,0,0
+Nunavut,62,Female,"Chinese, n.o.s.",10,5,0,5,0
+Nunavut,62,Female,"Chinese languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Tibeto-Burman languages,5,0,0,0,0
+Nunavut,62,Female,Burmese,0,0,0,0,0
+Nunavut,62,Female,Karenic languages,0,0,0,0,0
+Nunavut,62,Female,Tibetan,0,0,0,0,0
+Nunavut,62,Female,"Tibeto-Burman languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,Tai-Kadai languages,0,5,0,0,0
+Nunavut,62,Female,Lao,0,0,0,0,0
+Nunavut,62,Female,Thai,5,0,0,0,0
+Nunavut,62,Female,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Nunavut,62,Female,Turkic languages,5,0,0,0,0
+Nunavut,62,Female,Azerbaijani,0,0,0,0,0
+Nunavut,62,Female,Turkish,0,5,0,0,0
+Nunavut,62,Female,Uyghur,0,0,0,0,0
+Nunavut,62,Female,Uzbek,0,0,0,0,0
+Nunavut,62,Female,"Turkic languages, n.i.e.",0,5,0,0,0
+Nunavut,62,Female,Uralic languages,5,0,0,5,0
+Nunavut,62,Female,Estonian,0,0,0,0,0
+Nunavut,62,Female,Finnish,5,0,0,5,0
+Nunavut,62,Female,Hungarian,0,5,0,0,0
+Nunavut,62,Female,"Uralic languages, n.i.e.",0,0,0,0,0
+Nunavut,62,Female,"Other languages, n.i.e.",5,5,0,0,0
+Nunavut,62,Female,Multiple responses,360,335,0,25,0
+Nunavut,62,Female,English and French,15,0,0,15,0
+Nunavut,62,Female,English and non-official language,335,330,0,5,0
+Nunavut,62,Female,French and non-official language,5,5,0,5,0
+Nunavut,62,Female,"English, French and non-official language",5,0,0,0,0

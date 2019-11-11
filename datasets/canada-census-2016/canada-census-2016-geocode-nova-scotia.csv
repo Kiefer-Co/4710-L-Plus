@@ -1,808 +1,808 @@
-,CENSUS_YEAR,GEO_CODE (POR),GEO_LEVEL,GEO_NAME,GNR,DATA_QUALITY_FLAG,CSD_TYPE_NAME,ALT_GEO_CODE,DIM: Sex (3),Member ID: Sex (3),Notes: Sex (3),DIM: Mother tongue (269),Member ID: Mother tongue (269),Notes: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
-1467933,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Total - Mother tongue,1,1.0,912295,813480,705,95380,2730
-1467934,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Single responses,2,,904240,808950,685,91900,2705
-1467935,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Official languages,3,,859690,770500,630,88440,125
-1467936,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,English,4,,830225,768860,20,61220,120
-1467937,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,French,5,,29465,1640,610,27215,5
-1467938,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Non-official languages,6,,44550,38450,55,3460,2580
-1467939,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Aboriginal languages,7,,4290,4220,5,55,15
-1467940,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Algonquian languages,8,,4210,4155,0,45,15
-1467941,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Blackfoot,9,,0,0,0,0,0
-1467942,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Cree-Montagnais languages,10,,15,15,0,0,0
-1467943,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Atikamekw,11,,0,0,0,0,0
-1467944,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Montagnais (Innu),12,,0,5,0,0,0
-1467945,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Moose Cree,13,,0,0,0,0,0
-1467946,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Naskapi,14,,0,0,0,0,0
-1467947,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Northern East Cree,15,,0,0,0,0,0
-1467948,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Plains Cree,16,,5,0,0,0,0
-1467949,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Southern East Cree,17,,0,0,0,0,0
-1467950,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Swampy Cree,18,,5,5,0,0,0
-1467951,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Woods Cree,19,,0,0,0,0,0
-1467952,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Cree, n.o.s.",20,,10,5,0,0,0
-1467953,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Eastern Algonquian languages,21,,4190,4130,5,45,15
-1467954,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Malecite,22,,10,10,0,0,0
-1467955,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Mi'kmaq,23,,4185,4120,0,45,15
-1467956,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Ojibway-Potawatomi languages,24,,10,10,0,0,0
-1467957,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Algonquin,25,,0,0,0,0,0
-1467958,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Ojibway,26,,10,10,0,0,0
-1467959,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Oji-Cree,27,,0,0,0,0,0
-1467960,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Ottawa (Odawa),28,,0,0,0,0,0
-1467961,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-1467962,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Athabaskan languages,30,,5,5,0,0,0
-1467963,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Northern Athabaskan languages,31,,5,5,0,0,0
-1467964,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-1467965,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Beaver,33,,0,0,0,0,0
-1467966,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Carrier,34,,0,0,0,0,0
-1467967,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Chilcotin,35,,0,0,0,0,0
-1467968,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Dene,36,,5,5,0,0,0
-1467969,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Dogrib (Tlicho),37,,0,0,0,0,0
-1467970,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Gwich'in,38,,0,0,0,0,0
-1467971,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Sarsi (Sarcee),39,,0,0,0,0,0
-1467972,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Sekani,40,,0,0,0,0,0
-1467973,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Slavey-Hare languages,41,,0,0,0,0,0
-1467974,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,North Slavey (Hare),42,,0,0,0,0,0
-1467975,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,South Slavey,43,,0,0,0,0,0
-1467976,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Slavey, n.o.s.",44,,0,0,0,0,0
-1467977,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tahltan languages,45,,0,0,0,0,0
-1467978,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Kaska (Nahani),46,,0,0,0,0,0
-1467979,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tahltan,47,,0,0,0,0,0
-1467980,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tutchone languages,48,,0,0,0,0,0
-1467981,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Northern Tutchone,49,,0,0,0,0,0
-1467982,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Southern Tutchone,50,,0,0,0,0,0
-1467983,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-1467984,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Haida,52,,0,0,0,0,0
-1467985,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Inuit languages,53,,65,60,0,5,0
-1467986,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-1467987,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Inuktitut,55,,50,50,0,5,0
-1467988,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Inuit languages, n.i.e.",56,,5,5,0,0,0
-1467989,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Iroquoian languages,57,,0,0,0,0,0
-1467990,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Cayuga,58,,0,0,0,0,0
-1467991,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Mohawk,59,,0,0,0,0,0
-1467992,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Oneida,60,,0,0,0,0,0
-1467993,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-1467994,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Kutenai,62,,0,0,0,0,0
-1467995,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Michif,63,,0,5,0,0,0
-1467996,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Salish languages,64,,0,0,0,0,0
-1467997,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Comox,65,,0,0,0,0,0
-1467998,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Halkomelem,66,,0,0,0,0,0
-1467999,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Lillooet,67,,0,0,0,0,0
-1468000,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Okanagan,68,,0,0,0,0,0
-1468001,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-1468002,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Squamish,70,,0,0,0,0,0
-1468003,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Straits,71,,0,0,0,0,0
-1468004,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-1468005,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-1468006,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Siouan languages,74,,0,0,0,0,0
-1468007,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Dakota,75,,0,0,0,0,0
-1468008,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Stoney,76,,0,0,0,0,0
-1468009,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-1468010,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tlingit,78,,0,0,0,0,0
-1468011,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tsimshian languages,79,,0,0,0,0,0
-1468012,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Gitxsan (Gitksan),80,,0,0,0,0,0
-1468013,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Nisga'a,81,,0,0,0,0,0
-1468014,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tsimshian,82,,0,0,0,0,0
-1468015,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Wakashan languages,83,,0,5,0,0,0
-1468016,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Haisla,84,,0,0,0,0,0
-1468017,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Heiltsuk,85,,0,0,0,0,0
-1468018,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-1468019,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-1468020,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-1468021,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Aboriginal languages, n.o.s.",89,,5,5,0,0,0
-1468022,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Non-Aboriginal languages,90,,40265,34230,55,3410,2570
-1468023,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Afro-Asiatic languages,91,,7755,5850,20,800,1090
-1468024,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Berber languages,92,,10,5,0,5,0
-1468025,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Kabyle,93,,5,5,0,5,0
-1468026,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Berber languages, n.i.e.",94,,5,5,0,0,0
-1468027,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Cushitic languages,95,,130,100,0,5,20
-1468028,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Bilen,96,,5,0,0,0,5
-1468029,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Oromo,97,,60,50,0,5,5
-1468030,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Somali,98,,50,45,0,5,5
-1468031,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Cushitic languages, n.i.e.",99,,15,5,0,0,10
-1468032,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Semitic languages,100,,7615,5745,20,785,1065
-1468033,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Amharic,101,,115,110,0,0,0
-1468034,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Arabic,102,,7110,5315,15,760,1020
-1468035,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Assyrian Neo-Aramaic,103,,5,5,0,0,0
-1468036,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Chaldean Neo-Aramaic,104,,5,0,0,0,0
-1468037,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Harari,105,,0,5,0,0,0
-1468038,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Hebrew,106,,210,185,0,10,10
-1468039,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Maltese,107,,15,15,0,0,0
-1468040,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tigrigna,108,,145,100,5,10,35
-1468041,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Semitic languages, n.i.e.",109,,10,10,0,0,0
-1468042,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-1468043,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Austro-Asiatic languages,111,,500,410,0,40,50
-1468044,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Khmer (Cambodian),112,,5,5,0,0,0
-1468045,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Vietnamese,113,,495,405,5,35,50
-1468046,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-1468047,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Austronesian languages,115,,2240,2195,0,30,15
-1468048,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Bikol,116,,5,5,0,0,0
-1468049,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Cebuano,117,,150,145,0,0,0
-1468050,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Fijian,118,,0,5,0,0,0
-1468051,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Hiligaynon,119,,25,25,0,0,0
-1468052,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Ilocano,120,,55,50,0,5,0
-1468053,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Malagasy,121,,0,0,0,0,0
-1468054,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Malay,122,,60,50,0,5,0
-1468055,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Pampangan (Kapampangan, Pampango)",123,,15,10,0,0,0
-1468056,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Pangasinan,124,,5,0,0,0,0
-1468057,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Tagalog (Pilipino, Filipino)",125,,1905,1875,0,20,10
-1468058,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Waray-Waray,126,,0,0,0,0,0
-1468059,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Austronesian languages, n.i.e.",127,,20,20,0,5,0
-1468060,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Creole languages,128,,95,70,0,25,0
-1468061,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Haitian Creole,129,,5,5,0,5,0
-1468062,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Creole, n.o.s.",130,,35,15,0,15,0
-1468063,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Creole languages, n.i.e.",131,,50,45,0,5,0
-1468064,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Dravidian languages,132,,1010,950,0,40,25
-1468065,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Kannada,133,,40,35,0,5,0
-1468066,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Malayalam,134,,365,355,0,10,5
-1468067,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tamil,135,,320,290,0,20,10
-1468068,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Telugu,136,,285,265,0,10,5
-1468069,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Dravidian languages, n.i.e.",137,,10,5,0,0,0
-1468070,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Hmong-Mien languages,138,,5,0,0,0,0
-1468071,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Indo-European languages,139,,18595,15835,15,2055,680
-1468072,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Albanian,140,,275,240,0,10,20
-1468073,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Armenian,141,,40,25,0,10,0
-1468074,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Balto-Slavic languages,142,,3470,2995,5,375,100
-1468075,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Baltic languages,143,,100,75,0,20,0
-1468076,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Latvian,144,,50,40,0,15,0
-1468077,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Lithuanian,145,,50,35,0,5,0
-1468078,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Slavic languages,146,,3375,2915,5,355,100
-1468079,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Belarusan,147,,5,5,0,0,0
-1468080,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Bosnian,148,,120,110,0,5,5
-1468081,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Bulgarian,149,,55,50,0,5,5
-1468082,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Croatian,150,,220,195,0,25,5
-1468083,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Czech,151,,205,160,0,40,5
-1468084,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Macedonian,152,,20,20,0,0,0
-1468085,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Polish,153,,800,685,0,100,10
-1468086,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Russian,154,,1285,1115,0,105,70
-1468087,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Serbian,155,,120,110,0,5,5
-1468088,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Serbo-Croatian,156,,80,75,0,5,0
-1468089,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Slovak,157,,100,85,0,20,0
-1468090,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Slovene (Slovenian),158,,35,30,0,0,0
-1468091,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Ukrainian,159,,320,270,0,40,5
-1468092,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Slavic languages, n.i.e.",160,,10,5,0,0,0
-1468093,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Celtic languages,161,,180,160,0,15,5
-1468094,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Scottish Gaelic,162,,145,130,0,10,5
-1468095,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Welsh,163,,30,25,0,5,0
-1468096,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Celtic languages, n.i.e.",164,,10,5,0,5,0
-1468097,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Germanic languages,165,,5695,4830,0,755,105
-1468098,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Afrikaans,166,,120,110,0,10,0
-1468099,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Danish,167,,165,145,0,20,0
-1468100,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Dutch,168,,1620,1440,0,175,0
-1468101,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Frisian,169,,30,35,0,5,0
-1468102,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,German,170,,3430,2845,0,480,110
-1468103,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Icelandic,171,,40,30,0,10,0
-1468104,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Norwegian,172,,110,95,0,15,0
-1468105,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Swedish,173,,110,95,5,15,0
-1468106,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Vlaams (Flemish),174,,25,15,0,15,0
-1468107,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Yiddish,175,,20,10,0,5,0
-1468108,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Germanic languages, n.i.e.",176,,20,10,0,10,0
-1468109,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Greek,177,,760,660,0,70,30
-1468110,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Indo-Iranian languages,178,,4835,4335,5,190,310
-1468111,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Indo-Aryan languages,179,,3385,3075,0,95,210
-1468112,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Bengali,180,,480,450,0,15,5
-1468113,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Gujarati,181,,195,190,0,5,0
-1468114,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Hindi,182,,750,715,0,20,10
-1468115,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Kashmiri,183,,10,10,0,0,0
-1468116,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Konkani,184,,5,5,0,0,0
-1468117,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Marathi,185,,70,70,0,0,0
-1468118,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Nepali,186,,530,375,0,0,155
-1468119,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Oriya (Odia),187,,10,5,0,0,0
-1468120,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Punjabi (Panjabi),188,,580,550,0,15,15
-1468121,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Sindhi,189,,20,15,0,5,0
-1468122,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Sinhala (Sinhalese),190,,165,155,0,5,5
-1468123,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Urdu,191,,575,525,0,25,25
-1468124,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Iranian languages,192,,1425,1240,0,95,95
-1468125,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Kurdish,193,,115,90,0,5,15
-1468126,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Pashto,194,,80,70,0,5,5
-1468127,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Persian (Farsi),195,,1235,1075,0,80,70
-1468128,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Indo-Iranian languages, n.i.e.",196,,25,20,0,0,0
-1468129,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Italic (Romance) languages,197,,3335,2590,5,620,115
-1468130,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Catalan,198,,15,5,0,5,5
-1468131,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Italian,199,,745,570,0,155,15
-1468132,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Portuguese,200,,515,430,0,70,20
-1468133,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Romanian,201,,225,145,0,75,5
-1468134,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Spanish,202,,1830,1440,5,310,80
-1468135,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Italic (Romance) languages, n.i.e.",203,,5,0,0,0,0
-1468136,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Japanese,204,,365,335,0,15,10
-1468137,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Kartvelian languages,205,,5,5,0,0,0
-1468138,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Georgian,206,,0,0,0,0,0
-1468139,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Korean,207,,1095,990,0,45,60
-1468140,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Mongolic languages,208,,0,0,0,0,0
-1468141,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Mongolian,209,,5,5,0,0,0
-1468142,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Niger-Congo languages,210,,630,480,10,110,25
-1468143,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Akan (Twi),211,,40,40,0,5,0
-1468144,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Bamanankan,212,,15,0,0,15,0
-1468145,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Edo,213,,5,5,0,0,0
-1468146,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Ewe,214,,40,30,0,10,0
-1468147,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Fulah (Pular, Pulaar, Fulfulde)",215,,5,5,0,5,0
-1468148,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Ga,216,,10,10,0,0,0
-1468149,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Ganda,217,,20,20,0,0,0
-1468150,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Igbo,218,,40,35,0,0,0
-1468151,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Lingala,219,,5,0,0,5,0
-1468152,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Rundi (Kirundi),220,,20,5,5,5,5
-1468153,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Kinyarwanda (Rwanda),221,,45,15,0,30,0
-1468154,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Shona,222,,25,30,0,0,0
-1468155,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Swahili,223,,135,95,5,20,20
-1468156,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Wolof,224,,5,0,0,5,0
-1468157,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Yoruba,225,,70,65,0,5,0
-1468158,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Niger-Congo languages, n.i.e.",226,,140,125,5,15,0
-1468159,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Nilo-Saharan languages,227,,75,65,0,5,5
-1468160,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Dinka,228,,20,15,0,0,5
-1468161,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Nilo-Saharan languages, n.i.e.",229,,55,55,0,5,0
-1468162,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Sign languages,230,,195,110,0,5,80
-1468163,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,American Sign Language,231,,85,55,0,5,25
-1468164,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Quebec Sign Language,232,,0,0,0,0,0
-1468165,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Sign languages, n.i.e",233,,110,55,0,0,50
-1468166,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Sino-Tibetan languages,234,,6665,6025,5,145,490
-1468167,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Chinese languages,235,,6635,6000,5,140,490
-1468168,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Cantonese,236,,1145,950,0,40,150
-1468169,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Hakka,237,,25,20,0,0,5
-1468170,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Mandarin,238,,4635,4265,5,85,285
-1468171,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Min Dong,239,,0,0,0,0,0
-1468172,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,120,110,0,10,0
-1468173,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Wu (Shanghainese),241,,50,40,0,0,5
-1468174,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Chinese, n.o.s.",242,,650,600,0,5,40
-1468175,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Chinese languages, n.i.e.",243,,15,10,0,0,5
-1468176,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tibeto-Burman languages,244,,30,25,0,0,0
-1468177,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Burmese,245,,10,10,0,0,0
-1468178,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Karenic languages,246,,0,0,0,0,0
-1468179,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tibetan,247,,5,5,0,0,0
-1468180,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Tibeto-Burman languages, n.i.e.",248,,5,5,0,5,0
-1468181,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Tai-Kadai languages,249,,160,135,0,5,15
-1468182,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Lao,250,,10,5,0,0,0
-1468183,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Thai,251,,150,130,0,5,20
-1468184,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-1468185,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Turkic languages,253,,440,390,0,30,20
-1468186,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Azerbaijani,254,,15,10,0,0,0
-1468187,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Turkish,255,,305,265,0,30,5
-1468188,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Uyghur,256,,5,5,0,0,0
-1468189,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Uzbek,257,,110,100,0,0,10
-1468190,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Turkic languages, n.i.e.",258,,10,10,0,0,0
-1468191,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Uralic languages,259,,410,355,0,55,0
-1468192,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Estonian,260,,40,35,0,5,0
-1468193,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Finnish,261,,90,80,0,15,0
-1468194,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Hungarian,262,,280,240,0,35,0
-1468195,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-1468196,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"Other languages, n.i.e.",264,,25,20,0,5,0
-1468197,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,Multiple responses,265,,8060,4530,25,3480,30
-1468198,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,English and French,266,,3445,625,5,2815,0
-1468199,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,English and non-official language,267,,4180,3795,0,350,25
-1468200,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,French and non-official language,268,,225,50,15,155,0
-1468201,2016,12,1,Nova Scotia,3.9,0, ,12,Total - Sex,1,,"English, French and non-official language",269,,210,50,0,160,0
-1468202,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Total - Mother tongue,1,1.0,442470,398950,305,41925,1295
-1468203,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Single responses,2,,438550,396655,295,40320,1280
-1468204,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Official languages,3,,416245,377200,270,38710,60
-1468205,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,English,4,,401980,376495,5,25415,65
-1468206,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,French,5,,14265,700,270,13295,0
-1468207,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Non-official languages,6,,22305,19460,20,1615,1215
-1468208,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Aboriginal languages,7,,2020,1975,0,35,10
-1468209,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Algonquian languages,8,,1985,1945,0,30,15
-1468210,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Blackfoot,9,,0,0,0,0,0
-1468211,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Cree-Montagnais languages,10,,10,10,0,0,0
-1468212,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Atikamekw,11,,0,0,0,0,0
-1468213,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Montagnais (Innu),12,,0,0,0,0,0
-1468214,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Moose Cree,13,,0,0,0,0,0
-1468215,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Naskapi,14,,0,0,0,0,0
-1468216,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Northern East Cree,15,,0,0,0,0,0
-1468217,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Plains Cree,16,,0,0,0,0,0
-1468218,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Southern East Cree,17,,0,0,0,0,0
-1468219,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Swampy Cree,18,,5,5,0,0,0
-1468220,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Woods Cree,19,,0,0,0,0,0
-1468221,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Cree, n.o.s.",20,,5,5,0,0,0
-1468222,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Eastern Algonquian languages,21,,1975,1935,0,30,15
-1468223,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Malecite,22,,0,5,0,0,0
-1468224,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Mi'kmaq,23,,1970,1930,0,30,10
-1468225,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Ojibway-Potawatomi languages,24,,0,5,0,0,0
-1468226,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Algonquin,25,,0,0,0,0,0
-1468227,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Ojibway,26,,5,5,0,0,0
-1468228,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Oji-Cree,27,,0,0,0,0,0
-1468229,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Ottawa (Odawa),28,,0,0,0,0,0
-1468230,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-1468231,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Athabaskan languages,30,,0,0,0,0,0
-1468232,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Northern Athabaskan languages,31,,5,5,0,0,0
-1468233,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-1468234,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Beaver,33,,0,0,0,0,0
-1468235,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Carrier,34,,0,0,0,0,0
-1468236,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Chilcotin,35,,0,0,0,0,0
-1468237,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Dene,36,,0,5,0,0,0
-1468238,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Dogrib (Tlicho),37,,0,0,0,0,0
-1468239,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Gwich'in,38,,0,0,0,0,0
-1468240,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Sarsi (Sarcee),39,,0,0,0,0,0
-1468241,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Sekani,40,,0,0,0,0,0
-1468242,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Slavey-Hare languages,41,,0,0,0,0,0
-1468243,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,North Slavey (Hare),42,,0,0,0,0,0
-1468244,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,South Slavey,43,,0,0,0,0,0
-1468245,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Slavey, n.o.s.",44,,0,0,0,0,0
-1468246,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tahltan languages,45,,0,0,0,0,0
-1468247,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Kaska (Nahani),46,,0,0,0,0,0
-1468248,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tahltan,47,,0,0,0,0,0
-1468249,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tutchone languages,48,,0,0,0,0,0
-1468250,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Northern Tutchone,49,,0,0,0,0,0
-1468251,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Southern Tutchone,50,,0,0,0,0,0
-1468252,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-1468253,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Haida,52,,0,0,0,0,0
-1468254,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Inuit languages,53,,30,25,0,5,0
-1468255,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-1468256,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Inuktitut,55,,30,20,0,5,0
-1468257,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Inuit languages, n.i.e.",56,,0,0,0,0,0
-1468258,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Iroquoian languages,57,,0,0,0,0,0
-1468259,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Cayuga,58,,0,0,0,0,0
-1468260,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Mohawk,59,,0,0,0,0,0
-1468261,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Oneida,60,,0,0,0,0,0
-1468262,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-1468263,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Kutenai,62,,0,0,0,0,0
-1468264,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Michif,63,,0,0,0,0,0
-1468265,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Salish languages,64,,0,0,0,0,0
-1468266,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Comox,65,,0,0,0,0,0
-1468267,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Halkomelem,66,,0,0,0,0,0
-1468268,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Lillooet,67,,0,0,0,0,0
-1468269,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Okanagan,68,,0,0,0,0,0
-1468270,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-1468271,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Squamish,70,,0,0,0,0,0
-1468272,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Straits,71,,0,0,0,0,0
-1468273,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-1468274,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-1468275,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Siouan languages,74,,0,0,0,0,0
-1468276,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Dakota,75,,0,0,0,0,0
-1468277,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Stoney,76,,0,0,0,0,0
-1468278,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-1468279,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tlingit,78,,0,0,0,0,0
-1468280,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tsimshian languages,79,,0,0,0,0,0
-1468281,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Gitxsan (Gitksan),80,,0,0,0,0,0
-1468282,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Nisga'a,81,,0,0,0,0,0
-1468283,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tsimshian,82,,0,0,0,0,0
-1468284,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Wakashan languages,83,,0,0,0,0,0
-1468285,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Haisla,84,,0,0,0,0,0
-1468286,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Heiltsuk,85,,0,0,0,0,0
-1468287,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-1468288,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-1468289,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-1468290,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-1468291,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Non-Aboriginal languages,90,,20290,17480,20,1580,1200
-1468292,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Afro-Asiatic languages,91,,4280,3325,10,410,530
-1468293,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Berber languages,92,,10,5,0,5,0
-1468294,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Kabyle,93,,0,0,0,0,0
-1468295,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Berber languages, n.i.e.",94,,5,0,0,0,0
-1468296,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Cushitic languages,95,,65,50,0,5,10
-1468297,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Bilen,96,,0,5,0,0,0
-1468298,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Oromo,97,,35,30,0,5,0
-1468299,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Somali,98,,20,20,0,0,0
-1468300,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Cushitic languages, n.i.e.",99,,10,0,0,0,10
-1468301,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Semitic languages,100,,4205,3275,5,400,520
-1468302,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Amharic,101,,55,50,0,0,0
-1468303,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Arabic,102,,3950,3050,5,395,500
-1468304,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Assyrian Neo-Aramaic,103,,5,5,0,0,0
-1468305,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-1468306,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Harari,105,,0,0,0,0,0
-1468307,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Hebrew,106,,120,105,0,5,5
-1468308,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Maltese,107,,15,10,0,5,0
-1468309,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tigrigna,108,,65,50,5,5,15
-1468310,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Semitic languages, n.i.e.",109,,5,5,0,0,0
-1468311,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-1468312,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Austro-Asiatic languages,111,,240,205,0,20,15
-1468313,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Khmer (Cambodian),112,,5,5,0,0,0
-1468314,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Vietnamese,113,,240,200,0,20,15
-1468315,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-1468316,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Austronesian languages,115,,945,925,0,10,5
-1468317,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Bikol,116,,0,5,0,0,0
-1468318,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Cebuano,117,,60,55,0,0,0
-1468319,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Fijian,118,,0,0,0,0,0
-1468320,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Hiligaynon,119,,10,10,0,0,0
-1468321,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Ilocano,120,,15,15,0,0,0
-1468322,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Malagasy,121,,5,0,0,0,0
-1468323,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Malay,122,,20,20,0,0,0
-1468324,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Pampangan (Kapampangan, Pampango)",123,,10,5,0,0,0
-1468325,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Pangasinan,124,,0,0,0,0,0
-1468326,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Tagalog (Pilipino, Filipino)",125,,810,805,0,10,0
-1468327,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Waray-Waray,126,,0,0,0,0,0
-1468328,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Austronesian languages, n.i.e.",127,,5,10,0,0,0
-1468329,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Creole languages,128,,65,45,0,15,0
-1468330,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Haitian Creole,129,,5,0,0,5,0
-1468331,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Creole, n.o.s.",130,,20,15,0,10,0
-1468332,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Creole languages, n.i.e.",131,,35,25,0,5,0
-1468333,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Dravidian languages,132,,590,560,0,20,10
-1468334,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Kannada,133,,20,20,0,0,0
-1468335,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Malayalam,134,,200,195,0,0,5
-1468336,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tamil,135,,190,170,0,15,0
-1468337,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Telugu,136,,175,165,0,5,5
-1468338,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Dravidian languages, n.i.e.",137,,5,5,0,0,0
-1468339,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Hmong-Mien languages,138,,0,0,0,0,0
-1468340,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Indo-European languages,139,,9325,8100,5,920,300
-1468341,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Albanian,140,,135,125,0,0,5
-1468342,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Armenian,141,,25,15,0,10,0
-1468343,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Balto-Slavic languages,142,,1645,1440,0,160,45
-1468344,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Baltic languages,143,,35,30,0,5,0
-1468345,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Latvian,144,,20,15,0,0,0
-1468346,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Lithuanian,145,,10,10,0,5,0
-1468347,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Slavic languages,146,,1605,1405,0,155,45
-1468348,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Belarusan,147,,5,5,0,0,0
-1468349,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Bosnian,148,,60,55,0,0,0
-1468350,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Bulgarian,149,,30,25,0,0,0
-1468351,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Croatian,150,,105,95,0,10,0
-1468352,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Czech,151,,100,80,0,20,5
-1468353,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Macedonian,152,,10,5,0,0,0
-1468354,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Polish,153,,360,320,0,40,5
-1468355,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Russian,154,,615,540,0,45,30
-1468356,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Serbian,155,,55,55,0,0,0
-1468357,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Serbo-Croatian,156,,45,40,0,5,0
-1468358,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Slovak,157,,50,40,0,10,0
-1468359,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Slovene (Slovenian),158,,15,15,0,0,0
-1468360,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Ukrainian,159,,150,120,0,25,0
-1468361,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Slavic languages, n.i.e.",160,,5,5,0,0,0
-1468362,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Celtic languages,161,,80,65,0,15,0
-1468363,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Scottish Gaelic,162,,60,60,0,5,0
-1468364,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Welsh,163,,15,10,0,5,0
-1468365,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Celtic languages, n.i.e.",164,,0,0,0,5,0
-1468366,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Germanic languages,165,,2795,2405,0,330,60
-1468367,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Afrikaans,166,,55,55,0,0,0
-1468368,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Danish,167,,100,90,0,15,0
-1468369,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Dutch,168,,815,725,0,90,0
-1468370,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Frisian,169,,20,20,0,0,0
-1468371,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,German,170,,1640,1380,0,205,55
-1468372,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Icelandic,171,,20,20,0,0,0
-1468373,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Norwegian,172,,60,50,0,5,0
-1468374,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Swedish,173,,50,45,0,5,0
-1468375,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Vlaams (Flemish),174,,15,10,0,5,0
-1468376,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Yiddish,175,,10,10,0,5,0
-1468377,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Germanic languages, n.i.e.",176,,5,0,0,5,0
-1468378,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Greek,177,,390,355,0,25,10
-1468379,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Indo-Iranian languages,178,,2650,2450,0,85,120
-1468380,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Indo-Aryan languages,179,,1895,1770,0,40,80
-1468381,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Bengali,180,,290,275,0,5,5
-1468382,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Gujarati,181,,125,120,0,5,0
-1468383,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Hindi,182,,440,435,0,5,0
-1468384,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Kashmiri,183,,5,5,0,0,0
-1468385,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Konkani,184,,5,5,0,0,0
-1468386,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Marathi,185,,35,40,0,0,0
-1468387,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Nepali,186,,255,185,0,0,65
-1468388,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Oriya (Odia),187,,5,0,0,0,0
-1468389,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Punjabi (Panjabi),188,,310,300,0,10,5
-1468390,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Sindhi,189,,10,5,0,0,0
-1468391,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Sinhala (Sinhalese),190,,80,80,0,5,0
-1468392,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Urdu,191,,330,310,0,15,5
-1468393,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Iranian languages,192,,740,670,0,35,35
-1468394,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Kurdish,193,,65,55,0,5,10
-1468395,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Pashto,194,,45,45,0,0,0
-1468396,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Persian (Farsi),195,,630,575,0,30,25
-1468397,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Indo-Iranian languages, n.i.e.",196,,10,10,0,0,0
-1468398,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Italic (Romance) languages,197,,1605,1250,0,295,60
-1468399,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Catalan,198,,5,5,0,0,0
-1468400,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Italian,199,,400,325,5,70,5
-1468401,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Portuguese,200,,245,205,0,30,5
-1468402,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Romanian,201,,110,75,0,35,0
-1468403,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Spanish,202,,845,640,0,155,45
-1468404,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Italic (Romance) languages, n.i.e.",203,,0,0,0,0,0
-1468405,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Japanese,204,,105,95,0,5,5
-1468406,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Kartvelian languages,205,,0,0,0,0,0
-1468407,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Georgian,206,,0,0,0,0,0
-1468408,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Korean,207,,475,430,0,20,25
-1468409,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Mongolic languages,208,,5,5,0,0,0
-1468410,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Mongolian,209,,5,0,0,0,0
-1468411,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Niger-Congo languages,210,,325,245,5,55,15
-1468412,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Akan (Twi),211,,25,20,0,5,0
-1468413,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Bamanankan,212,,5,0,0,5,0
-1468414,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Edo,213,,5,5,0,0,0
-1468415,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Ewe,214,,25,20,0,5,0
-1468416,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Fulah (Pular, Pulaar, Fulfulde)",215,,5,5,0,5,0
-1468417,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Ga,216,,5,5,0,0,0
-1468418,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Ganda,217,,10,5,0,0,0
-1468419,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Igbo,218,,20,25,0,0,0
-1468420,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Lingala,219,,5,0,0,5,0
-1468421,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Rundi (Kirundi),220,,10,5,0,5,0
-1468422,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Kinyarwanda (Rwanda),221,,20,10,0,10,0
-1468423,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Shona,222,,15,15,0,0,0
-1468424,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Swahili,223,,65,40,5,10,10
-1468425,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Wolof,224,,5,0,0,5,0
-1468426,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Yoruba,225,,35,35,0,0,0
-1468427,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Niger-Congo languages, n.i.e.",226,,75,65,0,5,0
-1468428,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Nilo-Saharan languages,227,,35,30,0,5,0
-1468429,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Dinka,228,,10,10,0,0,5
-1468430,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Nilo-Saharan languages, n.i.e.",229,,25,25,0,0,0
-1468431,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Sign languages,230,,95,40,0,0,50
-1468432,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,American Sign Language,231,,35,25,0,5,15
-1468433,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Quebec Sign Language,232,,0,0,0,0,0
-1468434,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Sign languages, n.i.e",233,,55,20,0,0,35
-1468435,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Sino-Tibetan languages,234,,3330,3035,0,55,240
-1468436,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Chinese languages,235,,3320,3025,5,55,240
-1468437,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Cantonese,236,,535,455,0,10,70
-1468438,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Hakka,237,,5,10,0,0,5
-1468439,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Mandarin,238,,2320,2145,0,30,145
-1468440,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Min Dong,239,,0,0,0,0,0
-1468441,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,55,45,0,0,5
-1468442,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Wu (Shanghainese),241,,30,25,0,0,5
-1468443,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Chinese, n.o.s.",242,,370,345,0,5,20
-1468444,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Chinese languages, n.i.e.",243,,5,5,0,0,0
-1468445,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tibeto-Burman languages,244,,15,10,0,0,0
-1468446,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Burmese,245,,5,0,0,0,0
-1468447,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Karenic languages,246,,0,0,0,0,0
-1468448,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tibetan,247,,5,0,0,0,0
-1468449,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Tibeto-Burman languages, n.i.e.",248,,5,5,0,5,0
-1468450,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Tai-Kadai languages,249,,55,45,0,0,5
-1468451,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Lao,250,,5,0,0,0,5
-1468452,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Thai,251,,50,45,0,0,5
-1468453,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-1468454,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Turkic languages,253,,240,220,0,20,5
-1468455,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Azerbaijani,254,,10,10,0,5,5
-1468456,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Turkish,255,,160,145,0,20,0
-1468457,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Uyghur,256,,0,0,0,0,0
-1468458,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Uzbek,257,,65,60,0,0,5
-1468459,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Turkic languages, n.i.e.",258,,10,5,0,0,0
-1468460,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Uralic languages,259,,180,165,0,15,0
-1468461,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Estonian,260,,15,15,0,0,0
-1468462,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Finnish,261,,35,25,0,0,0
-1468463,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Hungarian,262,,130,120,0,5,0
-1468464,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-1468465,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"Other languages, n.i.e.",264,,10,10,0,5,0
-1468466,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,Multiple responses,265,,3920,2290,15,1600,15
-1468467,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,English and French,266,,1600,300,5,1290,0
-1468468,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,English and non-official language,267,,2110,1950,0,145,15
-1468469,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,French and non-official language,268,,120,25,10,85,0
-1468470,2016,12,1,Nova Scotia,3.9,0, ,12,Male,2,,"English, French and non-official language",269,,90,15,5,75,0
-1468471,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Total - Mother tongue,1,1.0,469830,414530,400,53460,1440
-1468472,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Single responses,2,,465690,412295,395,51575,1430
-1468473,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Official languages,3,,443445,393300,355,49725,60
-1468474,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,English,4,,428245,392360,15,35810,60
-1468475,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,French,5,,15200,940,340,13920,5
-1468476,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Non-official languages,6,,22245,18990,35,1845,1370
-1468477,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Aboriginal languages,7,,2265,2245,5,15,5
-1468478,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Algonquian languages,8,,2225,2205,5,15,0
-1468479,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Blackfoot,9,,0,0,0,0,0
-1468480,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Cree-Montagnais languages,10,,5,0,0,0,0
-1468481,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Atikamekw,11,,0,0,0,0,0
-1468482,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Montagnais (Innu),12,,0,0,0,0,0
-1468483,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Moose Cree,13,,0,0,0,0,0
-1468484,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Naskapi,14,,0,0,0,0,0
-1468485,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Northern East Cree,15,,0,0,0,0,0
-1468486,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Plains Cree,16,,0,0,0,0,0
-1468487,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Southern East Cree,17,,0,0,0,0,0
-1468488,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Swampy Cree,18,,0,0,0,0,0
-1468489,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Woods Cree,19,,0,0,0,0,0
-1468490,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Cree, n.o.s.",20,,0,5,0,0,0
-1468491,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Eastern Algonquian languages,21,,2220,2195,0,15,0
-1468492,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Malecite,22,,0,5,0,0,0
-1468493,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Mi'kmaq,23,,2210,2195,0,20,0
-1468494,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Ojibway-Potawatomi languages,24,,5,5,0,0,0
-1468495,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Algonquin,25,,0,0,0,0,0
-1468496,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Ojibway,26,,5,5,0,0,0
-1468497,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Oji-Cree,27,,0,0,0,0,0
-1468498,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Ottawa (Odawa),28,,0,0,0,0,0
-1468499,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Algonquian languages, n.i.e.",29,,0,0,0,0,0
-1468500,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Athabaskan languages,30,,0,0,0,0,0
-1468501,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Northern Athabaskan languages,31,,5,0,0,0,0
-1468502,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Babine (Wetsuwet'en),32,,0,0,0,0,0
-1468503,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Beaver,33,,0,0,0,0,0
-1468504,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Carrier,34,,0,0,0,0,0
-1468505,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Chilcotin,35,,0,0,0,0,0
-1468506,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Dene,36,,0,0,0,0,0
-1468507,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Dogrib (Tlicho),37,,0,0,0,0,0
-1468508,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Gwich'in,38,,0,0,0,0,0
-1468509,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Sarsi (Sarcee),39,,0,0,0,0,0
-1468510,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Sekani,40,,0,0,0,0,0
-1468511,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Slavey-Hare languages,41,,0,0,0,0,0
-1468512,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,North Slavey (Hare),42,,0,0,0,0,0
-1468513,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,South Slavey,43,,0,5,0,0,0
-1468514,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Slavey, n.o.s.",44,,0,0,0,0,0
-1468515,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tahltan languages,45,,0,0,0,0,0
-1468516,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Kaska (Nahani),46,,0,0,0,0,0
-1468517,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tahltan,47,,0,0,0,0,0
-1468518,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tutchone languages,48,,0,0,0,0,0
-1468519,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Northern Tutchone,49,,0,0,0,0,0
-1468520,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Southern Tutchone,50,,0,0,0,0,0
-1468521,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Athabaskan languages, n.i.e.",51,,0,0,0,0,0
-1468522,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Haida,52,,0,0,0,0,0
-1468523,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Inuit languages,53,,35,30,0,0,0
-1468524,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Inuinnaqtun (Inuvialuktun),54,,0,0,0,0,0
-1468525,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Inuktitut,55,,25,25,0,5,0
-1468526,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Inuit languages, n.i.e.",56,,5,5,0,0,0
-1468527,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Iroquoian languages,57,,0,0,0,0,0
-1468528,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Cayuga,58,,0,0,0,0,0
-1468529,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Mohawk,59,,0,0,0,0,0
-1468530,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Oneida,60,,0,0,0,0,0
-1468531,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Iroquoian languages, n.i.e.",61,,0,0,0,0,0
-1468532,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Kutenai,62,,0,0,0,0,0
-1468533,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Michif,63,,5,0,0,0,0
-1468534,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Salish languages,64,,0,0,0,0,0
-1468535,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Comox,65,,0,0,0,0,0
-1468536,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Halkomelem,66,,0,0,0,0,0
-1468537,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Lillooet,67,,0,0,0,0,0
-1468538,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Okanagan,68,,0,0,0,0,0
-1468539,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Shuswap (Secwepemctsin),69,,0,0,0,0,0
-1468540,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Squamish,70,,0,0,0,0,0
-1468541,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Straits,71,,0,0,0,0,0
-1468542,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Thompson (Ntlakapamux),72,,0,0,0,0,0
-1468543,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Salish languages, n.i.e.",73,,0,0,0,0,0
-1468544,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Siouan languages,74,,0,0,0,0,0
-1468545,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Dakota,75,,0,0,0,0,0
-1468546,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Stoney,76,,0,0,0,0,0
-1468547,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Siouan languages, n.i.e.",77,,0,0,0,0,0
-1468548,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tlingit,78,,0,0,0,0,0
-1468549,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tsimshian languages,79,,0,0,0,0,0
-1468550,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Gitxsan (Gitksan),80,,0,0,0,0,0
-1468551,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Nisga'a,81,,0,0,0,0,0
-1468552,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tsimshian,82,,0,0,0,0,0
-1468553,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Wakashan languages,83,,0,0,0,0,0
-1468554,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Haisla,84,,0,0,0,0,0
-1468555,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Heiltsuk,85,,0,0,0,0,0
-1468556,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Kwakiutl (Kwak'wala),86,,0,0,0,0,0
-1468557,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Nuu-chah-nulth (Nootka),87,,0,0,0,0,0
-1468558,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Wakashan languages, n.i.e.",88,,0,0,0,0,0
-1468559,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Aboriginal languages, n.o.s.",89,,0,0,0,0,0
-1468560,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Non-Aboriginal languages,90,,19975,16745,35,1830,1365
-1468561,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Afro-Asiatic languages,91,,3480,2520,10,385,560
-1468562,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Berber languages,92,,0,5,0,0,0
-1468563,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Kabyle,93,,5,0,0,0,0
-1468564,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Berber languages, n.i.e.",94,,0,0,0,0,0
-1468565,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Cushitic languages,95,,65,50,0,5,15
-1468566,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Bilen,96,,0,0,0,0,0
-1468567,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Oromo,97,,30,20,0,0,5
-1468568,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Somali,98,,30,30,0,0,0
-1468569,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Cushitic languages, n.i.e.",99,,5,5,0,0,5
-1468570,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Semitic languages,100,,3415,2470,15,385,545
-1468571,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Amharic,101,,60,60,0,0,0
-1468572,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Arabic,102,,3165,2265,10,370,515
-1468573,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Assyrian Neo-Aramaic,103,,5,5,0,0,0
-1468574,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Chaldean Neo-Aramaic,104,,0,0,0,0,0
-1468575,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Harari,105,,0,0,0,0,0
-1468576,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Hebrew,106,,90,85,0,5,5
-1468577,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Maltese,107,,0,5,0,0,0
-1468578,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tigrigna,108,,75,45,0,5,25
-1468579,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Semitic languages, n.i.e.",109,,5,5,0,0,0
-1468580,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Afro-Asiatic languages, n.i.e.",110,,0,0,0,0,0
-1468581,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Austro-Asiatic languages,111,,260,205,0,20,35
-1468582,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Khmer (Cambodian),112,,5,5,0,0,0
-1468583,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Vietnamese,113,,255,200,5,15,35
-1468584,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Austro-Asiatic languages, n.i.e",114,,0,0,0,0,0
-1468585,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Austronesian languages,115,,1295,1270,0,20,5
-1468586,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Bikol,116,,5,5,0,0,0
-1468587,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Cebuano,117,,90,90,0,5,0
-1468588,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Fijian,118,,0,0,0,0,0
-1468589,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Hiligaynon,119,,15,15,0,0,0
-1468590,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Ilocano,120,,40,35,0,0,0
-1468591,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Malagasy,121,,0,0,0,0,0
-1468592,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Malay,122,,30,30,0,0,0
-1468593,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Pampangan (Kapampangan, Pampango)",123,,5,5,0,0,0
-1468594,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Pangasinan,124,,0,0,0,0,0
-1468595,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Tagalog (Pilipino, Filipino)",125,,1090,1075,0,15,5
-1468596,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Waray-Waray,126,,0,0,0,0,0
-1468597,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Austronesian languages, n.i.e.",127,,10,10,0,0,0
-1468598,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Creole languages,128,,35,25,0,10,0
-1468599,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Haitian Creole,129,,5,5,0,0,0
-1468600,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Creole, n.o.s.",130,,15,5,0,5,0
-1468601,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Creole languages, n.i.e.",131,,20,15,0,0,0
-1468602,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Dravidian languages,132,,420,390,0,15,15
-1468603,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Kannada,133,,15,15,0,0,0
-1468604,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Malayalam,134,,165,160,0,5,0
-1468605,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tamil,135,,130,115,0,5,10
-1468606,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Telugu,136,,110,95,0,5,5
-1468607,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Dravidian languages, n.i.e.",137,,5,5,0,0,0
-1468608,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Hmong-Mien languages,138,,0,0,0,0,0
-1468609,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Indo-European languages,139,,9270,7740,10,1135,380
-1468610,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Albanian,140,,140,115,0,5,15
-1468611,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Armenian,141,,10,10,0,5,0
-1468612,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Balto-Slavic languages,142,,1830,1555,0,215,55
-1468613,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Baltic languages,143,,65,45,0,15,0
-1468614,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Latvian,144,,30,20,0,10,0
-1468615,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Lithuanian,145,,35,30,0,5,0
-1468616,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Slavic languages,146,,1765,1510,5,200,55
-1468617,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Belarusan,147,,5,0,0,0,0
-1468618,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Bosnian,148,,60,55,0,5,5
-1468619,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Bulgarian,149,,30,25,0,5,0
-1468620,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Croatian,150,,115,100,0,15,0
-1468621,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Czech,151,,100,85,0,20,0
-1468622,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Macedonian,152,,10,10,0,5,0
-1468623,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Polish,153,,435,365,0,65,5
-1468624,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Russian,154,,675,575,0,60,40
-1468625,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Serbian,155,,65,55,0,5,0
-1468626,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Serbo-Croatian,156,,40,35,0,5,0
-1468627,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Slovak,157,,50,40,0,10,0
-1468628,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Slovene (Slovenian),158,,15,10,0,0,0
-1468629,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Ukrainian,159,,170,145,0,20,0
-1468630,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Slavic languages, n.i.e.",160,,5,5,0,0,0
-1468631,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Celtic languages,161,,100,90,0,5,5
-1468632,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Scottish Gaelic,162,,85,75,5,0,5
-1468633,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Welsh,163,,10,15,0,0,0
-1468634,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Celtic languages, n.i.e.",164,,5,5,0,0,0
-1468635,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Germanic languages,165,,2900,2425,5,425,45
-1468636,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Afrikaans,166,,60,60,0,0,0
-1468637,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Danish,167,,60,55,0,5,0
-1468638,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Dutch,168,,805,715,0,95,0
-1468639,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Frisian,169,,15,10,0,0,0
-1468640,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,German,170,,1790,1465,0,275,50
-1468641,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Icelandic,171,,20,15,0,10,0
-1468642,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Norwegian,172,,50,40,0,10,0
-1468643,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Swedish,173,,70,55,5,10,0
-1468644,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Vlaams (Flemish),174,,15,5,0,10,0
-1468645,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Yiddish,175,,10,5,0,5,0
-1468646,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Germanic languages, n.i.e.",176,,15,5,0,5,0
-1468647,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Greek,177,,365,305,0,45,15
-1468648,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Indo-Iranian languages,178,,2190,1890,5,110,190
-1468649,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Indo-Aryan languages,179,,1490,1305,5,55,130
-1468650,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Bengali,180,,190,175,0,10,5
-1468651,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Gujarati,181,,70,65,0,5,0
-1468652,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Hindi,182,,305,285,0,15,5
-1468653,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Kashmiri,183,,10,10,0,0,0
-1468654,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Konkani,184,,0,0,0,0,0
-1468655,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Marathi,185,,35,35,0,0,0
-1468656,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Nepali,186,,275,190,0,0,85
-1468657,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Oriya (Odia),187,,5,5,0,0,0
-1468658,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Punjabi (Panjabi),188,,270,250,0,10,10
-1468659,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Sindhi,189,,10,10,0,0,0
-1468660,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Sinhala (Sinhalese),190,,85,75,0,5,5
-1468661,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Urdu,191,,250,215,0,10,20
-1468662,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Iranian languages,192,,685,570,0,55,60
-1468663,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Kurdish,193,,50,40,0,0,10
-1468664,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Pashto,194,,35,25,0,5,5
-1468665,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Persian (Farsi),195,,600,505,0,50,50
-1468666,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Indo-Iranian languages, n.i.e.",196,,10,10,0,0,0
-1468667,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Italic (Romance) languages,197,,1735,1345,5,325,55
-1468668,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Catalan,198,,5,5,0,5,5
-1468669,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Italian,199,,345,245,0,85,5
-1468670,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Portuguese,200,,275,225,0,40,15
-1468671,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Romanian,201,,115,75,0,40,5
-1468672,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Spanish,202,,985,795,5,155,35
-1468673,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Italic (Romance) languages, n.i.e.",203,,5,0,0,0,0
-1468674,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Japanese,204,,260,240,0,15,10
-1468675,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Kartvelian languages,205,,5,0,0,0,0
-1468676,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Georgian,206,,5,0,0,0,0
-1468677,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Korean,207,,620,565,0,20,35
-1468678,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Mongolic languages,208,,5,0,0,0,0
-1468679,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Mongolian,209,,5,0,0,0,0
-1468680,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Niger-Congo languages,210,,305,230,5,55,15
-1468681,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Akan (Twi),211,,20,25,0,0,0
-1468682,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Bamanankan,212,,5,0,0,5,0
-1468683,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Edo,213,,5,5,0,0,0
-1468684,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Ewe,214,,10,10,0,5,0
-1468685,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Fulah (Pular, Pulaar, Fulfulde)",215,,0,0,0,0,0
-1468686,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Ga,216,,5,5,0,0,0
-1468687,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Ganda,217,,15,15,0,0,0
-1468688,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Igbo,218,,20,15,0,5,0
-1468689,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Lingala,219,,5,0,0,5,0
-1468690,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Rundi (Kirundi),220,,5,0,0,5,0
-1468691,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Kinyarwanda (Rwanda),221,,30,10,0,20,0
-1468692,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Shona,222,,10,15,0,0,0
-1468693,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Swahili,223,,70,45,0,10,10
-1468694,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Wolof,224,,0,0,0,0,0
-1468695,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Yoruba,225,,30,30,0,0,0
-1468696,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Niger-Congo languages, n.i.e.",226,,65,60,5,10,0
-1468697,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Nilo-Saharan languages,227,,40,35,0,0,5
-1468698,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Dinka,228,,15,10,0,0,0
-1468699,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Nilo-Saharan languages, n.i.e.",229,,25,25,0,0,0
-1468700,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Sign languages,230,,105,70,0,0,30
-1468701,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,American Sign Language,231,,45,30,0,5,10
-1468702,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Quebec Sign Language,232,,0,0,0,0,0
-1468703,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Sign languages, n.i.e",233,,55,40,0,5,15
-1468704,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Sino-Tibetan languages,234,,3335,2990,5,90,250
-1468705,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Chinese languages,235,,3315,2975,0,85,250
-1468706,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Cantonese,236,,610,500,0,25,85
-1468707,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Hakka,237,,10,10,0,0,0
-1468708,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Mandarin,238,,2315,2120,5,50,140
-1468709,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Min Dong,239,,0,0,0,0,0
-1468710,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",240,,70,65,0,5,0
-1468711,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Wu (Shanghainese),241,,20,15,0,0,0
-1468712,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Chinese, n.o.s.",242,,280,260,0,5,20
-1468713,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Chinese languages, n.i.e.",243,,5,5,0,0,0
-1468714,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tibeto-Burman languages,244,,15,15,0,0,0
-1468715,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Burmese,245,,10,10,0,0,0
-1468716,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Karenic languages,246,,0,0,0,0,0
-1468717,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tibetan,247,,5,5,0,0,0
-1468718,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Tibeto-Burman languages, n.i.e.",248,,5,0,0,0,5
-1468719,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Tai-Kadai languages,249,,100,90,0,5,15
-1468720,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Lao,250,,5,5,0,0,0
-1468721,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Thai,251,,95,80,0,5,10
-1468722,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Tai-Kadai languages, n.i.e",252,,0,0,0,0,0
-1468723,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Turkic languages,253,,205,170,0,15,15
-1468724,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Azerbaijani,254,,5,5,0,0,0
-1468725,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Turkish,255,,145,120,0,15,10
-1468726,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Uyghur,256,,5,0,0,0,0
-1468727,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Uzbek,257,,50,45,0,0,5
-1468728,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Turkic languages, n.i.e.",258,,5,0,0,0,0
-1468729,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Uralic languages,259,,235,195,0,40,0
-1468730,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Estonian,260,,25,20,0,5,0
-1468731,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Finnish,261,,60,50,0,10,0
-1468732,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Hungarian,262,,145,120,0,25,0
-1468733,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Uralic languages, n.i.e.",263,,0,0,0,0,0
-1468734,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"Other languages, n.i.e.",264,,10,15,0,0,5
-1468735,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,Multiple responses,265,,4140,2235,10,1885,10
-1468736,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,English and French,266,,1845,325,5,1520,0
-1468737,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,English and non-official language,267,,2070,1850,0,210,10
-1468738,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,French and non-official language,268,,105,25,5,75,0
-1468739,2016,12,1,Nova Scotia,3.9,0, ,12,Female,3,,"English, French and non-official language",269,,120,30,0,85,0
+GEO_NAME,GEO_CODE (POR),DIM: Sex (3),DIM: Mother tongue (269),Dim: Knowledge of official languages (5): Member ID: [1]: Total - Knowledge of official languages,Dim: Knowledge of official languages (5): Member ID: [2]: English only,Dim: Knowledge of official languages (5): Member ID: [3]: French only,Dim: Knowledge of official languages (5): Member ID: [4]: English and French,Dim: Knowledge of official languages (5): Member ID: [5]: Neither English nor French
+Nova Scotia,12,Total - Sex,Total - Mother tongue,912295,813480,705,95380,2730
+Nova Scotia,12,Total - Sex,Single responses,904240,808950,685,91900,2705
+Nova Scotia,12,Total - Sex,Official languages,859690,770500,630,88440,125
+Nova Scotia,12,Total - Sex,English,830225,768860,20,61220,120
+Nova Scotia,12,Total - Sex,French,29465,1640,610,27215,5
+Nova Scotia,12,Total - Sex,Non-official languages,44550,38450,55,3460,2580
+Nova Scotia,12,Total - Sex,Aboriginal languages,4290,4220,5,55,15
+Nova Scotia,12,Total - Sex,Algonquian languages,4210,4155,0,45,15
+Nova Scotia,12,Total - Sex,Blackfoot,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Cree-Montagnais languages,15,15,0,0,0
+Nova Scotia,12,Total - Sex,Atikamekw,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Montagnais (Innu),0,5,0,0,0
+Nova Scotia,12,Total - Sex,Moose Cree,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Naskapi,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Northern East Cree,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Plains Cree,5,0,0,0,0
+Nova Scotia,12,Total - Sex,Southern East Cree,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Swampy Cree,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Woods Cree,0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Cree, n.o.s.",10,5,0,0,0
+Nova Scotia,12,Total - Sex,Eastern Algonquian languages,4190,4130,5,45,15
+Nova Scotia,12,Total - Sex,Malecite,10,10,0,0,0
+Nova Scotia,12,Total - Sex,Mi'kmaq,4185,4120,0,45,15
+Nova Scotia,12,Total - Sex,Ojibway-Potawatomi languages,10,10,0,0,0
+Nova Scotia,12,Total - Sex,Algonquin,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Ojibway,10,10,0,0,0
+Nova Scotia,12,Total - Sex,Oji-Cree,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Ottawa (Odawa),0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Algonquian languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Total - Sex,Athabaskan languages,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Northern Athabaskan languages,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Babine (Wetsuwet'en),0,0,0,0,0
+Nova Scotia,12,Total - Sex,Beaver,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Carrier,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Chilcotin,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Dene,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Dogrib (Tlicho),0,0,0,0,0
+Nova Scotia,12,Total - Sex,Gwich'in,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Sarsi (Sarcee),0,0,0,0,0
+Nova Scotia,12,Total - Sex,Sekani,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Slavey-Hare languages,0,0,0,0,0
+Nova Scotia,12,Total - Sex,North Slavey (Hare),0,0,0,0,0
+Nova Scotia,12,Total - Sex,South Slavey,0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Slavey, n.o.s.",0,0,0,0,0
+Nova Scotia,12,Total - Sex,Tahltan languages,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Kaska (Nahani),0,0,0,0,0
+Nova Scotia,12,Total - Sex,Tahltan,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Tutchone languages,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Northern Tutchone,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Southern Tutchone,0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Total - Sex,Haida,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Inuit languages,65,60,0,5,0
+Nova Scotia,12,Total - Sex,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Nova Scotia,12,Total - Sex,Inuktitut,50,50,0,5,0
+Nova Scotia,12,Total - Sex,"Inuit languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Total - Sex,Iroquoian languages,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Cayuga,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Mohawk,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Oneida,0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Total - Sex,Kutenai,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Michif,0,5,0,0,0
+Nova Scotia,12,Total - Sex,Salish languages,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Comox,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Halkomelem,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Lillooet,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Okanagan,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Shuswap (Secwepemctsin),0,0,0,0,0
+Nova Scotia,12,Total - Sex,Squamish,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Straits,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Thompson (Ntlakapamux),0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Salish languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Total - Sex,Siouan languages,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Dakota,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Stoney,0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Siouan languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Total - Sex,Tlingit,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Tsimshian languages,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Gitxsan (Gitksan),0,0,0,0,0
+Nova Scotia,12,Total - Sex,Nisga'a,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Tsimshian,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Wakashan languages,0,5,0,0,0
+Nova Scotia,12,Total - Sex,Haisla,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Heiltsuk,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Kwakiutl (Kwak'wala),0,0,0,0,0
+Nova Scotia,12,Total - Sex,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Wakashan languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Aboriginal languages, n.o.s.",5,5,0,0,0
+Nova Scotia,12,Total - Sex,Non-Aboriginal languages,40265,34230,55,3410,2570
+Nova Scotia,12,Total - Sex,Afro-Asiatic languages,7755,5850,20,800,1090
+Nova Scotia,12,Total - Sex,Berber languages,10,5,0,5,0
+Nova Scotia,12,Total - Sex,Kabyle,5,5,0,5,0
+Nova Scotia,12,Total - Sex,"Berber languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Total - Sex,Cushitic languages,130,100,0,5,20
+Nova Scotia,12,Total - Sex,Bilen,5,0,0,0,5
+Nova Scotia,12,Total - Sex,Oromo,60,50,0,5,5
+Nova Scotia,12,Total - Sex,Somali,50,45,0,5,5
+Nova Scotia,12,Total - Sex,"Cushitic languages, n.i.e.",15,5,0,0,10
+Nova Scotia,12,Total - Sex,Semitic languages,7615,5745,20,785,1065
+Nova Scotia,12,Total - Sex,Amharic,115,110,0,0,0
+Nova Scotia,12,Total - Sex,Arabic,7110,5315,15,760,1020
+Nova Scotia,12,Total - Sex,Assyrian Neo-Aramaic,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Chaldean Neo-Aramaic,5,0,0,0,0
+Nova Scotia,12,Total - Sex,Harari,0,5,0,0,0
+Nova Scotia,12,Total - Sex,Hebrew,210,185,0,10,10
+Nova Scotia,12,Total - Sex,Maltese,15,15,0,0,0
+Nova Scotia,12,Total - Sex,Tigrigna,145,100,5,10,35
+Nova Scotia,12,Total - Sex,"Semitic languages, n.i.e.",10,10,0,0,0
+Nova Scotia,12,Total - Sex,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Total - Sex,Austro-Asiatic languages,500,410,0,40,50
+Nova Scotia,12,Total - Sex,Khmer (Cambodian),5,5,0,0,0
+Nova Scotia,12,Total - Sex,Vietnamese,495,405,5,35,50
+Nova Scotia,12,Total - Sex,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Nova Scotia,12,Total - Sex,Austronesian languages,2240,2195,0,30,15
+Nova Scotia,12,Total - Sex,Bikol,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Cebuano,150,145,0,0,0
+Nova Scotia,12,Total - Sex,Fijian,0,5,0,0,0
+Nova Scotia,12,Total - Sex,Hiligaynon,25,25,0,0,0
+Nova Scotia,12,Total - Sex,Ilocano,55,50,0,5,0
+Nova Scotia,12,Total - Sex,Malagasy,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Malay,60,50,0,5,0
+Nova Scotia,12,Total - Sex,"Pampangan (Kapampangan, Pampango)",15,10,0,0,0
+Nova Scotia,12,Total - Sex,Pangasinan,5,0,0,0,0
+Nova Scotia,12,Total - Sex,"Tagalog (Pilipino, Filipino)",1905,1875,0,20,10
+Nova Scotia,12,Total - Sex,Waray-Waray,0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Austronesian languages, n.i.e.",20,20,0,5,0
+Nova Scotia,12,Total - Sex,Creole languages,95,70,0,25,0
+Nova Scotia,12,Total - Sex,Haitian Creole,5,5,0,5,0
+Nova Scotia,12,Total - Sex,"Creole, n.o.s.",35,15,0,15,0
+Nova Scotia,12,Total - Sex,"Creole languages, n.i.e.",50,45,0,5,0
+Nova Scotia,12,Total - Sex,Dravidian languages,1010,950,0,40,25
+Nova Scotia,12,Total - Sex,Kannada,40,35,0,5,0
+Nova Scotia,12,Total - Sex,Malayalam,365,355,0,10,5
+Nova Scotia,12,Total - Sex,Tamil,320,290,0,20,10
+Nova Scotia,12,Total - Sex,Telugu,285,265,0,10,5
+Nova Scotia,12,Total - Sex,"Dravidian languages, n.i.e.",10,5,0,0,0
+Nova Scotia,12,Total - Sex,Hmong-Mien languages,5,0,0,0,0
+Nova Scotia,12,Total - Sex,Indo-European languages,18595,15835,15,2055,680
+Nova Scotia,12,Total - Sex,Albanian,275,240,0,10,20
+Nova Scotia,12,Total - Sex,Armenian,40,25,0,10,0
+Nova Scotia,12,Total - Sex,Balto-Slavic languages,3470,2995,5,375,100
+Nova Scotia,12,Total - Sex,Baltic languages,100,75,0,20,0
+Nova Scotia,12,Total - Sex,Latvian,50,40,0,15,0
+Nova Scotia,12,Total - Sex,Lithuanian,50,35,0,5,0
+Nova Scotia,12,Total - Sex,Slavic languages,3375,2915,5,355,100
+Nova Scotia,12,Total - Sex,Belarusan,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Bosnian,120,110,0,5,5
+Nova Scotia,12,Total - Sex,Bulgarian,55,50,0,5,5
+Nova Scotia,12,Total - Sex,Croatian,220,195,0,25,5
+Nova Scotia,12,Total - Sex,Czech,205,160,0,40,5
+Nova Scotia,12,Total - Sex,Macedonian,20,20,0,0,0
+Nova Scotia,12,Total - Sex,Polish,800,685,0,100,10
+Nova Scotia,12,Total - Sex,Russian,1285,1115,0,105,70
+Nova Scotia,12,Total - Sex,Serbian,120,110,0,5,5
+Nova Scotia,12,Total - Sex,Serbo-Croatian,80,75,0,5,0
+Nova Scotia,12,Total - Sex,Slovak,100,85,0,20,0
+Nova Scotia,12,Total - Sex,Slovene (Slovenian),35,30,0,0,0
+Nova Scotia,12,Total - Sex,Ukrainian,320,270,0,40,5
+Nova Scotia,12,Total - Sex,"Slavic languages, n.i.e.",10,5,0,0,0
+Nova Scotia,12,Total - Sex,Celtic languages,180,160,0,15,5
+Nova Scotia,12,Total - Sex,Scottish Gaelic,145,130,0,10,5
+Nova Scotia,12,Total - Sex,Welsh,30,25,0,5,0
+Nova Scotia,12,Total - Sex,"Celtic languages, n.i.e.",10,5,0,5,0
+Nova Scotia,12,Total - Sex,Germanic languages,5695,4830,0,755,105
+Nova Scotia,12,Total - Sex,Afrikaans,120,110,0,10,0
+Nova Scotia,12,Total - Sex,Danish,165,145,0,20,0
+Nova Scotia,12,Total - Sex,Dutch,1620,1440,0,175,0
+Nova Scotia,12,Total - Sex,Frisian,30,35,0,5,0
+Nova Scotia,12,Total - Sex,German,3430,2845,0,480,110
+Nova Scotia,12,Total - Sex,Icelandic,40,30,0,10,0
+Nova Scotia,12,Total - Sex,Norwegian,110,95,0,15,0
+Nova Scotia,12,Total - Sex,Swedish,110,95,5,15,0
+Nova Scotia,12,Total - Sex,Vlaams (Flemish),25,15,0,15,0
+Nova Scotia,12,Total - Sex,Yiddish,20,10,0,5,0
+Nova Scotia,12,Total - Sex,"Germanic languages, n.i.e.",20,10,0,10,0
+Nova Scotia,12,Total - Sex,Greek,760,660,0,70,30
+Nova Scotia,12,Total - Sex,Indo-Iranian languages,4835,4335,5,190,310
+Nova Scotia,12,Total - Sex,Indo-Aryan languages,3385,3075,0,95,210
+Nova Scotia,12,Total - Sex,Bengali,480,450,0,15,5
+Nova Scotia,12,Total - Sex,Gujarati,195,190,0,5,0
+Nova Scotia,12,Total - Sex,Hindi,750,715,0,20,10
+Nova Scotia,12,Total - Sex,Kashmiri,10,10,0,0,0
+Nova Scotia,12,Total - Sex,Konkani,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Marathi,70,70,0,0,0
+Nova Scotia,12,Total - Sex,Nepali,530,375,0,0,155
+Nova Scotia,12,Total - Sex,Oriya (Odia),10,5,0,0,0
+Nova Scotia,12,Total - Sex,Punjabi (Panjabi),580,550,0,15,15
+Nova Scotia,12,Total - Sex,Sindhi,20,15,0,5,0
+Nova Scotia,12,Total - Sex,Sinhala (Sinhalese),165,155,0,5,5
+Nova Scotia,12,Total - Sex,Urdu,575,525,0,25,25
+Nova Scotia,12,Total - Sex,Iranian languages,1425,1240,0,95,95
+Nova Scotia,12,Total - Sex,Kurdish,115,90,0,5,15
+Nova Scotia,12,Total - Sex,Pashto,80,70,0,5,5
+Nova Scotia,12,Total - Sex,Persian (Farsi),1235,1075,0,80,70
+Nova Scotia,12,Total - Sex,"Indo-Iranian languages, n.i.e.",25,20,0,0,0
+Nova Scotia,12,Total - Sex,Italic (Romance) languages,3335,2590,5,620,115
+Nova Scotia,12,Total - Sex,Catalan,15,5,0,5,5
+Nova Scotia,12,Total - Sex,Italian,745,570,0,155,15
+Nova Scotia,12,Total - Sex,Portuguese,515,430,0,70,20
+Nova Scotia,12,Total - Sex,Romanian,225,145,0,75,5
+Nova Scotia,12,Total - Sex,Spanish,1830,1440,5,310,80
+Nova Scotia,12,Total - Sex,"Italic (Romance) languages, n.i.e.",5,0,0,0,0
+Nova Scotia,12,Total - Sex,Japanese,365,335,0,15,10
+Nova Scotia,12,Total - Sex,Kartvelian languages,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Georgian,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Korean,1095,990,0,45,60
+Nova Scotia,12,Total - Sex,Mongolic languages,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Mongolian,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Niger-Congo languages,630,480,10,110,25
+Nova Scotia,12,Total - Sex,Akan (Twi),40,40,0,5,0
+Nova Scotia,12,Total - Sex,Bamanankan,15,0,0,15,0
+Nova Scotia,12,Total - Sex,Edo,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Ewe,40,30,0,10,0
+Nova Scotia,12,Total - Sex,"Fulah (Pular, Pulaar, Fulfulde)",5,5,0,5,0
+Nova Scotia,12,Total - Sex,Ga,10,10,0,0,0
+Nova Scotia,12,Total - Sex,Ganda,20,20,0,0,0
+Nova Scotia,12,Total - Sex,Igbo,40,35,0,0,0
+Nova Scotia,12,Total - Sex,Lingala,5,0,0,5,0
+Nova Scotia,12,Total - Sex,Rundi (Kirundi),20,5,5,5,5
+Nova Scotia,12,Total - Sex,Kinyarwanda (Rwanda),45,15,0,30,0
+Nova Scotia,12,Total - Sex,Shona,25,30,0,0,0
+Nova Scotia,12,Total - Sex,Swahili,135,95,5,20,20
+Nova Scotia,12,Total - Sex,Wolof,5,0,0,5,0
+Nova Scotia,12,Total - Sex,Yoruba,70,65,0,5,0
+Nova Scotia,12,Total - Sex,"Niger-Congo languages, n.i.e.",140,125,5,15,0
+Nova Scotia,12,Total - Sex,Nilo-Saharan languages,75,65,0,5,5
+Nova Scotia,12,Total - Sex,Dinka,20,15,0,0,5
+Nova Scotia,12,Total - Sex,"Nilo-Saharan languages, n.i.e.",55,55,0,5,0
+Nova Scotia,12,Total - Sex,Sign languages,195,110,0,5,80
+Nova Scotia,12,Total - Sex,American Sign Language,85,55,0,5,25
+Nova Scotia,12,Total - Sex,Quebec Sign Language,0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Sign languages, n.i.e",110,55,0,0,50
+Nova Scotia,12,Total - Sex,Sino-Tibetan languages,6665,6025,5,145,490
+Nova Scotia,12,Total - Sex,Chinese languages,6635,6000,5,140,490
+Nova Scotia,12,Total - Sex,Cantonese,1145,950,0,40,150
+Nova Scotia,12,Total - Sex,Hakka,25,20,0,0,5
+Nova Scotia,12,Total - Sex,Mandarin,4635,4265,5,85,285
+Nova Scotia,12,Total - Sex,Min Dong,0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",120,110,0,10,0
+Nova Scotia,12,Total - Sex,Wu (Shanghainese),50,40,0,0,5
+Nova Scotia,12,Total - Sex,"Chinese, n.o.s.",650,600,0,5,40
+Nova Scotia,12,Total - Sex,"Chinese languages, n.i.e.",15,10,0,0,5
+Nova Scotia,12,Total - Sex,Tibeto-Burman languages,30,25,0,0,0
+Nova Scotia,12,Total - Sex,Burmese,10,10,0,0,0
+Nova Scotia,12,Total - Sex,Karenic languages,0,0,0,0,0
+Nova Scotia,12,Total - Sex,Tibetan,5,5,0,0,0
+Nova Scotia,12,Total - Sex,"Tibeto-Burman languages, n.i.e.",5,5,0,5,0
+Nova Scotia,12,Total - Sex,Tai-Kadai languages,160,135,0,5,15
+Nova Scotia,12,Total - Sex,Lao,10,5,0,0,0
+Nova Scotia,12,Total - Sex,Thai,150,130,0,5,20
+Nova Scotia,12,Total - Sex,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Nova Scotia,12,Total - Sex,Turkic languages,440,390,0,30,20
+Nova Scotia,12,Total - Sex,Azerbaijani,15,10,0,0,0
+Nova Scotia,12,Total - Sex,Turkish,305,265,0,30,5
+Nova Scotia,12,Total - Sex,Uyghur,5,5,0,0,0
+Nova Scotia,12,Total - Sex,Uzbek,110,100,0,0,10
+Nova Scotia,12,Total - Sex,"Turkic languages, n.i.e.",10,10,0,0,0
+Nova Scotia,12,Total - Sex,Uralic languages,410,355,0,55,0
+Nova Scotia,12,Total - Sex,Estonian,40,35,0,5,0
+Nova Scotia,12,Total - Sex,Finnish,90,80,0,15,0
+Nova Scotia,12,Total - Sex,Hungarian,280,240,0,35,0
+Nova Scotia,12,Total - Sex,"Uralic languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Total - Sex,"Other languages, n.i.e.",25,20,0,5,0
+Nova Scotia,12,Total - Sex,Multiple responses,8060,4530,25,3480,30
+Nova Scotia,12,Total - Sex,English and French,3445,625,5,2815,0
+Nova Scotia,12,Total - Sex,English and non-official language,4180,3795,0,350,25
+Nova Scotia,12,Total - Sex,French and non-official language,225,50,15,155,0
+Nova Scotia,12,Total - Sex,"English, French and non-official language",210,50,0,160,0
+Nova Scotia,12,Male,Total - Mother tongue,442470,398950,305,41925,1295
+Nova Scotia,12,Male,Single responses,438550,396655,295,40320,1280
+Nova Scotia,12,Male,Official languages,416245,377200,270,38710,60
+Nova Scotia,12,Male,English,401980,376495,5,25415,65
+Nova Scotia,12,Male,French,14265,700,270,13295,0
+Nova Scotia,12,Male,Non-official languages,22305,19460,20,1615,1215
+Nova Scotia,12,Male,Aboriginal languages,2020,1975,0,35,10
+Nova Scotia,12,Male,Algonquian languages,1985,1945,0,30,15
+Nova Scotia,12,Male,Blackfoot,0,0,0,0,0
+Nova Scotia,12,Male,Cree-Montagnais languages,10,10,0,0,0
+Nova Scotia,12,Male,Atikamekw,0,0,0,0,0
+Nova Scotia,12,Male,Montagnais (Innu),0,0,0,0,0
+Nova Scotia,12,Male,Moose Cree,0,0,0,0,0
+Nova Scotia,12,Male,Naskapi,0,0,0,0,0
+Nova Scotia,12,Male,Northern East Cree,0,0,0,0,0
+Nova Scotia,12,Male,Plains Cree,0,0,0,0,0
+Nova Scotia,12,Male,Southern East Cree,0,0,0,0,0
+Nova Scotia,12,Male,Swampy Cree,5,5,0,0,0
+Nova Scotia,12,Male,Woods Cree,0,0,0,0,0
+Nova Scotia,12,Male,"Cree, n.o.s.",5,5,0,0,0
+Nova Scotia,12,Male,Eastern Algonquian languages,1975,1935,0,30,15
+Nova Scotia,12,Male,Malecite,0,5,0,0,0
+Nova Scotia,12,Male,Mi'kmaq,1970,1930,0,30,10
+Nova Scotia,12,Male,Ojibway-Potawatomi languages,0,5,0,0,0
+Nova Scotia,12,Male,Algonquin,0,0,0,0,0
+Nova Scotia,12,Male,Ojibway,5,5,0,0,0
+Nova Scotia,12,Male,Oji-Cree,0,0,0,0,0
+Nova Scotia,12,Male,Ottawa (Odawa),0,0,0,0,0
+Nova Scotia,12,Male,"Algonquian languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,Athabaskan languages,0,0,0,0,0
+Nova Scotia,12,Male,Northern Athabaskan languages,5,5,0,0,0
+Nova Scotia,12,Male,Babine (Wetsuwet'en),0,0,0,0,0
+Nova Scotia,12,Male,Beaver,0,0,0,0,0
+Nova Scotia,12,Male,Carrier,0,0,0,0,0
+Nova Scotia,12,Male,Chilcotin,0,0,0,0,0
+Nova Scotia,12,Male,Dene,0,5,0,0,0
+Nova Scotia,12,Male,Dogrib (Tlicho),0,0,0,0,0
+Nova Scotia,12,Male,Gwich'in,0,0,0,0,0
+Nova Scotia,12,Male,Sarsi (Sarcee),0,0,0,0,0
+Nova Scotia,12,Male,Sekani,0,0,0,0,0
+Nova Scotia,12,Male,Slavey-Hare languages,0,0,0,0,0
+Nova Scotia,12,Male,North Slavey (Hare),0,0,0,0,0
+Nova Scotia,12,Male,South Slavey,0,0,0,0,0
+Nova Scotia,12,Male,"Slavey, n.o.s.",0,0,0,0,0
+Nova Scotia,12,Male,Tahltan languages,0,0,0,0,0
+Nova Scotia,12,Male,Kaska (Nahani),0,0,0,0,0
+Nova Scotia,12,Male,Tahltan,0,0,0,0,0
+Nova Scotia,12,Male,Tutchone languages,0,0,0,0,0
+Nova Scotia,12,Male,Northern Tutchone,0,0,0,0,0
+Nova Scotia,12,Male,Southern Tutchone,0,0,0,0,0
+Nova Scotia,12,Male,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,Haida,0,0,0,0,0
+Nova Scotia,12,Male,Inuit languages,30,25,0,5,0
+Nova Scotia,12,Male,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Nova Scotia,12,Male,Inuktitut,30,20,0,5,0
+Nova Scotia,12,Male,"Inuit languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,Iroquoian languages,0,0,0,0,0
+Nova Scotia,12,Male,Cayuga,0,0,0,0,0
+Nova Scotia,12,Male,Mohawk,0,0,0,0,0
+Nova Scotia,12,Male,Oneida,0,0,0,0,0
+Nova Scotia,12,Male,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,Kutenai,0,0,0,0,0
+Nova Scotia,12,Male,Michif,0,0,0,0,0
+Nova Scotia,12,Male,Salish languages,0,0,0,0,0
+Nova Scotia,12,Male,Comox,0,0,0,0,0
+Nova Scotia,12,Male,Halkomelem,0,0,0,0,0
+Nova Scotia,12,Male,Lillooet,0,0,0,0,0
+Nova Scotia,12,Male,Okanagan,0,0,0,0,0
+Nova Scotia,12,Male,Shuswap (Secwepemctsin),0,0,0,0,0
+Nova Scotia,12,Male,Squamish,0,0,0,0,0
+Nova Scotia,12,Male,Straits,0,0,0,0,0
+Nova Scotia,12,Male,Thompson (Ntlakapamux),0,0,0,0,0
+Nova Scotia,12,Male,"Salish languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,Siouan languages,0,0,0,0,0
+Nova Scotia,12,Male,Dakota,0,0,0,0,0
+Nova Scotia,12,Male,Stoney,0,0,0,0,0
+Nova Scotia,12,Male,"Siouan languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,Tlingit,0,0,0,0,0
+Nova Scotia,12,Male,Tsimshian languages,0,0,0,0,0
+Nova Scotia,12,Male,Gitxsan (Gitksan),0,0,0,0,0
+Nova Scotia,12,Male,Nisga'a,0,0,0,0,0
+Nova Scotia,12,Male,Tsimshian,0,0,0,0,0
+Nova Scotia,12,Male,Wakashan languages,0,0,0,0,0
+Nova Scotia,12,Male,Haisla,0,0,0,0,0
+Nova Scotia,12,Male,Heiltsuk,0,0,0,0,0
+Nova Scotia,12,Male,Kwakiutl (Kwak'wala),0,0,0,0,0
+Nova Scotia,12,Male,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Nova Scotia,12,Male,"Wakashan languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,"Aboriginal languages, n.o.s.",0,0,0,0,0
+Nova Scotia,12,Male,Non-Aboriginal languages,20290,17480,20,1580,1200
+Nova Scotia,12,Male,Afro-Asiatic languages,4280,3325,10,410,530
+Nova Scotia,12,Male,Berber languages,10,5,0,5,0
+Nova Scotia,12,Male,Kabyle,0,0,0,0,0
+Nova Scotia,12,Male,"Berber languages, n.i.e.",5,0,0,0,0
+Nova Scotia,12,Male,Cushitic languages,65,50,0,5,10
+Nova Scotia,12,Male,Bilen,0,5,0,0,0
+Nova Scotia,12,Male,Oromo,35,30,0,5,0
+Nova Scotia,12,Male,Somali,20,20,0,0,0
+Nova Scotia,12,Male,"Cushitic languages, n.i.e.",10,0,0,0,10
+Nova Scotia,12,Male,Semitic languages,4205,3275,5,400,520
+Nova Scotia,12,Male,Amharic,55,50,0,0,0
+Nova Scotia,12,Male,Arabic,3950,3050,5,395,500
+Nova Scotia,12,Male,Assyrian Neo-Aramaic,5,5,0,0,0
+Nova Scotia,12,Male,Chaldean Neo-Aramaic,0,0,0,0,0
+Nova Scotia,12,Male,Harari,0,0,0,0,0
+Nova Scotia,12,Male,Hebrew,120,105,0,5,5
+Nova Scotia,12,Male,Maltese,15,10,0,5,0
+Nova Scotia,12,Male,Tigrigna,65,50,5,5,15
+Nova Scotia,12,Male,"Semitic languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Male,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,Austro-Asiatic languages,240,205,0,20,15
+Nova Scotia,12,Male,Khmer (Cambodian),5,5,0,0,0
+Nova Scotia,12,Male,Vietnamese,240,200,0,20,15
+Nova Scotia,12,Male,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Nova Scotia,12,Male,Austronesian languages,945,925,0,10,5
+Nova Scotia,12,Male,Bikol,0,5,0,0,0
+Nova Scotia,12,Male,Cebuano,60,55,0,0,0
+Nova Scotia,12,Male,Fijian,0,0,0,0,0
+Nova Scotia,12,Male,Hiligaynon,10,10,0,0,0
+Nova Scotia,12,Male,Ilocano,15,15,0,0,0
+Nova Scotia,12,Male,Malagasy,5,0,0,0,0
+Nova Scotia,12,Male,Malay,20,20,0,0,0
+Nova Scotia,12,Male,"Pampangan (Kapampangan, Pampango)",10,5,0,0,0
+Nova Scotia,12,Male,Pangasinan,0,0,0,0,0
+Nova Scotia,12,Male,"Tagalog (Pilipino, Filipino)",810,805,0,10,0
+Nova Scotia,12,Male,Waray-Waray,0,0,0,0,0
+Nova Scotia,12,Male,"Austronesian languages, n.i.e.",5,10,0,0,0
+Nova Scotia,12,Male,Creole languages,65,45,0,15,0
+Nova Scotia,12,Male,Haitian Creole,5,0,0,5,0
+Nova Scotia,12,Male,"Creole, n.o.s.",20,15,0,10,0
+Nova Scotia,12,Male,"Creole languages, n.i.e.",35,25,0,5,0
+Nova Scotia,12,Male,Dravidian languages,590,560,0,20,10
+Nova Scotia,12,Male,Kannada,20,20,0,0,0
+Nova Scotia,12,Male,Malayalam,200,195,0,0,5
+Nova Scotia,12,Male,Tamil,190,170,0,15,0
+Nova Scotia,12,Male,Telugu,175,165,0,5,5
+Nova Scotia,12,Male,"Dravidian languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Male,Hmong-Mien languages,0,0,0,0,0
+Nova Scotia,12,Male,Indo-European languages,9325,8100,5,920,300
+Nova Scotia,12,Male,Albanian,135,125,0,0,5
+Nova Scotia,12,Male,Armenian,25,15,0,10,0
+Nova Scotia,12,Male,Balto-Slavic languages,1645,1440,0,160,45
+Nova Scotia,12,Male,Baltic languages,35,30,0,5,0
+Nova Scotia,12,Male,Latvian,20,15,0,0,0
+Nova Scotia,12,Male,Lithuanian,10,10,0,5,0
+Nova Scotia,12,Male,Slavic languages,1605,1405,0,155,45
+Nova Scotia,12,Male,Belarusan,5,5,0,0,0
+Nova Scotia,12,Male,Bosnian,60,55,0,0,0
+Nova Scotia,12,Male,Bulgarian,30,25,0,0,0
+Nova Scotia,12,Male,Croatian,105,95,0,10,0
+Nova Scotia,12,Male,Czech,100,80,0,20,5
+Nova Scotia,12,Male,Macedonian,10,5,0,0,0
+Nova Scotia,12,Male,Polish,360,320,0,40,5
+Nova Scotia,12,Male,Russian,615,540,0,45,30
+Nova Scotia,12,Male,Serbian,55,55,0,0,0
+Nova Scotia,12,Male,Serbo-Croatian,45,40,0,5,0
+Nova Scotia,12,Male,Slovak,50,40,0,10,0
+Nova Scotia,12,Male,Slovene (Slovenian),15,15,0,0,0
+Nova Scotia,12,Male,Ukrainian,150,120,0,25,0
+Nova Scotia,12,Male,"Slavic languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Male,Celtic languages,80,65,0,15,0
+Nova Scotia,12,Male,Scottish Gaelic,60,60,0,5,0
+Nova Scotia,12,Male,Welsh,15,10,0,5,0
+Nova Scotia,12,Male,"Celtic languages, n.i.e.",0,0,0,5,0
+Nova Scotia,12,Male,Germanic languages,2795,2405,0,330,60
+Nova Scotia,12,Male,Afrikaans,55,55,0,0,0
+Nova Scotia,12,Male,Danish,100,90,0,15,0
+Nova Scotia,12,Male,Dutch,815,725,0,90,0
+Nova Scotia,12,Male,Frisian,20,20,0,0,0
+Nova Scotia,12,Male,German,1640,1380,0,205,55
+Nova Scotia,12,Male,Icelandic,20,20,0,0,0
+Nova Scotia,12,Male,Norwegian,60,50,0,5,0
+Nova Scotia,12,Male,Swedish,50,45,0,5,0
+Nova Scotia,12,Male,Vlaams (Flemish),15,10,0,5,0
+Nova Scotia,12,Male,Yiddish,10,10,0,5,0
+Nova Scotia,12,Male,"Germanic languages, n.i.e.",5,0,0,5,0
+Nova Scotia,12,Male,Greek,390,355,0,25,10
+Nova Scotia,12,Male,Indo-Iranian languages,2650,2450,0,85,120
+Nova Scotia,12,Male,Indo-Aryan languages,1895,1770,0,40,80
+Nova Scotia,12,Male,Bengali,290,275,0,5,5
+Nova Scotia,12,Male,Gujarati,125,120,0,5,0
+Nova Scotia,12,Male,Hindi,440,435,0,5,0
+Nova Scotia,12,Male,Kashmiri,5,5,0,0,0
+Nova Scotia,12,Male,Konkani,5,5,0,0,0
+Nova Scotia,12,Male,Marathi,35,40,0,0,0
+Nova Scotia,12,Male,Nepali,255,185,0,0,65
+Nova Scotia,12,Male,Oriya (Odia),5,0,0,0,0
+Nova Scotia,12,Male,Punjabi (Panjabi),310,300,0,10,5
+Nova Scotia,12,Male,Sindhi,10,5,0,0,0
+Nova Scotia,12,Male,Sinhala (Sinhalese),80,80,0,5,0
+Nova Scotia,12,Male,Urdu,330,310,0,15,5
+Nova Scotia,12,Male,Iranian languages,740,670,0,35,35
+Nova Scotia,12,Male,Kurdish,65,55,0,5,10
+Nova Scotia,12,Male,Pashto,45,45,0,0,0
+Nova Scotia,12,Male,Persian (Farsi),630,575,0,30,25
+Nova Scotia,12,Male,"Indo-Iranian languages, n.i.e.",10,10,0,0,0
+Nova Scotia,12,Male,Italic (Romance) languages,1605,1250,0,295,60
+Nova Scotia,12,Male,Catalan,5,5,0,0,0
+Nova Scotia,12,Male,Italian,400,325,5,70,5
+Nova Scotia,12,Male,Portuguese,245,205,0,30,5
+Nova Scotia,12,Male,Romanian,110,75,0,35,0
+Nova Scotia,12,Male,Spanish,845,640,0,155,45
+Nova Scotia,12,Male,"Italic (Romance) languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,Japanese,105,95,0,5,5
+Nova Scotia,12,Male,Kartvelian languages,0,0,0,0,0
+Nova Scotia,12,Male,Georgian,0,0,0,0,0
+Nova Scotia,12,Male,Korean,475,430,0,20,25
+Nova Scotia,12,Male,Mongolic languages,5,5,0,0,0
+Nova Scotia,12,Male,Mongolian,5,0,0,0,0
+Nova Scotia,12,Male,Niger-Congo languages,325,245,5,55,15
+Nova Scotia,12,Male,Akan (Twi),25,20,0,5,0
+Nova Scotia,12,Male,Bamanankan,5,0,0,5,0
+Nova Scotia,12,Male,Edo,5,5,0,0,0
+Nova Scotia,12,Male,Ewe,25,20,0,5,0
+Nova Scotia,12,Male,"Fulah (Pular, Pulaar, Fulfulde)",5,5,0,5,0
+Nova Scotia,12,Male,Ga,5,5,0,0,0
+Nova Scotia,12,Male,Ganda,10,5,0,0,0
+Nova Scotia,12,Male,Igbo,20,25,0,0,0
+Nova Scotia,12,Male,Lingala,5,0,0,5,0
+Nova Scotia,12,Male,Rundi (Kirundi),10,5,0,5,0
+Nova Scotia,12,Male,Kinyarwanda (Rwanda),20,10,0,10,0
+Nova Scotia,12,Male,Shona,15,15,0,0,0
+Nova Scotia,12,Male,Swahili,65,40,5,10,10
+Nova Scotia,12,Male,Wolof,5,0,0,5,0
+Nova Scotia,12,Male,Yoruba,35,35,0,0,0
+Nova Scotia,12,Male,"Niger-Congo languages, n.i.e.",75,65,0,5,0
+Nova Scotia,12,Male,Nilo-Saharan languages,35,30,0,5,0
+Nova Scotia,12,Male,Dinka,10,10,0,0,5
+Nova Scotia,12,Male,"Nilo-Saharan languages, n.i.e.",25,25,0,0,0
+Nova Scotia,12,Male,Sign languages,95,40,0,0,50
+Nova Scotia,12,Male,American Sign Language,35,25,0,5,15
+Nova Scotia,12,Male,Quebec Sign Language,0,0,0,0,0
+Nova Scotia,12,Male,"Sign languages, n.i.e",55,20,0,0,35
+Nova Scotia,12,Male,Sino-Tibetan languages,3330,3035,0,55,240
+Nova Scotia,12,Male,Chinese languages,3320,3025,5,55,240
+Nova Scotia,12,Male,Cantonese,535,455,0,10,70
+Nova Scotia,12,Male,Hakka,5,10,0,0,5
+Nova Scotia,12,Male,Mandarin,2320,2145,0,30,145
+Nova Scotia,12,Male,Min Dong,0,0,0,0,0
+Nova Scotia,12,Male,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",55,45,0,0,5
+Nova Scotia,12,Male,Wu (Shanghainese),30,25,0,0,5
+Nova Scotia,12,Male,"Chinese, n.o.s.",370,345,0,5,20
+Nova Scotia,12,Male,"Chinese languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Male,Tibeto-Burman languages,15,10,0,0,0
+Nova Scotia,12,Male,Burmese,5,0,0,0,0
+Nova Scotia,12,Male,Karenic languages,0,0,0,0,0
+Nova Scotia,12,Male,Tibetan,5,0,0,0,0
+Nova Scotia,12,Male,"Tibeto-Burman languages, n.i.e.",5,5,0,5,0
+Nova Scotia,12,Male,Tai-Kadai languages,55,45,0,0,5
+Nova Scotia,12,Male,Lao,5,0,0,0,5
+Nova Scotia,12,Male,Thai,50,45,0,0,5
+Nova Scotia,12,Male,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Nova Scotia,12,Male,Turkic languages,240,220,0,20,5
+Nova Scotia,12,Male,Azerbaijani,10,10,0,5,5
+Nova Scotia,12,Male,Turkish,160,145,0,20,0
+Nova Scotia,12,Male,Uyghur,0,0,0,0,0
+Nova Scotia,12,Male,Uzbek,65,60,0,0,5
+Nova Scotia,12,Male,"Turkic languages, n.i.e.",10,5,0,0,0
+Nova Scotia,12,Male,Uralic languages,180,165,0,15,0
+Nova Scotia,12,Male,Estonian,15,15,0,0,0
+Nova Scotia,12,Male,Finnish,35,25,0,0,0
+Nova Scotia,12,Male,Hungarian,130,120,0,5,0
+Nova Scotia,12,Male,"Uralic languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Male,"Other languages, n.i.e.",10,10,0,5,0
+Nova Scotia,12,Male,Multiple responses,3920,2290,15,1600,15
+Nova Scotia,12,Male,English and French,1600,300,5,1290,0
+Nova Scotia,12,Male,English and non-official language,2110,1950,0,145,15
+Nova Scotia,12,Male,French and non-official language,120,25,10,85,0
+Nova Scotia,12,Male,"English, French and non-official language",90,15,5,75,0
+Nova Scotia,12,Female,Total - Mother tongue,469830,414530,400,53460,1440
+Nova Scotia,12,Female,Single responses,465690,412295,395,51575,1430
+Nova Scotia,12,Female,Official languages,443445,393300,355,49725,60
+Nova Scotia,12,Female,English,428245,392360,15,35810,60
+Nova Scotia,12,Female,French,15200,940,340,13920,5
+Nova Scotia,12,Female,Non-official languages,22245,18990,35,1845,1370
+Nova Scotia,12,Female,Aboriginal languages,2265,2245,5,15,5
+Nova Scotia,12,Female,Algonquian languages,2225,2205,5,15,0
+Nova Scotia,12,Female,Blackfoot,0,0,0,0,0
+Nova Scotia,12,Female,Cree-Montagnais languages,5,0,0,0,0
+Nova Scotia,12,Female,Atikamekw,0,0,0,0,0
+Nova Scotia,12,Female,Montagnais (Innu),0,0,0,0,0
+Nova Scotia,12,Female,Moose Cree,0,0,0,0,0
+Nova Scotia,12,Female,Naskapi,0,0,0,0,0
+Nova Scotia,12,Female,Northern East Cree,0,0,0,0,0
+Nova Scotia,12,Female,Plains Cree,0,0,0,0,0
+Nova Scotia,12,Female,Southern East Cree,0,0,0,0,0
+Nova Scotia,12,Female,Swampy Cree,0,0,0,0,0
+Nova Scotia,12,Female,Woods Cree,0,0,0,0,0
+Nova Scotia,12,Female,"Cree, n.o.s.",0,5,0,0,0
+Nova Scotia,12,Female,Eastern Algonquian languages,2220,2195,0,15,0
+Nova Scotia,12,Female,Malecite,0,5,0,0,0
+Nova Scotia,12,Female,Mi'kmaq,2210,2195,0,20,0
+Nova Scotia,12,Female,Ojibway-Potawatomi languages,5,5,0,0,0
+Nova Scotia,12,Female,Algonquin,0,0,0,0,0
+Nova Scotia,12,Female,Ojibway,5,5,0,0,0
+Nova Scotia,12,Female,Oji-Cree,0,0,0,0,0
+Nova Scotia,12,Female,Ottawa (Odawa),0,0,0,0,0
+Nova Scotia,12,Female,"Algonquian languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Female,Athabaskan languages,0,0,0,0,0
+Nova Scotia,12,Female,Northern Athabaskan languages,5,0,0,0,0
+Nova Scotia,12,Female,Babine (Wetsuwet'en),0,0,0,0,0
+Nova Scotia,12,Female,Beaver,0,0,0,0,0
+Nova Scotia,12,Female,Carrier,0,0,0,0,0
+Nova Scotia,12,Female,Chilcotin,0,0,0,0,0
+Nova Scotia,12,Female,Dene,0,0,0,0,0
+Nova Scotia,12,Female,Dogrib (Tlicho),0,0,0,0,0
+Nova Scotia,12,Female,Gwich'in,0,0,0,0,0
+Nova Scotia,12,Female,Sarsi (Sarcee),0,0,0,0,0
+Nova Scotia,12,Female,Sekani,0,0,0,0,0
+Nova Scotia,12,Female,Slavey-Hare languages,0,0,0,0,0
+Nova Scotia,12,Female,North Slavey (Hare),0,0,0,0,0
+Nova Scotia,12,Female,South Slavey,0,5,0,0,0
+Nova Scotia,12,Female,"Slavey, n.o.s.",0,0,0,0,0
+Nova Scotia,12,Female,Tahltan languages,0,0,0,0,0
+Nova Scotia,12,Female,Kaska (Nahani),0,0,0,0,0
+Nova Scotia,12,Female,Tahltan,0,0,0,0,0
+Nova Scotia,12,Female,Tutchone languages,0,0,0,0,0
+Nova Scotia,12,Female,Northern Tutchone,0,0,0,0,0
+Nova Scotia,12,Female,Southern Tutchone,0,0,0,0,0
+Nova Scotia,12,Female,"Athabaskan languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Female,Haida,0,0,0,0,0
+Nova Scotia,12,Female,Inuit languages,35,30,0,0,0
+Nova Scotia,12,Female,Inuinnaqtun (Inuvialuktun),0,0,0,0,0
+Nova Scotia,12,Female,Inuktitut,25,25,0,5,0
+Nova Scotia,12,Female,"Inuit languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Female,Iroquoian languages,0,0,0,0,0
+Nova Scotia,12,Female,Cayuga,0,0,0,0,0
+Nova Scotia,12,Female,Mohawk,0,0,0,0,0
+Nova Scotia,12,Female,Oneida,0,0,0,0,0
+Nova Scotia,12,Female,"Iroquoian languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Female,Kutenai,0,0,0,0,0
+Nova Scotia,12,Female,Michif,5,0,0,0,0
+Nova Scotia,12,Female,Salish languages,0,0,0,0,0
+Nova Scotia,12,Female,Comox,0,0,0,0,0
+Nova Scotia,12,Female,Halkomelem,0,0,0,0,0
+Nova Scotia,12,Female,Lillooet,0,0,0,0,0
+Nova Scotia,12,Female,Okanagan,0,0,0,0,0
+Nova Scotia,12,Female,Shuswap (Secwepemctsin),0,0,0,0,0
+Nova Scotia,12,Female,Squamish,0,0,0,0,0
+Nova Scotia,12,Female,Straits,0,0,0,0,0
+Nova Scotia,12,Female,Thompson (Ntlakapamux),0,0,0,0,0
+Nova Scotia,12,Female,"Salish languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Female,Siouan languages,0,0,0,0,0
+Nova Scotia,12,Female,Dakota,0,0,0,0,0
+Nova Scotia,12,Female,Stoney,0,0,0,0,0
+Nova Scotia,12,Female,"Siouan languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Female,Tlingit,0,0,0,0,0
+Nova Scotia,12,Female,Tsimshian languages,0,0,0,0,0
+Nova Scotia,12,Female,Gitxsan (Gitksan),0,0,0,0,0
+Nova Scotia,12,Female,Nisga'a,0,0,0,0,0
+Nova Scotia,12,Female,Tsimshian,0,0,0,0,0
+Nova Scotia,12,Female,Wakashan languages,0,0,0,0,0
+Nova Scotia,12,Female,Haisla,0,0,0,0,0
+Nova Scotia,12,Female,Heiltsuk,0,0,0,0,0
+Nova Scotia,12,Female,Kwakiutl (Kwak'wala),0,0,0,0,0
+Nova Scotia,12,Female,Nuu-chah-nulth (Nootka),0,0,0,0,0
+Nova Scotia,12,Female,"Wakashan languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Female,"Aboriginal languages, n.o.s.",0,0,0,0,0
+Nova Scotia,12,Female,Non-Aboriginal languages,19975,16745,35,1830,1365
+Nova Scotia,12,Female,Afro-Asiatic languages,3480,2520,10,385,560
+Nova Scotia,12,Female,Berber languages,0,5,0,0,0
+Nova Scotia,12,Female,Kabyle,5,0,0,0,0
+Nova Scotia,12,Female,"Berber languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Female,Cushitic languages,65,50,0,5,15
+Nova Scotia,12,Female,Bilen,0,0,0,0,0
+Nova Scotia,12,Female,Oromo,30,20,0,0,5
+Nova Scotia,12,Female,Somali,30,30,0,0,0
+Nova Scotia,12,Female,"Cushitic languages, n.i.e.",5,5,0,0,5
+Nova Scotia,12,Female,Semitic languages,3415,2470,15,385,545
+Nova Scotia,12,Female,Amharic,60,60,0,0,0
+Nova Scotia,12,Female,Arabic,3165,2265,10,370,515
+Nova Scotia,12,Female,Assyrian Neo-Aramaic,5,5,0,0,0
+Nova Scotia,12,Female,Chaldean Neo-Aramaic,0,0,0,0,0
+Nova Scotia,12,Female,Harari,0,0,0,0,0
+Nova Scotia,12,Female,Hebrew,90,85,0,5,5
+Nova Scotia,12,Female,Maltese,0,5,0,0,0
+Nova Scotia,12,Female,Tigrigna,75,45,0,5,25
+Nova Scotia,12,Female,"Semitic languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Female,"Afro-Asiatic languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Female,Austro-Asiatic languages,260,205,0,20,35
+Nova Scotia,12,Female,Khmer (Cambodian),5,5,0,0,0
+Nova Scotia,12,Female,Vietnamese,255,200,5,15,35
+Nova Scotia,12,Female,"Austro-Asiatic languages, n.i.e",0,0,0,0,0
+Nova Scotia,12,Female,Austronesian languages,1295,1270,0,20,5
+Nova Scotia,12,Female,Bikol,5,5,0,0,0
+Nova Scotia,12,Female,Cebuano,90,90,0,5,0
+Nova Scotia,12,Female,Fijian,0,0,0,0,0
+Nova Scotia,12,Female,Hiligaynon,15,15,0,0,0
+Nova Scotia,12,Female,Ilocano,40,35,0,0,0
+Nova Scotia,12,Female,Malagasy,0,0,0,0,0
+Nova Scotia,12,Female,Malay,30,30,0,0,0
+Nova Scotia,12,Female,"Pampangan (Kapampangan, Pampango)",5,5,0,0,0
+Nova Scotia,12,Female,Pangasinan,0,0,0,0,0
+Nova Scotia,12,Female,"Tagalog (Pilipino, Filipino)",1090,1075,0,15,5
+Nova Scotia,12,Female,Waray-Waray,0,0,0,0,0
+Nova Scotia,12,Female,"Austronesian languages, n.i.e.",10,10,0,0,0
+Nova Scotia,12,Female,Creole languages,35,25,0,10,0
+Nova Scotia,12,Female,Haitian Creole,5,5,0,0,0
+Nova Scotia,12,Female,"Creole, n.o.s.",15,5,0,5,0
+Nova Scotia,12,Female,"Creole languages, n.i.e.",20,15,0,0,0
+Nova Scotia,12,Female,Dravidian languages,420,390,0,15,15
+Nova Scotia,12,Female,Kannada,15,15,0,0,0
+Nova Scotia,12,Female,Malayalam,165,160,0,5,0
+Nova Scotia,12,Female,Tamil,130,115,0,5,10
+Nova Scotia,12,Female,Telugu,110,95,0,5,5
+Nova Scotia,12,Female,"Dravidian languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Female,Hmong-Mien languages,0,0,0,0,0
+Nova Scotia,12,Female,Indo-European languages,9270,7740,10,1135,380
+Nova Scotia,12,Female,Albanian,140,115,0,5,15
+Nova Scotia,12,Female,Armenian,10,10,0,5,0
+Nova Scotia,12,Female,Balto-Slavic languages,1830,1555,0,215,55
+Nova Scotia,12,Female,Baltic languages,65,45,0,15,0
+Nova Scotia,12,Female,Latvian,30,20,0,10,0
+Nova Scotia,12,Female,Lithuanian,35,30,0,5,0
+Nova Scotia,12,Female,Slavic languages,1765,1510,5,200,55
+Nova Scotia,12,Female,Belarusan,5,0,0,0,0
+Nova Scotia,12,Female,Bosnian,60,55,0,5,5
+Nova Scotia,12,Female,Bulgarian,30,25,0,5,0
+Nova Scotia,12,Female,Croatian,115,100,0,15,0
+Nova Scotia,12,Female,Czech,100,85,0,20,0
+Nova Scotia,12,Female,Macedonian,10,10,0,5,0
+Nova Scotia,12,Female,Polish,435,365,0,65,5
+Nova Scotia,12,Female,Russian,675,575,0,60,40
+Nova Scotia,12,Female,Serbian,65,55,0,5,0
+Nova Scotia,12,Female,Serbo-Croatian,40,35,0,5,0
+Nova Scotia,12,Female,Slovak,50,40,0,10,0
+Nova Scotia,12,Female,Slovene (Slovenian),15,10,0,0,0
+Nova Scotia,12,Female,Ukrainian,170,145,0,20,0
+Nova Scotia,12,Female,"Slavic languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Female,Celtic languages,100,90,0,5,5
+Nova Scotia,12,Female,Scottish Gaelic,85,75,5,0,5
+Nova Scotia,12,Female,Welsh,10,15,0,0,0
+Nova Scotia,12,Female,"Celtic languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Female,Germanic languages,2900,2425,5,425,45
+Nova Scotia,12,Female,Afrikaans,60,60,0,0,0
+Nova Scotia,12,Female,Danish,60,55,0,5,0
+Nova Scotia,12,Female,Dutch,805,715,0,95,0
+Nova Scotia,12,Female,Frisian,15,10,0,0,0
+Nova Scotia,12,Female,German,1790,1465,0,275,50
+Nova Scotia,12,Female,Icelandic,20,15,0,10,0
+Nova Scotia,12,Female,Norwegian,50,40,0,10,0
+Nova Scotia,12,Female,Swedish,70,55,5,10,0
+Nova Scotia,12,Female,Vlaams (Flemish),15,5,0,10,0
+Nova Scotia,12,Female,Yiddish,10,5,0,5,0
+Nova Scotia,12,Female,"Germanic languages, n.i.e.",15,5,0,5,0
+Nova Scotia,12,Female,Greek,365,305,0,45,15
+Nova Scotia,12,Female,Indo-Iranian languages,2190,1890,5,110,190
+Nova Scotia,12,Female,Indo-Aryan languages,1490,1305,5,55,130
+Nova Scotia,12,Female,Bengali,190,175,0,10,5
+Nova Scotia,12,Female,Gujarati,70,65,0,5,0
+Nova Scotia,12,Female,Hindi,305,285,0,15,5
+Nova Scotia,12,Female,Kashmiri,10,10,0,0,0
+Nova Scotia,12,Female,Konkani,0,0,0,0,0
+Nova Scotia,12,Female,Marathi,35,35,0,0,0
+Nova Scotia,12,Female,Nepali,275,190,0,0,85
+Nova Scotia,12,Female,Oriya (Odia),5,5,0,0,0
+Nova Scotia,12,Female,Punjabi (Panjabi),270,250,0,10,10
+Nova Scotia,12,Female,Sindhi,10,10,0,0,0
+Nova Scotia,12,Female,Sinhala (Sinhalese),85,75,0,5,5
+Nova Scotia,12,Female,Urdu,250,215,0,10,20
+Nova Scotia,12,Female,Iranian languages,685,570,0,55,60
+Nova Scotia,12,Female,Kurdish,50,40,0,0,10
+Nova Scotia,12,Female,Pashto,35,25,0,5,5
+Nova Scotia,12,Female,Persian (Farsi),600,505,0,50,50
+Nova Scotia,12,Female,"Indo-Iranian languages, n.i.e.",10,10,0,0,0
+Nova Scotia,12,Female,Italic (Romance) languages,1735,1345,5,325,55
+Nova Scotia,12,Female,Catalan,5,5,0,5,5
+Nova Scotia,12,Female,Italian,345,245,0,85,5
+Nova Scotia,12,Female,Portuguese,275,225,0,40,15
+Nova Scotia,12,Female,Romanian,115,75,0,40,5
+Nova Scotia,12,Female,Spanish,985,795,5,155,35
+Nova Scotia,12,Female,"Italic (Romance) languages, n.i.e.",5,0,0,0,0
+Nova Scotia,12,Female,Japanese,260,240,0,15,10
+Nova Scotia,12,Female,Kartvelian languages,5,0,0,0,0
+Nova Scotia,12,Female,Georgian,5,0,0,0,0
+Nova Scotia,12,Female,Korean,620,565,0,20,35
+Nova Scotia,12,Female,Mongolic languages,5,0,0,0,0
+Nova Scotia,12,Female,Mongolian,5,0,0,0,0
+Nova Scotia,12,Female,Niger-Congo languages,305,230,5,55,15
+Nova Scotia,12,Female,Akan (Twi),20,25,0,0,0
+Nova Scotia,12,Female,Bamanankan,5,0,0,5,0
+Nova Scotia,12,Female,Edo,5,5,0,0,0
+Nova Scotia,12,Female,Ewe,10,10,0,5,0
+Nova Scotia,12,Female,"Fulah (Pular, Pulaar, Fulfulde)",0,0,0,0,0
+Nova Scotia,12,Female,Ga,5,5,0,0,0
+Nova Scotia,12,Female,Ganda,15,15,0,0,0
+Nova Scotia,12,Female,Igbo,20,15,0,5,0
+Nova Scotia,12,Female,Lingala,5,0,0,5,0
+Nova Scotia,12,Female,Rundi (Kirundi),5,0,0,5,0
+Nova Scotia,12,Female,Kinyarwanda (Rwanda),30,10,0,20,0
+Nova Scotia,12,Female,Shona,10,15,0,0,0
+Nova Scotia,12,Female,Swahili,70,45,0,10,10
+Nova Scotia,12,Female,Wolof,0,0,0,0,0
+Nova Scotia,12,Female,Yoruba,30,30,0,0,0
+Nova Scotia,12,Female,"Niger-Congo languages, n.i.e.",65,60,5,10,0
+Nova Scotia,12,Female,Nilo-Saharan languages,40,35,0,0,5
+Nova Scotia,12,Female,Dinka,15,10,0,0,0
+Nova Scotia,12,Female,"Nilo-Saharan languages, n.i.e.",25,25,0,0,0
+Nova Scotia,12,Female,Sign languages,105,70,0,0,30
+Nova Scotia,12,Female,American Sign Language,45,30,0,5,10
+Nova Scotia,12,Female,Quebec Sign Language,0,0,0,0,0
+Nova Scotia,12,Female,"Sign languages, n.i.e",55,40,0,5,15
+Nova Scotia,12,Female,Sino-Tibetan languages,3335,2990,5,90,250
+Nova Scotia,12,Female,Chinese languages,3315,2975,0,85,250
+Nova Scotia,12,Female,Cantonese,610,500,0,25,85
+Nova Scotia,12,Female,Hakka,10,10,0,0,0
+Nova Scotia,12,Female,Mandarin,2315,2120,5,50,140
+Nova Scotia,12,Female,Min Dong,0,0,0,0,0
+Nova Scotia,12,Female,"Min Nan (Chaochow, Teochow, Fukien, Taiwanese)",70,65,0,5,0
+Nova Scotia,12,Female,Wu (Shanghainese),20,15,0,0,0
+Nova Scotia,12,Female,"Chinese, n.o.s.",280,260,0,5,20
+Nova Scotia,12,Female,"Chinese languages, n.i.e.",5,5,0,0,0
+Nova Scotia,12,Female,Tibeto-Burman languages,15,15,0,0,0
+Nova Scotia,12,Female,Burmese,10,10,0,0,0
+Nova Scotia,12,Female,Karenic languages,0,0,0,0,0
+Nova Scotia,12,Female,Tibetan,5,5,0,0,0
+Nova Scotia,12,Female,"Tibeto-Burman languages, n.i.e.",5,0,0,0,5
+Nova Scotia,12,Female,Tai-Kadai languages,100,90,0,5,15
+Nova Scotia,12,Female,Lao,5,5,0,0,0
+Nova Scotia,12,Female,Thai,95,80,0,5,10
+Nova Scotia,12,Female,"Tai-Kadai languages, n.i.e",0,0,0,0,0
+Nova Scotia,12,Female,Turkic languages,205,170,0,15,15
+Nova Scotia,12,Female,Azerbaijani,5,5,0,0,0
+Nova Scotia,12,Female,Turkish,145,120,0,15,10
+Nova Scotia,12,Female,Uyghur,5,0,0,0,0
+Nova Scotia,12,Female,Uzbek,50,45,0,0,5
+Nova Scotia,12,Female,"Turkic languages, n.i.e.",5,0,0,0,0
+Nova Scotia,12,Female,Uralic languages,235,195,0,40,0
+Nova Scotia,12,Female,Estonian,25,20,0,5,0
+Nova Scotia,12,Female,Finnish,60,50,0,10,0
+Nova Scotia,12,Female,Hungarian,145,120,0,25,0
+Nova Scotia,12,Female,"Uralic languages, n.i.e.",0,0,0,0,0
+Nova Scotia,12,Female,"Other languages, n.i.e.",10,15,0,0,5
+Nova Scotia,12,Female,Multiple responses,4140,2235,10,1885,10
+Nova Scotia,12,Female,English and French,1845,325,5,1520,0
+Nova Scotia,12,Female,English and non-official language,2070,1850,0,210,10
+Nova Scotia,12,Female,French and non-official language,105,25,5,75,0
+Nova Scotia,12,Female,"English, French and non-official language",120,30,0,85,0
