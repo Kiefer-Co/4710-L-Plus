@@ -434,6 +434,10 @@ A language shift occurs when an allophone adopts an official language as their p
 
 We propose using decision trees to analyze the categorical census data and determine which variables best predict whether the language spoken at home is different than the mother tongue. We believe that this is better suited to identifying the causes of language shift than linear regression because it disentangles prediction of the rate of language shift from identifying the factors that cause it. Decision trees are also better suited to measure whether certain properties of a population group are more likely to influence language shift than other properties.
 
+Some challenges working with census microdata include the fact that the Public Use Microdata Files (PUMF) have been downsampled from the census population size. In order to perform an analysis that would take into account the population distribution, we needed to multiply records by a corresponding weight included in the PUMF datasets. Additionally, the PUMF datasets contain over 100 potential features, which would result in a decision tree that is far too large to visualize. As a result, feature selection must be performed in order to produce a visualization that is easy to understand.
+
+The Canadian census is conducted every five years. As a result, changes that occur between census periods may not be captured at the exact time of their occurence.
+
 % You must have at least 2 lines in the paragraph with the drop letter
 % (should never be an issue)
 
@@ -459,7 +463,7 @@ There are still some difficulties with this approach. For example, 1980 and 1990
 \subsubsection{Limitations of Linear Regression}
 As seen above, multiple approaches to analyzing language cohorts temporally run into limitations in how census data is collected. Sampling errors and poorly worded census questions make it difficult to capture whether emigration has occurred between censuses. Even within a census, it is tempting to view language shift within a cohort as binary when this process occurs gradually.
 
-Populations are dynamic, and multiple variables influence whether a language that is the mother tongue is spoken at home. A more direct analysis of these factors can reveal more about why a language is lost than trying to plot the rates of language loss from categorical data.
+Populations are dynamic, and multiple categorical variables influence whether a language that is the mother tongue is spoken at home. A decision tree can reveal which categorical variables determine whether mother tongue is retained as the language spoken at home. Conversely, linear regression is poorly suited for finding insights from categorical data.
 
 \subsection{Decision Tree Performance in Other Areas}
 % @TODO think of a better name for the subsub-section
