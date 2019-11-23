@@ -22,12 +22,17 @@
 \BIBdecl
 
 \bibitem{dynamics1}
-A.~Sabourin, Patrick;~Bélanger, ``The dynamics of language shift in canada,''
+P.~Sabourin and A.~Bélanger, ``The dynamics of language shift in canada,''
   \emph{Population}, 2015.
 
 \bibitem{spanish1}
-D.~J. D.~A. Mora, Marie T;~Villa, ``Language shift and maintenance among the
-  children of immigrants in the u.s.: Evidence in the census for spanish
+M.~T. Mora, D.~J. Villa, and A.~Davila, ``Language shift and maintenance among
+  the children of immigrants in the u.s.: Evidence in the census for spanish
   speakers and other language minorities,'' \emph{Spanish in Context}, 2006.
+
+\bibitem{performance1}
+E.~Osmanbegovic and M.~Suljic, ``Data mining approach for predicting student
+  performance,'' \emph{Economic Review: Journal of Economics and Business},
+  2012.
 
 \end{thebibliography}
