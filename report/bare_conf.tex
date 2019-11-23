@@ -461,6 +461,20 @@ As seen above, multiple approaches to analyzing language cohorts temporally run 
 
 Populations are dynamic, and multiple variables influence whether a language that is the mother tongue is spoken at home. A more direct analysis of these factors can reveal more about why a language is lost than trying to plot the rates of language loss from categorical data.
 
+\subsection{Decision Tree Performance in Other Areas}
+% @TODO think of a better name for the subsub-section
+\subsubsection{Decision Trees in Student Performance Prediction}
+% @TODO transition better into this
+Decision trees have also been compared and applied in other fields. Osmanbegovic and Suljic compared the performance of an implementation of a decision tree algorithm, Naive Bayes algorithm, and a Multilayer Perceptron algorithm in predicting student performance by the prediction accuracy, learning time, and error rate. \cite{performance1}
+
+Osmanbegovic and Suljic used 12 input features such as gender, GPA, and whether or not the student had scholarships, and outputted whether or not the student would pass or fail. The output could also be classified by letter grades, but due to the disparity in the amount of data for each class, was not used. \cite{performance1}
+
+They found that the Naive Bayes algorithm managed to outperform the C4.5 decision tree algorithm implementation, J48, in both prediction accuracy, and error rate. Additionally, it was found that the Naive Bayes algorithm and the decision tree algorithm created prediction models that were both accurate, and user-friendly enough for the stakeholders. \cite{performance1}
+
+% @TODO think of a better name for this
+\subsubsection{Improvements}
+Similarly to Osmanbegovic and Suljic's data, some classes in census data are going to have differing amounts of data, and will affect prediction accuracy. Instead of changing the class groupings to get more equal representation, weights could be added to the training data to account for these differences. In the case of the Canadian Census data, these weights are already added to the data for use.
+
 \section{Main Body}
 
 \section{Analytic Evaluation}
