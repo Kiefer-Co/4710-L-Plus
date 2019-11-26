@@ -479,6 +479,17 @@ They found that the Naive Bayes algorithm managed to outperform the C4.5 decisio
 \subsubsection{Improvements}
 Similarly to Osmanbegovic and Suljic's data, some classes in census data are going to have differing amounts of data, and will affect prediction accuracy. Instead of changing the class groupings to get more equal representation, weights could be added to the training data to account for these differences. In the case of the Canadian Census data, these weights are already added to the data for use.
 
+% @TODO take another pass at this paper - it keeps going over my head
+\subsection{An Alternative Approach to Census Data Mining}
+In their paper, Klösgen and May took a different approach to mining census data. Klösgen and May used the United Kingdom's census data, which was only available in an aggregated form. The census data was available aggregated across various wards within the region, along with a detailed set of geographic layers. Thus, Klösgen and May decided to use those wards as the focus of their examination, and propose an application of SubgroupMiner, an advanced subgroup mining system. \cite{census1}
+
+% @TODO title
+\subsection{???}
+Hulten, Spencer, and Domingos' CVFDT algorithm improves on the VFDT decision tree learner by accounting for data changing over time. \cite{dtrees1} Their CVFDT algorithm works by maintaining a decision tree with respect to a sliding window of data and grows an alternative subtree to replace an old one if it becomes out of date. This allows for it to learn a similar model to one from the VFDT algorithm but in constant time \cite{dtrees1}.
+
+Applying the algorithm to census data seems like a natural fit, and can be used to improve the performance of any decision tree learners in use. The addition of the time aspect could also be used to improve the accuracy in cases where the data from only one period of time is used, instead of multiple.
+
+
 \section{Main Body}
 
 \section{Analytic Evaluation}

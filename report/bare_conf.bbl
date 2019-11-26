@@ -35,4 +35,11 @@ E.~Osmanbegovic and M.~Suljic, ``Data mining approach for predicting student
   performance,'' \emph{Economic Review: Journal of Economics and Business},
   2012.
 
+\bibitem{census1}
+W.~Klösgen and M.~May, ``Census data mining - an application,'' 2012.
+
+\bibitem{dtrees1}
+G.~Hulten, L.~Spencer, and P.~Domingos, ``Mining time-changing data streams,''
+  2001.
+
 \end{thebibliography}
