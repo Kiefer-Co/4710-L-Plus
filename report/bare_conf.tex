@@ -496,9 +496,50 @@ Applying the algorithm to census data seems like a natural fit, and can be used 
 
 \subsection{Methodology}
 
+data imputation
+
+import pandas
+
+feature selection
+
+create dictionaries for mother tongue and home language classifier languages and langaguage groups
+
+remap mother tongue language groups that are not in the home language dict to 'All other languages'
+
+remove mother tongue and home language from features that are used for classification, since we are attempting to classify mother tongue != home language
+
+If mother tongue == home language, then no language shift has occurred (language shift is false).
+
+If mother tongue != home language, then a language shift has occured (language shift is true)
+
+save weights for each record in dataset
+
+
 \subsection{Random Forest}
 
+Split data into training and testing data for weights, features, and language shift variable
+
+fit random forest classifier on training features, language shift variable to classify, and weights
+
+predict language shift using classifier
+
+print confusion matrix for language shift variable
+
+print classification report detailing precision, recall, and f1-score
+
+print accuracy of classifier
+
+print feature importances
+
+export sample dot file as decision tree
+
 \subsection{Decision Tree}
+
+Fit decision tree classifier on selected features with languageShift as a classifier and weights passed in
+
+print out feature importances
+
+export decision tree as dot fild with max depth limited to 5
 
 \subsection{Naive Baysian}
 
