@@ -493,6 +493,13 @@ Applying the algorithm to census data seems like a natural fit, and can be used 
 \section{Main Body}
 
 \subsection{Data Collection}
+Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or ~2.7\% of the target population) individual, anonymized records, with 123 features. Additionally, there's an individual weight attached to each record, and 16 estimate weights for sampling variability.
+
+\subsubsection{Privacy}
+While the PUMF does give individual records, some of the data was aggregated to preserve confidentiality (e.g. categories being combined together), and some records had some of their variables changed to 'Not Available' for similar reasons. Furthermore, only the largest of the census metropolitan areas and provinces were covered. 
+
+\subsubsection{Data Weighting and Sample Universe}
+Since the PUMF data is only a sample of the target population, each record includes an individual weight to indicate how much of the target population that the record represents. In addition to the weights, 31 of the features are drawn from the universe of family, household, and dwelling universes, and the remaining 92 features are from the individual universe.
 
 \subsection{Methodology}
 
