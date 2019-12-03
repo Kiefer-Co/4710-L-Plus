@@ -501,6 +501,12 @@ While the PUMF does give individual records, some of the data was aggregated to 
 \subsubsection{Data Weighting and Sample Universe}
 Since the PUMF data is only a sample of the target population, each record includes an individual weight to indicate how much of the target population that the record represents. In addition to the weights, 31 of the features are drawn from the universe of family, household, and dwelling universes, and the remaining 92 features are from the individual universe.
 
+\subsubsection{Data Cleaning}
+Since some values in the PUMF data are marked as invalid or unavailable, some preprocessing on the data is required. Due to each record having an individual weight attached to it, rather than impute a value for the missing/invalid values, those rows were dropped instead. 
+
+In general, some features had a high rate of invalid data and were not used for any of the classifiers.
+% @TODO more specifics on what was dropped
+
 \subsection{Methodology}
 
 data imputation
@@ -509,7 +515,7 @@ import pandas
 
 feature selection
 
-create dictionaries for mother tongue and home language classifier languages and langaguage groups
+create dictionaries for mother tongue and home language classifier languages and language groups
 
 remap mother tongue language groups that are not in the home language dict to 'All other languages'
 
@@ -558,7 +564,7 @@ print feature importances
 
 export sample dot file as decision tree
 
-\subsection{Naive Baysian}
+\subsection{Naive Bayesian}
 
 Split data into training and testing data for weights, features, and language shift variable
 
