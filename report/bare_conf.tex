@@ -402,7 +402,7 @@ Email: kleung@cs.umanitoba.ca}
 
 
 \begin{abstract}
-Canada is a nation composed of a highly diverse language population. This provides a unique opportunity to study the factors causing certain languages and language families to be lost over subsequent generations amongst allophones (people with a mother tongue other than English or French). In this paper, we apply the decision tree induction algorithm to census microdata to analyze the influence of various social and economic factors on the probability that allophones adopt official languages as their language spoken at home. We argue that decision tree induction can offer us more insights on the causes of language shift than linear regression.
+Canada is a nation composed of a highly diverse language population. This provides a unique opportunity to study the factors causing certain languages and language families to be lost over subsequent generations amongst allophones (people with a mother tongue other than English or French). This paper applies and compares the performance of Decision Tree Induction, Random Forest, and Gaussian Naive Bayesian algorithm to census microdata to analyze the influence of various social and economic factors on the probability that allophones adopt official languages as their language spoken at home.
 
 \end{abstract}
 
@@ -432,11 +432,11 @@ This provides a unique opportunity to study the rates at which certain languages
 
 A language shift occurs when an allophone adopts an official language as their primary language and ceases to use their mother tongue. Several studies have aimed to measure language shift rates through linear regression on various cohorts of the population. Ultimately, it is impossible to ascertain precisely when a language shift occurs, so the insights offered by linear regression are limited in accuracy.
 
-We propose using decision trees to analyze the categorical census data and determine which variables best predict whether the language spoken at home is different than the mother tongue. We believe that this is better suited to identifying the causes of language shift than linear regression because it disentangles prediction of the rate of language shift from identifying the factors that cause it. Decision trees are also better suited to measure whether certain properties of a population group are more likely to influence language shift than other properties.
+This paper proposes an application of various data mining algorithms and compares their accuracy and speed when used on census data, namely the Random Forest algorithm, the Decision Tree algorithm, and the Gaussian Naive Bayesian algorithm.
 
-Some challenges working with census microdata include the fact that the Public Use Microdata Files (PUMF) have been downsampled from the census population size. In order to perform an analysis that would take into account the population distribution, we needed to multiply records by a corresponding weight included in the PUMF datasets. Additionally, the PUMF datasets contain over 100 potential features, which would result in a decision tree that is far too large to visualize. As a result, feature selection must be performed in order to produce a visualization that is easy to understand.
+Some challenges working with census microdata include the fact that the Public Use Microdata Files (PUMF) have been downsampled from the census population size. In order to perform an analysis that would take into account the population distribution, we needed to multiply records by a corresponding weight included in the PUMF datasets. Additionally, the PUMF datasets contain over 100 potential features, some of which contain largely invalid/unavailable data. As a result, some level of feature selection is required.
 
-The Canadian census is conducted every five years. As a result, changes that occur between census periods may not be captured at the exact time of their occurence.
+The Canadian census is conducted every five years. As a result, changes that occur between census periods may not be captured at the exact time of their occurrence.
 
 % You must have at least 2 lines in the paragraph with the drop letter
 % (should never be an issue)
@@ -484,7 +484,7 @@ Similarly to Osmanbegovic and Suljic's data, some classes in census data are goi
 In their paper, Klösgen and May took a different approach to mining census data. Klösgen and May used the United Kingdom's census data, which was only available in an aggregated form. The census data was available aggregated across various wards within the region, along with a detailed set of geographic layers. Thus, Klösgen and May decided to use those wards as the focus of their examination, and propose an application of SubgroupMiner, an advanced subgroup mining system. \cite{census1}
 
 % @TODO title
-\subsection{???}
+\subsection{An Improved Decision Tree Algorithm}
 Hulten, Spencer, and Domingos' CVFDT algorithm improves on the VFDT decision tree learner by accounting for data changing over time. \cite{dtrees1} Their CVFDT algorithm works by maintaining a decision tree with respect to a sliding window of data and grows an alternative subtree to replace an old one if it becomes out of date. This allows for it to learn a similar model to one from the VFDT algorithm but in constant time \cite{dtrees1}.
 
 Applying the algorithm to census data seems like a natural fit, and can be used to improve the performance of any decision tree learners in use. The addition of the time aspect could also be used to improve the accuracy in cases where the data from only one period of time is used, instead of multiple.
