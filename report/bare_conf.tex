@@ -509,23 +509,29 @@ In general, some features had a high rate of invalid data and were not used for 
 
 \subsection{Methodology}
 
-data imputation % Done above
+Our analysis is performed in Python via Jupyter Notebooks.  Packages utilized include \textbf{pandas} for data manipulation, \textbf{scikit-learn} for implementations of the classification algorithms in question, and \textbf{bokeh} and \textbf{tabulate} for visualization and formatting of our data.
 
-import pandas
+\subsubsection{Data Wrangling}
+Prior to the execution of any classifiers, the PUMF dataset is passed through a single data preprocessing pipeline.  This pipeline achieves two broad objectives, namely pruning uninteresting data and selecting against features containing a high proportion of invalid data.
 
-feature selection
+The feature selection process performed was a mix of manually intuited choices and insights from initial analysis using scikit-learn's decision tree classifier on unprocessed data.  Features which were pruned were both uninformative with regards to our goal of detecting home language shifts and possessed clearly understood reasons for their behaviour.  For example, MTNEN (mother tongue being English) was extremely negatively correlated with our shift metric, as English is the most spoken language in Canada and an unlikely home language to shift away from.  Conversely, LWAEN (language at work being English) and LWAFR (language at work being French), had little to no influence on our shift metric, which was understood to be the consequence of work language rarely being a language other than English or French.  Such features were pruned omitted from the preprocessed version of our dataset.
 
-create dictionaries for mother tongue and home language classifier languages and language groups
+The PUMF dataset also contained missing, invalid, or inapplicable values as specified by certain numeric codes (e.g.  88888888) as specified in its accompanying Study Documentation.  Our initial preprocessing involved detecting the number of such values in each feature column as a proportion of the total number of entries.  Features which possessed an unususable percentage greater than 20 were pruned so as to not obscure our analysis by training classifiers on presence of a data feature rather than its content.
 
-remap mother tongue language groups that are not in the home language dict to 'All other languages'
+Our initial data anaylsis also found promising improvements when dropping rows featuring English as a mother tongue.  Removal of these rows lowered the unusable proportion of many features we intuited would provide useful insight, such as AGEIMM (age of immigration) which dropped from 88 to 61 percent unusable.  Although AGEIMM in particular remained unsuitable for our analysis as only a fraction of respondents provded a usable value, we opted to remove English mother tongue rows from our dataset with the intention of providing more focused analysis on changes within Canada's non-official language communities, from which shifts to English as a home language were more common than the inverse.
 
-remove mother tongue and home language from features that are used for classification, since we are attempting to classify mother tongue != home language
+As mentioned, data imputation was considered as a remedy for unsusable data, but opted against due to the structure of the PUMF dataset.  The dataset is meant to balance presenting a representative subset of Canada's demographics while also anonymzing census results which, by Canadian law, are to be withheld from complete public disclosure for 92 years post-response.  As such, each row in the PUMF dataset is a weighted representation of several individuals.  Imputation of unusable values, even with the feature's weighted mean as a substitution, was reasoned to be unapplicable wiithout rendering the dataset no longer representative of Canada's demographics.
 
-If mother tongue == home language, then no language shift has occurred (language shift is false).
+\subsubsection{Shift Detection}
+Our process for identifying language shift involves constructing a Boolean feature we call \textbf{languageShift}, computed from the MTNNO (mother tongue) and HLANO (home language) attributes.
 
-If mother tongue != home language, then a language shift has occured (language shift is true)
+In the PUMF dataset, both the MTNNO and HLANO features are categorical attributes encoded as a numeric value.  Each feature's encodings are independent and cannot be readily compared, although there exists an intersection between the categories represented within each feature.  Dictionaries for mapping MTNNO and HLANO categories to equivalency classes were manually defined using information outlined in the PUMF Study Documentation file.  These classes include both whole languages such as "Arabic" as well as grouped categories such as "Austro-Asiatic languages".
 
-save weights for each record in dataset
+As the MTNNO categories are less broad and appear to be a superset of the HLANO categories, some categories appear in MTNNO but not HLANO, such as "Uralic" or Korean".  Rather than omitting rows containing these mother tongues, we opted to categorize them under the "All other languages" class.
+
+The value of our languageShift attribute is then defined as the presence of inequivalent class mappings in the MTNNO and HLANO features within a data row.  The reasoning behind this decision is that a difference between mother tongue and home language implies a shift having occurred at some point within an individual's lifetime, with the assumption made being that an individual's mother tongue must at one point have been their home language, possibly only in childhood or even outside of Canada.
+
+If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If no mapping can be found, the languageShift value will be true.  As with other features in the dataset, the results of the languageShift column are to be interpreted as representative of several individuals.  A row's weight is to be factored into any analysis on or prediction of the languageShift feature.
 
 
 \subsection{Random Forest}
