@@ -430,7 +430,7 @@ Canada is a nation composed of a highly diverse language population. Immigration
 
 This provides a unique opportunity to study the rates at which certain languages and language families are lost over subsequent generations as allophones (people with a mother tongue other than English or French) adopt English or French as their primary language. Certain factors such as sex, age, educational status and economic success may prove to be a key indicator of how quickly an individual adopts a language other than their mother tongue in everyday life.
 
-A language shift occurs when an allophone adopts an official language as their primary language and ceases to use their mother tongue. Several studies have aimed to measure language shift rates through linear regression on various cohorts of the population. Ultimately, it is impossible to ascertain precisely when a language shift occurs, so the insights offered by linear regression are limited in accuracy.
+A language shift occurs when an allophone adopts an official language as their primary language, i.e. language spoken at home. Several studies have aimed to measure language shift rates through linear regression on various cohorts of the population. Ultimately, it is impossible to ascertain precisely when a language shift occurs, so the insights offered by linear regression are limited in accuracy.
 
 This paper proposes an application of various data mining algorithms and compares their accuracy and speed when used on census data, namely the Random Forest algorithm, the Decision Tree algorithm, and the Categorical Naive Bayesian algorithm.
 
@@ -452,18 +452,18 @@ Patrick Sabourin and Alain Bélanger use the concept of a 'fictitious cohort', i
 One limitation to this method is that members of a cohort are defined in binary terms as having lost a language if they no longer speak it at home, while this process might occur gradually in real time. Additionally, certain language groups may experience different rates of language shift. \cite{dynamics1}
 
 \subsubsection{Synthetic Cohorts}
-Marie T Mora, Daniel J Villa and Alberto Davila use an alternative method known as 'synthetic cohort' analysis on census data in the United States. Their paper aims to better understand the recent dynamic of language loss and intergenerational maintenance of Spanish in the U.S., and compare this understanding to other non-English languages. In other words, exploring the retention or loss of Spanish in the U.S., particularly among foreign-born and U.S.-born children with immigrant parents. \cite{spanish1}
+Marie T Mora, Daniel J Villa and Alberto Davila use an alternative method known as 'synthetic cohort' analysis on census data in the United States. Their paper aims to better understand the recent dynamic of language loss and intergenerational maintenance of Spanish in the U.S., and compare it to other non-English languages. In other words, exploring the retention or loss of Spanish and other non-English speakers in the U.S., particularly among foreign-born and U.S.-born children with immigrant parents. \cite{spanish1}
 
-The technique for analysis, synthetic cohort analysis, is based on data drawn from 1980, 1990, and 2000 United States Censuses. It creates a temporal representation of a population, over ten-year intervals. The authors track the reported language use of individuals starting at ages 5-7 and ending at ages 15-17 across two United States census. \cite{spanish1}
+The technique for analysis, synthetic cohort analysis, is based on data drawn from 1980, 1990, and 2000 United States Censuses. It creates a temporal representation of a population, over ten-year intervals. The authors track the reported language use of individuals starting at ages 5-7 and ending at ages 15-17 across two United States census. This selection is due to children being able to speak at ages 5-7 and languages tending not to be lost after ages 15-17. \cite{spanish1}
 
-This is in contrast to cross-sectional methods like the synthetic cohort method which uses data from only one Census period to analyze language shifts. Combining this method with the synthetic cohort, the paper argues that the dynamic in language shift is better predicted, as supported by what has been observed in the U.S. \cite{spanish1}
+This is in contrast to cross-sectional methods which use data from only one Census period to analyze language shifts. Combining this method with the synthetic cohort, the paper argues that the dynamic in language shift is better predicted, supported by what has been observed in the U.S. \cite{spanish1}
 
 There are still some difficulties with this approach. For example, 1980 and 1990 samples could have emigrations before 1990 and 2000, and from this the “true” cohorts of the foreign-born may not be entirely reflected.\cite{spanish1}
 
 \subsubsection{Limitations of Linear Regression}
 As seen above, multiple approaches to analyzing language cohorts temporally run into limitations in how census data is collected. Sampling errors and poorly worded census questions make it difficult to capture whether emigration has occurred between censuses. Even within a census, it is tempting to view language shift within a cohort as binary when this process occurs gradually.
 
-Populations are dynamic, and multiple categorical variables influence whether a language that is the mother tongue is spoken at home. A decision tree can reveal which categorical variables determine whether mother tongue is retained as the language spoken at home. Conversely, linear regression is poorly suited for finding insights from categorical data.
+Populations are dynamic, and multiple categorical variables influence whether a language that is the mother tongue is spoken at home. A decision tree can reveal which categorical variables determine whether mother tongue is retained as the language spoken at home.
 
 \subsection{Decision Tree Performance in Other Areas}
 % @TODO think of a better name for the subsub-section
@@ -520,7 +520,7 @@ The PUMF dataset also contained missing, invalid, or inapplicable values as spec
 
 Our initial data anaylsis also found promising improvements when dropping rows featuring English as a mother tongue.  Removal of these rows lowered the unusable proportion of many features we intuited would provide useful insight, such as AGEIMM (age of immigration) which dropped from 88 to 61 percent unusable.  Although AGEIMM in particular remained unsuitable for our analysis as only a fraction of respondents provded a usable value, we opted to remove English mother tongue rows from our dataset with the intention of providing more focused analysis on changes within Canada's non-official language communities, from which shifts to English as a home language were more common than the inverse.
 
-As mentioned, data imputation was considered as a remedy for unsusable data, but opted against due to the structure of the PUMF dataset.  The dataset is meant to balance presenting a representative subset of Canada's demographics while also anonymzing census results which, by Canadian law, are to be withheld from complete public disclosure for 92 years post-response.  As such, each row in the PUMF dataset is a weighted representation of several individuals, listed under the attribute WEIGHT.  Imputation of unusable values, even with the feature's weighted mean as a substitution, was reasoned to be unapplicable wiithout rendering the dataset no longer representative of Canada's demographics.
+As mentioned, data imputation was considered as a remedy for unsusable data, but opted against due to the structure of the PUMF dataset.  The dataset is meant to balance presenting a representative subset of Canada's demographics while also anonymzing census results which, by Canadian law, are to be withheld from complete public disclosure for 92 years post-response.  As such, each row in the PUMF dataset is a weighted representation of several individuals, listed under the attribute WEIGHT.  Imputation of unusable values, even with the feature's weighted mean as a substitution, was reasoned to be unapplicable without rendering the dataset no longer representative of Canada's demographics.
 
 \subsubsection{Shift Detection}
 Our process for identifying language shift involves constructing a Boolean feature we call \textbf{languageShift}, computed from the MTNNO (mother tongue) and HLANO (home language) attributes.
@@ -602,9 +602,7 @@ VisMin (Visible minority status)           & 0.0242537            \\\
 
 \subsection{Naive Bayesian}
 
-\textit{COMING SOON}
-
-\textit{Split data into training and testing data for weights, features, and language shift variable\\fit naive bayesian classifier on training features, language shift variable to classify, and weights\\predict language shift using classifier\\print confusion matrix for language shift variable\\print classification report detailing precision, recall, and f1-score\\print accuracy of classifier}
+An analysis on the Naive Bayesian algorithm will be included in the final version of the paper. Methodology used is similar to the random forest and decision tree analysis.
 
 \section{Analytic Evaluation}
 
@@ -694,7 +692,7 @@ VisMin (Visible minority status)           & 0.0242537            \\\
 
 
 \section{Conclusion}
-The conclusion goes here. this is more of the conclusion
+Results will be placed here in the final version of the paper.
 
 % conference papers do not normally have an appendix
 
