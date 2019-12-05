@@ -402,7 +402,7 @@ Email: kleung@cs.umanitoba.ca}
 
 
 \begin{abstract}
-Canada is a nation composed of a highly diverse language population. This provides a unique opportunity to study the factors causing certain languages and language families to be lost over subsequent generations amongst allophones (people with a mother tongue other than English or French). This paper applies and compares the performance of Decision Tree Induction, Random Forest, and Gaussian Naive Bayesian algorithm to census microdata to analyze the influence of various social and economic factors on the probability that allophones adopt official languages as their language spoken at home.
+Canada is a nation composed of a highly diverse language population. This provides a unique opportunity to study the factors causing certain languages and language families to be lost over subsequent generations amongst allophones (people with a mother tongue other than English or French). This paper applies and compares the performance of Decision Tree Induction, Random Forest, and Categorical Naive Bayesian algorithm to census microdata to analyze the influence of various social and economic factors on the probability that allophones adopt official languages as their language spoken at home.
 
 \end{abstract}
 
@@ -432,7 +432,7 @@ This provides a unique opportunity to study the rates at which certain languages
 
 A language shift occurs when an allophone adopts an official language as their primary language and ceases to use their mother tongue. Several studies have aimed to measure language shift rates through linear regression on various cohorts of the population. Ultimately, it is impossible to ascertain precisely when a language shift occurs, so the insights offered by linear regression are limited in accuracy.
 
-This paper proposes an application of various data mining algorithms and compares their accuracy and speed when used on census data, namely the Random Forest algorithm, the Decision Tree algorithm, and the Gaussian Naive Bayesian algorithm.
+This paper proposes an application of various data mining algorithms and compares their accuracy and speed when used on census data, namely the Random Forest algorithm, the Decision Tree algorithm, and the Categorical Naive Bayesian algorithm.
 
 Some challenges working with census microdata include the fact that the Public Use Microdata Files (PUMF) have been downsampled from the census population size. In order to perform an analysis that would take into account the population distribution, we needed to multiply records by a corresponding weight included in the PUMF datasets. Additionally, the PUMF datasets contain over 100 potential features, some of which contain largely invalid/unavailable data. As a result, some level of feature selection is required.
 
@@ -514,13 +514,13 @@ Our analysis is performed in Python via Jupyter Notebooks.  Packages utilized in
 \subsubsection{Data Wrangling}
 Prior to the execution of any classifiers, the PUMF dataset is passed through a single data preprocessing pipeline.  This pipeline achieves two broad objectives, namely pruning uninteresting data and selecting against features containing a high proportion of invalid data.
 
-The feature selection process performed was a mix of manually intuited choices and insights from initial analysis using scikit-learn's decision tree classifier on unprocessed data.  Features which were pruned were both uninformative with regards to our goal of detecting home language shifts and possessed clearly understood reasons for their behaviour.  For example, MTNEN (mother tongue being English) was extremely negatively correlated with our shift metric, as English is the most spoken language in Canada and an unlikely home language to shift away from.  Conversely, LWAEN (language at work being English) and LWAFR (language at work being French), had little to no influence on our shift metric, which was understood to be the consequence of work language rarely being a language other than English or French.  Such features were pruned omitted from the preprocessed version of our dataset.
+The feature selection process performed was a mix of manually intuited choices and insights from initial analysis using scikit-learn's decision tree classifier on unprocessed data.  Features which were pruned were both uninformative with regards to our goal of detecting home language shifts and possessed clearly understood reasons for their behaviour.  For example, MTNEN (mother tongue being English) was extremely negatively correlated with our shift metric, as English is the most spoken language in Canada and an unlikely home language to shift away from.  Conversely, LWAEN (language at work being English) and LWAFR (language at work being French), had little to no influence on our shift metric, which was understood to be the consequence of work language rarely being a language other than English or French.  Such features were omitted from the preprocessed version of our dataset.
 
 The PUMF dataset also contained missing, invalid, or inapplicable values as specified by certain numeric codes (e.g.  88888888) as specified in its accompanying Study Documentation.  Our initial preprocessing involved detecting the number of such values in each feature column as a proportion of the total number of entries.  Features which possessed an unususable percentage greater than 20 were pruned so as to not obscure our analysis by training classifiers on presence of a data feature rather than its content.
 
 Our initial data anaylsis also found promising improvements when dropping rows featuring English as a mother tongue.  Removal of these rows lowered the unusable proportion of many features we intuited would provide useful insight, such as AGEIMM (age of immigration) which dropped from 88 to 61 percent unusable.  Although AGEIMM in particular remained unsuitable for our analysis as only a fraction of respondents provded a usable value, we opted to remove English mother tongue rows from our dataset with the intention of providing more focused analysis on changes within Canada's non-official language communities, from which shifts to English as a home language were more common than the inverse.
 
-As mentioned, data imputation was considered as a remedy for unsusable data, but opted against due to the structure of the PUMF dataset.  The dataset is meant to balance presenting a representative subset of Canada's demographics while also anonymzing census results which, by Canadian law, are to be withheld from complete public disclosure for 92 years post-response.  As such, each row in the PUMF dataset is a weighted representation of several individuals.  Imputation of unusable values, even with the feature's weighted mean as a substitution, was reasoned to be unapplicable wiithout rendering the dataset no longer representative of Canada's demographics.
+As mentioned, data imputation was considered as a remedy for unsusable data, but opted against due to the structure of the PUMF dataset.  The dataset is meant to balance presenting a representative subset of Canada's demographics while also anonymzing census results which, by Canadian law, are to be withheld from complete public disclosure for 92 years post-response.  As such, each row in the PUMF dataset is a weighted representation of several individuals, listed under the attribute WEIGHT.  Imputation of unusable values, even with the feature's weighted mean as a substitution, was reasoned to be unapplicable wiithout rendering the dataset no longer representative of Canada's demographics.
 
 \subsubsection{Shift Detection}
 Our process for identifying language shift involves constructing a Boolean feature we call \textbf{languageShift}, computed from the MTNNO (mother tongue) and HLANO (home language) attributes.
@@ -534,55 +534,77 @@ The value of our languageShift attribute is then defined as the presence of ineq
 If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If no mapping can be found, the languageShift value will be true.  As with other features in the dataset, the results of the languageShift column are to be interpreted as representative of several individuals.  A row's weight is to be factored into any analysis on or prediction of the languageShift feature.
 
 
-\subsection{Random Forest}
-
-Split data into training and testing data for weights, features, and language shift variable
-
-fit random forest classifier on training features, language shift variable to classify, and weights
-
-predict language shift using classifier
-
-print confusion matrix for language shift variable
-
-print classification report detailing precision, recall, and f1-score
-
-print accuracy of classifier
-
-print feature importances
-
-export sample dot file as decision tree
-
 \subsection{Decision Tree}
 
-Split data into training and testing data for weights, features, and language shift variable
+Our data analysis notebooks load the preprocessed dataset and perform implementation-specific data manipulation prior to analysis.  Our analysis pipeline involves manipulating and splitting the dataset, then training a classifier on the data.  The classifier is examined to reveal insights on relevant features.
 
-fit decision tree classifier on training features, language shift variable to classify, and weights
+The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features.
 
-predict language shift using classifier
+The manipulated datasets are then split into train and test sets, with one quarter of the data reserved for testing and the remainder being allocated for training.
 
-print confusion matrix for language shift variable
+A decision tree is then trained to predict languageShift using the classification features and with respect to the data's weights.  The tree is allowed to split on features until all leaves are pure, using gini to evaluate splits.
 
-print classification report detailing precision, recall, and f1-score
+The precision and recall per languageShift class for the trained decison tree, tested on the testing dataset, are as follows:\\\
 
-print accuracy of classifier
+\begin{tabular}{lllll}
+                              & precision & recall & f1-score        & support \\
+\textit{False}         & 0.89      & 0.88   & 0.89            & 75521   \\
+\textit{True} & 0.60      & 0.61   & 0.61            & 21434   \\
+Total                       &           &        & (accuracy) 0.82 & 96955   \\\
+\end{tabular}
 
-print feature importances
+Feature importances are then extracted from the trained classifier.  The top ten features obtained via this method are as follows:\\\
 
-export sample dot file as decision tree
+\begin{tabular}{ll}
+\textbf{Feature} & \textbf{Importance} \\
+GENSTAT (Generation status)         & 0.196041            \\
+VisMin (Visible minority status)          & 0.0601858           \\
+ETHDER (Ethnic origin)          & 0.0517905           \\
+POB (Place of birth)             & 0.0438852           \\
+PR (Province, current)              & 0.0398168           \\
+SHELCO (Shelter cost)          & 0.0390179           \\
+AGEGRP (Age)          & 0.0303643           \\
+POBF (Father's POB)            & 0.0285193           \\
+MrkInc (Market income)          & 0.0230586           \\
+ROOMS (\# Rooms in dwelling)           & 0.0224302   \\\       
+\end{tabular}
+
+The decision tree is then visualized using bokeh as seen in the following figure: \textit{To be included.}
+
+\subsection{Random Forest}
+
+Our random forest analysis takes in data in a format identical to that of our decision tree analysis.  Data is manipulated and split as described above, then used to train and evaluate a random forest classifier.  The classifier in question uses twenty decision trees as estimators within its averaging process.  A controlled random state is passed which acts as a seed to ensure repeatability of results.
+
+The precision and recall per languageShift class for the trained random forest classifier, tested on the testing dataset, are as follows:\\\
+
+\begin{tabular}{lllll}
+                              & precision & recall & f1-score        & support \\
+\textit{False} & 0.88      & 0.95   & 0.91            & 75523   \\
+\textit{True}         & 0.76      & 0.55   & 0.64            & 21432   \\
+Total                       &           &        & (accuracy) 0.86 & 96955   \\\
+\end{tabular}
+
+Feature importances are then extracted from the trained classifier.  The top ten features obtained via this method are as follows:\\\
+
+\begin{tabular}{ll}
+\textbf{Feature} & \textbf{Importance} \\
+GENSTAT (Generation status)         & 0.063524 \\
+ETHDER (Ethnic origin)          & 0.0546316           \\
+POBF (Father's POB)            & 0.0473872           \\
+PR (Province, current)              & 0.0456554           \\
+POB (Place of birth)             & 0.0421344           \\
+POBM (Mother's POB)            & 0.0392552           \\
+DPGRSUM (Population group)         & 0.027472            \\
+SHELCO (Shelter cost)          & 0.0272865           \\
+PR5 (Province, 5 years ago)             & 0.0252248           \\
+VisMin (Visible minority status)           & 0.0242537            \\\
+\end{tabular}
 
 \subsection{Naive Bayesian}
 
-Split data into training and testing data for weights, features, and language shift variable
+\textit{COMING SOON}
 
-fit naive bayesian classifier on training features, language shift variable to classify, and weights
-
-predict language shift using classifier
-
-print confusion matrix for language shift variable
-
-print classification report detailing precision, recall, and f1-score
-
-print accuracy of classifier
+\textit{Split data into training and testing data for weights, features, and language shift variable\\fit naive bayesian classifier on training features, language shift variable to classify, and weights\\predict language shift using classifier\\print confusion matrix for language shift variable\\print classification report detailing precision, recall, and f1-score\\print accuracy of classifier}
 
 \section{Analytic Evaluation}
 
