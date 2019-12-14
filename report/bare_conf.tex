@@ -490,12 +490,18 @@ Hulten, Spencer, and Domingos' CVFDT algorithm improves on the VFDT decision tre
 Applying the algorithm to census data seems like a natural fit, and can be used to improve the performance of any decision tree learners in use. The addition of the time aspect could also be used to improve the accuracy in cases where the data from only one period of time is used, instead of multiple.
 
 
-\section{Main Body}
+\section{Building the Classifiers}
 
-\subsection{Data Collection}
+\subsection{General Process}
+% @TODO fill in
+
+\subsection{Mining the 2016 Canadian Census}
+In addition to the general steps stated above, applying them to the 2016 Canadian Census required further work, namely the additional preprocessing due to the format of the data.
+
+\subsubsection{Data Format}
 Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or ~2.7\% of the target population) individual, anonymized records, with 123 features. Additionally, there's an individual weight attached to each record, and 16 estimate weights for sampling variability.
 
-\subsubsection{Privacy}
+\subsubsection{Privacy} % @TODO Consider scrapping the individual subsubsections
 While the PUMF does give individual records, some of the data was aggregated to preserve confidentiality (e.g. categories being combined together), and some records had some of their variables changed to 'Not Available' for similar reasons. Furthermore, only the largest of the census metropolitan areas and provinces were covered. 
 
 \subsubsection{Data Weighting and Sample Universe}
@@ -507,8 +513,7 @@ Since some values in the PUMF data are marked as invalid or unavailable, some pr
 In general, some features had a high rate of invalid data and were not used for any of the classifiers.
 % @TODO more specifics on what was dropped
 
-\subsection{Methodology}
-
+\subsection{Methodology} % @TODO move this?
 Our analysis is performed in Python via Jupyter Notebooks.  Packages utilized include \textbf{pandas} for data manipulation, \textbf{scikit-learn} for implementations of the classification algorithms in question, and \textbf{bokeh} and \textbf{tabulate} for visualization and formatting of our data.
 
 \subsubsection{Data Wrangling}
