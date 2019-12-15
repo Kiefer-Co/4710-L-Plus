@@ -493,7 +493,16 @@ Applying the algorithm to census data seems like a natural fit, and can be used 
 \section{Building the Classifiers}
 
 \subsection{General Process}
-% @TODO fill in
+% @TODO expand on this
+The general process is as follows:
+\begin{enumerate}
+	\item Determine when a shift in language occurs
+	\item Preprocess the data, converting any continuous values into discrete values
+	\item Split the data into training and testing sets
+	\item Construct the various classifiers, and evaluate them
+\end{enumerate}
+
+Differences in datasets may result in the definition of language shift needing to be adjusted.
 
 \subsection{Mining the 2016 Canadian Census}
 In addition to the general steps stated above, applying them to the 2016 Canadian Census required further work, namely the additional preprocessing due to the format of the data.
