@@ -721,6 +721,8 @@ Additionally, the 2016 Canadian Census data set contains mostly data indicating 
 
 Furthermore, this analysis could be applied over multiple census years. In addition to increasing the amount of data available, adding a temporal dimension could add an interesting aspect to the classifiers, possibly taking historical events into account. 
 
+Another interesting metric that could be determined in future work is the conditional probability of each category of each feature influencing the language shift category. For instance, \textit{scikit-learn}'s CategoricalNB classifier implementation contains a feature log prob attribute that returns a 2D array for each feature, which contains the logarithmic probability that each category of the feature influences the language shift category.
+
 % use section* for acknowledgement
 \section*{Acknowledgment}
 
