@@ -490,7 +490,7 @@ Hulten, Spencer, and Domingos' CVFDT algorithm improves on the VFDT decision tre
 Applying the algorithm to census data seems like a natural fit, and can be used to improve the performance of any decision tree learners in use. The addition of the time aspect could also be used to improve the accuracy in cases where the data from only one period of time is used, instead of multiple.
 
 
-\section{Building the Classifiers}
+\section{Methodology}
 
 \subsection{General Process}
 % @TODO expand on this
@@ -509,6 +509,7 @@ In addition to the general steps stated above, applying them to the 2016 Canadia
 
 The analysis was performed in Python via Jupyter Notebooks.  Packages utilized include \textbf{pandas} for data manipulation, \textbf{scikit-learn} for implementations of the classification algorithms in question, and \textbf{bokeh} and \textbf{tabulate} for visualization and formatting of the data.
 % @TODO expand on the specific uses for each of the packages
+\textbf{Pandas} was used to import the dataset from the csv, and to transform, and operate on the data through the use of Pandas' \textit{DataFrames}.
 
 \subsubsection{Data Format}
 Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or ~2.7 \% of the target population) individual, anonymized records, with 123 features. Additionally, there's an individual weight attached to each record, and 16 estimate weights for sampling variability.
@@ -561,7 +562,25 @@ The manipulated datasets are then split into train and test sets, with one quart
 
 A decision tree is then trained to predict languageShift using the classification features and with respect to the data's weights.  The tree is allowed to split on features until all leaves are pure, using Gini indices to evaluate splits.
 
-The precision and recall per languageShift class for the trained decision tree, tested on the testing dataset, are as follows:\\\
+The precision and recall per languageShift class for the trained decision tree, tested on the testing dataset, can be seen in figure \ref{fig:decision_tree_metrics}.
+
+Feature importances are then extracted from the trained classifier.  The top ten features obtained via this can be seen in figure \ref{fig:decision_tree_importances}.
+
+The decision tree is then visualized using bokeh as seen in the following figure: \textit{To be included.}
+
+\subsection{Random Forest}
+
+The random forest analysis takes in data in a format identical to that of the decision tree analysis.  Data is manipulated and split as described above, then used to train and evaluate a random forest classifier.  The classifier in question uses twenty decision trees as estimators within its averaging process.  A controlled random state is passed which acts as a seed to ensure repeatability of results.
+
+The precision and recall per languageShift class for the trained random forest classifier, tested on the testing dataset, can be see in figure \ref{fig:random_forest_metrics}.
+
+Feature importances are then extracted from the trained classifier.  The top ten features obtained via this method can be seen in figure \ref{fig:random_forest_importances}.
+
+\subsection{Naive Bayesian}
+
+An analysis on the Naive Bayesian algorithm will be included in the final version of the paper. Methodology used is similar to the random forest and decision tree analysis.
+
+\section{Analytic Evaluation}
 
 \begin{figure}
   \begin{tabular}{lllll}
@@ -573,8 +592,6 @@ The precision and recall per languageShift class for the trained decision tree, 
   \caption{Decision tree metrics}
   \label{fig:decision_tree_metrics}
 \end{figure}
-
-Feature importances are then extracted from the trained classifier.  The top ten features obtained via this can be seen in figure \ref{fig:decision_tree_importances}.\\\
 
 \begin{figure}
   \begin{tabular}{ll}
@@ -594,14 +611,6 @@ Feature importances are then extracted from the trained classifier.  The top ten
   \label{fig:decision_tree_importances}
 \end{figure}
 
-The decision tree is then visualized using bokeh as seen in the following figure: \textit{To be included.}
-
-\subsection{Random Forest}
-
-The random forest analysis takes in data in a format identical to that of the decision tree analysis.  Data is manipulated and split as described above, then used to train and evaluate a random forest classifier.  The classifier in question uses twenty decision trees as estimators within its averaging process.  A controlled random state is passed which acts as a seed to ensure repeatability of results.
-
-The precision and recall per languageShift class for the trained random forest classifier, tested on the testing dataset, can be see in figure \ref{fig:random_forest_metrics}.\\\
-
 \begin{figure}
   \begin{tabular}{lllll}
     & precision & recall & f1-score & support \\
@@ -612,8 +621,6 @@ The precision and recall per languageShift class for the trained random forest c
   \caption{Random forest metrics}
   \label{fig:random_forest_metrics}
 \end{figure}
-
-Feature importances are then extracted from the trained classifier.  The top ten features obtained via this method can be seen in figure \ref{fig:random_forest_importances}.\\\
 
 \begin{figure}
   \begin{tabular}{ll}
@@ -632,13 +639,6 @@ Feature importances are then extracted from the trained classifier.  The top ten
   \caption{Random forest feature importances}
   \label{fig:random_forest_importances}
 \end{figure}
-
-\subsection{Naive Bayesian}
-
-An analysis on the Naive Bayesian algorithm will be included in the final version of the paper. Methodology used is similar to the random forest and decision tree analysis.
-
-\section{Analytic Evaluation}
-
 
 % An example of a floating figure using the graphicx package.
 % Note that \label must occur AFTER (or within) \caption.
