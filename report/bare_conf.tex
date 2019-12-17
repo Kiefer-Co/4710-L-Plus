@@ -127,12 +127,12 @@
 % *** GRAPHICS RELATED PACKAGES ***
 %
 \ifCLASSINFOpdf
-  % \usepackage[pdftex]{graphicx}
+  \usepackage[pdftex]{graphicx}
   % declare the path(s) where your graphic files are
-  % \graphicspath{{../pdf/}{../jpeg/}}
+  \graphicspath{{./res/}}
   % and their extensions so you won't have to specify these with
   % every instance of \includegraphics
-  % \DeclareGraphicsExtensions{.pdf,.jpeg,.png}
+  \DeclareGraphicsExtensions{.pdf,.jpeg,.png}
 \else
   % or other class option (dvipsone, dvipdf, if not using dvips). graphicx
   % will default to the driver specified in the system graphics.cfg if no
@@ -507,34 +507,37 @@ Differences in datasets may result in the definition of language shift needing t
 \subsection{Mining the 2016 Canadian Census}
 In addition to the general steps stated above, applying them to the 2016 Canadian Census required further work, namely the additional preprocessing due to the format of the data.
 
-\subsubsection{Data Format}
-Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or ~2.7\% of the target population) individual, anonymized records, with 123 features. Additionally, there's an individual weight attached to each record, and 16 estimate weights for sampling variability.
+The analysis was performed in Python via Jupyter Notebooks.  Packages utilized include \textbf{pandas} for data manipulation, \textbf{scikit-learn} for implementations of the classification algorithms in question, and \textbf{bokeh} and \textbf{tabulate} for visualization and formatting of the data.
+% @TODO expand on the specific uses for each of the packages
 
-\subsubsection{Privacy} % @TODO Consider scrapping the individual subsubsections
+\subsubsection{Data Format}
+Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or ~2.7 \% of the target population) individual, anonymized records, with 123 features. Additionally, there's an individual weight attached to each record, and 16 estimate weights for sampling variability.
+
 While the PUMF did give individual records, some of the data was aggregated to preserve confidentiality (e.g. categories being combined together), and some records had some of their variables changed to 'Not Available' for similar reasons. Furthermore, only the largest of the census metropolitan areas and provinces were covered. 
 
-\subsubsection{Data Weighting and Sample Universe}
 Since the PUMF data was only a sample of the target population, each record includes an individual weight to indicate how much of the target population that the record represents. In addition to the weights, 31 of the features are drawn from the universe of family, household, and dwelling universes, and the remaining 92 features are from the individual universe.
 
-\subsubsection{Data Cleaning}
-Since some values in the PUMF data are marked as invalid or unavailable, some preprocessing on the data was required. Due to each record having an individual weight attached to it, rather than impute a value for the missing/invalid values, those rows were dropped instead. 
-
-In general, some features had a high rate of invalid data and were not used for any of the classifiers.
-% @TODO more specifics on what was dropped
-
-\subsection{Methodology} % @TODO move this?
-The analysis was performed in Python via Jupyter Notebooks.  Packages utilized include \textbf{pandas} for data manipulation, \textbf{scikit-learn} for implementations of the classification algorithms in question, and \textbf{bokeh} and \textbf{tabulate} for visualization and formatting of the data.
-
-\subsubsection{Data Wrangling}
+\subsubsection{Data Preprocessing}
 Prior to the execution of any of the classifiers, the PUMF dataset is passed through a single data preprocessing pipeline.  This pipeline achieves two broad objectives, namely pruning uninteresting data and selecting against features containing a high proportion of invalid data.
+
 
 The feature selection process performed was a mix of manually intuited choices and insights from initial analysis using scikit-learn's decision tree classifier on unprocessed data.  Features which were pruned were both uninformative with regards to the goal of detecting home language shifts and possessed clearly understood reasons for their behaviour.  For example, MTNEN (mother tongue being English) was extremely negatively correlated with the shift metric, as English is the most spoken language in Canada and an unlikely home language to shift away from.  Conversely, LWAEN (language at work being English) and LWAFR (language at work being French), had little to no influence on the shift metric, which was understood to be the consequence of work language rarely being a language other than English or French.  Such features were omitted from the preprocessed version of the dataset.
 
-The PUMF dataset also contained missing, invalid, or inapplicable values as specified by certain numeric codes (e.g.  88888888) as specified in its accompanying Study Documentation.  The initial preprocessing involved detecting the number of such values in each feature column as a proportion of the total number of entries.  Features which possessed an unusable percentage greater than 20 were pruned so as to not obscure the analysis by training classifiers on presence of a data feature rather than its content.
+
+\begin{figure}
+  \includegraphics[scale=0.25]{invalid_data_by_feature}
+  \centering
+  \caption{Invalid data by feature}
+  \label{fig:invalid_data}
+\end{figure}
+
+The PUMF dataset also contained missing, invalid, or inapplicable values as specified by certain numeric codes (e.g.  88888888) as specified in its accompanying Study Documentation.  The initial preprocessing involved detecting the number of such values in each feature column as a proportion of the total number of entries.  Features which possessed an unusable percentage greater than 20\% were pruned so as to not obscure the analysis by training classifiers on presence of a data feature rather than its content. A subset of the feature's invalid data rates can be seen in figure \ref{fig:invalid_data}.
+
 
 The initial data analysis also found promising improvements when dropping rows featuring English as a mother tongue.  Removal of these rows lowered the unusable proportion of many features that was thought to provide useful insight, such as AGEIMM (age of immigration) which dropped from 88 to 61 percent unusable.  Although AGEIMM in particular remained unsuitable for the analysis as only a fraction of respondents provided a usable value, a decision was made to remove English mother tongue rows from the dataset with the intention of providing more focused analysis on changes within Canada's non-official language communities, from which shifts to English as a home language were more common than the inverse.
 
-As mentioned, data imputation was considered as a remedy for unusable data, but opted against due to the structure of the PUMF dataset.  The dataset is meant to balance presenting a representative subset of Canada's demographics while also anonymizing census results which, by Canadian law, are to be withheld from complete public disclosure for 92 years post-response.  As such, each row in the PUMF dataset is a weighted representation of several individuals, listed under the attribute WEIGHT.  Imputation of unusable values, even with the feature's weighted mean as a substitution, was reasoned to be unapplicable without rendering the dataset no longer representative of Canada's demographics.
+\subsubsection{Imputation}
+Since some values in the PUMF data are marked as invalid or unavailable, further preprocessing on the data was required.  As mentioned, data imputation was considered as a remedy for unusable data, but opted against due to the presence of weights attached to each record in the PUMF dataset.  The dataset is meant to balance presenting a representative subset of Canada's demographics while also anonymizing census results which, by Canadian law, are to be withheld from complete public disclosure for 92 years post-response.  As such, each row in the PUMF dataset is a weighted representation of several individuals, listed under the attribute WEIGHT.  Imputation of unusable values, even with the feature's weighted mean as a substitution, was reasoned to be inapplicable without rendering the dataset no longer representative of Canada's demographics.
 
 \subsubsection{Shift Detection}
 The process for identifying language shift involves constructing a Boolean feature called \textbf{languageShift}, computed from the MTNNO (mother tongue) and HLANO (home language) attributes.

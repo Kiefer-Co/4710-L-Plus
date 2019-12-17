@@ -1,0 +1,77 @@
+Mapping_Needed,Data_Type,Meaning,Definitive_Name,dataset_2016
+,Discrete,Unique record (row) identifier,Row_ID_PPsort,PPSORT
+,Continuous,No. of individuals represented by this row,Row_Weight,WEIGHT
+Possibly,Categorical,Detailed aboriginal identity,Aboriginal_Identity,ABOID
+,"Binary (0,1)",Membership in a First Nation or band,FN_Band_Membership,BFNMEMB
+Possibly,Categorical,"Living arrangement (e.g. married, single)",Household_Living_Arrangements,CFSTAT
+,Categorical,Canadian citizenship status,Canadian_Citizenship,Citizen
+Possibly,Categorical,Area of current residence,Metro_Area_Current_Residence,CMA
+,"Binary (1,2)",Single or multiple ethnic origin,Single_or_Multiple_Ethnic_Origin,DETH123
+,Categorical,Household type (e.g. multiple family),Household_Family_Status,HHTYPE
+,Categorical,Marital status,Marital_Status,MarStH
+Likely,Categorical,Province or territory of current residence,Province_Current_Residence,PR
+,"Binary (0,1)",Person is primary household maintainer,Is_Primary_Household_Maintainer,PRIHM
+,"Binary (0,1)",Registered or treaty Indian status,Registered_Treaty_Status,REGIND
+,"Binary (1,2)",Male or female sex,Sex,Sex
+,Continuous,Average monthly cost of shelter,Shelter_Cost,SHELCO
+,Categorical,Age bracket,Age_Bracket,AGEGRP
+,Categorical,Highest education level ever attended,Education_Level_Attended,ATTSCH
+,Discrete (0-5+),Number of bedrooms in household,Household_Bedroom_Count,BedRm
+,Categorical,Census family income bracket,Census_Family_Income_Bracket,CFInc
+,Categorical,Census family income bracket after tax,Census_Family_Income_After_Tax,CFInc_AT
+,Discrete (1-7+),Number of persons in census family,Census_Family_Size,CfSize
+,Categorical,Postsecondary field of study,Postsecondary_Field_of_Study,CIP2011
+,Categorical,Postsecondary field (STEM & BHASE),Postsecondary_Field_STEM_or_BHASE,CIP2011_STEM_SUM
+,"Binary (0,1)",Resides in a condominium development,Condominium_Membership,CONDO
+Likely,Categorical,Population (cultural) group,Population_Group,DPGRSUM
+,Categorical,Dwelling structure type (e.g. apartment),Dwelling_Structure_Type,DTYPE
+,Discrete (1-10),Total family income decile after tax,Economic_Family_Income_Decile_After_Tax,EFDecile
+,Categorical,Economic family disposable income,Economic_Family_Disposable_Income,EfDIMBM
+,Categorical,Economic family income bracket,Economic_Family_Income_Bracket,EFInc
+,Categorical,Economic family income bracket after tax,Economic_Family_Income_Bracket_After_Tax,EFInc_AT
+,Discrete (1-7+),Number of persons in economic family,Economic_Family_Size,EfSize
+,Categorical,Ethnic origin,Ethnic_Origin,ETHDER
+,Categorical,Generation status (e.g. 1st gen. immigrant),Immigrant_Generation_Status,GENSTAT
+,"Binary (0,100)",Whether household is inadequate,Household_In_Core_Need,HCORENEED_IND
+,Categorical,"Highest certificate, diploma, or degree",Highest_Certificate_Degree,HDGREE
+,Categorical,Household income bracket,Household_Income_Bracket,HHInc
+,Categorical,Household income bracket after tax,Household_Income_Bracket_After_Tax,HHInc_AT
+,Categorical,Household market income bracket,Household_Market_Income_Bracket,HHMRKINC
+,Discrete (1-7+),Number of persons in household,Household_Size,HHSIZE
+Definitely,Categorical,Language most spoken at home,Home_Language,HLANO
+,Categorical,Immigration category (detailed categories),Immigration_Detailed_Category,IMMCAT5
+,Categorical,Immigration status (e.g. immigrant vs non),Immigrant_Status,IMMSTAT
+,Categorical,Labour force status (e.g. unemployed),Labour_Force_Status,LFACT
+,"Binary (1,2)",Non-low or low income cut-off economic family,Ec_Family_Low_Income_Cutoff,LICO
+,"Binary (1,2)",Non-low or low income cut-off economic family after tax,Ec_Family_Low_Income_Cutoff_After_Tax,LICO_AT
+,Categorical,Highest education location vs residence,Highest_Education_Location_vs_Residence,LOC_ST_RES
+,"Binary (1,2)",Non-low or low income measure person after tax,Person_Low_Income_Measure_After_Tax,LoLIMA
+,"Binary (1,2)",Non-low or low income measure person before tax,Person_Low_Income_Measure_Before_Tax,LoLIMB
+,"Binary (1,2)",Non-low or low income Market Based Measure,Person_Low_Income_Market_Based_Measure,LoMBM
+,Categorical,When last worked for pay or in self-employment,When_Last_Worked_For_Income,LSTWRK
+,Categorical,1 year mobility status (e.g. interprovincial migrant),Residence_Mobility_Status_1_Year_Ago,MOB1
+,Categorical,5 year mobility status (e.g. interprovincial migrant),Residence_Mobility_Status_5_Year_Ago,Mob5
+,Discrete,Sum personal income from all source,Sum_Personal_Income_All,MrkInc
+Definitely,Categorical,Mother tongue (first language spoken),Mother_Tongue,MTNNO
+,"Binary (0,1)",Housing accomodations are suitable,Housing_Suitability,NOS
+,"Binary (0,1)",Presence of children in household aged 0-1,Has_Children_In_Household_Age_0_1,PKID0_1
+,"Binary (0,1)",Presence of children in household aged 15-24,Has_Children_In_Household_Age_15_24,PKID15_24
+,"Binary (0,1)",Presence of children in household aged 2-5,Has_Children_In_Household_Age_2_5,PKID2_5
+,"Binary (0,1)",Presence of children in household aged 25+,Has_Children_In_Household_Age_25_Plus,PKID25
+,"Binary (0,1)",Presence of children in household aged 6_14,Has_Children_In_Household_Age_6_14,PKID6_14
+,"Binary (0,1)",Presence of children in any household,Has_Children_In_Household,PKIDS
+,Categorical,Place of birth,Place_of_Birth,POB
+,Categorical,Father's place of birth,Father_Place_of_Birth,POBF
+,Categorical,Mother's place of birth,Mother_Place_of_Birth,POBM
+,Categorical,Province or territory of residence 1 year ago,Province_Residence_1_Year_Ago,PR1
+,Categorical,Province or territory of residence 5 years ago,Province_Residence_5_Years_Ago,PR5
+,"Binary (0,1)",Presence of mortgage,Has_Mortgage,PresMortG
+,Categorical,Need of dwelling repairs,Dwelling_Repair_Need_Status,REPAIR
+,Discrete (0-11+),Number of rooms in household,Household_Room_Count,ROOMS
+,Categorical,Secondary school diploma or certificate,Secondary_Degree_Certificate,SSGRAD
+,"Binary (1,2)",Household owns residence or rents/lives in band housing,Household_Ownership_or_Not,Tenur
+,Continuous,Total personal income from recurring sources,Total_Personal_Recurring_Income,TotInc
+,Continuous,Total personal income from recurring sources after tax,Total_Personal_Recurring_Income_After_Tax,TotInc_AT
+,Continuous,Household property value (including land),Property_Value,VALUE
+Likely,Categorical,Visible minority group,Visible_Minority_Group,VisMin
+,Categorical,Work activity in 2015 (e.g. worked 1-13 weeks),Work_Activity_Status_in_2015,WRKACT
