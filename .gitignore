@@ -106,5 +106,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# data file
+# local, don't push
 notebooks/pumf-98M0001-E-2016-individuals_F1.csv
+notebooks-fork/
+bare_conf.synctex.gz
