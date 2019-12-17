@@ -11,7 +11,7 @@ Possibly,Categorical,Area of current residence,Metro_Area_Current_Residence,CMA
 ,Categorical,Marital status,Marital_Status,MarStH
 Likely,Categorical,Province or territory of current residence,Province_Current_Residence,PR
 ,"Binary (0,1)",Person is primary household maintainer,Is_Primary_Household_Maintainer,PRIHM
-,"Binary (0,1)",Registered or treaty First Nation status,Registered_Treaty_Status,REGIND
+,"Binary (0,1)",Registered or treaty Indian status,Registered_Treaty_Status,REGIND
 ,"Binary (1,2)",Male or female sex,Sex,Sex
 ,Continuous,Average monthly cost of shelter,Shelter_Cost,SHELCO
 ,Categorical,Age bracket,Age_Bracket,AGEGRP
