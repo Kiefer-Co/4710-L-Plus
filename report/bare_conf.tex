@@ -537,6 +537,8 @@ The PUMF dataset also contained missing, invalid, or inapplicable values as spec
 
 The initial data analysis also found promising improvements when dropping rows featuring English as a mother tongue.  Removal of these rows lowered the unusable proportion of many features that was thought to provide useful insight, such as AGEIMM (age of immigration) which dropped from 88 to 61 percent unusable.  Although AGEIMM in particular remained unsuitable for the analysis as only a fraction of respondents provided a usable value, a decision was made to remove English mother tongue rows from the dataset with the intention of providing more focused analysis on changes within Canada's non-official language communities, from which shifts to English as a home language were more common than the inverse.
 
+Finally, the data is split into training and testing data sets with 75\% of the data being allocated for training, and the remaining 25\% for testing.
+
 \subsubsection{Imputation}
 Since some values in the PUMF data are marked as invalid or unavailable, further preprocessing on the data was required.  As mentioned, data imputation was considered as a remedy for unusable data, but opted against due to the presence of weights attached to each record in the PUMF dataset.  The dataset is meant to balance presenting a representative subset of Canada's demographics while also anonymizing census results which, by Canadian law, are to be withheld from complete public disclosure for 92 years post-response.  As such, each row in the PUMF dataset is a weighted representation of several individuals, listed under the attribute WEIGHT.  Imputation of unusable values, even with the feature's weighted mean as a substitution, was reasoned to be inapplicable without rendering the dataset no longer representative of Canada's demographics.
 
@@ -554,19 +556,9 @@ If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If 
 
 \subsection{Decision Tree}
 
-The data analysis notebooks load the preprocessed dataset and perform implementation-specific data manipulation prior to analysis.  The analysis pipeline involves manipulating and splitting the dataset, then training a classifier on the data.  The classifier is examined to reveal insights on relevant features.
+The decision tree classifier was build using \textit{scikit-learn}'s implemenation, \textit{DecisionTreeClassifier}.
 
-The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features.
-
-The manipulated datasets are then split into train and test sets, with one quarter of the data reserved for testing and the remainder being allocated for training.
-
-A decision tree is then trained to predict languageShift using the classification features and with respect to the data's weights.  The tree is allowed to split on features until all leaves are pure, using Gini indices to evaluate splits.
-
-The precision and recall per languageShift class for the trained decision tree, tested on the testing dataset, can be seen in figure \ref{fig:decision_tree_metrics}.
-
-Feature importances are then extracted from the trained classifier.  The top ten features obtained via this can be seen in figure \ref{fig:decision_tree_importances}.
-
-The decision tree is then visualized using bokeh as seen in the following figure: \textit{To be included.}
+The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier.
 
 \subsection{Random Forest}
 
