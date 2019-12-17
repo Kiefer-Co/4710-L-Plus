@@ -466,24 +466,19 @@ As seen above, multiple approaches to analyzing language cohorts temporally run 
 Populations are dynamic, and multiple categorical variables influence whether a language that is the mother tongue is spoken at home. A decision tree can reveal which categorical variables determine whether mother tongue is retained as the language spoken at home.
 
 \subsection{Decision Tree Performance in Other Areas}
-% @TODO think of a better name for the subsub-section
 \subsubsection{Decision Trees in Student Performance Prediction}
-% @TODO transition better into this
 Decision trees have also been compared and applied in other fields. Osmanbegovic and Suljic compared the performance of an implementation of a decision tree algorithm, Naive Bayes algorithm, and a Multilayer Perceptron algorithm in predicting student performance by the prediction accuracy, learning time, and error rate. \cite{performance1}
 
 Osmanbegovic and Suljic used 12 input features such as gender, GPA, and whether or not the student had scholarships, and outputted whether or not the student would pass or fail. The output could also be classified by letter grades, but due to the disparity in the amount of data for each class, was not used. \cite{performance1}
 
 They found that the Naive Bayes algorithm managed to outperform the C4.5 decision tree algorithm implementation, J48, in both prediction accuracy, and error rate. Additionally, it was found that the Naive Bayes algorithm and the decision tree algorithm created prediction models that were both accurate, and user-friendly enough for the stakeholders. \cite{performance1}
 
-% @TODO think of a better name for this
 \subsubsection{Improvements}
 Similarly to Osmanbegovic and Suljic's data, some classes in census data are going to have differing amounts of data, and will affect prediction accuracy. Instead of changing the class groupings to get more equal representation, weights could be added to the training data to account for these differences. In the case of the Canadian Census data, these weights are already added to the data for use.
 
-% @TODO take another pass at this paper - it keeps going over my head
 \subsection{An Alternative Approach to Census Data Mining}
 In their paper, Klösgen and May took a different approach to mining census data. Klösgen and May used the United Kingdom's census data, which was only available in an aggregated form. The census data was available aggregated across various wards within the region, along with a detailed set of geographic layers. Thus, Klösgen and May decided to use those wards as the focus of their examination, and propose an application of SubgroupMiner, an advanced subgroup mining system. \cite{census1}
 
-% @TODO title
 \subsection{An Improved Decision Tree Algorithm}
 Hulten, Spencer, and Domingos' CVFDT algorithm improves on the VFDT decision tree learner by accounting for data changing over time. \cite{dtrees1} Their CVFDT algorithm works by maintaining a decision tree with respect to a sliding window of data and grows an alternative subtree to replace an old one if it becomes out of date. This allows for it to learn a similar model to one from the VFDT algorithm but in constant time \cite{dtrees1}.
 
@@ -502,17 +497,18 @@ The general process is as follows:
 	\item Construct the various classifiers, and evaluate them
 \end{enumerate}
 
-Differences in datasets may result in the definition of language shift needing to be adjusted.
+Due to the nature of decision trees, all continuous values must be converted into a discrete value. Additionally, differences in datasets may result in the definition of language shift needing to be adjusted.
 
 \subsection{Mining the 2016 Canadian Census}
 In addition to the general steps stated above, applying them to the 2016 Canadian Census required further work, namely the additional preprocessing due to the format of the data.
 
 The analysis was performed in Python via Jupyter Notebooks.  Packages utilized include \textbf{pandas} for data manipulation, \textbf{scikit-learn} for implementations of the classification algorithms in question, and \textbf{bokeh} and \textbf{tabulate} for visualization and formatting of the data.
-% @TODO expand on the specific uses for each of the packages
-\textbf{Pandas} was used to import the dataset from the csv, and to transform, and operate on the data through the use of Pandas' \textit{DataFrames}.
+% @TODO expand on the specific uses for each of the packages, and consider scrapping the above paragraph
+\textbf{Pandas} was used to import the dataset from the csv, to transform, and operate on the data through the use of its \textit{DataFrames}.
+\textbf{scikit-learn}'s implementation was used for all of the classifiers.
 
 \subsubsection{Data Format}
-Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or ~2.7 \% of the target population) individual, anonymized records, with 123 features. Additionally, there's an individual weight attached to each record, and 16 estimate weights for sampling variability.
+Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or \~2.7\% of the target population) individual, anonymized records, with 123 features. Additionally, there's an individual weight attached to each record, and 16 estimate weights for sampling variability.
 
 While the PUMF did give individual records, some of the data was aggregated to preserve confidentiality (e.g. categories being combined together), and some records had some of their variables changed to 'Not Available' for similar reasons. Furthermore, only the largest of the census metropolitan areas and provinces were covered. 
 
@@ -522,7 +518,7 @@ Since the PUMF data was only a sample of the target population, each record incl
 Prior to the execution of any of the classifiers, the PUMF dataset is passed through a single data preprocessing pipeline.  This pipeline achieves two broad objectives, namely pruning uninteresting data and selecting against features containing a high proportion of invalid data.
 
 
-The feature selection process performed was a mix of manually intuited choices and insights from initial analysis using scikit-learn's decision tree classifier on unprocessed data.  Features which were pruned were both uninformative with regards to the goal of detecting home language shifts and possessed clearly understood reasons for their behaviour.  For example, MTNEN (mother tongue being English) was extremely negatively correlated with the shift metric, as English is the most spoken language in Canada and an unlikely home language to shift away from.  Conversely, LWAEN (language at work being English) and LWAFR (language at work being French), had little to no influence on the shift metric, which was understood to be the consequence of work language rarely being a language other than English or French.  Such features were omitted from the preprocessed version of the dataset.
+The feature selection process performed was a mix of manually intuited choices and insights from initial analysis using \textit{scikit-learn}'s decision tree classifier on unprocessed data.  Features which were pruned were both uninformative with regards to the goal of detecting home language shifts and possessed clearly understood reasons for their behaviour.  For example, MTNEN (mother tongue being English) was extremely negatively correlated with the shift metric, as English is the most spoken language in Canada and an unlikely home language to shift away from.  Conversely, LWAEN (language at work being English) and LWAFR (language at work being French), had little to no influence on the shift metric, which was understood to be the consequence of work language rarely being a language other than English or French.  Such features were omitted from the preprocessed version of the dataset.
 
 
 \begin{figure}
@@ -556,7 +552,7 @@ If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If 
 
 \subsection{Decision Tree}
 
-The decision tree classifier was build using \textit{scikit-learn}'s implemenation, \textit{DecisionTreeClassifier}.  The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier. Finally, the results of the classifier are output in a confusion matrix.
+The decision tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}.  The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier. Finally, the results of the classifier are output in a confusion matrix.
 
 \subsection{Random Forest}
 
@@ -567,6 +563,8 @@ Similarly to the decision tree classifier, the random forest classifier was cons
 The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{CategoricalNB} - a Naive Bayes classifier for categorical features.  The classifier is trained on the weighted training data, and evaluated on the testing data, outputting a confusion matrix of the results.
 
 \section{Analytic Evaluation}
+
+% @TODO fill in
 
 \begin{figure}
   \begin{tabular}{lllll}
@@ -711,10 +709,17 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 
 
 \section{Conclusion}
-Results will be placed here in the final version of the paper.
+% @TODO fill in
 
 % conference papers do not normally have an appendix
 
+\subsection{Future Work}
+% @TODO fill in
+One aspect that could be improved on in future work is to tweak the hyper parameters for the classifiers via cross validation. For instance, \textit{scikit-learn}'s decision tree classifier implementation allows for setting a maximum depth on the resulting tree. Modifying this value may result in a mire accurate classifier.
+
+Additionally, the 2016 Canadian Census data set contains mostly data indicating a lack of language shift. As a result, the classifiers learn mostly on these negative results, and it may impact the rates for positive results. The weights on the training data could be re-weighted to account for this, but further complications may arise when trying to maintain the data being representative of the Canadian public.
+
+Furthermore, this analysis could be applied over multiple census years. In addition to increasing the amount of data available, adding a temporal dimension could add an interesting aspect to the classifiers, possibly taking historical events into account. 
 
 % use section* for acknowledgement
 \section*{Acknowledgment}
