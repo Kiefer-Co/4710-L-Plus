@@ -719,7 +719,9 @@ One aspect that could be improved on in future work is to tweak the hyper parame
 
 Additionally, the 2016 Canadian Census data set contains mostly data indicating a lack of language shift. As a result, the classifiers learn mostly on these negative results, and it may impact the rates for positive results. The weights on the training data could be re-weighted to account for this, but further complications may arise when trying to maintain the data being representative of the Canadian public.
 
-Furthermore, this analysis could be applied over multiple census years. In addition to increasing the amount of data available, adding a temporal dimension could add an interesting aspect to the classifiers, possibly taking historical events into account. 
+Furthermore, this analysis could be applied over multiple census years. In addition to increasing the amount of data available, adding a temporal dimension could add an interesting aspect to the classifiers, possibly taking historical events into account.
+
+Adding a geographical dimension to the classifiers could identify more granular language shifts in Canadian provinces and territories. It would be interesting to apply the analysis on municipalities such as the City of Winnipeg as well. The Winnipeg open census data portal contains information on language spoken broken down by neighbourhood and ward.
 
 Another interesting metric that could be determined in future work is the conditional probability of each category of each feature influencing the language shift category. For instance, \textit{scikit-learn}'s CategoricalNB classifier implementation contains a feature log prob attribute that returns a 2D array for each feature, which contains the logarithmic probability that each category of the feature influences the language shift category.
 
