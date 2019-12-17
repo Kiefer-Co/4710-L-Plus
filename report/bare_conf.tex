@@ -556,21 +556,15 @@ If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If 
 
 \subsection{Decision Tree}
 
-The decision tree classifier was build using \textit{scikit-learn}'s implemenation, \textit{DecisionTreeClassifier}.
-
-The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier.
+The decision tree classifier was build using \textit{scikit-learn}'s implemenation, \textit{DecisionTreeClassifier}.  The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier. Finally, the results of the classifier are output in a confusion matrix.
 
 \subsection{Random Forest}
 
-The random forest analysis takes in data in a format identical to that of the decision tree analysis.  Data is manipulated and split as described above, then used to train and evaluate a random forest classifier.  The classifier in question uses twenty decision trees as estimators within its averaging process.  A controlled random state is passed which acts as a seed to ensure repeatability of results.
-
-The precision and recall per languageShift class for the trained random forest classifier, tested on the testing dataset, can be see in figure \ref{fig:random_forest_metrics}.
-
-Feature importances are then extracted from the trained classifier.  The top ten features obtained via this method can be seen in figure \ref{fig:random_forest_importances}.
+Similarly to the decision tree classifier, the random forest classifier was constructed using \textit{scikit-learn}'s implementation, \textit{RandomForestClassifier}, using 20 estimators and a controlled random state to maintain similar, repeatable results after multiple runs. The classifier is then trained on the training data set, along with their weights, then evaluated on the testing data set. The results are also output to a confusion matrix.
 
 \subsection{Naive Bayesian}
 
-An analysis on the Naive Bayesian algorithm will be included in the final version of the paper. Methodology used is similar to the random forest and decision tree analysis.
+The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{CategoricalNB} - a Naive Bayes classifier for categorical features.  The classifier is trained on the weighted training data, and evaluated on the testing data, outputting a confusion matrix of the results.
 
 \section{Analytic Evaluation}
 
