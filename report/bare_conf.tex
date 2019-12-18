@@ -564,6 +564,17 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 \section{Analytic Evaluation}
 
 % @TODO fill in
+% observations
+% - the decision tree and random forest had very similar feature importances, and precision/recal/etc.
+%   - this can also be seen in the ROC AUC's
+% - the decision tree and random forest were really good at classifying negative class, not so much the positive class
+%   - this could be due to the imbalanced nature of the data; there was a lot more negative examples than positive ones, and the decision tree had no max depth
+% - the NB classifier had decent recall (with a better recall for the positive class), but a poor precision rate for the positive class
+%   - in contrast to the decision tree/random forest where the precision was decent in both classes
+%   - kinda similar to that one paper (\cite{performance1}), but NB managed to outperform in recall for all classes and precision
+% - f1 score for the Naive Bayes all around worse than the decision tree / random forest
+% - ROC AUC for NB was noticeably worse
+% - the feature importances for DT/RF are pretty intuitive, with the exception of labour force (didn't look at what that is too much though)
 
 \begin{figure}
   \begin{tabular}{lllll}
