@@ -502,10 +502,12 @@ Due to the nature of decision trees, all continuous values must be converted int
 \subsection{Mining the 2016 Canadian Census}
 In addition to the general steps stated above, applying them to the 2016 Canadian Census required further work, namely the additional preprocessing due to the format of the data.
 
-The analysis was performed in Python via Jupyter Notebooks.  Packages utilized include \textbf{pandas} for data manipulation, \textbf{scikit-learn} for implementations of the classification algorithms in question, and \textbf{bokeh} and \textbf{tabulate} for visualization and formatting of the data.
-% @TODO expand on the specific uses for each of the packages, and consider scrapping the above paragraph
-\textbf{Pandas} was used to import the dataset from the csv, to transform, and operate on the data through the use of its \textit{DataFrames}.
-\textbf{scikit-learn}'s implementation was used for all of the classifiers.
+The analysis was performed in Python 3 via Jupyter Notebooks.  
+The \textbf{Pandas} package was used to import the 2016 PUMF Individuals CSV file as a  \textit{DataFrame} and perform manipulations on the \textit{DataFrame}, described in more detail in the data preprocessing section.
+
+Several modules in the \textbf{scikit-learn} package were used for the classification algorithms in question, including the \textit{DecisionTreeClassifier} for classifying based on decision trees, the \textit{RandomForestClassifier} for classifying using random forests, and \textit{CategoricalNB} for classifying using a Naive Bayesian algorithm. More details on these classifiers can be found in their respective sections.
+
+The \textbf{bokeh} package was used to generate a bar chart describing the features with the greatest amount of invalid data and to visualize the ROC AUC scores for the various classifiers. The \textbf{tabulate} package was used to create a table listing feature importances in descending order of importance. The \textbf{graphviz} package was used to visualize decision trees.
 
 \subsubsection{Data Format}
 Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or \~2.7\% of the target population) individual, anonymized records, with 123 features. Additionally, there's an individual weight attached to each record, and 16 estimate weights for sampling variability.
@@ -551,15 +553,19 @@ If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If 
 
 
 \subsection{Decision Tree}
-The decision tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}.  The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier. Finally, the results of the classifier are output in a confusion matrix.
+The decision tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}. The maximum depth of the decision tree was set to be 8 since this is approximately the square root of the number of features being included in the classifier.
+
+The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier. The class of test samples are predicted using the \textit{predict} function. Finally, the results of the classifier are output in a confusion matrix.
 
 \subsection{Random Forest}
 
-Similarly to the decision tree classifier, the random forest classifier was constructed using \textit{scikit-learn}'s implementation, \textit{RandomForestClassifier}, using 20 estimators and a controlled random state to maintain similar, repeatable results after multiple runs. The classifier is then trained on the training data set, along with their weights, then evaluated on the testing data set. The results are also output to a confusion matrix.
+Similarly to the decision tree classifier, the random forest classifier was constructed using \textit{scikit-learn}'s implementation, \textit{RandomForestClassifier}, using 20 estimators and a controlled random state to maintain similar, repeatable results after multiple runs. No maximum depth was specified for the Random Forest classifier.
+
+The classifier is trained on the training data set, along with their weights, then evaluated on the testing data set. The predicted class of test samples is determined using the \textit{predict} function by selecting the class with the highest mean probability estimate across all trees in the random forest. The results are also outputted to a confusion matrix.
 
 \subsection{Naive Bayesian}
 
-The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{CategoricalNB} - a Naive Bayes classifier for categorical features.  The classifier is trained on the weighted training data, and evaluated on the testing data, outputting a confusion matrix of the results.
+The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{CategoricalNB} - a Naive Bayes classifier for categorical features. This classifier assumes that each feature has its own categorical distribution. The \textit{fit} method was used to train the classifier on the weighted training data. The \textit{predict} method was used to perform classification on the testing data. The results are also outputted to a confusion matrix.
 
 \section{Analytic Evaluation}
 
@@ -568,7 +574,7 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 % - the decision tree and random forest had very similar feature importances, and precision/recal/etc.
 %   - this can also be seen in the ROC AUC's
 % - the decision tree and random forest were really good at classifying negative class, not so much the positive class
-%   - this could be due to the imbalanced nature of the data; there was a lot more negative examples than positive ones, and the decision tree had no max depth
+%   - this could be due to the imbalanced nature of the data; there was a lot more negative examples than positive one
 % - the NB classifier had decent recall (with a better recall for the positive class), but a poor precision rate for the positive class
 %   - in contrast to the decision tree/random forest where the precision was decent in both classes
 %   - kinda similar to that one paper (\cite{performance1}), but NB managed to outperform in recall for all classes and precision
