@@ -551,7 +551,6 @@ If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If 
 
 
 \subsection{Decision Tree}
-
 The decision tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}.  The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier. Finally, the results of the classifier are output in a confusion matrix.
 
 \subsection{Random Forest}
@@ -575,6 +574,13 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
   \end{tabular}
   \caption{Decision tree metrics}
   \label{fig:decision_tree_metrics}
+\end{figure}
+
+\begin{figure}
+  \includegraphics[scale=0.45]{decision_tree_roc}
+  \centering
+  \caption{Decision tree ROC AUC score}
+  \label{fig:decision_tree_roc}
 \end{figure}
 
 \begin{figure}
@@ -607,6 +613,13 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 \end{figure}
 
 \begin{figure}
+  \includegraphics[scale=0.45]{random_forest_roc}
+  \centering
+  \caption{Random forest ROC AUC score}
+  \label{fig:random_forest_roc}
+\end{figure}
+
+\begin{figure}
   \begin{tabular}{ll}
   \textbf{Feature} & \textbf{Importance} \\
   GENSTAT (Generation status) & 0.063524 \\
@@ -624,6 +637,12 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
   \label{fig:random_forest_importances}
 \end{figure}
 
+\begin{figure}
+  \includegraphics[scale=0.45]{naive_bayes_roc}
+  \centering
+  \caption{Naive Bayes ROC AUC score}
+  \label{fig:naive_bayes_roc}
+\end{figure}
 % An example of a floating figure using the graphicx package.
 % Note that \label must occur AFTER (or within) \caption.
 % For figures, \caption should occur after the \includegraphics.
