@@ -567,10 +567,10 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 
 \begin{figure}
   \begin{tabular}{lllll}
-  & precision & recall & f1-score & support \\
-  \textit{False}  & 0.89  & 0.88  & 0.89  & 75521 \\
-  \textit{True} & 0.60  & 0.61  & 0.61  & 21434 \\
-  Total  &  & (accuracy) & 0.82 & 96955 \\\
+                  & precision & recall      & f1-score  & support \\
+  \textit{False}  & 0.88      & 0.95        & 0.91      & 74204 \\
+  \textit{True}   & 0.75      & 0.51        & 0.61      & 20565 \\
+  Total           &           & (accuracy)  & 0.86      & 94769 \\\
   \end{tabular}
   \caption{Decision tree metrics}
   \label{fig:decision_tree_metrics}
@@ -585,17 +585,17 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 
 \begin{figure}
   \begin{tabular}{ll}
-  \textbf{Feature} & \textbf{Importance} \\
-  GENSTAT (Generation status) & 0.196041  \\
-  VisMin (Visible minority status)  & 0.0601858 \\
-  ETHDER (Ethnic origin)  & 0.0517905 \\
-  POB (Place of birth)  & 0.0438852 \\
-  PR (Province, current)  & 0.0398168 \\
-  SHELCO (Shelter cost) & 0.0390179 \\
-  AGEGRP (Age)  & 0.0303643 \\
-  POBF (Father's POB) & 0.0285193 \\
-  MrkInc (Market income)  & 0.0230586 \\
-  ROOMS (\# Rooms in dwelling)  & 0.0224302 \\\       
+    \textbf{Feature}                          & \textbf{Importance} \\
+    GENSTAT (Generation status)               & 0.459719 \\
+    VisMin (Visible minority status)          & 0.12905 \\
+    PR (Province, current)                    & 0.0875603 \\
+    POB (Place of birth)                      & 0.0789063 \\
+    ETHDER (Ethnic origin)                    & 0.0784669 \\
+    IMMCAT5 (Immigration Admission category)  & 0.0324108 \\
+    LOC\_ST\_RES (Location of study)          & 0.0279763 \\
+    DPGRSUM (Population group)                & 0.0245261 \\
+    LFACT (Labour force status)               & 0.0120307 \\
+    AGEGRP (Age)                              & 0.0118114 \\   
   \end{tabular}
   \caption{Decision tree feature importances}
   \label{fig:decision_tree_importances}
@@ -603,10 +603,10 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 
 \begin{figure}
   \begin{tabular}{lllll}
-    & precision & recall & f1-score & support \\
-  \textit{False} & 0.88 & 0.95  & 0.91  & 75523 \\
-  \textit{True} & 0.76  & 0.55  & 0.64 & 21432 \\
-  Total  &  & (accuracy) & 0.86 & 96955 \\\
+                  & precision & recall      & f1-score  & support \\
+  \textit{False}  & 0.89      & 0.95        & 0.92      & 73875 \\
+  \textit{True}   & 0.77      & 0.57        & 0.65      & 20894 \\
+  Total           &           & (accuracy)  & 0.87      & 94769 \\\
   \end{tabular}
   \caption{Random forest metrics}
   \label{fig:random_forest_metrics}
@@ -621,20 +621,31 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 
 \begin{figure}
   \begin{tabular}{ll}
-  \textbf{Feature} & \textbf{Importance} \\
-  GENSTAT (Generation status) & 0.063524 \\
-  ETHDER (Ethnic origin)  & 0.0546316 \\
-  POBF (Father's POB) & 0.0473872  \\
-  PR (Province, current)  & 0.0456554 \\
-  POB (Place of birth)  & 0.0421344 \\
-  POBM (Mother's POB) & 0.0392552  \\
-  DPGRSUM (Population group)  & 0.027472  \\
-  SHELCO (Shelter cost) & 0.0272865 \\
-  PR5 (Province, 5 years ago) & 0.0252248 \\
-  VisMin (Visible minority status)  & 0.0242537 \\\
+    \textbf{Feature}                          & \textbf{Importance} \\
+    GENSTAT (Generation status)               & 0.062281 \\
+    ETHDER (Ethnic origin)                    & 0.0573086 \\
+    PR (Province, current)                    & 0.0523802 \\
+    POBM (Mother's POB)                       & 0.048009 \\
+    POB (Place of birth)                      & 0.0405777 \\
+    POBF (Father's POB)                       & 0.0321791 \\
+    VisMin (Visible minority status)          & 0.0253287 \\
+    AGEGRP (Age)                              & 0.0240645 \\
+    PR5 (Province, 5 years ago)               & 0.0239604 \\
+    IMMCAT5 (Immigration admission category)  & 0.0232537
   \end{tabular}
   \caption{Random forest feature importances}
   \label{fig:random_forest_importances}
+\end{figure}
+
+\begin{figure}
+  \begin{tabular}{lllll}
+                  & precision & recall      & f1-score  & support \\
+  \textit{False}  & 0.93      & 0.69        & 0.79      & 73954 \\
+  \textit{True}   & 0.43      & 0.82        & 0.56      & 20815 \\
+  Total           &           & (accuracy)  & 0.72      & 94769 \\\
+  \end{tabular}
+  \caption{Naive Bayes metrics}
+  \label{fig:naive_bayes_metrics}
 \end{figure}
 
 \begin{figure}
