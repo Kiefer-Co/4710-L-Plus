@@ -273,7 +273,7 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
   ROC AUC Score	  & 0.90 \\\
   \end{tabular}
   \caption{Random Forest metrics}
-  \label{fig:random_Forest_metrics}
+  \label{fig:random_forest_metrics}
 \end{figure}
 
 \begin{figure}
@@ -303,26 +303,6 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
   \label{fig:naive_bayes_roc}
 \end{figure}
 
-\subsection{Cross-Year Analysis}
-
-% @TODO FIND SOURCES
-
-The analysis method, regardless of underlying implementation, is at its core to be an aid in analyzing shifts in Canada's changing language demographics.
-
-To explore the usefulness of the method, feature importance scores from both the 1991 and 2016 PUMF datasets were extracted in order to compare meaningful differences and similarities.  The choice of 1991 echoes the choice of 2016 as the two years were the earliest and latest census years respectively available in individuals file (PUMF) format.  Together the two years allow an analysis of demographic changes over a 25 year period, close to the definition length of one human generation (\textbf{ACTUALLY FIND A SOURCE}).
-
-In order to reconcile the differences in feature name and representation types, the associated study documentation files for each census year were used to produce a mapping of similar features.  Although features' domains were not necessarily one to one, such as detailed aboriginal identity in 2016 (ABOID) possessing categories for Métis and Inuk (Inuit) not present in its 1991 counterpart (ABETHNCP), features mapped were sufficiently similar such that a discrepancy in relative feature importance scores between the two census years might be an indicator of some underlying difference.
-
-In some features, such as AGEGRP (2016)/AGEP (1991), the feature tracked the same aspect of individuals but with finer granularity in one year and loose categories in the other.  As the underlying algorithms are suited to categorical rather than continuous data, such differences were reconciled by bucketing granular data into deciles.
-
-Other features were not reconcilable, as they did not possess tracked counterparts in the other census year or were split into multiple features, such as shelter cost, which is divided into features for home owners (OMPP) and renters (GROSRTP) in 1991 but unified in 2016 (SHELCO).  Such features were omitted from both census years in the cross-year analysis.
-
-Although in practice either of the three algorithms analyzed might be applicable for cross-year analysis, random forest was selected for this purpose due to its better performance metrics from the 2016 trials and its ease of interpretability compared to naive Bayesian.  Unlike in the 2016 only trials, English mother tongued rows were not dropped, as the 1991 dataset provided additional granularity by differentiating "English single response", "French single response", and "English and French" responses.  By retaining these rows, additional language shifts between the official languages, of which intuition suggests (\textbf{ACTUALLY FIND A SOURCE}) might be more numerous due to the prevalence of official language speakers.
-
-Post pre-processing, general methodology between the cross and single year experiments were identical save for differences in feature names.  In the 1991 dataset, WEIGHT, HLANO, MTNNO correspond to WEIGHTP, HLNP, and MTNP respectively.
-
-The results of the feature importance scores for 1991 and 2016 were then compared in terms of cardinality, with first features corresponding to the highest scores, second features corresponding to the second highest scores, and so forth.  The results revealed similar orderings of features importance scores between the two census years, bar some potentially interesting differences as seen in figures \ref{fig:1991_random_forest_importances} and \ref{fig:2016_random_forest_importances}.
-
 \subsection{Practical Applications}
 
 \subsubsection{Single Year Insights (Random Forest)}
@@ -336,8 +316,6 @@ Identifying relationships between features might also be useful for identifying 
 While no conclusions can be made without further analysis, there are clear indications that language shift may be more prevalent among both very economically disadvantaged and advantaged groups.  This suggests that increases in income inequality may have significant effects on Canada's language demographics.  LANGUAGES ARE TIED TO WEALTH (\textbf{INCLUDE SOURCE FROM INTRO})
 
 Analysis of census features for the purpose of analyzing linguistic demographics may also allow improvements for future census years' data collection.  IMMSTAT (immigration status) is less informative than and score much less than its superset, IMMCAT5 (detailed immigration category), in part due to the presence of the "Immigrants who landed before 1980" label which is highly correlated with language shift.  Similarly, BFNMEMB, which tracks just First Nation or band membership, scores much worse than ABOID (detailed aboriginal identity) which tracks Métis and Inuk (Inuit) as separate groups, both of which are less likely to shift home languages than First Nation members.  If patterns similar to those found for language shift can be found with other target columns, a recommendation to merge these less informative features with their detailed counterparts may be of use.
-
-\subsubsection{Cross Year Insights}
 
 \afterpage{%
 \clearpage
@@ -474,7 +452,6 @@ Analysis of census features for the purpose of analyzing linguistic demographics
 \clearpage
 }
 
-
 \section{Conclusion}
 % @TODO fill in
 In this paper, the performance of 3 different supervised learning techniques was compared when applied to the 2016 Canadian public census data by various metrics.
@@ -483,12 +460,35 @@ The results indicate that the Random Forest classifier outperformed the Decision
 
 
 \subsection{Future Work}
+
+\subsubsection{Cross-Year Analysis}
+
+% @TODO FIND SOURCES
+
+The analysis method, regardless of underlying implementation, is at its core to be an aid in analyzing shifts in Canada's changing language demographics.  A preliminary implementation of cross-year analysis proved to be insightful.
+
+To explore the usefulness of the method, feature importance scores from both the 1991 and 2016 PUMF datasets were extracted in order to compare meaningful differences and similarities.  The choice of 1991 echoes the choice of 2016 as the two years were the earliest and latest census years respectively available in individuals file (PUMF) format.  Together the two years allow an analysis of demographic changes over a 25 year period, close to the definition length of one human generation. \cite{generation}
+
+In order to reconcile the differences in feature name and representation types, the associated study documentation files for each census year were used to produce a mapping of similar features.  Although features' domains were not necessarily one to one, such as detailed aboriginal identity in 2016 (ABOID) possessing categories for Métis and Inuk (Inuit) not present in its 1991 counterpart (ABETHNCP), features mapped were sufficiently similar such that a discrepancy in relative feature importance scores between the two census years might be an indicator of some underlying difference.
+
+In some features, such as AGEGRP (2016)/AGEP (1991), the feature tracked the same aspect of individuals but with finer granularity in one year and loose categories in the other.  As the underlying algorithms are suited to categorical rather than continuous data, such differences were reconciled by bucketing granular data into deciles.
+
+Other features were not reconcilable, as they did not possess tracked counterparts in the other census year or were split into multiple features, such as shelter cost, which is divided into features for home owners (OMPP) and renters (GROSRTP) in 1991 but unified in 2016 (SHELCO).  Such features were omitted from both census years in the cross-year analysis.
+
+Although in practice either of the three algorithms analyzed might be applicable for cross-year analysis, random forest was selected for this purpose due to its better performance metrics from the 2016 trials and its ease of interpretability compared to naive Bayesian.  Unlike in the 2016 only trials, English mother tongued rows were not dropped, as the 1991 dataset provided additional granularity by differentiating "English single response", "French single response", and "English and French" responses.  By retaining these rows, additional language shifts between the official languages, of which intuition suggests (\textbf{ACTUALLY FIND A SOURCE}) might be more numerous due to the prevalence of official language speakers.
+
+Post pre-processing, general methodology between the cross and single year experiments were identical save for differences in feature names.  In the 1991 dataset, WEIGHT, HLANO, MTNNO correspond to WEIGHTP, HLNP, and MTNP respectively.
+
+The results of the feature importance scores for 1991 and 2016 were then compared in terms of cardinality, with first features corresponding to the highest scores, second features corresponding to the second highest scores, and so forth.  The results revealed similar orderings of features importance scores between the two census years, bar some potentially interesting differences as seen in figures \ref{fig:1991_random_forest_importances} and \ref{fig:2016_random_forest_importances}.
+
+\subsubsection{Other Future Work}
+
 % @TODO fill in
 One aspect that could be improved on in future work is to tweak the hyper parameters for the classifiers via cross validation. For instance, setting different values for the max tree depth on the Decision Tree classifier, or setting different values for the number of trees in the Random Forest classifier. Modifying these values may result in a more accurate classifier.
 
 Additionally, the 2016 Canadian Census data set contains mostly data indicating a lack of language shift. As a result, the classifiers learn mostly on these negative results, and it may impact the rates for positive results. The weights on the training data could be re-weighted to account for this, but further complications may arise when trying to maintain the data being representative of the Canadian public.
 
-Furthermore, this analysis could be applied over multiple census years. In addition to increasing the amount of data available, adding a temporal dimension could add an interesting aspect to the classifiers, possibly taking historical events into account.
+Furthermore, this analysis could be applied to even more granular spans of census years. In addition to increasing the amount of data available, adding a temporal dimension could add an interesting aspect to the classifiers, possibly taking historical events into account.
 
 Adding a geographical dimension to the classifiers could identify more granular language shifts in Canadian provinces and territories. It would be interesting to apply the analysis on municipalities such as the City of Winnipeg as well. The Winnipeg open census data portal contains information on language spoken broken down by neighbourhood and ward.
 
