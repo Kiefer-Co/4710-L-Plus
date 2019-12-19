@@ -551,13 +551,13 @@ If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If 
 
 
 \subsection{Decision Tree}
-The decision tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}. To prevent overfitting of the training data, the maximum depth of the decision tree was set to 8 since this is approximately the square root of the number of features being included in the classifier.
+The Decision Tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}. To prevent overfitting of the training data, the maximum depth of the decision tree was set to 8 since this is approximately the square root of the number of features being included in the classifier.
 
 The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier. The class of test samples are predicted using the \textit{predict} function. Finally, the results of the classifier are output in a confusion matrix.
 
 \subsection{Random Forest}
 
-Similarly to the decision tree classifier, the random forest classifier was constructed using \textit{scikit-learn}'s implementation, \textit{RandomForestClassifier}, using 20 estimators and a controlled random state to maintain similar, repeatable results after multiple runs. As Random Forest classifiers inherently have measures to reduce overfitting of the training data, no maximum depth was specified.
+Similarly to the Decision Tree classifier, the Random Forest classifier was constructed using \textit{scikit-learn}'s implementation, \textit{RandomForestClassifier}, using 20 estimators and a controlled random state to maintain similar, repeatable results after multiple runs. As Random Forest classifiers inherently have measures to reduce overfitting of the training data, no maximum depth was specified.
 
 The classifier is trained on the training data set, along with their weights, then evaluated on the testing data set. The predicted class of test samples is determined using the \textit{predict} function by selecting the class with the highest mean probability estimate across all trees in the random forest. The results are also outputted to a confusion matrix.
 
@@ -595,7 +595,7 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
   \label{fig:acc_roc}
 \end{figure}
 
-To compare the different classifiers, metrics such as precision, recall, F1 score, and AUC ROC scores were used. Additionally, the top 10 feature importances for the decision tree classifier, and the random forest classifier were examined to further compare the two. The metrics can be seen in figures \ref{fig:decision_tree_metrics}, \ref{fig:random_forest_metrics}, and \ref{fig:naive_bayes_metrics}. Additionally, a graphical representation of the AUC ROC scores can be seen for each of the classifiers in figures \ref{fig:decision_tree_roc}, \ref{fig:random_forest_roc}, and \ref{fig:naive_bayes_roc}. Finally, graphs comparing the classifiers by each of the metrics can be found in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \ref{fig:acc_roc}.
+To compare the different classifiers, metrics such as precision, recall, F1 score, and AUC ROC scores were used. Additionally, the top 10 feature importances for the Decision Tree classifier, and the Random Forest classifier were examined to further compare the two. The metrics can be seen in figures \ref{fig:decision_tree_metrics}, \ref{fig:random_forest_metrics}, and \ref{fig:naive_bayes_metrics}. Additionally, a graphical representation of the AUC ROC scores can be seen for each of the classifiers in figures \ref{fig:decision_tree_roc}, \ref{fig:random_forest_roc}, and \ref{fig:naive_bayes_roc}. Finally, graphs comparing the classifiers by each of the metrics can be found in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \ref{fig:acc_roc}.
 
 Since the target class is highly unbalanced, with roughly 81\% of the data belonging to the false class, accuracy was perhaps not the best metric to use to compare the different models. The other metrics calculated such as F1-scores and AUC ROC scores provide a more accurate assessment for the models.
 
@@ -603,7 +603,9 @@ One noticeable side effect of the imbalanced data was that all of the classifier
 
 The ROC AUC scores for the Decision Tree model and Random Forest model are 0.88 and 0.89, respectively. This means they are performing similarly in determining the positive class from the negative class. The ROC AUC score for Naive Bayes is 0.82, 8 percent lower than the two tree-based models. This is a significant difference, and it is reflected in the ROC AUC curve, where a noticeable dip in the curve occurs early on when compared to the tree-based models' curves. From this it can can be determined that the Naive Bayes classifier performs significantly worse at determining the the positive class from the negative class than the tree-based models.
 
-As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \ref{fig:acc_roc}, the random forest classifier only provided a slight improvement on the standard decision tree classifier. Additionally, the top 10 most important features between the two classifiers are very similar (see figures \ref{fig:decision_tree_importances}, \ref{fig:random_forest_importances}).
+On the other hand, the Decision Tree and Random Forest classifiers performed noticeably better on classifying the negative class. Since the data set was highly imbalanced towards the negative class, it's possible that this resulted in the tree-based classifiers having an overall higher performance than the Naive Bayes classifier.
+
+As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \ref{fig:acc_roc}, the Random Forest classifier only provided a slight improvement on the standard Decision Tree classifier. Additionally, the top 10 most important features between the two classifiers are very similar (see figures \ref{fig:decision_tree_importances}, \ref{fig:random_forest_importances}).
 % @TODO maybe add another couple of lines here
 
 % @TODO fill in
@@ -629,14 +631,14 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
   Accuracy        & 0.85 \\
   ROC AUC Score	  & 0.89 \\\
   \end{tabular}
-  \caption{Decision tree metrics}
+  \caption{Decision Tree metrics}
   \label{fig:decision_tree_metrics}
 \end{figure}
 
 \begin{figure}
   \includegraphics[scale=0.45]{decision_tree_roc}
   \centering
-  \caption{Decision tree ROC AUC curve}
+  \caption{Decision Tree ROC AUC curve}
   \label{fig:decision_tree_roc}
 \end{figure}
 
@@ -654,7 +656,7 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
     LFACT (Labour force status)               & 0.0120307 \\
     AGEGRP (Age)                              & 0.0118114 \\   
   \end{tabular}
-  \caption{Decision tree feature importances}
+  \caption{Decision Tree feature importances}
   \label{fig:decision_tree_importances}
 \end{figure}
 
@@ -667,14 +669,14 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
   Accuracy        & 0.86 \\
   ROC AUC Score	  & 0.90 \\\
   \end{tabular}
-  \caption{Random forest metrics}
-  \label{fig:random_forest_metrics}
+  \caption{Random Forest metrics}
+  \label{fig:random_Forest_metrics}
 \end{figure}
 
 \begin{figure}
   \includegraphics[scale=0.45]{random_forest_roc}
   \centering
-  \caption{Random forest ROC AUC curve}
+  \caption{Random Forest ROC AUC curve}
   \label{fig:random_forest_roc}
 \end{figure}
 
@@ -692,7 +694,7 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
     PR5 (Province, 5 years ago)               & 0.0239604 \\
     IMMCAT5 (Immigration admission category)  & 0.0232537
   \end{tabular}
-  \caption{Random forest feature importances}
+  \caption{Random Forest feature importances}
   \label{fig:random_forest_importances}
 \end{figure}
 
@@ -807,7 +809,7 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
 
 \subsection{Future Work}
 % @TODO fill in
-One aspect that could be improved on in future work is to tweak the hyper parameters for the classifiers via cross validation. For instance, \textit{scikit-learn}'s decision tree classifier implementation allows for setting a maximum depth on the resulting tree. Modifying this value may result in a more accurate classifier.
+One aspect that could be improved on in future work is to tweak the hyper parameters for the classifiers via cross validation. For instance, \textit{scikit-learn}'s Decision Tree classifier implementation allows for setting a maximum depth on the resulting tree. Modifying this value may result in a more accurate classifier.
 
 Additionally, the 2016 Canadian Census data set contains mostly data indicating a lack of language shift. As a result, the classifiers learn mostly on these negative results, and it may impact the rates for positive results. The weights on the training data could be re-weighted to account for this, but further complications may arise when trying to maintain the data being representative of the Canadian public.
 
