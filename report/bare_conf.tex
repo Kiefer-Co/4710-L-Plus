@@ -567,6 +567,8 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 
 \section{Analytic Evaluation}
 
+To compare the different classifiers, metrics such as precision, recall, F1 score, and AUC ROC scores were used. Additionally, the top 10 feature importances for the decision tree classifier, and the random forest classifier were examined to further compare the two. The metrics can be seen in figures \ref{fig:decision_tree_metrics}, \ref{fig:random_forest_metrics}, and \ref{fig:naive_bayes_metrics}. Additionally, a graphical representation of the AUC ROC scores can be seen for each of the classifiers in figures \ref{fig:decision_tree_roc}, \ref{fig:random_forest_roc}, and \ref{fig:naive_bayes_roc}.
+
 Since the target class is highly unbalanced, with roughly 81\% of the data belonging to the false class, accuracy is perhaps not the best metric to use to compare the different models. The other metrics calculated such as F1-scores and AUC ROC scores are better for our models. The ROC AUC scores for the Decision Tree model and Random Forest model are 0.88 and 0.89, respectively. This means they are performing similarly in determining the positive class from the negative class. The ROC AUC score for Naive Bayes is 0.82, 8 percent lower than the two tree-based models. This is a significant difference, and it is reflected in the ROC AUC curve, where a noticeable dip in the curve occurs early on when compared to the tree-based models' curves. From this we can say the Naive Bayes classifier performs significantly worse at determining the the positive class from the negative class than the tree-based models.
 
 % @TODO fill in
@@ -587,7 +589,7 @@ Since the target class is highly unbalanced, with roughly 81\% of the data belon
                   & precision & recall      & f1-score  & support \\
   \textit{False}  & 0.87      & 0.96        & 0.91      & 76719 \\
   \textit{True}   & 0.70      & 0.41        & 0.52      & 18050 \\
-  Total			  &           &             &           & 94769 \\
+  Total			      &           &             &           & 94769 \\
   Accuracy        & 0.85 \\
   ROC AUC Score	  & 0.89 \\\
   \end{tabular}
@@ -625,7 +627,7 @@ Since the target class is highly unbalanced, with roughly 81\% of the data belon
                   & precision & recall      & f1-score  & support \\
   \textit{False}  & 0.88      & 0.96        & 0.92      & 76719 \\
   \textit{True}   & 0.72      & 0.46        & 0.56      & 18050 \\
-  Total			  &           &             &           & 94769 \\
+  Total			      &           &             &           & 94769 \\
   Accuracy        & 0.86 \\
   ROC AUC Score	  & 0.90 \\\
   \end{tabular}
@@ -663,7 +665,7 @@ Since the target class is highly unbalanced, with roughly 81\% of the data belon
                   & precision & recall      & f1-score  & support \\
   \textit{False}  & 0.93      & 0.68        & 0.79      & 76719 \\
   \textit{True}   & 0.37      & 0.80        & 0.51      & 18050 \\
-  Total			  &           &             &           & 94769 \\
+  Total			      &           &             &           & 94769 \\
   Accuracy        & 0.71 \\
   ROC AUC Score	  & 0.82 \\\
   \end{tabular}
@@ -676,6 +678,34 @@ Since the target class is highly unbalanced, with roughly 81\% of the data belon
   \centering
   \caption{Naive Bayes ROC AUC curve}
   \label{fig:naive_bayes_roc}
+\end{figure}
+
+\begin{figure}
+  \includegraphics[scale=0.45]{precision}
+  \centering
+  \caption{Classifier precision values}
+  \label{fig:precision}
+\end{figure}
+
+\begin{figure}
+  \includegraphics[scale=0.45]{recall}
+  \centering
+  \caption{Classifier recall values}
+  \label{fig:recall}
+\end{figure}
+
+\begin{figure}
+  \includegraphics[scale=0.45]{F1}
+  \centering
+  \caption{Classifier F1 values}
+  \label{fig:f1}
+\end{figure}
+
+\begin{figure}
+  \includegraphics[scale=0.45]{acc_roc}
+  \centering
+  \caption{Classifier accuracy and ROC AUC values}
+  \label{fig:acc_roc}
 \end{figure}
 % An example of a floating figure using the graphicx package.
 % Note that \label must occur AFTER (or within) \caption.
