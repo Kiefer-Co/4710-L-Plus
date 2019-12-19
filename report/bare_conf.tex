@@ -9,6 +9,7 @@
 
 \hyphenation{op-tical net-works semi-conduc-tor}
 
+\usepackage{afterpage}
 
 \begin{document}
 \title{Methods of Detecting Home Language Shift in Canadian Census Data}
@@ -161,6 +162,11 @@ The value of the languageShift attribute is then defined as the presence of ineq
 
 If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If no mapping can be found, the languageShift value will be true.  As with other features in the dataset, the results of the languageShift column are to be interpreted as representative of several individuals.  A row's weight is to be factored into any analysis on or prediction of the languageShift feature. After this preprocessing, the counts of the true class (language shift has occurred) and the false class (language shift has not occurred) are 306,645 and 72,430, respectively. 
 
+\subsubsection{Discretization}
+
+The algorithms utilized in our analysis are designed for categorical data and do not place any emphasis on numerical similarity between values.  As certain features deemed interesting and suitable for prediction of language shift were represented by the PUMF dataset in continuous form, using them as is would result in their interpretation as features containing few or one records per category.
+
+To convert said features into categorical fields, their values are first bucketed into ten deciles of near-equal size, sorting records between the minimum and maximum values of the features.  As invalid and missing values are extracted into their own category and records are arbitrarily ranked so as to allow duplicate values to be placed in separate deciles if required, the resulting discretized features do not consist of perfect deciles but do preserve the order of the continuous features and allow them to be used for classification. 
 
 \subsection{Decision Tree}
 The Decision Tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}. To prevent overfitting of the training data, the maximum depth of the decision tree was set to 8 since this is approximately the square root of the number of features being included in the classifier.
@@ -178,6 +184,8 @@ The classifier is trained on the training data set, along with their weights, th
 The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{CategoricalNB} - a Naive Bayes classifier for categorical features. This classifier assumes that each feature has its own categorical distribution. The \textit{fit} method was used to train the classifier on the weighted training data. The \textit{predict} method was used to perform classification on the testing data. The results are also outputted to a confusion matrix.
 
 \section{Analytic Evaluation}
+
+\subsection{Metric Analysis}
 
 \begin{figure}
   \includegraphics[scale=0.45]{precision}
@@ -218,6 +226,7 @@ The ROC AUC scores for the Decision Tree model and Random Forest model are 0.88 
 On the other hand, the Decision Tree and Random Forest classifiers performed noticeably better on classifying the negative class. Since the data set was highly imbalanced towards the negative class, it's possible that this resulted in the tree-based classifiers having an overall higher performance than the Naive Bayes classifier.
 
 As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \ref{fig:acc_roc}, the Random Forest classifier only provided a slight improvement on the standard Decision Tree classifier. Additionally, the top 10 most important features between the two classifiers are very similar (see figures \ref{fig:decision_tree_importances}, \ref{fig:random_forest_importances}).
+
 % @TODO maybe add another couple of lines here
 
 % @TODO fill in
@@ -253,23 +262,6 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
   \label{fig:decision_tree_roc}
 \end{figure}
 
-\begin{figure}
-  \begin{tabular}{ll}
-    \textbf{Feature}                          & \textbf{Importance} \\
-    GENSTAT (Generation status)               & 0.459719 \\
-    VisMin (Visible minority status)          & 0.12905 \\
-    PR (Province, current)                    & 0.0875603 \\
-    POB (Place of birth)                      & 0.0789063 \\
-    ETHDER (Ethnic origin)                    & 0.0784669 \\
-    IMMCAT5 (Immigration Admission category)  & 0.0324108 \\
-    LOC\_ST\_RES (Location of study)          & 0.0279763 \\
-    DPGRSUM (Population group)                & 0.0245261 \\
-    LFACT (Labour force status)               & 0.0120307 \\
-    AGEGRP (Age)                              & 0.0118114 \\   
-  \end{tabular}
-  \caption{Decision Tree feature importances}
-  \label{fig:decision_tree_importances}
-\end{figure}
 
 \begin{figure}
   \begin{tabular}{lllll}
@@ -292,24 +284,6 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
 \end{figure}
 
 \begin{figure}
-  \begin{tabular}{ll}
-    \textbf{Feature}                          & \textbf{Importance} \\
-    GENSTAT (Generation status)               & 0.062281 \\
-    ETHDER (Ethnic origin)                    & 0.0573086 \\
-    PR (Province, current)                    & 0.0523802 \\
-    POBM (Mother's POB)                       & 0.048009 \\
-    POB (Place of birth)                      & 0.0405777 \\
-    POBF (Father's POB)                       & 0.0321791 \\
-    VisMin (Visible minority status)          & 0.0253287 \\
-    AGEGRP (Age)                              & 0.0240645 \\
-    PR5 (Province, 5 years ago)               & 0.0239604 \\
-    IMMCAT5 (Immigration admission category)  & 0.0232537
-  \end{tabular}
-  \caption{Random Forest feature importances}
-  \label{fig:random_forest_importances}
-\end{figure}
-
-\begin{figure}
   \begin{tabular}{lllll}
                   & precision & recall      & f1-score  & support \\
   \textit{False}  & 0.93      & 0.68        & 0.79      & 76719 \\
@@ -328,6 +302,165 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
   \caption{Naive Bayes ROC AUC curve}
   \label{fig:naive_bayes_roc}
 \end{figure}
+
+\subsection{Cross-Year Analysis}
+
+% @TODO in the process of adding citations
+
+The analysis method, regardless of underlying implementation, is at its core to be an aid in analyzing shifts in Canada's changing language demographics.
+
+To explore the usefulness of the method, feature importance scores from both the 1991 and 2016 PUMF datasets were extracted in order to compare meaningful differences and similarities.  The choice of 1991 echoes the choice of 2016 as the two years were the earliest and latest census years respectively available in individuals file (PUMF) format.  Together the two years allow an analysis of demographic changes over a 25 year period, close to the definition length of one human generation (SOURCE).
+
+In order to reconcile the differences in feature name and representation types, the associated study documentation files for each census year were used to produce a mapping of similar features.  Although features were not necessarily one to one (e.g. NAME A FEATURE WHERE THIS IS NOT THE CASE), features mapped were sufficiently similar such that a discrepancy in relative feature importance scores between the two census years might be an indicator of some underlying difference.
+
+In some features, such as AGEGRP/AGEP, the feature tracked the same aspect of individuals but with finer granularity in one year and loose categories in the other.  As the underlying algorithms are suited to categorical rather than continuous data, such differences were reconciled by bucketing granular data into deciles.
+
+Other features were not reconcilable, as they did not possess tracked counterparts in the other census year or were split into multiple features, such as SHELCO (EXPLAIN WHY).  Such features were omitted from both census years in the cross-year analysis.
+
+Although in practice either of the three algorithms analyzed might be applicable for cross-year analysis, random forest was selected for this purpose due to its better performance metrics from the 2016 trials and its ease of interpretability compared to naive Bayesian.  Unlike in the 2016 only trials, English mother tongued rows were not dropped, as the 1991 dataset provided additional granularity by differentiating "English single response", "French single response", and "English and French" responses.  By retaining these rows, additional language shifts between the official languages, of which intuition suggests (ACTUALLY FIND A SOURCE) might be more numerous due to the prevalence of official language speakers.
+
+Post pre-processing, general methodology between the cross and single year experiments were identical save for differences in feature names.  In the 1991 dataset, WEIGHT, HLANO, MTNNO correspond to WEIGHTP, HLNP, and MTNP respectively.
+
+The results of the feature importance scores for 1991 and 2016 were then compared in terms of cardinality, with first features corresponding to the highest scores, second features corresponding to the second highest scores, and so forth.  The results revealed similar orderings of features importance scores between the two census years, bar some potentially interesting differences as seen in NAME THE FIGURE WITH THE CROSS YEAR TABLE. 
+
+\subsection{Practical Applications}
+
+
+
+\afterpage{%
+\clearpage
+}
+
+\afterpage{%
+\begin{figure}[!p]
+  \resizebox{\textwidth}{!}{\begin{tabular}{llll}
+
+    \textbf{Name}    & \textbf{Score}    & \textbf{Verbose Name}    & \textbf{Description} \\
+    GENSTAT    & 0.442423    & Immigrant\_Generation\_Status    & Categorical: Generation status (e.g. 1st gen. immigrant) \\
+    PR    & 0.106694    & Province\_Current\_Residence    & Categorical: Province or territory of current residence \\
+    ETHDER    & 0.0944011    & Ethnic\_Origin    & Categorical: Ethnic origin \\
+    VisMin    & 0.0916651    & Visible\_Minority\_Group    & Categorical: Visible minority group \\
+    POB    & 0.0518519    & Place\_of\_Birth    & Categorical: Place of birth \\
+    IMMCAT5    & 0.0512071    & Immigration\_Detailed\_Category    & Categorical: Immigration category (detailed categories) \\
+    LOC\_ST\_RES    & 0.0491774    & Highest\_Education\_Location\_vs\_Residence    & Categorical: Highest education location vs residence \\
+    AGEGRP    & 0.0285615    & Age\_Bracket    & Categorical: Age bracket \\
+    LSTWRK    & 0.0190626    & When\_Last\_Worked\_For\_Income    & Categorical: When last worked for pay or in self-employment \\
+    EFDecile    & 0.00480652    & Economic\_Family\_Income\_Decile\_After\_Tax    & Discrete (1-10): Total family income decile after tax \\
+    ... \\
+    CONDO    & 0    & Condominium\_Membership    & Binary (0,1): Resides in a condominium development \\
+    HHInc\_AT    & 0    & Household\_Income\_Bracket\_After\_Tax    & Categorical: Household income bracket after tax \\
+    IMMSTAT    & 0    & Immigrant\_Status    & Categorical: Immigration status (e.g. immigrant vs non) \\
+    LICO    & 0    & Economic\_Family\_Low\_Income\_Cutoff    & Binary (1,2): Non-low or low income cut-off economic family \\
+    LICO\_AT    & 0    & Economic\_Family\_Low\_Income\_Cutoff\_After\_Tax    & Binary (1,2): Non-low or low income cut-off economic family after tax \\
+    LoLIMA    & 0    & Person\_Low\_Income\_Measure\_After\_Tax    & Binary (1,2): Non-low or low income measure person after tax \\
+    LoLIMB    & 0    & Person\_Low\_Income\_Measure\_Before\_Tax    & Binary (1,2): Non-low or low income measure person before tax \\
+    LoMBM    & 0    & Person\_Low\_Income\_Market\_Based\_Measure    & Binary (1,2): Non-low or low income Market Based Measure \\
+    REGIND    & 0    & Registered\_Treaty\_Status    & Binary (0,1): Registered or treaty Indian status \\
+    SHELCO    & 0    & Shelter\_Cost    & Continuous: Average monthly cost of shelter \\
+
+  \end{tabular}}
+  \caption{Decision Tree feature importances}
+  \label{fig:decision_tree_importances}
+\end{figure}
+
+\begin{figure}[!p]
+  \resizebox{\textwidth}{!}{\begin{tabular}{llll}
+
+    \textbf{Name}    & \textbf{Score}    & \textbf{Verbose Name}    & \textbf{Description} \\
+    ETHDER    & 0.0485949    & Ethnic\_Origin    & Categorical: Ethnic origin \\
+    GENSTAT    & 0.0434254    & Immigrant\_Generation\_Status    & Categorical: Generation status (e.g. 1st gen. immigrant) \\
+    POBM    & 0.0419854    & Place\_of\_Birth\_Mother    & Categorical: Mother's place of birth \\
+    POBF    & 0.0412603    & Place\_of\_Birth\_Father    & Categorical: Father's place of birth \\
+    PR    & 0.0379196    & Province\_Current\_Residence    & Categorical: Province or territory of current residence \\
+    POB    & 0.0315865    & Place\_of\_Birth    & Categorical: Place of birth \\
+    PR5    & 0.0283671    & Province\_Residence\_5\_Years\_Ago    & Categorical: Province or territory of residence 5 years ago \\
+    AGEGRP    & 0.0275129    & Age\_Bracket    & Categorical: Age bracket \\
+    CMA    & 0.0241851    & Metro\_Area\_Current\_Residence    & Categorical: Area of current residence \\
+    HHMRKINC    & 0.0238593    & Household\_Market\_Income\_Bracket    & Categorical: Household market income bracket \\
+    ... \\
+    PKID0\_1    & 0.00356692    & Has\_Children\_In\_Household\_Age\_0\_1    & Binary (0,1): Presence of children in household aged 0-1 \\
+    PKIDS    & 0.00241385    & Has\_Children\_In\_Household    & Binary (0,1): Presence of children in any household \\
+    LoLIMB    & 0.00185915    & Person\_Low\_Income\_Measure\_Before\_Tax    & Binary (1,2): Non-low or low income measure person before tax \\
+    LoLIMA    & 0.00169172    & Person\_Low\_Income\_Measure\_After\_Tax    & Binary (1,2): Non-low or low income measure person after tax \\
+    LoMBM    & 0.00167834    & Person\_Low\_Income\_Market\_Based\_Measure    & Binary (1,2): Non-low or low income Market Based Measure \\
+    ABOID    & 0.00163083    & Aboriginal\_Identity    & Categorical: Detailed aboriginal identity \\
+    BFNMEMB    & 0.00159113    & FN\_Band\_Membership    & Binary (0,1): Membership in a First Nation or band \\
+    LICO    & 0.0015591    & Economic\_Family\_Low\_Income\_Cutoff    & Binary (1,2): Non-low or low income cut-off economic family \\
+    LICO\_AT    & 0.00141983    & Economic\_Family\_Low\_Income\_Cutoff\_After\_Tax    & Binary (1,2): Non-low or low income cut-off economic family after tax \\
+    REGIND    & 0.00124038    & Registered\_Treaty\_Status    & Binary (0,1): Registered or treaty Indian status
+
+  \end{tabular}}
+  \caption{Random Forest feature importances}
+  \label{fig:random_forest_importances}
+\end{figure}
+\clearpage
+}
+
+
+\afterpage{%
+\begin{figure}[!p]
+  \resizebox{\textwidth}{!}{\begin{tabular}{llll}
+
+    \textbf{Name}    & \textbf{Score}    & \textbf{Verbose Name}    & \textbf{Description} \\
+    ETHNICRP    & 0.179105    & Ethnic\_Origin    & Categorical: Ethnic origin \\
+    POBP    & 0.0837409    & Place\_of\_Birth    & Categorical: Place of birth \\
+    HHINCP    & 0.051371    & Household\_Income\_Bracket    & Categorical: Household income bracket \\
+    ROOMP    & 0.0466625    & Household\_Room\_Count    & Discrete (0-11+): Number of rooms in household \\
+    CFINCP    & 0.0447713    & Census\_Family\_Income\_Bracket    & Categorical: Census family income bracket \\
+    CITIZENP    & 0.044201    & Canadian\_Citizenship    & Categorical: Canadian citizenship status \\
+    AGEP    & 0.0365448    & Age\_Bracket    & Categorical: Age bracket \\
+    CMAPUMFP    & 0.0365201    & Metro\_Area\_Current\_Residence    & Categorical: Area of current residence \\
+    IMMPOPP    & 0.03403    & Immigrant\_Status    & Categorical: Immigration status (e.g. immigrant vs non) \\
+    TOTINCP    & 0.0331616    & Total\_Personal\_Recurring\_Income    & Continuous: Total personal income from recurring sources \\
+    ... \\
+    MOB1P    & 0.0096419    & Residence\_Mobility\_Status\_1\_Year\_Ago    & Categorical: 1 year mobility status (e.g. interprovincial migrant) \\
+    LSTWKP    & 0.00942748    & When\_Last\_Worked\_For\_Income    & Categorical: When last worked for pay or in self-employment \\
+    RCONDP    & 0.00859234    & Condominium\_Membership    & Binary (0,1): Resides in a condominium development \\
+    PRMAINP    & 0.00775382    & Is\_Primary\_Household\_Maintainer    & Binary (0,1): Person is primary household maintainer \\
+    INCSTP    & 0.00629487    & Economic\_Family\_Low\_Income\_Cutoff    & Binary (1,2): Non-low or low income cut-off economic family \\
+    TENURP    & 0.0047647    & Household\_Ownership\_or\_Not    & Binary (1,2): Household owns residence or rents/lives in band housing \\
+    ABETHNCP    & 0.00230789    & Aboriginal\_Identity    & Categorical: Detailed aboriginal identity \\
+    PROV1P    & 0.00135607    & Province\_Residence\_1\_Year\_Ago    & Categorical: Province or territory of residence 1 year ago \\
+    REGINP    & 0.000911788    & Registered\_Treaty\_Status    & Binary (0,1): Registered or treaty Indian status \\
+    BNFNMEMP    & 0.000848463    & FN\_Band\_Membership    & Binary (0,1): Membership in a First Nation or band \\
+
+  \end{tabular}}
+  \caption{1991 Random Forest feature importances for cross-year analysis}
+  \label{fig:1991_random_forest_importances}
+\end{figure}
+
+\begin{figure}[!p]
+  \resizebox{\textwidth}{!}{\begin{tabular}{llll}
+
+    \textbf{Name}    & \textbf{Score}    & \textbf{Verbose Name}    & \textbf{Description} \\
+    ETHDER    & 0.125051    & Ethnic\_Origin    & Categorical: Ethnic origin \\
+    POB    & 0.0688954    & Place\_of\_Birth    & Categorical: Place of birth \\
+    CFInc    & 0.0582223    & Census\_Family\_Income\_Bracket    & Categorical: Census family income bracket \\
+    HHInc    & 0.057589    & Household\_Income\_Bracket    & Categorical: Household income bracket \\
+    ROOMS    & 0.0521608    & Household\_Room\_Count    & Discrete (0-11+): Number of rooms in household \\
+    AGEGRP    & 0.0499439    & Age\_Bracket    & Categorical: Age bracket \\
+    IMMSTAT    & 0.0464621    & Immigrant\_Status    & Categorical: Immigration status (e.g. immigrant vs non) \\
+    VALUE    & 0.0369761    & Property\_Value    & Continuous: Household property value (including land) \\
+    CMA    & 0.0350896    & Metro\_Area\_Current\_Residence    & Categorical: Area of current residence \\
+    TotInc    & 0.0313724    & Total\_Personal\_Recurring\_Income    & Continuous: Total personal income from recurring sources \\
+    ... \\
+    COW    & 0.0110016    & Employment\_Type    & Categorical: Employment type (e.g. employee, self-employed) \\
+    ATTSCH    & 0.0108029    & Education\_Level\_Attended    & Categorical: Highest education level ever attended \\
+    CONDO    & 0.00985831    & Condominium\_Membership    & Binary (0,1): Resides in a condominium development \\
+    LSTWRK    & 0.00947498    & When\_Last\_Worked\_For\_Income    & Categorical: When last worked for pay or in self-employment \\
+    PRIHM    & 0.00928193    & Is\_Primary\_Household\_Maintainer    & Binary (0,1): Person is primary household maintainer \\
+    Tenur    & 0.00737612    & Household\_Ownership\_or\_Not    & Binary (1,2): Household owns residence or rents/lives in band housing \\
+    LICO    & 0.00561498    & Economic\_Family\_Low\_Income\_Cutoff    & Binary (1,2): Non-low or low income cut-off economic family \\
+    ABOID    & 0.00142971    & Aboriginal\_Identity    & Categorical: Detailed aboriginal identity \\
+    BFNMEMB    & 0.00102295    & FN\_Band\_Membership    & Binary (0,1): Membership in a First Nation or band \\
+    REGIND    & 0.000777114    & Registered\_Treaty\_Status    & Binary (0,1): Registered or treaty Indian status \\
+
+  \end{tabular}}
+  \caption{2016 Random Forest feature importances for cross-year analysis}
+  \label{fig:2016_random_forest_importances}
+\end{figure}
+\clearpage
+}
 
 
 \section{Conclusion}

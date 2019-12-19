@@ -8,21 +8,24 @@ Explain why Naive Bayes is good at precision and recall but shit at AUC.
 
 ## Discretization
 
-Explain.
+The algorithms utilized in our analysis are designed for categorical data and do not place any emphasis on numerical similarity between values.  As certain features deemed interesting and suitable for prediction of language shift were represented by the PUMF dataset in continuous form, using them as is would result in their interpretation as features containing few or one records per category.
+
+To convert said features into categorical fields, their values are first bucketed into ten deciles of near-equal size, sorting records between the minimum and maximum values of the features.  As invalid and missing values are extracted into their own category and records are arbitrarily ranked so as to allow duplicate values to be placed in separate deciles if required, the resulting discretized features do not consist of perfect deciles but do preserve the order of the continuous features and allow them to be used for classification. 
+
 
 ## Cross-Year Analysis
 
-Our analysis method, regardless of underlying implementation, is at its core to be an aid in analyzing shifts in Canada's changing language demographics.
+The analysis method, regardless of underlying implementation, is at its core to be an aid in analyzing shifts in Canada's changing language demographics.
 
-To explore the usefulness of our method, we extracted feature importance scores from both the 1991 and 2016 PUMF datasets in order to compare meaningful differences and similarities.  The choice of 1991 echoes our choice of 2016 as the two years were the earliest and latest census years respectively available in individuals file (PUMF) format.  Together the two years allow an analysis of demographic changes over a 25 year period, close to the definition length of one human generation (SOURCE).  
+To explore the usefulness of the method, feature importance scores from both the 1991 and 2016 PUMF datasets were extracted in order to compare meaningful differences and similarities.  The choice of 1991 echoes the choice of 2016 as the two years were the earliest and latest census years respectively available in individuals file (PUMF) format.  Together the two years allow an analysis of demographic changes over a 25 year period, close to the definition length of one human generation (SOURCE).  
 
-In order to reconcile the differences in feature name and representation types, we used the associated study documentation files for each census year to produce a mapping of similar features.  Although features were not necessarily one to one (e.g. NAME A FEATURE WHERE THIS IS NOT THE CASE), features mapped were sufficiently similar such that a discrepancy in relative feature importance scores between the two census years might be an indicator of some underlying difference.
+In order to reconcile the differences in feature name and representation types, the associated study documentation files for each census year were used to produce a mapping of similar features.  Although features were not necessarily one to one (e.g. NAME A FEATURE WHERE THIS IS NOT THE CASE), features mapped were sufficiently similar such that a discrepancy in relative feature importance scores between the two census years might be an indicator of some underlying difference.
 
-In some features, such as AGEGRP/AGEP, the feature tracked the same aspect of individuals but with finer granularity in one year and loose categories in the other.  As our underlying algorithms are suited to categorical rather than continuous data, such differences were reconciled by bucketing granular data into deciles.
+In some features, such as AGEGRP/AGEP, the feature tracked the same aspect of individuals but with finer granularity in one year and loose categories in the other.  As the underlying algorithms are suited to categorical rather than continuous data, such differences were reconciled by bucketing granular data into deciles.
 
 Other features were not reconcilable, as they did not possess tracked counterparts in the other census year or were split into multiple features, such as SHELCO (EXPLAIN WHY).  Such features were omitted from both census years in the cross-year analysis.
 
-Although in practice either of the three algorithms analyzed might be applicable for cross-year analysis, we opted to use random forest due to its better performance metrics from the 2016 trials and its ease of interpretability compared to naive Bayesian.  Unlike in the 2016 trials, no non-offical home language (VERIFY THAT THIS IS WHAT WAS DROPPED) rows were not dropped, as the 1991 dataset provided additional granularity by differentiating "English single response", "French single response", and "English and French" responses.  By retaining these rows, additional language shifts between the official languages, of which we intuit might be more numerous due to the prevalence of official language speakers.
+Although in practice either of the three algorithms analyzed might be applicable for cross-year analysis, random forest was selected for this purpose due to its better performance metrics from the 2016 trials and its ease of interpretability compared to naive Bayesian.  Unlike in the 2016 only trials, English mother tongued rows were not dropped, as the 1991 dataset provided additional granularity by differentiating "English single response", "French single response", and "English and French" responses.  By retaining these rows, additional language shifts between the official languages, of which intuition suggests (ACTUALLY FIND A SOURCE) might be more numerous due to the prevalence of official language speakers.
 
 Post pre-processing, general methodology between the cross and single year experiments were identical save for differences in feature names.  In the 1991 dataset, WEIGHT, HLANO, MTNNO correspond to WEIGHTP, HLNP, and MTNP respectively.
 
