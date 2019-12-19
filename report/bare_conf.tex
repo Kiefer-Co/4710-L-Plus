@@ -101,7 +101,7 @@ Applying the algorithm to census data seems like a natural fit, and can be used 
 \section{Methodology}
 
 \subsection{General Process}
-% @TODO expand on this
+
 The general process is as follows:
 \begin{enumerate}
 	\item Determine when a shift in language occurs
@@ -227,20 +227,6 @@ On the other hand, the Decision Tree and Random Forest classifiers performed not
 
 As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \ref{fig:acc_roc}, the Random Forest classifier only provided a slight improvement on the standard Decision Tree classifier. Additionally, the top 10 most important features between the two classifiers are very similar (see figures \ref{fig:decision_tree_importances}, \ref{fig:random_forest_importances}).
 
-% @TODO maybe add another couple of lines here
-
-% @TODO fill in
-% observations
-% - the decision tree and random forest had very similar feature importances, and precision/recal/etc.
-%   - this can also be seen in the ROC AUC's
-% - the decision tree and random forest were really good at classifying negative class, not so much the positive class
-%   - this could be due to the imbalanced nature of the data; there was a lot more negative examples than positive one
-% - the NB classifier had decent recall (with a better recall for the positive class), but a poor precision rate for the positive class
-%   - in contrast to the decision tree/random forest where the precision was decent in both classes
-%   - kinda similar to that one paper (\cite{performance1}), but NB managed to outperform in recall for all classes and precision
-% - f1 score for the Naive Bayes all around worse than the decision tree / random forest
-% - ROC AUC for NB was noticeably worse
-% - the feature importances for DT/RF are pretty intuitive, with the exception of labour force (didn't look at what that is too much though)
 
 \begin{figure}
   \begin{tabular}{lllll}
@@ -309,11 +295,11 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
 
 Evaluation of feature importances allows identification of relevant features for predicting language shift and also aids in analysis of those features by providing a start point for further investigation.  For example, GENSTAT, the generation status of immigrants, is a highly relevant feature for prediction of language shift.  Initial intuition might suggest that first generation immigrants might be more prone to language shifts, having possibly emigrated from countries with official languages other than English or French.  Exploration of the feature suggests otherwise, with second generation immigrants having a much higher rate of language shift.  By exploring another highly important feature, AGEGRP (age bracket), possible hypotheses can be generated: language shift is low among the 50-79 age brackets and significantly low among the age brackets younger than 25.  The lower rate of language shift in first generation immigrants may be due to young immigrants having never learned their parents' mother tongues, or due to older immigrants having emigrated at an age where language shifts are less likely.
 
-Identification of which features are unimportant are also useful start points from which further investigations may be made, such as Sex being unimportant while POBM and POBF (place of birth of mother and father respectively) are important, with POBM being more so.  Such differences might indicate that while neither sex has a higher rate of language shift, mothers and fathers may differ in the rate at which they pass on their mother tongues.  (\textbf{INCLUDE SOURCE FROM INTRO})
+Identification of which features are unimportant are also useful start points from which further investigations may be made, such as Sex being unimportant while POBM and POBF (place of birth of mother and father respectively) are important, with POBM being more so.  Such differences might indicate that while neither sex has a higher rate of language shift, mothers and fathers may differ in the rate at which they pass on their mother tongues.  Additional research finds statements which corroborate this idea, from both mothers explaining cultural reasons for maintaining mother tonuges and insights as to why prospective immigrants choose to pass on their languages or not. \cite{mother1} \cite{policy1}
 
 Identifying relationships between features might also be useful for identifying broader issues or effects indicated by changes in language demographics.  HHMRKINC (household market income bracket), SHELCO (shelter cost), ROOMS (number of rooms in household), and other features within the top 20 importance scores have inherent correlations with economic status.  HHInc (household income) indicates higher rates of language shift at the low and high ends of the spectrum.  WRKACT (work activity status in 2015) indicates more language shift for part time workers and for workers with the most amount of weeks worked.   LOC\_ST\_RES (students whose schools are in different provinces than their homes) shows higher rates of language shift for students who must travel far from home, potentially incurring or requiring additional costs.  ROOMS correlates negatively with language shift, while SHELCO and HHMRKINC show opposite effects.
 
-While no conclusions can be made without further analysis, there are clear indications that language shift may be more prevalent among both very economically disadvantaged and advantaged groups.  This suggests that increases in income inequality may have significant effects on Canada's language demographics.  LANGUAGES ARE TIED TO WEALTH (\textbf{INCLUDE SOURCE FROM INTRO})
+While no conclusions can be made without further analysis, there are clear indications that language shift may be more prevalent among both very economically disadvantaged and advantaged groups.  This suggests that increases in income inequality may have significant effects on Canada's language demographics.  Additional research finds studies relating official language proficiency to literacy and mother tongue retention to fertility among other factors, further highlighting that some intrinsic link between language and economic well-being is worth investigating. \cite{literacy1} \cite{fertility1}
 
 Analysis of census features for the purpose of analyzing linguistic demographics may also allow improvements for future census years' data collection.  IMMSTAT (immigration status) is less informative than and score much less than its superset, IMMCAT5 (detailed immigration category), in part due to the presence of the "Immigrants who landed before 1980" label which is highly correlated with language shift.  Similarly, BFNMEMB, which tracks just First Nation or band membership, scores much worse than ABOID (detailed aboriginal identity) which tracks Métis and Inuk (Inuit) as separate groups, both of which are less likely to shift home languages than First Nation members.  If patterns similar to those found for language shift can be found with other target columns, a recommendation to merge these less informative features with their detailed counterparts may be of use.
 
@@ -453,7 +439,7 @@ Analysis of census features for the purpose of analyzing linguistic demographics
 }
 
 \section{Conclusion}
-% @TODO fill in
+
 In this paper, the performance of 3 different supervised learning techniques was compared when applied to the 2016 Canadian public census data by various metrics.
 
 The results indicate that the Random Forest classifier outperformed the Decision Tree classifier and Naive Bayes classifier in general. The Random Forest and Decision Tree classifiers were quite proficient in detecting a lack of language shift, but were significantly less accurate in classifying a language shift. Contrasting this, the Naive Bayes classifier was better in detecting a language shift and was worse in detecting the lack of a language shift. Finally, the Decision Tree and Random Forest classifiers performed quite similarly, with the Random Forest classifier slightly outperforming the Decision Tree variant.
@@ -463,11 +449,9 @@ The results indicate that the Random Forest classifier outperformed the Decision
 
 \subsubsection{Cross-Year Analysis}
 
-% @TODO FIND SOURCES
-
 The analysis method, regardless of underlying implementation, is at its core to be an aid in analyzing shifts in Canada's changing language demographics.  A preliminary implementation of cross-year analysis proved to be insightful.
 
-To explore the usefulness of the method, feature importance scores from both the 1991 and 2016 PUMF datasets were extracted in order to compare meaningful differences and similarities.  The choice of 1991 echoes the choice of 2016 as the two years were the earliest and latest census years respectively available in individuals file (PUMF) format.  Together the two years allow an analysis of demographic changes over a 25 year period, close to the definition length of one human generation. \cite{generation}
+To explore the usefulness of the method, feature importance scores from both the 1991 and 2016 PUMF datasets were extracted in order to compare meaningful differences and similarities.  The choice of 1991 echoes the choice of 2016 as the two years were the earliest and latest census years respectively available in individuals file (PUMF) format.  Together the two years allow an analysis of demographic changes over a 25 year period, close to the definition length of one human generation.  \cite{generation1}
 
 In order to reconcile the differences in feature name and representation types, the associated study documentation files for each census year were used to produce a mapping of similar features.  Although features' domains were not necessarily one to one, such as detailed aboriginal identity in 2016 (ABOID) possessing categories for Métis and Inuk (Inuit) not present in its 1991 counterpart (ABETHNCP), features mapped were sufficiently similar such that a discrepancy in relative feature importance scores between the two census years might be an indicator of some underlying difference.
 
@@ -475,7 +459,7 @@ In some features, such as AGEGRP (2016)/AGEP (1991), the feature tracked the sam
 
 Other features were not reconcilable, as they did not possess tracked counterparts in the other census year or were split into multiple features, such as shelter cost, which is divided into features for home owners (OMPP) and renters (GROSRTP) in 1991 but unified in 2016 (SHELCO).  Such features were omitted from both census years in the cross-year analysis.
 
-Although in practice either of the three algorithms analyzed might be applicable for cross-year analysis, random forest was selected for this purpose due to its better performance metrics from the 2016 trials and its ease of interpretability compared to naive Bayesian.  Unlike in the 2016 only trials, English mother tongued rows were not dropped, as the 1991 dataset provided additional granularity by differentiating "English single response", "French single response", and "English and French" responses.  By retaining these rows, additional language shifts between the official languages, of which intuition suggests (\textbf{ACTUALLY FIND A SOURCE}) might be more numerous due to the prevalence of official language speakers.
+Although in practice either of the three algorithms analyzed might be applicable for cross-year analysis, random forest was selected for this purpose due to its better performance metrics from the 2016 trials and its ease of interpretability compared to naive Bayesian.  Unlike in the 2016 only trials, English mother tongued rows were not dropped, as the 1991 dataset provided additional granularity by differentiating "English single response", "French single response", and "English and French" responses.  By retaining these rows, additional language shifts between the official languages, of which intuition suggests may be numerous due to the prevalence of French and English mother tongued records in the datasets, may be preserved.
 
 Post pre-processing, general methodology between the cross and single year experiments were identical save for differences in feature names.  In the 1991 dataset, WEIGHT, HLANO, MTNNO correspond to WEIGHTP, HLNP, and MTNP respectively.
 
@@ -483,7 +467,6 @@ The results of the feature importance scores for 1991 and 2016 were then compare
 
 \subsubsection{Other Future Work}
 
-% @TODO fill in
 One aspect that could be improved on in future work is to tweak the hyper parameters for the classifiers via cross validation. For instance, setting different values for the max tree depth on the Decision Tree classifier, or setting different values for the number of trees in the Random Forest classifier. Modifying these values may result in a more accurate classifier.
 
 Additionally, the 2016 Canadian Census data set contains mostly data indicating a lack of language shift. As a result, the classifiers learn mostly on these negative results, and it may impact the rates for positive results. The weights on the training data could be re-weighted to account for this, but further complications may arise when trying to maintain the data being representative of the Canadian public.
@@ -499,9 +482,6 @@ Another interesting metric that could be determined in future work is the condit
 
 The authors would like to thank the staff at the Elizabeth Dafoe library for giving direction on locating census microdata, and Dr. Carson Leung of the Databases and Data Mining Laboratory at the University of Manitoba for support of this project.
 
-
-
-% @TODO We should probably cite the PUMF data study documentation and mention its usage somewhere, maybe at the start of the methodology section
 \bibliographystyle{IEEEtran}
 \bibliography{bare_conf}
 
