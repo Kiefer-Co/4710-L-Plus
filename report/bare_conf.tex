@@ -25,7 +25,7 @@ Email: kleung@cs.umanitoba.ca}
 
 
 \begin{abstract}
-Canada is a nation composed of a highly diverse language population. This provides a unique opportunity to study the factors causing certain languages and language families to be lost over subsequent generations amongst allophones (people with a mother tongue other than English or French). This paper applies and compares the performance of Decision Tree Induction, Random Forest, and Categorical Naive Bayesian algorithms to census microdata to analyze the influence of various social and economic factors on the probability that allophones adopt official languages as their language spoken at home.
+Canada is a nation composed of a highly diverse language population. This provides a unique opportunity to study the factors involved in language shift and - potentially in future work - subsequent loss of certain languages and language families. It is observed that allophones (people with a mother tongue other than English or French)will at times make a shift from their mother tongue to an official national language. This paper applies Decision Tree Induction, Random Forest, and Categorical Naive Bayesian algorithms to primarily 2016 Canadian census microdata and compares their performances, as well as exploring the influence of various social and economic factors on the probability that allophones adopt official languages as their language spoken at home.
 
 \end{abstract}
 
@@ -273,7 +273,7 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
   ROC AUC Score	  & 0.90 \\\
   \end{tabular}
   \caption{Random Forest metrics}
-  \label{fig:random_Forest_metrics}
+  \label{fig:random_forest_metrics}
 \end{figure}
 
 \begin{figure}
@@ -329,7 +329,7 @@ The results of the feature importance scores for 1991 and 2016 were then compare
 
 Evaluation of feature importances allows identification of relevant features for predicting language shift and also aids in analysis of those features by providing a start point for further investigation.  For example, GENSTAT, the generation status of immigrants, is a highly relevant feature for prediction of language shift.  Initial intuition might suggest that first generation immigrants might be more prone to language shifts, having possibly emigrated from countries with official languages other than English or French.  Exploration of the feature suggests otherwise, with second generation immigrants having a much higher rate of language shift.  By exploring another highly important feature, AGEGRP (age bracket), possible hypotheses can be generated: language shift is low among the 50-79 age brackets and significantly low among the age brackets younger than 25.  The lower rate of language shift in first generation immigrants may be due to young immigrants having never learned their parents' mother tongues, or due to older immigrants having emigrated at an age where language shifts are less likely.
 
-Identification of which features are unimportant are also useful start points from which further investigations may be made, such as Sex being unimportant while POBM and POBF (place of birth of mother and father respectively) are important, with POBM being more so.  Such differences might indicate that while neither sex has a higher rate of language shift, mothers and fathers may differ in the rate at which they pass on their mother tongues.  (\textbf{INCLUDE SOURCE FROM INTRO})
+Identification of which features are unimportant are also useful start points from which further investigations may be made, such as Sex being unimportant while POBM and POBF (place of birth of mother and father respectively) being important, with POBM being more so.  Such differences might indicate that while neither sex has a higher rate of language shift, mothers and fathers may differ in the rate at which they pass on their mother tongues.  (\textbf{INCLUDE SOURCE FROM INTRO})
 
 Identifying relationships between features might also be useful for identifying broader issues or effects indicated by changes in language demographics.  HHMRKINC (household market income bracket), SHELCO (shelter cost), ROOMS (number of rooms in household), and other features within the top 20 importance scores have inherent correlations with economic status.  HHInc (household income) indicates higher rates of language shift at the low and high ends of the spectrum.  WRKACT (work activity status in 2015) indicates more language shift for part time workers and for workers with the most amount of weeks worked.   LOC\_ST\_RES (students whose schools are in different provinces than their homes) shows higher rates of language shift for students who must travel far from home, potentially incurring or requiring additional costs.  ROOMS correlates negatively with language shift, while SHELCO and HHMRKINC show opposite effects.
 
@@ -337,7 +337,6 @@ While no conclusions can be made without further analysis, there are clear indic
 
 Analysis of census features for the purpose of analyzing linguistic demographics may also allow improvements for future census years' data collection.  IMMSTAT (immigration status) is less informative than and score much less than its superset, IMMCAT5 (detailed immigration category), in part due to the presence of the "Immigrants who landed before 1980" label which is highly correlated with language shift.  Similarly, BFNMEMB, which tracks just First Nation or band membership, scores much worse than ABOID (detailed aboriginal identity) which tracks Métis and Inuk (Inuit) as separate groups, both of which are less likely to shift home languages than First Nation members.  If patterns similar to those found for language shift can be found with other target columns, a recommendation to merge these less informative features with their detailed counterparts may be of use.
 
-\subsubsection{Cross Year Insights}
 
 \afterpage{%
 \clearpage
@@ -477,7 +476,7 @@ Analysis of census features for the purpose of analyzing linguistic demographics
 
 \section{Conclusion}
 % @TODO fill in
-In this paper, the performance of 3 different supervised learning techniques was compared when applied to the 2016 Canadian public census data by various metrics.
+In this paper, the performances of 3 different supervised learning techniques were compared using various metrics when applied to the 2016 Canadian public census data. The results generated by the learning techniques showed that while some variables contributing to language shift were, perhaps, unsurprising - such as generation status or age bracket, others were more unexpected, such as total family income or highest education.
 
 The results indicate that the Random Forest classifier outperformed the Decision Tree classifier and Naive Bayes classifier in general. The Random Forest and Decision Tree classifiers were quite proficient in detecting a lack of language shift, but were significantly less accurate in classifying a language shift. Contrasting this, the Naive Bayes classifier was better in detecting a language shift and was worse in detecting the lack of a language shift. Finally, the Decision Tree and Random Forest classifiers performed quite similarly, with the Random Forest classifier slightly outperforming the Decision Tree variant.
 
@@ -488,7 +487,7 @@ One aspect that could be improved on in future work is to tweak the hyper parame
 
 Additionally, the 2016 Canadian Census data set contains mostly data indicating a lack of language shift. As a result, the classifiers learn mostly on these negative results, and it may impact the rates for positive results. The weights on the training data could be re-weighted to account for this, but further complications may arise when trying to maintain the data being representative of the Canadian public.
 
-Furthermore, this analysis could be applied over multiple census years. In addition to increasing the amount of data available, adding a temporal dimension could add an interesting aspect to the classifiers, possibly taking historical events into account.
+Furthermore, the brief analysis comparison of the 1991 and 2016 censuses could be expanded into future census years. Patterns amongst the shifts of various language groups over time could be evaluated based on size of various ethnic communities as well. In addition to increasing the amount of data available, adding a temporal dimension could add an interesting aspect to the classifiers.
 
 Adding a geographical dimension to the classifiers could identify more granular language shifts in Canadian provinces and territories. It would be interesting to apply the analysis on municipalities such as the City of Winnipeg as well. The Winnipeg open census data portal contains information on language spoken broken down by neighbourhood and ward.
 
