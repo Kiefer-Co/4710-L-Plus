@@ -567,7 +567,10 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 
 \section{Analytic Evaluation}
 
-To compare the different classifiers, metrics such as precision, recall, F1 score, and AUC ROC scores were used. Additionally, the top 10 feature importances for the decision tree classifier, and the random forest classifier were examined to further compare the two. The metrics can be seen in figures \ref{fig:decision_tree_metrics}, \ref{fig:random_forest_metrics}, and \ref{fig:naive_bayes_metrics}. Additionally, a graphical representation of the AUC ROC scores can be seen for each of the classifiers in figures \ref{fig:decision_tree_roc}, \ref{fig:random_forest_roc}, and \ref{fig:naive_bayes_roc}.
+To compare the different classifiers, metrics such as precision, recall, F1 score, and AUC ROC scores were used. Additionally, the top 10 feature importances for the decision tree classifier, and the random forest classifier were examined to further compare the two. The metrics can be seen in figures \ref{fig:decision_tree_metrics}, \ref{fig:random_forest_metrics}, and \ref{fig:naive_bayes_metrics}. Additionally, a graphical representation of the AUC ROC scores can be seen for each of the classifiers in figures \ref{fig:decision_tree_roc}, \ref{fig:random_forest_roc}, and \ref{fig:naive_bayes_roc}. Finally, graphs comparing the classifiers by each of the metrics can be found in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \ref{fig:acc_roc}.
+
+As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \ref{fig:acc_roc}, the random forest classifier only provided a slight improvement on the standard decision tree classifier. Additionally, the top 10 most important features between the two classifiers are very similar (see figures \ref{fig:decision_tree_importances}, \ref{fig:random_forest_importances}).
+% @TODO maybe add another couple of lines here
 
 Since the target class is highly unbalanced, with roughly 81\% of the data belonging to the false class, accuracy is perhaps not the best metric to use to compare the different models. The other metrics calculated such as F1-scores and AUC ROC scores are better for our models. The ROC AUC scores for the Decision Tree model and Random Forest model are 0.88 and 0.89, respectively. This means they are performing similarly in determining the positive class from the negative class. The ROC AUC score for Naive Bayes is 0.82, 8 percent lower than the two tree-based models. This is a significant difference, and it is reflected in the ROC AUC curve, where a noticeable dip in the curve occurs early on when compared to the tree-based models' curves. From this we can say the Naive Bayes classifier performs significantly worse at determining the the positive class from the negative class than the tree-based models.
 
@@ -584,6 +587,7 @@ Since the target class is highly unbalanced, with roughly 81\% of the data belon
 % - ROC AUC for NB was noticeably worse
 % - the feature importances for DT/RF are pretty intuitive, with the exception of labour force (didn't look at what that is too much though)
 
+% @TODO move around these figure declarations to be closer to where/in the order that they are used
 \begin{figure}
   \begin{tabular}{lllll}
                   & precision & recall      & f1-score  & support \\
