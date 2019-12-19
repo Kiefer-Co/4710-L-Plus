@@ -402,7 +402,7 @@ Email: kleung@cs.umanitoba.ca}
 
 
 \begin{abstract}
-Canada is a nation composed of a highly diverse language population. This provides a unique opportunity to study the factors causing certain languages and language families to be lost over subsequent generations amongst allophones (people with a mother tongue other than English or French). This paper applies and compares the performance of Decision Tree Induction, Random Forest, and Categorical Naive Bayesian algorithm to census microdata to analyze the influence of various social and economic factors on the probability that allophones adopt official languages as their language spoken at home.
+Canada is a nation composed of a highly diverse language population. This provides a unique opportunity to study the factors causing certain languages and language families to be lost over subsequent generations amongst allophones (people with a mother tongue other than English or French). This paper applies and compares the performance of Decision Tree Induction, Random Forest, and Categorical Naive Bayesian algorithms to census microdata to analyze the influence of various social and economic factors on the probability that allophones adopt official languages as their language spoken at home.
 
 \end{abstract}
 
@@ -428,7 +428,7 @@ component; language cohorts; allophones; mother tongue; language persistence
 % no \IEEEPARstart
 Canada is a nation composed of a highly diverse language population. Immigration and migration has risen both in numbers and as culturally relevant components of modern communities, especially in diverse countries such as Canada.
 
-This provides a unique opportunity to study the rates at which certain languages and language families are lost over subsequent generations as allophones (people with a mother tongue other than English or French) adopt English or French as their primary language. Certain factors such as sex, age, educational status and economic success may prove to be a key indicator of how quickly an individual adopts a language other than their mother tongue in everyday life.
+This provides a unique opportunity to study the rates at which certain languages and language families are lost over subsequent generations as allophones (people with a mother tongue other than English or French) adopt English or French as their primary language. Certain factors such as sex, age, educational status and economic success may prove to be key indicators of how quickly an individual adopts a language other than their mother tongue in everyday life.
 
 A language shift occurs when an allophone adopts an official language as their primary language, i.e. language spoken at home. Several studies have aimed to measure language shift rates through linear regression on various cohorts of the population. Ultimately, it is impossible to ascertain precisely when a language shift occurs, so the insights offered by linear regression are limited in accuracy.
 
@@ -458,7 +458,7 @@ The technique for analysis, synthetic cohort analysis, is based on data drawn fr
 
 This is in contrast to cross-sectional methods which use data from only one Census period to analyze language shifts. Combining this method with the synthetic cohort, the paper argues that the dynamic in language shift is better predicted, supported by what has been observed in the U.S. \cite{spanish1}
 
-There are still some difficulties with this approach. For example, 1980 and 1990 samples could have emigrations before 1990 and 2000, and from this the “true” cohorts of the foreign-born may not be entirely reflected.\cite{spanish1}
+There are still some difficulties with this approach. For example, 1980 and 1990 samples could have emigrations before 1990 and 2000, and from this the “true” cohorts of the foreign-born may not be entirely reflected. \cite{spanish1}
 
 \subsubsection{Limitations of Linear Regression}
 As seen above, multiple approaches to analyzing language cohorts temporally run into limitations in how census data is collected. Sampling errors and poorly worded census questions make it difficult to capture whether emigration has occurred between censuses. Even within a census, it is tempting to view language shift within a cohort as binary when this process occurs gradually.
@@ -480,7 +480,7 @@ Similarly to Osmanbegovic and Suljic's data, some classes in census data are goi
 In their paper, Klösgen and May took a different approach to mining census data. Klösgen and May used the United Kingdom's census data, which was only available in an aggregated form. The census data was available aggregated across various wards within the region, along with a detailed set of geographic layers. Thus, Klösgen and May decided to use those wards as the focus of their examination, and propose an application of SubgroupMiner, an advanced subgroup mining system. \cite{census1}
 
 \subsection{An Improved Decision Tree Algorithm}
-Hulten, Spencer, and Domingos' CVFDT algorithm improves on the VFDT decision tree learner by accounting for data changing over time. \cite{dtrees1} Their CVFDT algorithm works by maintaining a decision tree with respect to a sliding window of data and grows an alternative subtree to replace an old one if it becomes out of date. This allows for it to learn a similar model to one from the VFDT algorithm but in constant time \cite{dtrees1}.
+Hulten, Spencer, and Domingos' CVFDT algorithm improves on the VFDT decision tree learner by accounting for data changing over time. \cite{dtrees1} Their CVFDT algorithm works by maintaining a decision tree with respect to a sliding window of data and grows an alternative subtree to replace an old one if it becomes out of date. This allows for it to learn a similar model to one from the VFDT algorithm but in constant time. \cite{dtrees1}
 
 Applying the algorithm to census data seems like a natural fit, and can be used to improve the performance of any decision tree learners in use. The addition of the time aspect could also be used to improve the accuracy in cases where the data from only one period of time is used, instead of multiple.
 
@@ -503,14 +503,14 @@ Due to the nature of decision trees, all continuous values must be converted int
 In addition to the general steps stated above, applying them to the 2016 Canadian Census required further work, namely the additional preprocessing due to the format of the data.
 
 The analysis was performed in Python 3 via Jupyter Notebooks.  
-The \textbf{Pandas} package was used to import the 2016 PUMF Individuals CSV file as a  \textit{DataFrame} and perform manipulations on the \textit{DataFrame}, described in more detail in the data preprocessing section.
+The \textbf{pandas} package was used to import the 2016 PUMF Individuals CSV file as a \textit{DataFrame} and perform manipulations on the \textit{DataFrame}, described in more detail in the data preprocessing section.
 
 Several modules in the \textbf{scikit-learn} package were used for the classification algorithms in question, including the \textit{DecisionTreeClassifier} for classifying based on decision trees, the \textit{RandomForestClassifier} for classifying using random forests, and \textit{CategoricalNB} for classifying using a Naive Bayesian algorithm. More details on these classifiers can be found in their respective sections.
 
 The \textbf{bokeh} package was used to generate a bar chart describing the features with the greatest amount of invalid data and to visualize the ROC AUC scores for the various classifiers. The \textbf{tabulate} package was used to create a table listing feature importances in descending order of importance. The \textbf{graphviz} package was used to visualize decision trees.
 
 \subsubsection{Data Format}
-Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or \~2.7\% of the target population) individual, anonymized records, with 123 features. Additionally, there's an individual weight attached to each record, and 16 estimate weights for sampling variability.
+Data was collected from the 2016 Canadian census public use microdata file (PUMF), which contains around 930,421 (or \~2.7\% of the target population) individual, anonymized records, with 123 features. Additionally, there is an individual weight attached to each record, and 16 estimate weights for sampling variability.
 
 While the PUMF did give individual records, some of the data was aggregated to preserve confidentiality (e.g. categories being combined together), and some records had some of their variables changed to 'Not Available' for similar reasons. Furthermore, only the largest of the census metropolitan areas and provinces were covered. 
 
@@ -522,6 +522,7 @@ Prior to the execution of any of the classifiers, the PUMF dataset is passed thr
 
 The feature selection process performed was a mix of manually intuited choices and insights from initial analysis using \textit{scikit-learn}'s decision tree classifier on unprocessed data.  Features which were pruned were both uninformative with regards to the goal of detecting home language shifts and possessed clearly understood reasons for their behaviour.  For example, MTNEN (mother tongue being English) was extremely negatively correlated with the shift metric, as English is the most spoken language in Canada and an unlikely home language to shift away from.  Conversely, LWAEN (language at work being English) and LWAFR (language at work being French), had little to no influence on the shift metric, which was understood to be the consequence of work language rarely being a language other than English or French.  Such features were omitted from the preprocessed version of the dataset.
 
+The initial data analysis also found promising improvements when dropping rows featuring English as a mother tongue.  Removal of these rows lowered the unusable proportion of many features that was thought to provide useful insight, such as AGEIMM (age of immigration) which dropped from 88 to 61 percent unusable.  Although AGEIMM in particular remained unsuitable for the analysis as only a fraction of respondents provided a usable value, a decision was made to remove English mother tongue rows from the dataset with the intention of providing more focused analysis on changes within Canada's non-official language communities, from which shifts to English as a home language were more common than the inverse.
 
 \begin{figure}
   \includegraphics[scale=0.25]{invalid_data_by_feature}
@@ -530,10 +531,7 @@ The feature selection process performed was a mix of manually intuited choices a
   \label{fig:invalid_data}
 \end{figure}
 
-The PUMF dataset also contained missing, invalid, or inapplicable values as specified by certain numeric codes (e.g.  88888888) as specified in its accompanying Study Documentation.  The initial preprocessing involved detecting the number of such values in each feature column as a proportion of the total number of entries.  Features which possessed an unusable percentage greater than 20\% were pruned so as to not obscure the analysis by training classifiers on presence of a data feature rather than its content. A subset of the feature's invalid data rates can be seen in figure \ref{fig:invalid_data}.
-
-
-The initial data analysis also found promising improvements when dropping rows featuring English as a mother tongue.  Removal of these rows lowered the unusable proportion of many features that was thought to provide useful insight, such as AGEIMM (age of immigration) which dropped from 88 to 61 percent unusable.  Although AGEIMM in particular remained unsuitable for the analysis as only a fraction of respondents provided a usable value, a decision was made to remove English mother tongue rows from the dataset with the intention of providing more focused analysis on changes within Canada's non-official language communities, from which shifts to English as a home language were more common than the inverse.
+The PUMF dataset also contained missing, invalid, or inapplicable values as specified by certain numeric codes (e.g.  88888888) as specified in its accompanying Study Documentation.  The initial preprocessing involved detecting the number of such values in each feature column as a proportion of the total number of entries.  Features which possessed an unusable percentage greater than 20\% were pruned so as to not obscure the analysis by training classifiers on presence of a data feature rather than its content. This was done after the removal of English as a mother tongue rows described earlier. A subset of the feature's invalid data rates can be seen in figure \ref{fig:invalid_data}.
 
 Finally, the data is split into training and testing data sets with 75\% of the data being allocated for training, and the remaining 25\% for testing.
 
@@ -553,13 +551,13 @@ If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If 
 
 
 \subsection{Decision Tree}
-The decision tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}. The maximum depth of the decision tree was set to be 8 since this is approximately the square root of the number of features being included in the classifier.
+The decision tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}. To prevent overfitting of our training data, the maximum depth of the decision tree was set to 8 since this is approximately the square root of the number of features being included in the classifier.
 
 The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier. The class of test samples are predicted using the \textit{predict} function. Finally, the results of the classifier are output in a confusion matrix.
 
 \subsection{Random Forest}
 
-Similarly to the decision tree classifier, the random forest classifier was constructed using \textit{scikit-learn}'s implementation, \textit{RandomForestClassifier}, using 20 estimators and a controlled random state to maintain similar, repeatable results after multiple runs. No maximum depth was specified for the Random Forest classifier.
+Similarly to the decision tree classifier, the random forest classifier was constructed using \textit{scikit-learn}'s implementation, \textit{RandomForestClassifier}, using 20 estimators and a controlled random state to maintain similar, repeatable results after multiple runs. As Random Forest classifiers inherently have measures to reduce overfitting of the training data, no maximum depth was specified.
 
 The classifier is trained on the training data set, along with their weights, then evaluated on the testing data set. The predicted class of test samples is determined using the \textit{predict} function by selecting the class with the highest mean probability estimate across all trees in the random forest. The results are also outputted to a confusion matrix.
 
@@ -596,7 +594,7 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 \begin{figure}
   \includegraphics[scale=0.45]{decision_tree_roc}
   \centering
-  \caption{Decision tree ROC AUC score}
+  \caption{Decision tree ROC AUC curve}
   \label{fig:decision_tree_roc}
 \end{figure}
 
@@ -632,7 +630,7 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 \begin{figure}
   \includegraphics[scale=0.45]{random_forest_roc}
   \centering
-  \caption{Random forest ROC AUC score}
+  \caption{Random forest ROC AUC curve}
   \label{fig:random_forest_roc}
 \end{figure}
 
@@ -668,7 +666,7 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 \begin{figure}
   \includegraphics[scale=0.45]{naive_bayes_roc}
   \centering
-  \caption{Naive Bayes ROC AUC score}
+  \caption{Naive Bayes ROC AUC curve}
   \label{fig:naive_bayes_roc}
 \end{figure}
 % An example of a floating figure using the graphicx package.
@@ -762,7 +760,7 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 
 \subsection{Future Work}
 % @TODO fill in
-One aspect that could be improved on in future work is to tweak the hyper parameters for the classifiers via cross validation. For instance, \textit{scikit-learn}'s decision tree classifier implementation allows for setting a maximum depth on the resulting tree. Modifying this value may result in a mire accurate classifier.
+One aspect that could be improved on in future work is to tweak the hyper parameters for the classifiers via cross validation. For instance, \textit{scikit-learn}'s decision tree classifier implementation allows for setting a maximum depth on the resulting tree. Modifying this value may result in a more accurate classifier.
 
 Additionally, the 2016 Canadian Census data set contains mostly data indicating a lack of language shift. As a result, the classifiers learn mostly on these negative results, and it may impact the rates for positive results. The weights on the training data could be re-weighted to account for this, but further complications may arise when trying to maintain the data being representative of the Canadian public.
 
