@@ -110,5 +110,10 @@ venv.bak/
 notebooks/pumf-98M0001-E-2016-individuals_F1.csv
 notebooks/pumf-95M0007-E-1991-individuals_F1.csv
 notebooks-fork/
+prune/
 bare_conf.synctex.gz
 Workbench.md
+notebooks/pumf-1991-selected-features.csv
+notebooks/pumf-2016-selected-features.csv
+notebooks-fork/Rate of Change Analysis.ipynb
+notebooks-fork/Feature-Selection.ipynb
