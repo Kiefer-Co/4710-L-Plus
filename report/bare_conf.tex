@@ -804,12 +804,15 @@ As shown in figures \ref{fig:precision}, \ref{fig:recall}, \ref{fig:f1}, and \re
 
 \section{Conclusion}
 % @TODO fill in
+In this paper, the performance of 3 different supervised learning techniques was compared when applied to the 2016 Canadian public census data by various metrics.
+
+The results indicate that the Random Forest classifier outperformed the Decision Tree classifier and Naive Bayes classifier in general. The Random Forest and Decision Tree classifiers were quite proficient in detecting a lack of language shift, but were significantly less accurate in classifying a language shift. Contrasting this, the Naive Bayes classifier was better in detecting a language shift and was worse in detecting the lack of a language shift. Finally, the Decision Tree and Random Forest classifiers performed quite similarly, with the Random Forest classifier slightly outperforming the Decision Tree variant.
 
 % conference papers do not normally have an appendix
 
 \subsection{Future Work}
 % @TODO fill in
-One aspect that could be improved on in future work is to tweak the hyper parameters for the classifiers via cross validation. For instance, \textit{scikit-learn}'s Decision Tree classifier implementation allows for setting a maximum depth on the resulting tree. Modifying this value may result in a more accurate classifier.
+One aspect that could be improved on in future work is to tweak the hyper parameters for the classifiers via cross validation. For instance, setting different values for the max tree depth on the Decision Tree classifier, or setting different values for the number of trees in the Random Forest classifier. Modifying these values may result in a more accurate classifier.
 
 Additionally, the 2016 Canadian Census data set contains mostly data indicating a lack of language shift. As a result, the classifiers learn mostly on these negative results, and it may impact the rates for positive results. The weights on the training data could be re-weighted to account for this, but further complications may arise when trying to maintain the data being representative of the Canadian public.
 
