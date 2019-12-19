@@ -547,11 +547,11 @@ As the MTNNO categories are less broad and appear to be a superset of the HLANO 
 
 The value of the languageShift attribute is then defined as the presence of inequivalent class mappings in the MTNNO and HLANO features within a data row.  The reasoning behind this decision is that a difference between mother tongue and home language implies a shift having occurred at some point within an individual's lifetime, with the assumption made being that an individual's mother tongue must at one point have been their home language, possibly only in childhood or even outside of Canada.
 
-If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If no mapping can be found, the languageShift value will be true.  As with other features in the dataset, the results of the languageShift column are to be interpreted as representative of several individuals.  A row's weight is to be factored into any analysis on or prediction of the languageShift feature.
+If MTNNO can be mapped to HLANO, the languageShift value of a row is false.  If no mapping can be found, the languageShift value will be true.  As with other features in the dataset, the results of the languageShift column are to be interpreted as representative of several individuals.  A row's weight is to be factored into any analysis on or prediction of the languageShift feature. After this preprocessing, the counts of the true class (language shift has occurred) and the false class (language shift has not occurred) are 306,645 and 72,430, respectively. 
 
 
 \subsection{Decision Tree}
-The decision tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}. To prevent overfitting of our training data, the maximum depth of the decision tree was set to 8 since this is approximately the square root of the number of features being included in the classifier.
+The decision tree classifier was build using \textit{scikit-learn}'s implementation, \textit{DecisionTreeClassifier}. To prevent overfitting of the training data, the maximum depth of the decision tree was set to 8 since this is approximately the square root of the number of features being included in the classifier.
 
 The languageShift and WEIGHT attributes are first separated from the dataset to serve as class labels and weights respectively.  MTNNO and HLANO are dropped from the dataset as they are directly involved in the computation of languageShift, for which their effects on a classifier for would be uninteresting.  The remaining attributes in the preprocessed dataset are then to be used as classification features. The features and weights for the training data are then passed into the classifier, with the weights being passed into the \textit{sample weight} parameter of the \textit{fit} function on the decision tree classifier. The class of test samples are predicted using the \textit{predict} function. Finally, the results of the classifier are output in a confusion matrix.
 
@@ -566,6 +566,8 @@ The classifier is trained on the training data set, along with their weights, th
 The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{CategoricalNB} - a Naive Bayes classifier for categorical features. This classifier assumes that each feature has its own categorical distribution. The \textit{fit} method was used to train the classifier on the weighted training data. The \textit{predict} method was used to perform classification on the testing data. The results are also outputted to a confusion matrix.
 
 \section{Analytic Evaluation}
+
+Since the target class is highly unbalanced, with roughly 81\% of the data belonging to the false class, accuracy is perhaps not the best metric to use to compare the different models. The other metrics calculated such as F1-scores and AUC ROC scores are better for our models. The ROC AUC scores for the Decision Tree model and Random Forest model are 0.88 and 0.89, respectively. This means they are performing similarly in determining the positive class from the negative class. The ROC AUC score for Naive Bayes is 0.82, 8 percent lower than the two tree-based models. This is a significant difference, and it is reflected in the ROC AUC curve, where a noticeable dip in the curve occurs early on when compared to the tree-based models' curves. From this we can say the Naive Bayes classifier performs significantly worse at determining the the positive class from the negative class than the tree-based models.
 
 % @TODO fill in
 % observations
@@ -583,9 +585,11 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 \begin{figure}
   \begin{tabular}{lllll}
                   & precision & recall      & f1-score  & support \\
-  \textit{False}  & 0.88      & 0.95        & 0.91      & 74204 \\
-  \textit{True}   & 0.75      & 0.51        & 0.61      & 20565 \\
-  Total           &           & (accuracy)  & 0.86      & 94769 \\\
+  \textit{False}  & 0.87      & 0.96        & 0.91      & 76719 \\
+  \textit{True}   & 0.70      & 0.41        & 0.52      & 18050 \\
+  Total			  &           &             &           & 94769 \\
+  Accuracy        & 0.85 \\
+  ROC AUC Score	  & 0.89 \\\
   \end{tabular}
   \caption{Decision tree metrics}
   \label{fig:decision_tree_metrics}
@@ -619,9 +623,11 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 \begin{figure}
   \begin{tabular}{lllll}
                   & precision & recall      & f1-score  & support \\
-  \textit{False}  & 0.89      & 0.95        & 0.92      & 73875 \\
-  \textit{True}   & 0.77      & 0.57        & 0.65      & 20894 \\
-  Total           &           & (accuracy)  & 0.87      & 94769 \\\
+  \textit{False}  & 0.88      & 0.96        & 0.92      & 76719 \\
+  \textit{True}   & 0.72      & 0.46        & 0.56      & 18050 \\
+  Total			  &           &             &           & 94769 \\
+  Accuracy        & 0.86 \\
+  ROC AUC Score	  & 0.90 \\\
   \end{tabular}
   \caption{Random forest metrics}
   \label{fig:random_forest_metrics}
@@ -655,9 +661,11 @@ The Naive Bayesian classifier was built using \textit{scikit-learn}'s \textit{Ca
 \begin{figure}
   \begin{tabular}{lllll}
                   & precision & recall      & f1-score  & support \\
-  \textit{False}  & 0.93      & 0.69        & 0.79      & 73954 \\
-  \textit{True}   & 0.43      & 0.82        & 0.56      & 20815 \\
-  Total           &           & (accuracy)  & 0.72      & 94769 \\\
+  \textit{False}  & 0.93      & 0.68        & 0.79      & 76719 \\
+  \textit{True}   & 0.37      & 0.80        & 0.51      & 18050 \\
+  Total			  &           &             &           & 94769 \\
+  Accuracy        & 0.71 \\
+  ROC AUC Score	  & 0.82 \\\
   \end{tabular}
   \caption{Naive Bayes metrics}
   \label{fig:naive_bayes_metrics}
